@@ -1,0 +1,11 @@
+# Python 3.12.1. Pinned to the versions used to build and check the submission.
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+joblib==1.6.0
+requests==2.34.2
+pytest==9.2.0
+# Only for rebuilding the Pau stack's input tables from raw downloads (not needed by run_all.sh):
+#   beautifulsoup4, pyshp, shapely
