@@ -7,7 +7,7 @@ rebuild those picks.
 
 - **The submission:** [`predictions_full_congress.csv`](predictions_full_congress.csv), in the organizers' template
   (`race_id, chamber, predicted_winner_party, candidate_name, win_probability`), 470 rows.
-  SHA-256 `b0cba991a4be0871a176463ffbe49cb039acbe12e0a76ad53ba23e6e56bd5cb4`.
+  SHA-256 `0f9b09b39874e773ff4431fd78fb37b99c85818fcf206253ec933ac039d94d53`.
 - **Scoring.** A correct pick earns `-log2(max(p, 0.01))` points, where `p` is the Kalshi price of the picked
   candidate on November 1. A wrong pick earns 0. Picking a 50-cent candidate who wins earns 1 point; picking a
   10-cent candidate who wins earns 3.3; picking a 95-cent favourite earns 0.07.
@@ -141,7 +141,7 @@ sources, revision IDs, row counts and known gaps.
 
 **Data rules we followed.** The fetchers respected robots.txt and each site's terms, and used only public pages,
 public endpoints and bulk files. No API keys or credentials are stored in this repository. No market price after
-the November 3 23:00 UTC cutoff was used. The Kalshi snapshot lists each race's candidates and drives the pick rule.
+the November 3 23:00 UTC cutoff was used. The Kalshi snapshot lists each race's candidates and drives the pick rule; each price is the mid-price rounded to three decimals and normalised to sum to 1 within the race.
 Market prices are not a model input, with one exception: the 85 race dossiers were written with the November 1
 Kalshi prices in view, and their probabilities are partly anchored on them. They enter each Kavi model at about 25%
 logit weight in those races, which pulls our `q` toward the market there and makes the `q ≥ price` guard slightly
@@ -203,7 +203,7 @@ Rebuilding the Pau stack's input tables from raw downloads (not needed for anyth
 ### One command
 
     bash run_all.sh            # rebuild the submission from the committed model outputs (a few seconds)
-    bash run_all.sh --models   # first re-run the five Kavi models from the frozen data (about 2 minutes, offline)
+    bash run_all.sh --models   # first re-run the five Kavi models from the frozen data (about 6 minutes single-threaded, offline)
 
 `run_all.sh` rebuilds pool5, the joint forecast and the picks, writes `out/predictions_full_congress.csv`, and
 checks that it is byte-identical to `predictions_full_congress.csv`. With `--models` it also re-runs kavi-a..e and
@@ -240,8 +240,13 @@ reports whether their outputs match the committed ones.
     $PY src/kalshi_snapshot.py --raw /path/to/raw_2026-11-01T074812Z.json
 
 **About the candidate frame.** Step 4 needs a list of candidate rows to spread the stack's side-level probabilities
-over; it uses pool5's rows. The frame only sets how a side's probability is split between several candidates of that
-side (it matters only for Nebraska's independents).
+over; it uses pool5's rows. The frame sets which side each candidate belongs to (independents Osborn in Nebraska,
+Achilles in Idaho, Bengs in South Dakota, Bodnar in Montana and Hill in AK-AL count as the D side, and Kiley in
+CA-06 as the R side) and how a side's probability is split between several candidates of that side.
+
+**Louisiana names.** Kalshi prices LA-05 and LA-06 by party only, and several Republicans are on each ballot. The
+pick there is the Republican party; the candidate names in the CSV (Austin Magee, Blake Miguez) are nominal, picked by the
+script's tie-break because no incumbent is running, and do not reflect a view on which Republican wins.
 
 **Re-running the Pau stack from scratch** needs intermediate tables that are rebuilt from raw downloads not
 redistributed here; `models/pau-stack/run.sh` lists the order. We did not repeat that full chain on a second machine
