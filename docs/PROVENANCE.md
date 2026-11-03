@@ -8,7 +8,7 @@ The branch `submission/official` is an orphan branch assembled from the commits 
 | Part | Branch | Commit | Notes |
 |---|---|---|---|
 | Data layer (`data/`, `src/data/`, `src/scorecard.py`, `src/kalshi_snapshot.py`, `src/benchmark_fte.py`) | `kavi/data-1101` | `cd268f0` | Identical in `kavi/final-1101`. `data/raw/mit/` copied from the local download cache (MD5-checked MEDSL v15 House file; Senate file from the Dataverse file API). |
-| Joint step (`src/final/`, `tests/`, `out/`, `src/pick_policy.py`, `research/pick_rule/`) | `kavi/final-1101` | `d9507fc` | `out/joint/candidate_frame_2026.csv` is `out/pooled_2026.csv` from that commit, renamed. |
+| Joint step (`src/final/`, `tests/`, `out/`, `src/pick_policy.py`, `research/pick_rule/`) | `kavi/final-1101` | `d9507fc` | The final build adds the CA-14 and CA-34 overrides and uses pool5 as the candidate frame (see `kavi/final-1101` head). |
 | kavi-a | `kavi/kavi-a-1101` | `24ea95d` | |
 | kavi-b | `kavi/kavi-b-1101` | `386ff04` | |
 | kavi-c | `kavi/kavi-c-1101` | `8088ed9` | |
@@ -38,10 +38,7 @@ The branch `submission/official` is an orphan branch assembled from the commits 
 ## Left out, and why
 
 - **kavi-f**, a sixth Kavi-side model: its 2018/2022 backtest used FiveThirtyEight's 2022 forecast as a prior, so its
-  backtest skill is not comparable. None of its code, data or forecasts is used. The one trace is the recorded
-  candidate frame (`out/joint/candidate_frame_2026.csv`), an earlier six-model pool that included it; the frame only
-  sets the split within a side (Nebraska's independents), and using pool5 instead changes one probability in the
-  submission and no picks (README, "About the candidate frame").
+  backtest skill is not comparable. None of its code, data or forecasts is used.
 - **Cooperative Election Study microdata, DIME and Klarner data**, fetched on the Pau side through the Harvard
   Dataverse API behind a bot challenge: not on the final model's path and not included.
 - **Wayback copies of FiveThirtyEight forecast files** used by other Pau-side studies (2020 forecasts, 2024 poll

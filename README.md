@@ -19,20 +19,20 @@ Our picks give Democrats 225 House seats and Republicans 210, and Democrats 20 S
 The forecast behind them expects about 235.5 Democratic House seats and about 18.6 Democratic Senate wins (18.8
 counting the independents on the Democratic side).
 
-In 451 races we pick the market favourite. In **19 races we pick the underdog**, because our forecast gives that
+In 453 races we pick the market favourite. In **17 races we pick the underdog**, because our forecast gives that
 candidate at least the chance the market does and the payoff is larger:
 
 | Party picked | Races |
 |---|---|
-| Democrat (3 + 1 Senate) | CA-14 (Melissa Hernandez, a same-party race), CA-34 (Jimmy Gomez, a same-party race), CO-05 (Jessica Killin), **IA-SEN (Josh Turek)** |
+| Democrat (1 + 1 Senate) | CO-05 (Jessica Killin), **IA-SEN (Josh Turek)** |
 | Republican (15) | FL-22, MI-04, MI-10, NC-01, NJ-07, OH-07, PA-08, PA-10, TX-15, TX-35, VA-01, VA-02, WA-03, WI-01, WI-03 |
 
 (WI-01 is a coin flip on Kalshi, both candidates at 0.495; we count the listed favourite, so Bryan Steil appears
 here as an underdog.)
 
-Under our own probabilities the picks are worth **59.8 expected points**, against 51.3 for simply picking every
+Under our own probabilities the picks are worth **58.3 expected points**, against 51.3 for simply picking every
 market favourite. Both figures use our probabilities, which favours our picks by construction; if the Kalshi prices
-are taken as the truth instead, the picks are worth 48.9 expected points against 45.9 for the favourites. Every pick, with our probability, the Kalshi price, its points and its expected value, is listed
+are taken as the truth instead, the picks are worth 48.5 expected points against 45.9 for the favourites. Every pick, with our probability, the Kalshi price, its points and its expected value, is listed
 in [`out/picks_detail.csv`](out/picks_detail.csv).
 
 ## Method
@@ -106,13 +106,13 @@ our own five-model pool as the model and 538's probabilities standing in for pri
 [`research/pick_rule/`](research/pick_rule/README.md).
 
 Two further rules:
-- **CA-40 and CA-07 are forced to the market favourite.** Both are same-party California races where C′ would take
-  the underdog. In the 11 same-party California and Washington finals of 2018 and 2022, the underdog lost every
-  time, while pool5 had given the underdogs 0.95 expected wins in total, so pool5 seems to overrate same-party
-  underdogs (weak evidence: 11 races). In both races our edge over the price was thin (CA-40: 0.540 against
-  0.481; CA-07: 0.359 against 0.3586), and our own CA-40 dossier rated the underdog below its price. We kept the two
-  other same-party underdog picks: in CA-34 the incumbent Jimmy Gomez is priced at 0.179 and even our more cautious
-  dossier puts him above that (0.22), and CA-14 is a small long shot (0.106 against 0.085) taken under the rule.
+- **The four same-party California races where C′ would take the underdog (CA-07, CA-14, CA-34, CA-40) are forced
+  to the market favourite.** Only the five Kavi-side models cover these races (the stack models D-vs-R contests), so
+  these picks rested on one forecast. In the 11 same-party California and Washington finals of 2018 and 2022, the
+  underdog lost every time, while pool5 had given the underdogs 0.95 expected wins in total, so pool5 seems to
+  overrate same-party underdogs (weak evidence: 11 races). The edges were thin or contradicted: CA-07 0.359 against
+  0.3586; CA-40 0.540 against 0.481, with our own dossier below the price; CA-34 0.537 for Jimmy Gomez against 0.179,
+  where our dossier says 0.22 and no poll has him ahead; CA-14 0.106 against 0.085, with the market moving away.
   Where to draw this line was a human judgement call, not a model output.
 - Candidates who have withdrawn but are still listed on Kalshi (Democrats in ID-SEN, NE-SEN and SD-SEN) are never
   picked, and where Kalshi lists only a party ("Republican party"), we name that party's nominee.
@@ -224,12 +224,12 @@ reports whether their outputs match the committed ones.
     $PY src/final/ensemble.py --out out/joint/pool5_2026.csv models/kavi-{a,b,c,d,e}/out/pred_2026.csv
 
     # 4. map the stack onto candidate rows, then pool it with pool5
-    $PY src/final/pau_to_candidates.py out/joint/candidate_frame_2026.csv \
+    $PY src/final/pau_to_candidates.py out/joint/pool5_2026.csv \
         models/pau-stack/results/joint2026/stack_noprim_2026_refreshed.csv --out out/joint/pau_cand.csv
     $PY src/final/ensemble.py --out out/joint/joint_2026.csv out/joint/pool5_2026.csv out/joint/pau_cand.csv
 
     # 5. picks
-    $PY src/final/make_submission.py out/joint/joint_2026.csv --rule Cprime --favourite CA-40,CA-07 \
+    $PY src/final/make_submission.py out/joint/joint_2026.csv --rule Cprime --favourite CA-07,CA-14,CA-34,CA-40 \
         --out out/predictions_full_congress.csv --detail out/picks_detail.csv
 
     # optional: backtest scorecard for one model
@@ -240,11 +240,8 @@ reports whether their outputs match the committed ones.
     $PY src/kalshi_snapshot.py --raw /path/to/raw_2026-11-01T074812Z.json
 
 **About the candidate frame.** Step 4 needs a list of candidate rows to spread the stack's side-level probabilities
-over. The recorded run used `out/joint/candidate_frame_2026.csv`, an earlier pool of six model versions that
-included one exploratory model we later excluded. The frame only sets how a side's probability is split between
-several candidates of that side (it matters only for Nebraska's independents). Running with `FRAME=pool5 bash
-run_all.sh` uses pool5 as the frame instead: all 470 picks stay the same, and the only change in the CSV is one
-probability (ID-SEN, 0.998 becomes 0.9981).
+over; it uses pool5's rows. The frame only sets how a side's probability is split between several candidates of that
+side (it matters only for Nebraska's independents).
 
 **Re-running the Pau stack from scratch** needs intermediate tables that are rebuilt from raw downloads not
 redistributed here; `models/pau-stack/run.sh` lists the order. We did not repeat that full chain on a second machine
@@ -288,8 +285,8 @@ appendices.
 - **An unusual year.** The 2026 national environment (generic ballot about D+8.6) is outside the range of the
   training cycles, so the models extrapolate.
 - **Long shots.** Both forecasts overrated candidates they gave 5-35% in 2018 and 2022. The q ≥ price guard limits
-  the damage, but our 19 underdog picks still depend on our probabilities being right where the market disagrees.
-- **Correlated errors.** A single national polling miss moves most races together, so the 59.8 expected points come
+  the damage, but our 17 underdog picks still depend on our probabilities being right where the market disagrees.
+- **Correlated errors.** A single national polling miss moves most races together, so the 58.3 expected points come
   with a wide spread: a strong Democratic night would sink most of our 15 Republican underdog picks at once.
 - **Partly in-sample backtests** for the Kavi models, and design choices made with 2018 and 2022 in view (see
   Evaluation).

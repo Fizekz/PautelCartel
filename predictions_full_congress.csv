@@ -7,7 +7,7 @@ DE-SEN,Senate,DEM,Chris Coons,0.9994
 FL-SEN,Senate,REP,Ashley Moody,0.9654
 GA-SEN,Senate,DEM,Jon Ossoff,0.9885
 IA-SEN,Senate,DEM,Josh Turek,0.5152
-ID-SEN,Senate,REP,Jim Risch,0.998
+ID-SEN,Senate,REP,Jim Risch,0.9981
 IL-SEN,Senate,DEM,Juliana Stratton,0.9992
 KS-SEN,Senate,DEM,Adam Hamilton,0.7289
 KY-SEN,Senate,REP,Andy Barr,0.9991
@@ -68,7 +68,7 @@ CA-10,House,DEM,Mark DeSaulnier,0.9996
 CA-11,House,DEM,Scott Wiener,0.8684
 CA-12,House,DEM,Lateefah Simon,0.9992
 CA-13,House,DEM,Adam Gray,0.9925
-CA-14,House,DEM,Melissa Hernandez,0.1056
+CA-14,House,DEM,Aisha Wahab,0.8944
 CA-15,House,DEM,Kevin Mullin,0.9996
 CA-16,House,DEM,Sam Liccardo,0.9996
 CA-17,House,DEM,Ro Khanna,0.9996
@@ -88,7 +88,7 @@ CA-30,House,DEM,Laura Friedman,0.9996
 CA-31,House,DEM,Gil Cisneros,0.9992
 CA-32,House,DEM,Brad Sherman,0.9995
 CA-33,House,DEM,Pete Aguilar,0.9992
-CA-34,House,DEM,Jimmy Gomez,0.5369
+CA-34,House,DEM,Angela Gonzales-Torres,0.4631
 CA-35,House,DEM,Norma Torres,0.9991
 CA-36,House,DEM,Ted Lieu,0.9996
 CA-37,House,DEM,Sydney Kamlager-Dove,0.9958
