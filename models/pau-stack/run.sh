@@ -4,7 +4,7 @@
 # from raw downloads that are not redistributed in this repo.
 set -euo pipefail
 cd "$(dirname "$0")"
-PY="${PYTHON:-python}"
+PY="${PYTHON:-python3}"
 export OMP_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1
 
 # --- A. standard per-race file from the model's 2026 output (offline), checked against the committed file ---
@@ -39,4 +39,6 @@ fi
 #  3. pbase/src/pg_fetch.py, pg_geom.py, pg_data.py, pg_features.py, pg_demo.py: pg_features_rrrp.csv (history-chosen directions)
 #  4. pbase/src/pt_graphs.py: pt_edges.csv (state graph)
 #  5. pbase/src/pe_rchg_fetch.py, pe_rchg.py, pe_rchg_2026.py: pe_rchg_features.csv and the 2026 rating pages
-#  6. pbase/src/px_primaries.py: px/primaries.csv (read at import; not used by the no-primaries variant)
+#  6. pbase/src/px_primaries.py: px/primaries.csv (read at import; not used by the no-primaries variant). It also
+#     imports a vendored spreadsheet helper from pbase/work/pylib/, which is not redistributed here.
+#  Beyond requirements.txt, these rebuild scripts need beautifulsoup4, pyshp, shapely and openpyxl (steps 4 and 6 read Excel files).

@@ -53,3 +53,9 @@ The schema is the polls_2026 schema plus `year`, with these extras:
 - **Runoffs:** Georgia's runoffs (`stage == runoff`) are included and need to be filtered.
 - **Partisan flags:** `partisan_sponsor` uses 538's partisan field (DEM/REP/...). 2026 uses Wikipedia's D/R tags,
   which mark many more polls.
+
+## Licence
+FiveThirtyEight released its poll data under the Creative Commons Attribution 4.0 International licence (CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/). Attribution: FiveThirtyEight. Changes: rows filtered and reshaped to
+our schema and race identifiers, as described above. The 2018-2024 files were retrieved from the Internet Archive's
+copies because the original site is offline.

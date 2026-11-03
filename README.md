@@ -16,7 +16,8 @@ rebuild those picks.
 ## The result
 
 Our picks give Democrats 225 House seats and Republicans 210, and Democrats 20 Senate races to the Republicans' 15.
-The forecast behind them expects about 235 Democratic House seats and about 18.6 Democratic-side Senate wins.
+The forecast behind them expects about 235.5 Democratic House seats and about 18.6 Democratic Senate wins (18.8
+counting the independents on the Democratic side).
 
 In 451 races we pick the market favourite. In **19 races we pick the underdog**, because our forecast gives that
 candidate at least the chance the market does and the payoff is larger:
@@ -26,8 +27,12 @@ candidate at least the chance the market does and the payoff is larger:
 | Democrat (3 + 1 Senate) | CA-14 (Melissa Hernandez, a same-party race), CA-34 (Jimmy Gomez, a same-party race), CO-05 (Jessica Killin), **IA-SEN (Josh Turek)** |
 | Republican (15) | FL-22, MI-04, MI-10, NC-01, NJ-07, OH-07, PA-08, PA-10, TX-15, TX-35, VA-01, VA-02, WA-03, WI-01, WI-03 |
 
+(WI-01 is a coin flip on Kalshi, both candidates at 0.495; we count the listed favourite, so Bryan Steil appears
+here as an underdog.)
+
 Under our own probabilities the picks are worth **59.8 expected points**, against 51.3 for simply picking every
-market favourite. Every pick, with our probability, the Kalshi price, its points and its expected value, is listed
+market favourite. Both figures use our probabilities, which favours our picks by construction; if the Kalshi prices
+are taken as the truth instead, the picks are worth 48.9 expected points against 45.9 for the favourites. Every pick, with our probability, the Kalshi price, its points and its expected value, is listed
 in [`out/picks_detail.csv`](out/picks_detail.csv).
 
 ## Method
@@ -68,15 +73,16 @@ turns margins into probabilities, and a "district pattern" fitted on demographic
 over to unpolled House races. The five add-ons (a safe-seat clip, a Senate state node, history-chosen demographic
 directions, a same-state field and the late expert-rating move) were each kept only if they improved held-out log
 loss under two selection schemes. It was run on poll tables refreshed on November 2 (49 new polls, generic ballot
-about D+8.7). It models 452 races; the other 18 (California top-two and uncontested seats) use pool5 alone. Details:
+about D+8.7). "No-primaries" means the version without a sixth add-on, House primary vote shares, which
+over-read 2018's uneven primary turnout and hurt that backtest. It models 452 races; the other 18 (California top-two and uncontested seats) use pool5 alone. Details:
 [`models/pau-stack/README.md`](models/pau-stack/README.md).
 
 ### 3. The joint forecast
 
 The final probability `q` is the equal log-linear pool of pool5 and the stack. The stack reports a probability for
 each side (Democratic side, Republican side, other); `src/final/pau_to_candidates.py` spreads each side's
-probability over that side's candidates in proportion to the Kavi pool's own split. In Nebraska's Senate race the
-"Democratic side" is the independent Dan Osborn. We chose an equal blend because, on the 2018 and 2022 backtests,
+probability over that side's candidates in proportion to the Kavi pool's own split. The Democratic side includes the
+independents Dan Osborn (Nebraska), Todd Achilles (Idaho) and Brian Bengs (South Dakota). We chose an equal blend because, on the 2018 and 2022 backtests,
 the blend beat pool5 and tied the stack (see Evaluation).
 
 ### 4. The pick rule (C′)
@@ -91,15 +97,23 @@ and expected points add across races. Rule **C** picks the candidate with the la
 
 We use **C′**: the same, but an underdog (anyone who is not the Kalshi favourite) may be picked only if our `q` is
 at least its market price. The reason is long-shot calibration. In our 2018 and 2022 backtests, candidates our models
-rated 5-35% won about half as often as we said (Republican long shots in that range won 3 of 46), and when we
-replayed rule C historically against real market prices, the long shots that C took but C′ did not (positive
-expected value, but rated below the market) won **0 of 37**, where the markets expected about 8. C′ beat C in all
-three historical markets we could test. The analysis is in [`research/pick_rule/`](research/pick_rule/README.md).
+rated 5-35% won about half as often as we said (Republican long shots in that range won 3 of 46). And when we
+replayed both rules with FiveThirtyEight's final forecast as the model and real market prices for scoring
+(PredictIt 2018, Kalshi and Polymarket 2024), the long shots that C took but C′ did not (positive expected value,
+but rated below the market) won **0 of 37**, where the markets expected about 8, and C′ beat C in all three. (With
+our own five-model pool as the model and 538's probabilities standing in for prices, C beat C′ in 2018, 47.5 to
+46.0, and lost in 2022, 42.8 to 45.2.) The summary and printed outputs are in
+[`research/pick_rule/`](research/pick_rule/README.md).
 
 Two further rules:
 - **CA-40 and CA-07 are forced to the market favourite.** Both are same-party California races where C′ would take
-  the underdog. Our models' underdog calls in same-party California races won 0 of 11 in 2018-2022, so we overrode
-  them. This was a human judgement call, not a model output.
+  the underdog. In the 11 same-party California and Washington finals of 2018 and 2022, the underdog lost every
+  time, while pool5 had given the underdogs 0.95 expected wins in total, so pool5 seems to overrate same-party
+  underdogs (weak evidence: 11 races). In both races our edge over the price was thin (CA-40: 0.540 against
+  0.481; CA-07: 0.359 against 0.3586), and our own CA-40 dossier rated the underdog below its price. We kept the two
+  other same-party underdog picks: in CA-34 the incumbent Jimmy Gomez is priced at 0.179 and even our more cautious
+  dossier puts him above that (0.22), and CA-14 is a small long shot (0.106 against 0.085) taken under the rule.
+  Where to draw this line was a human judgement call, not a model output.
 - Candidates who have withdrawn but are still listed on Kalshi (Democrats in ID-SEN, NE-SEN and SD-SEN) are never
   picked, and where Kalshi lists only a party ("Republican party"), we name that party's nominee.
 
@@ -107,7 +121,7 @@ The `win_probability` column is our joint `q` for the picked candidate.
 
 ## Data
 
-All inputs are frozen as of November 1, 2026 (the Pau stack's polls as of November 2), well before the
+All inputs are frozen as of November 1, 2026 (the Pau stack's polls and expert-rating pages as of November 2), well before the
 23:00 UTC November 3 cutoff. Each file in `data/clean/` has a provenance note beside it (`<name>.md`) giving its
 sources, revision IDs, row counts and known gaps.
 
@@ -127,9 +141,11 @@ sources, revision IDs, row counts and known gaps.
 
 **Data rules we followed.** The fetchers respected robots.txt and each site's terms, and used only public pages,
 public endpoints and bulk files. No API keys or credentials are stored in this repository. No market price after
-the November 3 23:00 UTC cutoff was used. Market prices are not a forecasting input: the Kalshi snapshot lists each
-race's candidates, fills a reference column, and tells the dossier step which candidate is the favourite; after
-that it enters only the pick rule and the scoring. We did not use survey microdata such as the Cooperative Election
+the November 3 23:00 UTC cutoff was used. The Kalshi snapshot lists each race's candidates and drives the pick rule.
+Market prices are not a model input, with one exception: the 85 race dossiers were written with the November 1
+Kalshi prices in view, and their probabilities are partly anchored on them. They enter each Kavi model at about 25%
+logit weight in those races, which pulls our `q` toward the market there and makes the `q ≥ price` guard slightly
+more conservative. We did not use survey microdata such as the Cooperative Election
 Study.
 
 **Frozen inputs.** The cleaned CSVs are the frozen inputs. The fetchers can rebuild them, but they write to a
@@ -147,15 +163,27 @@ FiveThirtyEight's favourite was below 95%.
 | pool5 (Kavi models) | 0.0792 | 0.2757 | 0.0833 | 0.3637 |
 | Pau no-primaries stack | 0.0827 | 0.2901 | 0.0710 | 0.3157 |
 | **Equal blend (our final forecast)** | **0.0799** | **0.2796** | **0.0750** | **0.3302** |
+
+To compare with FiveThirtyEight's final forecasts we use a second scorer, `src/scorecard.py`, which counts all 470
+races of each year (contested: 120 in 2018, 90 in 2022) and clips probabilities to [0.001, 0.999]. The two tables
+are not comparable with each other.
+
+| Forecast (all races, 0.001 clip) | 2018 all (470) | 2018 contested (120) | 2022 all (470) | 2022 contested (90) |
+|---|---|---|---|---|
+| pool5 (Kavi models) | 0.0746 | 0.2812 | 0.0796 | 0.3628 |
+| **Equal blend (our final forecast)** | **0.0757** | **0.2865** | **0.0719** | **0.3301** |
 | FiveThirtyEight's final forecast | 0.1002 | 0.378 | 0.0952 | 0.437 |
 
 - Across both years the blend beats pool5 (difference −0.0038 per race, 95% CI −0.0071 to −0.0008) and ties the
   stack.
 - The stack's leave-one-year-out log loss over 2010-2024 is 0.0619 per race (3,756 races), which we reproduced
   independently.
-- **Caveat.** The stack's backtests are held out: the 2018 model was fitted on 2010-2016 only. The Kavi models are
-  partly in-sample: they were fitted without the test year, but they were designed with the 2018 and 2022 results
-  visible. Treat their numbers, and so the blend's, as somewhat optimistic.
+- **Caveat.** The stack's models never trained on the test year (the 2018 model was fitted on 2010-2016 only), but
+  its final version, without the House-primaries add-on, was chosen partly because it scored better on 2018 and 2022.
+  The Kavi models were fitted without the test year but designed with 2018 and 2022 visible. The blend weight and
+  the pick rule were also chosen after seeing these years. Treat all 2018/2022 numbers as somewhat optimistic; the
+  cleanest held-out figure is the stack's leave-one-year-out score. Historical expert ratings also carry a small
+  leak (see Limitations), worth about 0.0005 log loss.
 
 The common scorer is `src/scorecard.py`; each model's backtest predictions are in its `out/` folder.
 
@@ -170,7 +198,7 @@ Python 3.12 with the packages in `requirements.txt` (pinned to the versions we u
     export PY="$PWD/.venv/bin/python"
 
 Rebuilding the Pau stack's input tables from raw downloads (not needed for anything below) also needs
-`beautifulsoup4`, `pyshp` and `shapely`.
+`beautifulsoup4`, `pyshp`, `shapely` and `openpyxl`.
 
 ### One command
 
@@ -263,7 +291,10 @@ appendices.
   the damage, but our 19 underdog picks still depend on our probabilities being right where the market disagrees.
 - **Correlated errors.** A single national polling miss moves most races together, so the 59.8 expected points come
   with a wide spread: a strong Democratic night would sink most of our 15 Republican underdog picks at once.
-- **Partly in-sample backtests** for the Kavi models (see Evaluation).
+- **Partly in-sample backtests** for the Kavi models, and design choices made with 2018 and 2022 in view (see
+  Evaluation).
+- **Dossiers anchored on the market.** Our 85 race dossiers were written with the Kalshi prices in view, so in those
+  races our `q` is not fully independent of the price it is compared with in the pick rule.
 - **A small leak in historical ratings.** Past expert ratings were parsed from current revisions of Wikipedia's
   ratings pages, which may include post-election edits; we estimate the effect at about 0.0005 log loss.
 - **Sparse polling.** Most House races have no public polls; there the models lean on ratings, lean and money.
@@ -279,6 +310,6 @@ other, then pooled our best models for this submission. Much of the engineering 
 backtests and these documents) was done by AI agents (Anthropic's Claude) working under our direction; the modelling
 choices and the final calls, including the pick rule and the CA-40/CA-07 overrides, were ours.
 
-Data credits: MIT Election Data and Science Lab, FiveThirtyEight (CC BY 4.0), Wikipedia contributors (CC BY-SA),
-VoteHub, the Federal Election Commission, The Downballot, Gallup and the UCSB American Presidency Project, the US
+Data credits: MIT Election Data and Science Lab (CC0), FiveThirtyEight (CC BY 4.0), Wikipedia contributors (CC BY-SA),
+Ballotpedia (2026 California primary results), VoteHub, the Federal Election Commission, The Downballot, Gallup and the UCSB American Presidency Project, the US
 Census Bureau, Kalshi, Cook Political Report, Sabato's Crystal Ball and Inside Elections.

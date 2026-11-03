@@ -75,7 +75,8 @@ adds a race note. It is never used for any other column.
   do **not** line up with 2024 results. Only the members on each race's incumbent rows are linked; vote-share history must be
   re-mapped separately.
 - Wikipedia is crowd-edited. Names were cross-checked against Kalshi (above) but not against each state's certified ballot list.
-  Ballotpedia was not scraped.
+  Ballotpedia was not scraped for this file (kavi-a separately parsed nine Ballotpedia pages for California primary
+  results; see `models/kavi-a/data/kavi-a/ca_primaries_2026.md`).
 - Minor / write-in completeness varies by state. Some states' tables list only ballot-qualified candidates.
 - "Major" for the LA jungle races and NJ-08 could not be set without polling data. These are left unassigned rather than guessed.
 - CA-11 (Pelosi retiring) is an open same-party race: Wiener vs Chan, both DEM.
@@ -89,7 +90,7 @@ An independent check loaded the CSV with pandas and rebuilt it with the script.
 - **Fix:** `incumbent_party_of_seat` was blank for 8 House races (AL-01, CA-38, FL-22, TX-09, TX-30, TX-32, TX-35, UT-01), which had been
   labelled "brand-new seats". Every district number has a current holder, so these were filled. CA-06 changed from IND (Kiley, redistricted
   in) to DEM (Bera holds CA-06). CA-41 changed from DEM (Sánchez) to REP (Calvert holds CA-41). The rule above is now the same for every House race.
-- **Second-source spot checks (news searches; Ballotpedia blocked the fetch):** all agree with the data.
+- **Second-source spot checks (news searches; Ballotpedia blocked this verifier's fetch):** all agree with the data.
   - Random rows: WA-09 Smith/Basler, MS-01 Kelly/C. Johnson (+ Baucom LIB), CT-01 Bronin beat Larson / open, AZ-08 Hamadeh/Greene-Placentia, OK-04 Cole/Jacob/Bonacci, MI-13 McKinney beat Thanedar.
   - Tricky races: CA-06 Kiley left the GOP and runs as no party preference against Pan, CA-40 Calvert vs Kim (both R),
     NJ-08 no Republican filed, UT-01 McAdams/Owen/West/Montgomery on the court map, OK-SEN Armstrong appointed and pledged not to run (Hern R),

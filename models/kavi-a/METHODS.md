@@ -13,7 +13,7 @@ are confined to same-party top-two races and one candidate-matching bug. Running
    Nov 1 research dossiers (2026 only), Kalshi Nov 1 07:48Z slots (names only; `p_kalshi` is never an input).
    **New in v3:** kavi-e's CA/WA top-two primary table 2012-2026 (`data/kavi-a/borrowed/primaries_top_two_kavi-e.csv`,
    copied from origin/kavi/kavi-e-1101 9efb6c7; vote counts from revision-pinned Wikipedia results tables, not
-   article/link existence, so not the P016 trap).
+   article/link existence, so no look-ahead leak from current Wikipedia pages).
 2. **Two-party races (unchanged from v2).** Stage 1, per chamber, OLS with year fixed effects on D two-party share
    - 0.5: lean, lean2, incumbency, log receipts ratio, previous House result's deviation (+ x same incumbent,
    has-prev). National: year effect = a + b g (b shrunk toward 0.8, prior sd 0.25), residual sd floored at 0.015.
@@ -143,7 +143,7 @@ All from the shared data layer (`data/clean/*.csv`, read with their `.md` notes)
 | **repo data/dossiers/summary.csv** (85 race dossiers, Nov 1, skeptic-reviewed) | 2026 | 85 races | `q_dog_mean` (mean of researcher and skeptic probability for the Kalshi underdog). 2026 late-information step only (section 3). |
 | benchmark/fte_final_{2018,2022}.csv, winners_{2018,2022}.csv | | 1,130 / 856 rows | Backtest ballot (names, parties); `p_fte` never read by the model. winners_2018 updated to the repo copy (King/Sanders labelled IND; scores unchanged). |
 | kalshi/races_2026-11-01T074812Z.csv | | 470 races | Candidate slot names and the `p_kalshi` column (mid / sum of mids). Never a model input. |
-| kavi-a: data/kavi-a/ca_primaries_2026.csv (Ballotpedia) | June 2026 | 7 of 9 races | Top-two primary shares for same-party CA races. CA-12, CA-29 did not parse. |
+| kavi-a: data/kavi-a/ca_primaries_2026.csv (Ballotpedia) | June 2026 | 7 of 9 races | Top-two primary shares for same-party CA races, parsed from the 9 Ballotpedia district pages fetched 2026-11-01 by `fetch_ca_primaries.py` (raw HTML not redistributed). CA-12, CA-29 did not parse. |
 
 ## 2. Features and why
 

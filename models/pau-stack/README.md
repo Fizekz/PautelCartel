@@ -33,9 +33,14 @@ A sixth add-on, House primary vote shares, passed the selection rule but hurt th
 (it over-read 2018's uneven Democratic primary turnout). We use the version without it, which is as good on
 leave-one-year-out and clearly better on the 2018 and 2022 backtests.
 
-**Held-out skill** (natural-log loss per race, 1% floor):
-- Leave-one-year-out over 2010-2024 (3,756 races): 0.0627, against 0.0654 for the base model alone.
-- 2018 backtest (trained on 2010-2016 only): 0.0752; 2022 (trained on 2010-2020): 0.0663.
+**Skill on years the model was not trained on** (natural-log loss per race, 1% floor):
+- Leave-one-year-out over 2010-2024: 0.0627 on 3,703 races (same-party races excluded), against 0.0654 for the
+  base model alone; 0.0619 on all 3,756 races won by a Democrat or a Republican.
+- 2018 backtest (trained on 2010-2016 only): 0.0752; 2022 (trained on 2010-2020): 0.0663. These are scored on
+  this model's own set of contested Democrat-vs-Republican races; the main README's Evaluation table uses all
+  Democrat-vs-Republican races present in FiveThirtyEight's benchmark (426 and 437), so its numbers differ.
+- The variant without the primaries add-on was chosen partly on its 2018 and 2022 scores, so those two backtests
+  are not fully held out.
 
 ## What is in this folder
 | path | what |
@@ -56,7 +61,7 @@ leave-one-year-out and clearly better on the 2018 and 2022 backtests.
 ## How to run
 The last step runs from this folder with only pandas and numpy:
 
-    bash run.sh
+    PYTHON=/path/to/venv/bin/python bash run.sh     # PYTHON defaults to python3
 
 It rebuilds the standard per-race file from `results/pk/pk_2026_refreshed.csv` and checks it against the
 committed `results/joint2026/stack_noprim_2026_refreshed.csv` (they agree to within 1e-16; the last digit of some
@@ -73,12 +78,16 @@ It reads a working folder (`pbase/work/`) of intermediate tables: the historical
 district demographic directions, the state graph, the rating-move features, the primary-vote table and the
 Wikipedia rating pages of Sep 29 and Nov 2. Those tables are rebuilt by scripts in `pbase/src/` from raw
 downloads (Wikipedia via the MediaWiki API, MIT Election Lab returns, FEC files, Census ACS and boundary files,
-MEDSL county returns), which are not redistributed here. `run.sh` lists the rebuild order. We did not re-run the
+MEDSL county returns). Apart from the MEDSL House and Senate files in the repository's `data/raw/mit/`, those raw
+downloads are not redistributed here. `run.sh` lists the rebuild order. We did not re-run the
 full chain on a second machine before the deadline; the outputs here are the ones the model produced.
 
 ## Data and rules
 - No market price enters the model. The Kalshi Nov 1 price appears only as a reference column.
-- No survey microdata (CES), no Harvard Dataverse download and no 538 forecast is read on this model's path.
+- No survey microdata (CES), no DIME or Klarner data and no 538 forecast is read on this model's path. MEDSL
+  election returns (CC0) enter through the shared results and lean tables (`data/features/history_races.csv` and
+  `pbase/data/borrowed/kavi-e/lean_*.csv`); their provenance is in the repository's `data/clean/results_*.md` and
+  `lean_*.md`.
 - The 2026 polls are Wikipedia poll tables at revisions before the Nov 3 23:00Z cutoff.
 - Historical race and generic-ballot polls (2018-2024) come from FiveThirtyEight's public poll archives
   (CC BY 4.0), retrieved from Internet Archive snapshots after 538 shut down.

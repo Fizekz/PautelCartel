@@ -4,8 +4,9 @@ June 2 2026 California top-two primary results for the 9 same-party general-elec
 (CA-04/07/11/12/14/29/34/37/40), used by `src/models/kavi-a/same_party.py`. Pre-election information.
 
 - Source: Ballotpedia district pages `https://ballotpedia.org/California%27s_<N>th_Congressional_District`,
-  fetched 2026-11-01 with `src/models/kavi-a/fetch_ca_primaries.py` (urllib, generic user agent). Raw HTML is in
-  `data/kavi-a/raw/ballotpedia_CA-XX.html`; `--offline` re-parses it.
+  fetched 2026-11-01 with `src/models/kavi-a/fetch_ca_primaries.py` (urllib, generic user agent). The raw HTML
+  (`data/kavi-a/raw/ballotpedia_CA-XX.html`) is not redistributed in this repository; only the parsed CSV is. Running
+  the script without `--offline` fetches the pages again (they may have changed since).
 - Parsed: the first "Nonpartisan primary election" results table mentioning 2026. Columns: race_id, candidate,
   party_label, primary_pct, votes.
 - Caveats: names of candidates without a photo are sometimes only a surname (the page's markup differs); only the

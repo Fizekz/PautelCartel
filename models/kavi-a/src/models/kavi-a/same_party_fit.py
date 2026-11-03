@@ -2,8 +2,8 @@
 
 Borrowed data: kavi-e's top-two primary table (data/kavi-a/borrowed/primaries_top_two_kavi-e.csv, copied from
 origin/kavi/kavi-e-1101 9efb6c7, data/kavi-e/primaries_top_two.csv: CA 2012-2026 and WA 2012-2024 House primary
-votes from revision-pinned Wikipedia election-results tables; vote counts, not link existence, so not the P016
-trap). kavi-e's finding: the primary leader won 86% of 50 same-party generals.
+votes from revision-pinned Wikipedia election-results tables; vote counts, not link existence, so no look-ahead leak from
+current Wikipedia pages). kavi-e's finding: the primary leader won 86% of 50 same-party generals.
 
 My model (my own fit, not kavi-e's): for the two finalists A, B of a same-party general,
   logit P(A wins) = B_SHARE * 10 (s_A - 0.5) + B_INC (inc_A - inc_B)

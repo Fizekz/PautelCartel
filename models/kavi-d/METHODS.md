@@ -41,7 +41,7 @@ primary history and CA 2026 polls, my CA 2026 primary file, the 85 dossiers (202
 snapshot (slot list and p_kalshi column only, never an input), 538's 2018/2022 files (ballot list only).
 New in v3: `data/extra/kavi-e_national_env.json` (+ `.md`), kavi-e's N_hat table, used only by the reverted env
 variants. `national_hist.csv` `cycle_type` defines the midterm flag (2026 = midterm). No current Wikipedia page is
-used for any historical feature (board P016).
+used for any historical feature (that would leak post-election information).
 
 ## v3.3 Features (all signed + = anti-R side; mirror = negate signed features, flip y)
 

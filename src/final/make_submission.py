@@ -27,7 +27,7 @@ TEMPLATE = ROOT / "data" / "templates" / "full_congress_template.csv"
 CANDIDATES = ROOT / "data" / "clean" / "candidates_2026.csv"
 P_FLOOR = 0.01
 PLACEHOLDER = {"Democratic party": "DEM", "Republican party": "REP"}
-# Board P007: withdrawn but still listed by Kalshi at 0.1-0.5%; the 1% floor makes them look like 6.64-pt long shots.
+# Withdrawn candidates: but still listed by Kalshi at 0.1-0.5%; the 1% floor makes them look like 6.64-pt long shots.
 WITHDRAWN = {("ID-SEN", "DEM"), ("NE-SEN", "DEM"), ("SD-SEN", "DEM")}
 COLUMNS = ["race_id", "chamber", "predicted_winner_party", "candidate_name", "win_probability"]
 
@@ -40,10 +40,10 @@ def ev_picks(pooled: pd.DataFrame, on_ballot: set[tuple[str, str]] | None = None
              dog_needs_q_at_price: bool = False, force_favourite: set[str] | None = None) -> pd.DataFrame:
     """One row per race: the candidate with the highest q * pts, plus the Kalshi favourite for reference.
     on_ballot: (race_id, party) pairs with a real candidate; a party-level Kalshi market for any other party
-    (e.g. "Republican party" in MA-01, where no Republican is on the ballot; board P007) is never picked.
+    (e.g. "Republican party" in MA-01, where no Republican is on the ballot) is never picked.
     dog_needs_q_at_price: rule C' -- an underdog is eligible only if our q is at least its Kalshi price, so we never
     take a long shot that we ourselves rate below the market (both sides' models overrated 5-15% long shots in
-    past cycles; boards K024, P027).
+    past cycles; see research/pick_rule/).
     force_favourite: race_ids where the Kalshi favourite is picked regardless (a human risk call)."""
     if pooled["p_kalshi"].isna().any():
         bad = sorted(pooled.loc[pooled["p_kalshi"].isna(), "race_id"].unique())

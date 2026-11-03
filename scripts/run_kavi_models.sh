@@ -18,7 +18,7 @@ echo "== kavi-a"
 mkdir -p "$M/kavi-a/out"
 ( cd "$M/kavi-a/src/models/kavi-a"
   "$PY" features.py > /dev/null
-  "$PY" fetch_ca_primaries.py --offline > /dev/null
+  # data/kavi-a/ca_primaries_2026.csv is shipped as built; the Ballotpedia HTML it was parsed from is not redistributed.
   "$PY" fetch_fec_preelection.py --offline > /dev/null
   "$PY" backtest.py > /dev/null
   "$PY" predict_2026.py --sims 20000 > /dev/null )

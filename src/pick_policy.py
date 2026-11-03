@@ -1,4 +1,4 @@
-"""Compare pick policies on 2026: simulated contest score distributions under a model's q (board P004/K006).
+"""Compare pick policies on 2026: simulated contest score distributions under a model's q.
 
 Takes a pred_2026.csv (race_id,candidate,party,q,p_kalshi; q sums to 1 per race) and simulates elections with a
 shared national swing, so upsets in one direction happen together. Each policy picks one candidate per race; a

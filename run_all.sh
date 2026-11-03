@@ -14,12 +14,25 @@ cd "$(dirname "$0")"
 FRAME="${FRAME:-recorded}"
 PAU_STACK=models/pau-stack/results/joint2026/stack_noprim_2026_refreshed.csv
 
+# Checksums of the committed model outputs; works in a git checkout and in a downloaded ZIP alike.
+model_outputs_sha() {
+  local f
+  for f in models/kavi-{a,b,c,d,e}/out/{pred_2026,backtest_2018,backtest_2022}.csv; do
+    "$PY" -c 'import hashlib, sys; print(hashlib.sha256(open(sys.argv[1], "rb").read()).hexdigest(), sys.argv[1])' "$f"
+  done
+}
+
 if [[ "${1:-}" == "--models" ]]; then
   echo "== 0. re-run the five Kavi models (models/kavi-a..e/out/)"
+  before="$(model_outputs_sha)"
   PY="$PY" bash scripts/run_kavi_models.sh
-  git diff --quiet -- models/kavi-a/out models/kavi-b/out models/kavi-c/out models/kavi-d/out models/kavi-e/out \
-    && echo "   model outputs identical to the committed ones" \
-    || echo "   WARNING: model outputs differ from the committed ones (git diff models/*/out)"
+  after="$(model_outputs_sha)"
+  if [[ "$before" == "$after" ]]; then
+    echo "   model outputs identical to the ones shipped (15 files, SHA-256)"
+  else
+    echo "   WARNING: model outputs differ from the ones shipped:"
+    diff <(echo "$before") <(echo "$after") || true
+  fi
 fi
 
 echo "== 1. Pau stack: standard per-race file from the model's raw 2026 output (check only)"

@@ -23,7 +23,7 @@ on it unchanged. Everything else is v2.
   (Wikipedia + VoteHub, sponsor-tagged), national_2026 (GB, approval), FEC 2026 to Oct 14 (same-party split only),
   June top-two primaries (kavi-b's file), the 85 Nov 1 dossiers.
 - Leakage rules kept: no FEC in the race models (full-cycle totals run past election day); for a backtest year
-  only earlier years train anything; no current-Wikipedia features for history (board P016).
+  only earlier years train anything; no current-Wikipedia features for history (they would leak post-election information).
 
 ## v3.3 Features
 - Margin model (stage A, OLS): `margin = b0 + b_L L + b_Lp L x pres_year + b_N N + b_inc inc + b_r rating`.

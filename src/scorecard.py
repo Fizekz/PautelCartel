@@ -1,4 +1,4 @@
-"""Common scorecard (board P004/K006): replay the contest on 2018 and 2022, plus calibration.
+"""Common scorecard: replay the contest on 2018 and 2022, plus calibration.
 
 A model hands in one file per backtest year with a win probability per candidate:
     year,race_id,candidate,party,q          (q sums to 1 within each race)

@@ -29,6 +29,9 @@ models/pau-stack/pbase/out/
 # Rebuilt copy of the submission (compared against ./predictions_full_congress.csv by run_all.sh)
 out/predictions_full_congress.csv
 
+# Ballotpedia pages behind kavi-a's ca_primaries_2026.csv (not redistributed; the parsed CSV is kept)
+models/kavi-a/data/kavi-a/raw/ballotpedia_*.html
+
 # Raw downloads (only data/raw/mit is redistributed)
 data/raw/*
 !data/raw/mit/

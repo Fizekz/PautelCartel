@@ -8,4 +8,4 @@ joblib==1.6.0
 requests==2.34.2
 pytest==9.2.0
 # Only for rebuilding the Pau stack's input tables from raw downloads (not needed by run_all.sh):
-#   beautifulsoup4, pyshp, shapely
+#   beautifulsoup4, pyshp, shapely, openpyxl

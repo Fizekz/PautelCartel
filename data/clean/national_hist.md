@@ -45,3 +45,10 @@ Built by `src/data/fetch_polls.py` (pulled 2026-11-01). There is one row per ele
   +1.6 D, 2024 +3.2 D. In 2010 and 2018 the average was close to the result.
 - **The 2026 comparison point** is in national_2026.csv: the aggregates of 2026-10-30 put it at about D+8 to D+9.
 - **Only 8 rows**, so any regression on these has very few degrees of freedom.
+
+## Licence
+FiveThirtyEight released its poll data under the Creative Commons Attribution 4.0 International licence (CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/). Attribution: FiveThirtyEight. Changes: rows filtered and reshaped to
+our schema and race identifiers, as described above. The 2018-2024 files were retrieved from the Internet Archive's
+copies because the original site is offline. The Gallup approval readings (2010-2016) are cited from the UCSB American Presidency Project and are not covered
+by this licence.
