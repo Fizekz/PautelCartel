@@ -1,0 +1,471 @@
+race_id,chamber,pres24_dem_2p,pres24_rep_2p,pres20_dem_2p,cook_pvi,pvi_num,lines,source,pvi_calc,district_changed_2026
+AK-SEN,Senate,0.43153,0.56847,0.44738,R+6,-6.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-6.5,0
+AL-SEN,Senate,0.34559,0.65441,0.37089,R+15,-15.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-14.8,0
+AR-SEN,Senate,0.3433,0.6567,0.35788,R+15,-15.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-15.3,0
+CO-SEN,Senate,0.55647,0.44353,0.56938,D+6,6.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,6.0,0
+DE-SEN,Senate,0.57479,0.42521,0.59627,D+8,8.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,8.0,0
+FL-SEN,Senate,0.43389,0.56611,0.48305,R+5,-5.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-5.4,0
+GA-SEN,Senate,0.48896,0.51104,0.50119,R+1,-1.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-0.8,0
+IA-SEN,Senate,0.43277,0.56723,0.45817,R+6,-6.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-6.1,0
+ID-SEN,Senate,0.31239,0.68761,0.34123,R+18,-18.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-18.0,0
+IL-SEN,Senate,0.55568,0.44432,0.58659,D+6,6.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,6.3,0
+KS-SEN,Senate,0.41794,0.58206,0.42507,R+8,-8.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-8.0,0
+KY-SEN,Senate,0.34486,0.65514,0.368,R+15,-15.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-14.9,0
+LA-SEN,Senate,0.38821,0.61179,0.40536,R+11,-11.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-10.8,0
+MA-SEN,Senate,0.62955,0.37045,0.67116,D+14,14.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,14.0,0
+ME-SEN,Senate,0.53544,0.46456,0.5467,D+4,4.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,3.8,0
+MI-SEN,Senate,0.49279,0.50721,0.51414,EVEN,0.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-0.2,0
+MN-SEN,Senate,0.52172,0.47828,0.5364,D+3,3.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,2.5,0
+MS-SEN,Senate,0.38427,0.61573,0.41615,R+11,-11.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-10.8,0
+MT-SEN,Senate,0.39711,0.60289,0.41603,R+10,-10.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-9.8,0
+NC-SEN,Senate,0.4837,0.5163,0.49316,R+1,-1.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-1.4,0
+NE-SEN,Senate,0.3958,0.6042,0.40216,R+10,-10.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-10.3,0
+NH-SEN,Senate,0.51411,0.48589,0.53748,D+2,2.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,2.0,0
+NJ-SEN,Senate,0.53014,0.46986,0.58071,D+4,4.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,4.3,0
+NM-SEN,Senate,0.53071,0.46929,0.55518,D+4,4.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,3.7,0
+OH-SEN,Senate,0.44343,0.55657,0.45923,R+5,-5.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-5.3,0
+OK-SEN,Senate,0.3253,0.6747,0.3306,R+17,-17.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-17.3,0
+OR-SEN,Senate,0.57433,0.42567,0.58307,D+8,8.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,7.6,0
+RI-SEN,Senate,0.57081,0.42919,0.60599,D+8,8.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,8.0,0
+SC-SEN,Senate,0.40938,0.59062,0.44073,R+8,-8.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-8.3,0
+SD-SEN,Senate,0.35055,0.64945,0.36565,R+15,-15.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-14.6,0
+TN-SEN,Senate,0.34939,0.65061,0.38172,R+14,-14.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-14.3,0
+TX-SEN,Senate,0.43061,0.56939,0.47169,R+6,-6.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-5.9,0
+VA-SEN,Senate,0.52946,0.47054,0.55155,D+3,3.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,3.5,0
+WV-SEN,Senate,0.28656,0.71344,0.30201,R+21,-21.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-21.0,0
+WY-SEN,Senate,0.26521,0.73479,0.2752,R+23,-23.0,statewide,MIT president 1976-2024 (statewide); Cook PVI via Wikipedia rev 1374239063,-23.2,0
+AK-AL,House,0.43153,0.56847,0.44738,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.5,0
+AL-01,House,0.31827,0.68173,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+AL-02,House,0.42768,0.57232,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+AL-03,House,0.26464,0.73536,0.29292,R+23,-23.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-22.8,0
+AL-04,House,0.16539,0.83461,0.18637,R+33,-33.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-32.9,0
+AL-05,House,0.35253,0.64747,0.36214,R+15,-15.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-14.5,0
+AL-06,House,0.32501,0.67499,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+AL-07,House,0.58974,0.41026,,D+10,10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+AR-01,House,0.26912,0.73088,0.28926,R+23,-23.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.6,0
+AR-02,House,0.42043,0.57957,0.43259,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-7.7,0
+AR-03,House,0.37205,0.62795,0.3793,R+13,-13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-12.6,0
+AR-04,House,0.2967,0.7033,0.31878,R+20,-20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-19.8,0
+AZ-01,House,0.48432,0.51568,0.50752,R+1,-1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-1.0,0
+AZ-02,House,0.4244,0.5756,0.46001,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.7,0
+AZ-03,House,0.70154,0.29846,0.75729,D+22,22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,21.5,0
+AZ-04,House,0.53381,0.46619,0.55253,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.8,0
+AZ-05,House,0.39904,0.60096,0.41681,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.7,0
+AZ-06,House,0.49621,0.50379,0.50037,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-0.3,0
+AZ-07,House,0.61194,0.38806,0.66632,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.5,0
+AZ-08,House,0.4176,0.5824,0.43137,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-7.9,0
+AZ-09,House,0.34329,0.65671,0.3693,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.0,0
+CA-01,House,0.56315,0.43685,,D+7,7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-02,House,0.62721,0.37279,,D+13,13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-03,House,0.55262,0.44738,,D+6,6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-04,House,0.57474,0.42526,,D+8,8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-05,House,0.39382,0.60618,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-06,House,0.54341,0.45659,,D+5,5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-07,House,0.56621,0.43379,,D+7,7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-08,House,0.67581,0.32419,,D+19,19.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-09,House,0.55897,0.44103,,D+8,8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-10,House,0.67353,0.32647,,D+18,18.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-11,House,0.85312,0.14688,0.88029,D+36,36.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,36.0,0
+CA-12,House,0.88821,0.11179,,D+39,39.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-13,House,0.50192,0.49808,,D+2,2.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-14,House,0.68101,0.31899,,D+19,19.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-15,House,0.74818,0.25182,0.79226,D+26,26.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,25.9,0
+CA-16,House,0.74942,0.25058,,D+25,25.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-17,House,0.70371,0.29629,,D+21,21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-18,House,0.64685,0.35315,,D+16,16.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-19,House,0.67828,0.32172,,D+18,18.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-20,House,0.33513,0.66487,,R+16,-16.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-21,House,0.53066,0.46934,,D+5,5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-22,House,0.49048,0.50952,,D+1,1.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-23,House,0.40042,0.59958,,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-24,House,0.6287,0.3713,,D+13,13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-25,House,0.52973,0.47027,,D+4,4.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-26,House,0.57859,0.42141,,D+9,9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-27,House,0.55016,0.44984,,D+6,6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-28,House,0.63074,0.36926,,D+14,14.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-29,House,0.67354,0.32646,,D+19,19.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-30,House,0.70719,0.29281,,D+21,21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-31,House,0.56303,0.43697,,D+8,8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-32,House,0.62874,0.37126,,D+14,14.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-33,House,0.55037,0.44963,,D+7,7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-34,House,0.76521,0.23479,,D+28,28.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-35,House,0.54023,0.45977,,D+6,6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-36,House,0.70214,0.29786,,D+21,21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-37,House,0.81154,0.18846,0.8734,D+33,33.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,32.7,0
+CA-38,House,0.56371,0.43629,,D+8,8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-39,House,0.5489,0.4511,,D+7,7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-40,House,0.43698,0.56302,,R+6,-6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-41,House,0.57322,0.42678,,D+9,9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-42,House,0.5678,0.4322,,D+8,8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-43,House,0.75294,0.24706,,D+27,27.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-44,House,0.68158,0.31842,,D+20,20.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-45,House,0.52027,0.47973,,D+3,3.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-46,House,0.58344,0.41656,,D+10,10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-47,House,0.55234,0.44766,,D+6,6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-48,House,0.51742,0.48258,,D+2,2.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-49,House,0.56236,0.43764,,D+7,7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-50,House,0.59418,0.40582,,D+10,10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-51,House,0.59402,0.40598,,D+10,10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CA-52,House,0.59021,0.40979,,D+11,11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+CO-01,House,0.78806,0.21194,0.81359,D+29,29.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,29.4,0
+CO-02,House,0.70459,0.29541,0.70454,D+20,20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,20.5,0
+CO-03,House,0.45012,0.54988,0.45774,R+5,-5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.8,0
+CO-04,House,0.40643,0.59357,0.40487,R+9,-9.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.4,0
+CO-05,House,0.45331,0.54669,0.44752,R+5,-5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.8,0
+CO-06,House,0.6018,0.3982,0.62218,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.7,0
+CO-07,House,0.57707,0.42293,0.57288,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,7.6,0
+CO-08,House,0.4906,0.5094,0.52347,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-0.1,0
+CT-01,House,0.61634,0.38366,0.64252,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.3,0
+CT-02,House,0.53928,0.46072,0.5584,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.4,0
+CT-03,House,0.57166,0.42834,0.59984,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,7.9,0
+CT-04,House,0.61865,0.38135,0.65711,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.8,0
+CT-05,House,0.52838,0.47162,0.55455,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.5,0
+DE-AL,House,0.57479,0.42521,0.59627,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,8.0,0
+FL-01,House,0.31206,0.68794,0.33562,R+18,-18.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-18.2,0
+FL-02,House,0.40912,0.59088,0.44445,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-8.2,0
+FL-03,House,0.39342,0.60658,0.42881,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-9.8,0
+FL-04,House,0.44019,0.55981,0.46613,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-5.3,0
+FL-05,House,0.39161,0.60839,0.42002,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-10.1,0
+FL-06,House,0.34846,0.65154,0.38057,R+14,-14.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-14.4,0
+FL-07,House,0.43691,0.56309,0.47197,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-5.4,0
+FL-08,House,0.41802,0.58198,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-09,House,0.41033,0.58967,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-10,House,0.62146,0.37854,,D+13,13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-11,House,0.4208,0.5792,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-12,House,0.42223,0.57777,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-13,House,0.43273,0.56727,,R+6,-6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-14,House,0.4469,0.5531,,R+4,-4.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-15,House,0.39952,0.60048,,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-16,House,0.43094,0.56906,,R+6,-6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-17,House,0.38879,0.61121,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-18,House,0.41449,0.58551,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-19,House,0.34792,0.65208,,R+14,-14.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-20,House,0.6875,0.3125,,D+20,20.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-21,House,0.41797,0.58203,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-22,House,0.44814,0.55186,,R+4,-4.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-23,House,0.5693,0.4307,,D+9,9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-24,House,0.69525,0.30475,,D+22,22.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-25,House,0.45391,0.54609,,R+3,-3.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-26,House,0.4073,0.5927,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-27,House,0.42651,0.57349,,R+6,-6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+FL-28,House,0.37188,0.62812,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+GA-01,House,0.42054,0.57946,0.43203,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-7.7,0
+GA-02,House,0.53825,0.46175,0.55222,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.2,0
+GA-03,House,0.35062,0.64938,0.34778,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.0,0
+GA-04,House,0.76519,0.23481,0.79185,D+27,27.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,27.2,0
+GA-05,House,0.86165,0.13835,0.86806,D+36,36.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,36.3,0
+GA-06,House,0.75173,0.24827,0.75021,D+25,25.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,25.1,0
+GA-07,House,0.38849,0.61151,0.40129,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.8,0
+GA-08,House,0.34639,0.65361,0.36046,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.0,0
+GA-09,House,0.32832,0.67168,0.33646,R+17,-17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-17.0,0
+GA-10,House,0.39543,0.60457,0.39246,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.5,0
+GA-11,House,0.38218,0.61782,0.38846,R+12,-12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.6,0
+GA-12,House,0.42884,0.57116,0.44865,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.6,0
+GA-13,House,0.71362,0.28638,0.70503,D+21,21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,21.1,0
+GA-14,House,0.31492,0.68508,0.30976,R+19,-19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-18.6,0
+HI-01,House,0.62583,0.37417,0.64965,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,13.2,0
+HI-02,House,0.61031,0.38969,0.65097,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.0,0
+IA-01,House,0.45705,0.54295,0.48528,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-3.6,0
+IA-02,House,0.44936,0.55064,0.4776,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.4,0
+IA-03,House,0.47768,0.52232,0.49824,R+2,-2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-1.7,0
+IA-04,House,0.34049,0.65951,0.36761,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.3,0
+ID-01,House,0.26901,0.73099,0.30368,R+22,-22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.2,0
+ID-02,House,0.36219,0.63781,0.38144,R+13,-13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-13.3,0
+IL-01,House,0.66229,0.33771,0.71481,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,17.5,0
+IL-02,House,0.66789,0.33211,0.70296,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,17.7,0
+IL-03,House,0.65917,0.34083,0.71132,D+17,17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,17.2,0
+IL-04,House,0.64376,0.35624,0.73646,D+17,17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,16.7,0
+IL-05,House,0.68783,0.31217,0.70162,D+19,19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,19.1,0
+IL-06,House,0.52788,0.47212,0.55543,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.5,0
+IL-07,House,0.83078,0.16922,0.86998,D+34,34.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,34.1,0
+IL-08,House,0.535,0.465,0.57851,D+5,5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.6,0
+IL-09,House,0.68493,0.31507,0.71127,D+19,19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,19.1,0
+IL-10,House,0.61173,0.38827,0.63181,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,11.7,0
+IL-11,House,0.55803,0.44197,0.57813,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.3,0
+IL-12,House,0.27959,0.72041,0.28216,R+22,-22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.0,0
+IL-13,House,0.55325,0.44675,0.55741,D+5,5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,5.4,0
+IL-14,House,0.52632,0.47368,0.55849,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.4,0
+IL-15,House,0.29783,0.70217,0.30224,R+20,-20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-20.1,0
+IL-16,House,0.38475,0.61525,0.38994,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.4,0
+IL-17,House,0.52414,0.47586,0.53989,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.8,0
+IN-01,House,0.50201,0.49799,0.54246,D+1,1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.2,0
+IN-02,House,0.3654,0.6346,0.38503,R+13,-13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-13.0,0
+IN-03,House,0.34136,0.65864,0.34724,R+16,-16.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.7,0
+IN-04,House,0.35061,0.64939,0.35092,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.9,0
+IN-05,House,0.41436,0.58564,0.41868,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-8.5,0
+IN-06,House,0.3345,0.6655,0.3369,R+16,-16.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-16.5,0
+IN-07,House,0.71081,0.28919,0.71569,D+21,21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,21.2,0
+IN-08,House,0.31754,0.68246,0.33276,R+18,-18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-17.9,0
+IN-09,House,0.34807,0.65193,0.36071,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.9,0
+KS-01,House,0.34076,0.65924,0.34857,R+16,-16.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.7,0
+KS-02,House,0.39972,0.60028,0.41664,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.6,0
+KS-03,House,0.52087,0.47913,0.52274,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.1,0
+KS-04,House,0.3815,0.6185,0.38869,R+12,-12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.7,0
+KY-01,House,0.26045,0.73955,0.28307,R+23,-23.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-23.4,0
+KY-02,House,0.29034,0.70966,0.31314,R+20,-20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-20.4,0
+KY-03,House,0.59634,0.40366,0.61387,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.1,0
+KY-04,House,0.3192,0.6808,0.33441,R+18,-18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-17.7,0
+KY-05,House,0.17665,0.82335,0.19933,R+32,-32.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-31.8,0
+KY-06,House,0.42343,0.57657,0.44393,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-7.1,0
+LA-01,House,0.30526,0.69474,,R+20,-20.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+LA-02,House,0.74172,0.25828,,D+25,25.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+LA-03,House,0.31754,0.68246,,R+18,-18.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+LA-04,House,0.3267,0.6733,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+LA-05,House,0.3277,0.6723,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+LA-06,House,0.34686,0.65314,,R+16,-16.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+MA-01,House,0.56957,0.43043,0.61052,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,8.0,0
+MA-02,House,0.62144,0.37856,0.65757,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,13.0,0
+MA-03,House,0.59696,0.40304,0.63998,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.8,0
+MA-04,House,0.60066,0.39934,0.645,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,11.2,0
+MA-05,House,0.73173,0.26827,0.75993,D+24,24.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,23.9,0
+MA-06,House,0.60544,0.39456,0.64051,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,11.4,0
+MA-07,House,0.8257,0.1743,0.86722,D+34,34.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,33.6,0
+MA-08,House,0.63493,0.36507,0.68033,D+15,15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,14.6,0
+MA-09,House,0.55471,0.44529,0.59256,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.4,0
+MD-01,House,0.41347,0.58653,0.42583,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-8.3,0
+MD-02,House,0.59469,0.40531,0.60625,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,9.8,0
+MD-03,House,0.62245,0.37755,0.63026,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.4,0
+MD-04,House,0.87833,0.12167,0.91187,D+39,39.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,38.7,0
+MD-05,House,0.67025,0.32975,0.68555,D+17,17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,17.4,0
+MD-06,House,0.52963,0.47037,0.55014,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.5,0
+MD-07,House,0.80249,0.19751,0.82251,D+31,31.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,30.7,0
+MD-08,House,0.79028,0.20972,0.81797,D+30,30.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,29.7,0
+ME-01,House,0.61042,0.38958,0.61733,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,11.2,0
+ME-02,House,0.45383,0.54617,0.4686,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.3,0
+MI-01,House,0.3924,0.6076,0.39956,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.6,0
+MI-02,House,0.3473,0.6527,0.35644,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-15.0,0
+MI-03,House,0.53986,0.46014,0.54329,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.1,0
+MI-04,House,0.47189,0.52811,0.47992,R+3,-3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-2.6,0
+MI-05,House,0.36295,0.63705,0.37705,R+13,-13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-13.4,0
+MI-06,House,0.61961,0.38039,0.63514,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.3,0
+MI-07,House,0.49348,0.50652,0.50266,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-0.4,0
+MI-08,House,0.48995,0.51005,0.5103,R+1,-1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-0.5,0
+MI-09,House,0.33612,0.66388,0.35058,R+16,-16.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-16.0,0
+MI-10,House,0.46658,0.53342,0.49504,R+3,-3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-2.6,0
+MI-11,House,0.58212,0.41788,0.6005,D+9,9.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,8.7,0
+MI-12,House,0.69949,0.30051,0.74551,D+21,21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,21.1,0
+MI-13,House,0.70998,0.29002,0.75072,D+22,22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,22.0,0
+MN-01,House,0.43883,0.56117,0.45297,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.8,0
+MN-02,House,0.52975,0.47025,0.53665,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.1,0
+MN-03,House,0.6086,0.3914,0.60699,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.8,0
+MN-04,House,0.68233,0.31767,0.69199,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,18.5,0
+MN-05,House,0.81771,0.18229,0.82207,D+32,32.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,31.9,0
+MN-06,House,0.39967,0.60033,0.4098,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.8,0
+MN-07,House,0.31451,0.68549,0.33084,R+18,-18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-18.1,0
+MN-08,House,0.42734,0.57266,0.44232,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.9,0
+MO-01,House,0.79094,0.20906,0.79663,D+29,29.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,29.2,0
+MO-02,House,0.45982,0.54018,0.46059,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.0,0
+MO-03,House,0.36451,0.63549,0.36589,R+13,-13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-13.5,0
+MO-04,House,0.28594,0.71406,0.29932,R+21,-21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-21.1,0
+MO-05,House,0.61755,0.38245,0.63419,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.2,0
+MO-06,House,0.30341,0.69659,0.31122,R+19,-19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-19.5,0
+MO-07,House,0.28438,0.71562,0.28916,R+21,-21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-21.4,0
+MO-08,House,0.22696,0.77304,0.23954,R+27,-27.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-27.0,0
+MS-01,House,0.31234,0.68766,0.33919,R+18,-18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-18.1,0
+MS-02,House,0.60287,0.39713,0.632,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,11.0,0
+MS-03,House,0.35268,0.64732,0.37682,R+14,-14.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.1,0
+MS-04,House,0.28504,0.71496,0.30719,R+21,-21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-20.9,0
+MT-01,House,0.44039,0.55961,0.46473,R+5,-5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.4,0
+MT-02,House,0.34746,0.65254,0.36231,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.9,0
+NC-01,House,0.4418,0.5582,,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+NC-02,House,0.67218,0.32782,0.67957,D+17,17.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,17.4,0
+NC-03,House,0.43122,0.56878,,R+6,-6.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+NC-04,House,0.73032,0.26968,0.734,D+23,23.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,23.1,0
+NC-05,House,0.41023,0.58977,0.42222,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-8.7,0
+NC-06,House,0.41314,0.58686,0.41767,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-8.6,0
+NC-07,House,0.43025,0.56975,0.44419,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-6.6,0
+NC-08,House,0.40207,0.59793,0.41019,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-9.6,0
+NC-09,House,0.41995,0.58005,0.42962,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-7.8,0
+NC-10,House,0.41048,0.58952,0.41872,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-8.8,0
+NC-11,House,0.45192,0.54808,0.44427,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-5.0,0
+NC-12,House,0.73527,0.26473,0.7547,D+24,24.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,24.0,0
+NC-13,House,0.41675,0.58325,0.41252,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-8.4,0
+NC-14,House,0.42386,0.57614,0.41835,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-7.8,0
+ND-AL,House,0.31304,0.68696,0.32783,R+18,-18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-18.3,0
+NE-01,House,0.43386,0.56614,0.44335,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.4,0
+NE-02,House,0.52342,0.47658,0.5323,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.6,0
+NE-03,House,0.22785,0.77215,0.23552,R+27,-27.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-27.0,0
+NH-01,House,0.5101,0.4899,0.53012,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.5,0
+NH-02,House,0.51813,0.48187,0.54491,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.5,0
+NJ-01,House,0.59509,0.40491,0.6238,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.2,0
+NJ-02,House,0.43632,0.56368,0.47509,R+5,-5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.4,0
+NJ-03,House,0.54248,0.45752,0.57092,D+5,5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,5.0,0
+NJ-04,House,0.34732,0.65268,0.38636,R+14,-14.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.3,0
+NJ-05,House,0.50771,0.49229,0.56279,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.1,0
+NJ-06,House,0.53295,0.46705,0.59749,D+5,5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.9,0
+NJ-07,House,0.49402,0.50598,0.5196,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,0.0,0
+NJ-08,House,0.62406,0.37594,0.72903,D+15,15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,15.0,0
+NJ-09,House,0.49415,0.50585,0.59554,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.9,0
+NJ-10,House,0.75834,0.24166,0.81275,D+27,27.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,27.2,0
+NJ-11,House,0.54448,0.45552,0.58574,D+5,5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,5.5,0
+NJ-12,House,0.62269,0.37731,0.67443,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,13.6,0
+NM-01,House,0.56498,0.43502,0.57411,D+7,7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.7,0
+NM-02,House,0.49077,0.50923,0.53,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,0.1,0
+NM-03,House,0.5266,0.4734,0.55485,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.4,0
+NV-01,House,0.5115,0.4885,0.54353,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.9,0
+NV-02,House,0.42865,0.57135,0.44328,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.8,0
+NV-03,House,0.49625,0.50375,0.53382,D+1,1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,0.6,0
+NV-04,House,0.5118,0.4882,0.54227,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.9,0
+NY-01,House,0.44905,0.55095,0.49113,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-4.0,0
+NY-02,House,0.42962,0.57038,0.48764,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.6,0
+NY-03,House,0.47827,0.52173,0.55711,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-0.2,0
+NY-04,House,0.50646,0.49354,0.57347,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.3,0
+NY-05,House,0.714,0.286,0.81361,D+24,24.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,23.9,0
+NY-06,House,0.53263,0.46737,0.64801,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.1,0
+NY-07,House,0.73595,0.26405,0.80549,D+25,25.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,25.3,0
+NY-08,House,0.72352,0.27648,0.77934,D+24,24.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,23.7,0
+NY-09,House,0.70732,0.29268,0.76237,D+22,22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,22.1,0
+NY-10,House,0.80946,0.19054,0.85734,D+32,32.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,32.1,0
+NY-11,House,0.37587,0.62413,0.46144,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.3,0
+NY-12,House,0.8245,0.1755,0.86047,D+33,33.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,33.3,0
+NY-13,House,0.80136,0.19864,0.88832,D+32,32.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,32.3,0
+NY-14,House,0.66183,0.33817,0.77809,D+19,19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,19.1,0
+NY-15,House,0.74404,0.25596,0.85491,D+27,27.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,27.2,0
+NY-16,House,0.66655,0.33345,0.72505,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,18.1,0
+NY-17,House,0.5028,0.4972,0.5509,D+1,1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.5,0
+NY-18,House,0.51677,0.48323,0.54615,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.4,0
+NY-19,House,0.509,0.491,0.5228,D+1,1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,1.2,0
+NY-20,House,0.5716,0.4284,0.59774,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,7.8,0
+NY-21,House,0.3962,0.6038,0.42014,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.8,0
+NY-22,House,0.53847,0.46153,0.55807,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.3,0
+NY-23,House,0.39406,0.60594,0.40723,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.3,0
+NY-24,House,0.38381,0.61619,0.39639,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.3,0
+NY-25,House,0.59327,0.40673,0.60547,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,9.6,0
+NY-26,House,0.5978,0.4022,0.62793,D+11,11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,10.5,0
+OH-01,House,0.4869,0.5131,,R+1,-1.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-02,House,0.2876,0.7124,,R+21,-21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-03,House,0.70327,0.29673,,D+21,21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-04,House,0.28493,0.71507,,R+21,-21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-05,House,0.38014,0.61986,,R+12,-12.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-06,House,0.32552,0.67448,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-07,House,0.44424,0.55576,,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-08,House,0.42113,0.57887,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-09,House,0.4466,0.5534,,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-10,House,0.46069,0.53931,,R+4,-4.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-11,House,0.77731,0.22269,0.79105,D+28,28.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,28.1,0
+OH-12,House,0.34822,0.65178,,R+15,-15.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-13,House,0.51661,0.48339,,D+2,2.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-14,House,0.39734,0.60266,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OH-15,House,0.44943,0.55057,,R+5,-5.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+OK-01,House,0.39001,0.60999,0.39042,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.0,0
+OK-02,House,0.21744,0.78256,0.22813,R+28,-28.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-28.0,0
+OK-03,House,0.26791,0.73209,0.27162,R+23,-23.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-23.1,0
+OK-04,House,0.33056,0.66944,0.33797,R+17,-17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-16.8,0
+OK-05,House,0.4094,0.5906,0.41337,R+9,-9.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-9.0,0
+OR-01,House,0.69555,0.30445,0.70172,D+20,20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,19.7,0
+OR-02,House,0.36061,0.63939,0.37488,R+14,-14.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-13.6,0
+OR-03,House,0.73807,0.26193,0.74197,D+24,24.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,23.9,0
+OR-04,House,0.56221,0.43779,0.56539,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.3,0
+OR-05,House,0.54404,0.45596,0.54547,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.4,0
+OR-06,House,0.55871,0.44129,0.56774,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.1,0
+PA-01,House,0.50161,0.49839,0.52344,D+1,1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,0.7,0
+PA-02,House,0.68085,0.31915,0.71535,D+19,19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,18.9,0
+PA-03,House,0.89129,0.10871,0.90687,D+40,40.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,39.5,0
+PA-04,House,0.57985,0.42015,0.59569,D+8,8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,8.4,0
+PA-05,House,0.64467,0.35533,0.66282,D+15,15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,14.9,0
+PA-06,House,0.55763,0.44237,0.57446,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,6.2,0
+PA-07,House,0.48381,0.51619,0.50314,R+1,-1.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-1.1,0
+PA-08,House,0.45716,0.54284,0.48533,R+4,-4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-3.6,0
+PA-09,House,0.30857,0.69143,0.31467,R+19,-19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-19.0,0
+PA-10,House,0.47354,0.52646,0.47903,R+3,-3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-2.5,0
+PA-11,House,0.39213,0.60787,0.39209,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.8,0
+PA-12,House,0.59683,0.40317,0.60084,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,9.8,0
+PA-13,House,0.27048,0.72952,0.27117,R+23,-23.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.9,0
+PA-14,House,0.33202,0.66798,0.34077,R+17,-17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-16.6,0
+PA-15,House,0.30856,0.69144,0.31234,R+19,-19.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-19.1,0
+PA-16,House,0.3852,0.6148,0.39545,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.2,0
+PA-17,House,0.52778,0.47222,0.52952,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.8,0
+RI-01,House,0.6133,0.3867,0.64762,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.2,0
+RI-02,House,0.53467,0.46533,0.56974,D+4,4.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,4.3,0
+SC-01,House,0.43395,0.56605,0.4561,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.1,0
+SC-02,House,0.42938,0.57062,0.44626,R+7,-7.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-6.6,0
+SC-03,House,0.2819,0.7181,0.30998,R+21,-21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-21.1,0
+SC-04,House,0.38019,0.61981,0.40553,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.4,0
+SC-05,House,0.38456,0.61544,0.4079,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.0,0
+SC-06,House,0.61522,0.38478,0.66288,D+13,13.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.7,0
+SC-07,House,0.36688,0.63312,0.40577,R+12,-12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-12.3,0
+SD-AL,House,0.35055,0.64945,0.36565,R+15,-15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-14.6,0
+TN-01,House,0.20779,0.79221,0.22419,R+29,-29.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-28.8,0
+TN-02,House,0.32837,0.67163,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-03,House,0.31897,0.68103,,R+18,-18.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-04,House,0.37862,0.62138,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-05,House,0.38305,0.61695,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-06,House,0.36562,0.63438,,R+13,-13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-07,House,0.38637,0.61363,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-08,House,0.39784,0.60216,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TN-09,House,0.39287,0.60713,,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-01,House,0.25048,0.74952,,R+24,-24.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-02,House,0.38433,0.61567,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-03,House,0.38009,0.61991,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-04,House,0.37421,0.62579,,R+12,-12.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-05,House,0.39078,0.60922,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-06,House,0.38363,0.61637,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-07,House,0.62047,0.37953,,D+13,13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-08,House,0.36003,0.63997,,R+13,-13.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-09,House,0.40016,0.59984,,R+9,-9.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-10,House,0.38532,0.61468,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-11,House,0.32612,0.67388,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-12,House,0.37924,0.62076,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-13,House,0.2667,0.7333,,R+23,-23.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-14,House,0.37711,0.62289,,R+12,-12.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-15,House,0.40991,0.59009,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-16,House,0.58318,0.41682,,D+11,11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-17,House,0.39025,0.60975,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-18,House,0.7786,0.2214,,D+29,29.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-19,House,0.23917,0.76083,0.26547,R+25,-25.0,new-2026-lines,Downballot 2026-lines sheet; pres20 from 2024-lines sheet (district geography unchanged: identical 2024 vote totals); Cook PVI via Wikipedia rev 1374239063,-25.4,0
+TX-20,House,0.64441,0.35559,,D+16,16.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-21,House,0.38958,0.61042,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-22,House,0.38636,0.61364,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-23,House,0.42513,0.57487,,R+7,-7.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-24,House,0.41807,0.58193,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-25,House,0.37831,0.62169,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-26,House,0.37928,0.62072,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-27,House,0.39271,0.60729,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-28,House,0.4477,0.5523,,R+3,-3.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-29,House,0.65423,0.34577,,D+17,17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-30,House,0.73902,0.26098,,D+25,25.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-31,House,0.38927,0.61073,,R+11,-11.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-32,House,0.40943,0.59057,,R+8,-8.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-33,House,0.6667,0.3333,,D+18,18.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-34,House,0.44887,0.55113,,R+3,-3.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-35,House,0.44718,0.55282,,R+4,-4.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-36,House,0.37344,0.62656,,R+12,-12.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-37,House,0.78852,0.21148,,D+30,30.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+TX-38,House,0.39352,0.60648,,R+10,-10.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+UT-01,House,0.62163,0.37837,,D+12,12.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+UT-02,House,0.35038,0.64962,,R+15,-15.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+UT-03,House,0.2879,0.7121,,R+21,-21.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+UT-04,House,0.33277,0.66723,,R+17,-17.0,new-2026-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,,1
+VA-01,House,0.47498,0.52502,0.46865,R+3,-3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-2.7,0
+VA-02,House,0.49874,0.50126,0.50975,EVEN,0.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,0.1,0
+VA-03,House,0.67586,0.32414,0.69511,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,18.1,0
+VA-04,House,0.66589,0.33411,0.6807,D+17,17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,17.0,0
+VA-05,House,0.43796,0.56204,0.45807,R+6,-6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.7,0
+VA-06,House,0.37921,0.62079,0.39069,R+12,-12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.8,0
+VA-07,House,0.51457,0.48543,0.53453,D+2,2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,2.0,0
+VA-08,House,0.75452,0.24548,0.78384,D+26,26.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,26.2,0
+VA-09,House,0.27787,0.72213,0.2881,R+22,-22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.0,0
+VA-10,House,0.54288,0.45712,0.59165,D+6,6.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,5.5,0
+VA-11,House,0.67646,0.32354,0.70932,D+18,18.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,18.5,0
+VT-AL,House,0.66385,0.33615,0.68299,D+17,17.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,16.9,0
+WA-01,House,0.64857,0.35143,0.65741,D+15,15.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,15.1,0
+WA-02,House,0.62225,0.37775,0.61773,D+12,12.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,12.1,0
+WA-03,House,0.48302,0.51698,0.47844,R+2,-2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-1.8,0
+WA-04,House,0.39382,0.60618,0.41308,R+10,-10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-10.1,0
+WA-05,House,0.44446,0.55554,0.44866,R+5,-5.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-5.5,0
+WA-06,House,0.59946,0.40054,0.58874,D+10,10.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,9.7,0
+WA-07,House,0.8878,0.1122,0.88505,D+39,39.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,38.7,0
+WA-08,House,0.52983,0.47017,0.53452,D+3,3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,3.1,0
+WA-09,House,0.71347,0.28653,0.73088,D+22,22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,21.8,0
+WA-10,House,0.59302,0.40698,0.59132,D+9,9.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,9.3,0
+WI-01,House,0.47713,0.52287,0.48982,R+2,-2.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-2.0,0
+WI-02,House,0.70373,0.29627,0.7117,D+21,21.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,20.6,0
+WI-03,House,0.46243,0.53757,0.4762,R+3,-3.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-3.4,0
+WI-04,House,0.76235,0.23765,0.76867,D+26,26.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,26.4,0
+WI-05,House,0.38773,0.61227,0.38393,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.3,0
+WI-06,House,0.41652,0.58348,0.42038,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-8.3,0
+WI-07,House,0.38579,0.61421,0.39866,R+11,-11.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-11.1,0
+WI-08,House,0.41768,0.58232,0.42132,R+8,-8.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-8.1,0
+WV-01,House,0.27401,0.72599,0.29225,R+22,-22.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-22.1,0
+WV-02,House,0.29808,0.70192,0.31157,R+20,-20.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-19.9,0
+WY-AL,House,0.26521,0.73479,0.2752,R+23,-23.0,2024-lines,Downballot 2026-lines sheet; Cook PVI via Wikipedia rev 1374239063,-23.2,0

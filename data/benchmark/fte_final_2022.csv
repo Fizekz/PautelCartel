@@ -1,0 +1,857 @@
+year,race_id,chamber,special,candidate,party,p_fte,forecastdate,model
+2022,WY-AL,House,0,Harriet Hageman,REP,1.0,2022-11-08,deluxe
+2022,WV-02,House,0,Barry Lee Wendell,DEM,5e-05,2022-11-08,deluxe
+2022,WV-02,House,0,Alexander X. Mooney,REP,0.99995,2022-11-08,deluxe
+2022,WV-01,House,0,Carol Miller,REP,1.0,2022-11-08,deluxe
+2022,WI-08,House,0,Mike Gallagher,REP,1.0,2022-11-08,deluxe
+2022,WI-07,House,0,Richard Dick Ausman,DEM,0.000225,2022-11-08,deluxe
+2022,WI-07,House,0,Tom Tiffany,REP,0.999775,2022-11-08,deluxe
+2022,WI-06,House,0,Glenn Grothman,REP,1.0,2022-11-08,deluxe
+2022,WI-05,House,0,Mike Van Someren,DEM,5e-05,2022-11-08,deluxe
+2022,WI-05,House,0,Scott Fitzgerald,REP,0.99995,2022-11-08,deluxe
+2022,WI-04,House,0,Gwen Moore,DEM,0.999975,2022-11-08,deluxe
+2022,WI-04,House,0,Tim Rogers,REP,2.5e-05,2022-11-08,deluxe
+2022,WI-03,House,0,Brad Pfaff,DEM,0.14935,2022-11-08,deluxe
+2022,WI-03,House,0,Derrick Van Orden,REP,0.85065,2022-11-08,deluxe
+2022,WI-02,House,0,Mark Pocan,DEM,0.999925,2022-11-08,deluxe
+2022,WI-02,House,0,Erik Olsen,REP,5e-05,2022-11-08,deluxe
+2022,WI-02,House,0,Douglas Alexander,IND,2.5e-05,2022-11-08,deluxe
+2022,WI-01,House,0,Ann Roe,DEM,0.0052,2022-11-08,deluxe
+2022,WI-01,House,0,Bryan Steil,REP,0.9948,2022-11-08,deluxe
+2022,WA-09,House,0,Adam Smith,DEM,0.999975,2022-11-08,deluxe
+2022,WA-09,House,0,Doug Basler,REP,2.5e-05,2022-11-08,deluxe
+2022,WA-08,House,0,Kim Schrier,DEM,0.7243,2022-11-08,deluxe
+2022,WA-08,House,0,Matt Larkin,REP,0.2757,2022-11-08,deluxe
+2022,WA-07,House,0,Pramila Jayapal,DEM,1.0,2022-11-08,deluxe
+2022,WA-06,House,0,Derek Kilmer,DEM,0.9902,2022-11-08,deluxe
+2022,WA-06,House,0,Elizabeth Kreiselmaier,REP,0.0098,2022-11-08,deluxe
+2022,WA-05,House,0,Natasha Hill,DEM,0.00475,2022-11-08,deluxe
+2022,WA-05,House,0,Cathy McMorris Rodgers,REP,0.99525,2022-11-08,deluxe
+2022,WA-04,House,0,Doug White,DEM,0.0001,2022-11-08,deluxe
+2022,WA-04,House,0,Dan Newhouse,REP,0.9999,2022-11-08,deluxe
+2022,WA-03,House,0,Marie Gluesenkamp Perez,DEM,0.02195,2022-11-08,deluxe
+2022,WA-03,House,0,Joe Kent,REP,0.97805,2022-11-08,deluxe
+2022,WA-02,House,0,Rick Larsen,DEM,0.99895,2022-11-08,deluxe
+2022,WA-02,House,0,Dan Matthews,REP,0.00105,2022-11-08,deluxe
+2022,WA-01,House,0,Suzan DelBene,DEM,0.99705,2022-11-08,deluxe
+2022,WA-01,House,0,Vincent J. Cavaleri,REP,0.00295,2022-11-08,deluxe
+2022,WA-10,House,0,Marilyn Strickland,DEM,0.99545,2022-11-08,deluxe
+2022,WA-10,House,0,Keith R. Swank,REP,0.00455,2022-11-08,deluxe
+2022,VT-AL,House,0,Becca Balint,DEM,0.9999,2022-11-08,deluxe
+2022,VT-AL,House,0,Liam Madden,REP,0.0001,2022-11-08,deluxe
+2022,VA-09,House,0,H. Morgan Griffith,REP,1.0,2022-11-08,deluxe
+2022,VA-08,House,0,Donald S. Beyer Jr.,DEM,1.0,2022-11-08,deluxe
+2022,VA-07,House,0,Abigail A. Spanberger,DEM,0.718875,2022-11-08,deluxe
+2022,VA-07,House,0,Yesli I. Vega,REP,0.281125,2022-11-08,deluxe
+2022,VA-06,House,0,Jennifer Lynn Lewis,DEM,0.000125,2022-11-08,deluxe
+2022,VA-06,House,0,Ben L. Cline,REP,0.999875,2022-11-08,deluxe
+2022,VA-05,House,0,Joshua M. Throneburg,DEM,0.005,2022-11-08,deluxe
+2022,VA-05,House,0,Robert G. “Bob” Good,REP,0.995,2022-11-08,deluxe
+2022,VA-04,House,0,A. Donald McEachin,DEM,0.999625,2022-11-08,deluxe
+2022,VA-04,House,0,Leon Benjamin Sr.,REP,0.000375,2022-11-08,deluxe
+2022,VA-03,House,0,Robert C. “Bobby” Scott,DEM,0.999775,2022-11-08,deluxe
+2022,VA-03,House,0,Terry T. Namkung,REP,0.000225,2022-11-08,deluxe
+2022,VA-02,House,0,Elaine G. Luria,DEM,0.477825,2022-11-08,deluxe
+2022,VA-02,House,0,Jen A. Kiggans,REP,0.522175,2022-11-08,deluxe
+2022,VA-01,House,0,Herbert C. “Herb” Jones Jr.,DEM,0.002175,2022-11-08,deluxe
+2022,VA-01,House,0,Rob J. Wittman,REP,0.997825,2022-11-08,deluxe
+2022,VA-11,House,0,Gerald E. “Gerry” Connolly,DEM,0.99995,2022-11-08,deluxe
+2022,VA-11,House,0,James G. “Jim” Myles,REP,5e-05,2022-11-08,deluxe
+2022,VA-10,House,0,Jennifer T. Wexton,DEM,0.93335,2022-11-08,deluxe
+2022,VA-10,House,0,Hung Cao,REP,0.06665,2022-11-08,deluxe
+2022,UT-04,House,0,Darlene McDonald,DEM,0.0004,2022-11-08,deluxe
+2022,UT-04,House,0,Burgess Owens,REP,0.9996,2022-11-08,deluxe
+2022,UT-03,House,0,Glenn J. Wright,DEM,0.000175,2022-11-08,deluxe
+2022,UT-03,House,0,John Curtis,REP,0.999825,2022-11-08,deluxe
+2022,UT-02,House,0,Nick Mitchell,DEM,0.000575,2022-11-08,deluxe
+2022,UT-02,House,0,Chris Stewart,REP,0.999425,2022-11-08,deluxe
+2022,UT-01,House,0,Blake D. Moore,REP,1.0,2022-11-08,deluxe
+2022,TX-09,House,0,Al Green,DEM,1.0,2022-11-08,deluxe
+2022,TX-08,House,0,Laura Jones,DEM,0.0002,2022-11-08,deluxe
+2022,TX-08,House,0,Morgan Luttrell,REP,0.9998,2022-11-08,deluxe
+2022,TX-07,House,0,Lizzie Fletcher,DEM,0.990925,2022-11-08,deluxe
+2022,TX-07,House,0,Johnny Teague,REP,0.009075,2022-11-08,deluxe
+2022,TX-06,House,0,Jake Ellzey,REP,1.0,2022-11-08,deluxe
+2022,TX-05,House,0,Tartisha Hill,DEM,0.0001,2022-11-08,deluxe
+2022,TX-05,House,0,Lance Gooden,REP,0.9999,2022-11-08,deluxe
+2022,TX-04,House,0,Iro Omere,DEM,2.5e-05,2022-11-08,deluxe
+2022,TX-04,House,0,Pat Fallon,REP,0.999975,2022-11-08,deluxe
+2022,TX-38,House,0,Duncan F. Klussmann,DEM,0.0004,2022-11-08,deluxe
+2022,TX-38,House,0,Wesley Hunt,REP,0.999575,2022-11-08,deluxe
+2022,TX-38,House,0,Joel Dejean,IND,2.5e-05,2022-11-08,deluxe
+2022,TX-37,House,0,Lloyd Doggett,DEM,1.0,2022-11-08,deluxe
+2022,TX-36,House,0,Jon Haire,DEM,2.5e-05,2022-11-08,deluxe
+2022,TX-36,House,0,Brian Babin,REP,0.999975,2022-11-08,deluxe
+2022,TX-35,House,0,Greg Casar,DEM,1.0,2022-11-08,deluxe
+2022,TX-34,House,0,Vicente Gonzalez,DEM,0.478225,2022-11-08,deluxe
+2022,TX-34,House,0,Mayra Flores,REP,0.521725,2022-11-08,deluxe
+2022,TX-34,House,0,Chris Royal,IND,5e-05,2022-11-08,deluxe
+2022,TX-33,House,0,Marc Veasey,DEM,1.0,2022-11-08,deluxe
+2022,TX-32,House,0,Colin Allred,DEM,0.9966,2022-11-08,deluxe
+2022,TX-32,House,0,Antonio Swad,REP,0.0034,2022-11-08,deluxe
+2022,TX-03,House,0,Sandeep Srivastava,DEM,0.00065,2022-11-08,deluxe
+2022,TX-03,House,0,Keith Self,REP,0.99935,2022-11-08,deluxe
+2022,TX-31,House,0,John Carter,REP,1.0,2022-11-08,deluxe
+2022,TX-30,House,0,Jasmine Crockett,DEM,1.0,2022-11-08,deluxe
+2022,TX-29,House,0,Sylvia Garcia,DEM,0.999925,2022-11-08,deluxe
+2022,TX-29,House,0,Robert Schafranek,REP,7.5e-05,2022-11-08,deluxe
+2022,TX-28,House,0,Henry Cuellar,DEM,0.758925,2022-11-08,deluxe
+2022,TX-28,House,0,Cassy Garcia,REP,0.241075,2022-11-08,deluxe
+2022,TX-27,House,0,Maclovio Perez Jr.,DEM,2.5e-05,2022-11-08,deluxe
+2022,TX-27,House,0,Michael Cloud,REP,0.999975,2022-11-08,deluxe
+2022,TX-26,House,0,Michael C. Burgess,REP,0.999875,2022-11-08,deluxe
+2022,TX-26,House,0,Mike Kolls,IND,0.000125,2022-11-08,deluxe
+2022,TX-25,House,0,Roger Williams,REP,1.0,2022-11-08,deluxe
+2022,TX-24,House,0,Jan McDowell,DEM,0.001125,2022-11-08,deluxe
+2022,TX-24,House,0,Beth Van Duyne,REP,0.998875,2022-11-08,deluxe
+2022,TX-23,House,0,John Lira,DEM,0.003975,2022-11-08,deluxe
+2022,TX-23,House,0,Tony Gonzales,REP,0.996025,2022-11-08,deluxe
+2022,TX-22,House,0,Jamie Kaye Jordan,DEM,0.000275,2022-11-08,deluxe
+2022,TX-22,House,0,Troy E. Nehls,REP,0.999725,2022-11-08,deluxe
+2022,TX-02,House,0,Robin Fulford,DEM,0.0001,2022-11-08,deluxe
+2022,TX-02,House,0,Dan Crenshaw,REP,0.9999,2022-11-08,deluxe
+2022,TX-21,House,0,Claudia Andreana Zapata,DEM,0.00055,2022-11-08,deluxe
+2022,TX-21,House,0,Chip Roy,REP,0.99945,2022-11-08,deluxe
+2022,TX-20,House,0,Joaquin Castro,DEM,0.9988,2022-11-08,deluxe
+2022,TX-20,House,0,Kyle Sinclair,REP,0.0012,2022-11-08,deluxe
+2022,TX-19,House,0,Jodey C. Arrington,REP,1.0,2022-11-08,deluxe
+2022,TX-18,House,0,Sheila Jackson Lee,DEM,0.999975,2022-11-08,deluxe
+2022,TX-18,House,0,Carmen Maria Montiel,REP,2.5e-05,2022-11-08,deluxe
+2022,TX-17,House,0,Mary Jo Woods,DEM,0.0001,2022-11-08,deluxe
+2022,TX-17,House,0,Pete Sessions,REP,0.9999,2022-11-08,deluxe
+2022,TX-16,House,0,Veronica Escobar,DEM,0.999525,2022-11-08,deluxe
+2022,TX-16,House,0,Irene Armendariz-Jackson,REP,0.000475,2022-11-08,deluxe
+2022,TX-15,House,0,Michelle Vallejo,DEM,0.54105,2022-11-08,deluxe
+2022,TX-15,House,0,Monica De La Cruz,REP,0.4589,2022-11-08,deluxe
+2022,TX-15,House,0,Ross Lynn Leone Jr.,IND,5e-05,2022-11-08,deluxe
+2022,TX-14,House,0,Randy Weber,REP,1.0,2022-11-08,deluxe
+2022,TX-13,House,0,Ronny Jackson,REP,1.0,2022-11-08,deluxe
+2022,TX-12,House,0,Trey J. Hunt,DEM,7.5e-05,2022-11-08,deluxe
+2022,TX-12,House,0,Kay Granger,REP,0.999925,2022-11-08,deluxe
+2022,TX-01,House,0,Nathaniel Moran,REP,1.0,2022-11-08,deluxe
+2022,TX-11,House,0,August Pfluger,REP,1.0,2022-11-08,deluxe
+2022,TX-10,House,0,Linda Nuno,DEM,0.0005,2022-11-08,deluxe
+2022,TX-10,House,0,Michael McCaul,REP,0.9995,2022-11-08,deluxe
+2022,TN-09,House,0,Steve Cohen,DEM,0.999975,2022-11-08,deluxe
+2022,TN-09,House,0,Charlotte Bergmann,REP,2.5e-05,2022-11-08,deluxe
+2022,TN-08,House,0,David Kustoff,REP,1.0,2022-11-08,deluxe
+2022,TN-07,House,0,Odessa Kelly,DEM,0.000275,2022-11-08,deluxe
+2022,TN-07,House,0,Mark E. Green,REP,0.9997,2022-11-08,deluxe
+2022,TN-07,House,0,Steven J. Hooper,IND,2.5e-05,2022-11-08,deluxe
+2022,TN-06,House,0,John Rose,REP,1.0,2022-11-08,deluxe
+2022,TN-05,House,0,Heidi Campbell,DEM,0.017575,2022-11-08,deluxe
+2022,TN-05,House,0,Andy Ogles,REP,0.982425,2022-11-08,deluxe
+2022,TN-04,House,0,Scott DesJarlais,REP,1.0,2022-11-08,deluxe
+2022,TN-03,House,0,Chuck Fleischmann,REP,1.0,2022-11-08,deluxe
+2022,TN-02,House,0,Tim Burchett,REP,1.0,2022-11-08,deluxe
+2022,TN-01,House,0,Diana Lynn Harshbarger,REP,1.0,2022-11-08,deluxe
+2022,SD-AL,House,0,Dusty Johnson,REP,0.99985,2022-11-08,deluxe
+2022,SD-AL,House,0,Collin Duprel,IND,0.00015,2022-11-08,deluxe
+2022,SC-07,House,0,Daryl W. Scott,DEM,0.000175,2022-11-08,deluxe
+2022,SC-07,House,0,Russell Fry,REP,0.999825,2022-11-08,deluxe
+2022,SC-06,House,0,James E. “Jim” Clyburn,DEM,0.999125,2022-11-08,deluxe
+2022,SC-06,House,0,Duke Buckner,REP,0.000875,2022-11-08,deluxe
+2022,SC-05,House,0,Evangeline Hundley,DEM,7.5e-05,2022-11-08,deluxe
+2022,SC-05,House,0,Ralph Norman,REP,0.9999,2022-11-08,deluxe
+2022,SC-05,House,0,Larry Gaither,IND,2.5e-05,2022-11-08,deluxe
+2022,SC-04,House,0,William Timmons,REP,1.0,2022-11-08,deluxe
+2022,SC-03,House,0,Jeff Duncan,REP,1.0,2022-11-08,deluxe
+2022,SC-02,House,0,Judd Larkins,DEM,0.001075,2022-11-08,deluxe
+2022,SC-02,House,0,Joe Wilson,REP,0.998925,2022-11-08,deluxe
+2022,SC-01,House,0,Annie Andrews,DEM,0.003775,2022-11-08,deluxe
+2022,SC-01,House,0,Nancy Mace,REP,0.996225,2022-11-08,deluxe
+2022,RI-02,House,0,Seth M. Magaziner,DEM,0.53745,2022-11-08,deluxe
+2022,RI-02,House,0,Allan W. Fung,REP,0.46255,2022-11-08,deluxe
+2022,RI-01,House,0,David N. Cicilline,DEM,0.99995,2022-11-08,deluxe
+2022,RI-01,House,0,Allen R. Waters,REP,5e-05,2022-11-08,deluxe
+2022,PA-09,House,0,Dan Meuser,REP,1.0,2022-11-08,deluxe
+2022,PA-08,House,0,Matt Cartwright,DEM,0.592975,2022-11-08,deluxe
+2022,PA-08,House,0,Jim Bognet,REP,0.407025,2022-11-08,deluxe
+2022,PA-07,House,0,Susan Wild,DEM,0.438775,2022-11-08,deluxe
+2022,PA-07,House,0,Lisa Scheller,REP,0.561225,2022-11-08,deluxe
+2022,PA-06,House,0,Chrissy Houlahan,DEM,0.958,2022-11-08,deluxe
+2022,PA-06,House,0,Guy Louis Ciarrocchi,REP,0.042,2022-11-08,deluxe
+2022,PA-05,House,0,Mary Gay Scanlon,DEM,0.99935,2022-11-08,deluxe
+2022,PA-05,House,0,David Galluch,REP,0.00065,2022-11-08,deluxe
+2022,PA-04,House,0,Madeleine Dean,DEM,0.98715,2022-11-08,deluxe
+2022,PA-04,House,0,Christian Nascimento,REP,0.01285,2022-11-08,deluxe
+2022,PA-03,House,0,Dwight Evans,DEM,0.999975,2022-11-08,deluxe
+2022,PA-03,House,0,Christopher Hoeppner,IND,2.5e-05,2022-11-08,deluxe
+2022,PA-02,House,0,Brendan F. Boyle,DEM,0.999975,2022-11-08,deluxe
+2022,PA-02,House,0,Aaron Bashir,REP,2.5e-05,2022-11-08,deluxe
+2022,PA-17,House,0,Chris Deluzio,DEM,0.5421,2022-11-08,deluxe
+2022,PA-17,House,0,Jeremy Shaffer,REP,0.457875,2022-11-08,deluxe
+2022,PA-16,House,0,Dan Pastore,DEM,0.0003,2022-11-08,deluxe
+2022,PA-16,House,0,Mike Kelly,REP,0.9997,2022-11-08,deluxe
+2022,PA-15,House,0,Glenn “GT” Thompson,REP,1.0,2022-11-08,deluxe
+2022,PA-14,House,0,Guy Reschenthaler,REP,1.0,2022-11-08,deluxe
+2022,PA-13,House,0,John Joyce,REP,1.0,2022-11-08,deluxe
+2022,PA-12,House,0,Summer Lee,DEM,0.98085,2022-11-08,deluxe
+2022,PA-12,House,0,Mike Doyle,REP,0.01915,2022-11-08,deluxe
+2022,PA-01,House,0,Ashley Ehasz,DEM,0.007325,2022-11-08,deluxe
+2022,PA-01,House,0,Brian Fitzpatrick,REP,0.992675,2022-11-08,deluxe
+2022,PA-11,House,0,Bob Hollister,DEM,0.000275,2022-11-08,deluxe
+2022,PA-11,House,0,Lloyd K. Smucker,REP,0.999725,2022-11-08,deluxe
+2022,PA-10,House,0,Shamaine Daniels,DEM,0.02565,2022-11-08,deluxe
+2022,PA-10,House,0,Scott Perry,REP,0.97435,2022-11-08,deluxe
+2022,OR-06,House,0,Andrea Salinas,DEM,0.7192,2022-11-08,deluxe
+2022,OR-06,House,0,Mike Erickson,REP,0.2808,2022-11-08,deluxe
+2022,OR-05,House,0,Jamie McLeod-Skinner,DEM,0.423225,2022-11-08,deluxe
+2022,OR-05,House,0,Lori Chavez-DeRemer,REP,0.576775,2022-11-08,deluxe
+2022,OR-04,House,0,Val Hoyle,DEM,0.878425,2022-11-08,deluxe
+2022,OR-04,House,0,Alek Skarlatos,REP,0.121575,2022-11-08,deluxe
+2022,OR-03,House,0,Earl Blumenauer,DEM,0.999975,2022-11-08,deluxe
+2022,OR-03,House,0,Joanna Harbour,REP,2.5e-05,2022-11-08,deluxe
+2022,OR-02,House,0,Joe Yetter,DEM,7.5e-05,2022-11-08,deluxe
+2022,OR-02,House,0,Cliff S. Bentz,REP,0.999925,2022-11-08,deluxe
+2022,OR-01,House,0,Suzanne Bonamici,DEM,0.9999,2022-11-08,deluxe
+2022,OR-01,House,0,Christopher A. Mann,REP,0.0001,2022-11-08,deluxe
+2022,OK-05,House,0,Joshua Harris-Till,DEM,0.0003,2022-11-08,deluxe
+2022,OK-05,House,0,Stephanie Bice,REP,0.9997,2022-11-08,deluxe
+2022,OK-04,House,0,Tom Cole,REP,1.0,2022-11-08,deluxe
+2022,OK-03,House,0,Frank D. Lucas,REP,1.0,2022-11-08,deluxe
+2022,OK-02,House,0,Josh Brecheen,REP,1.0,2022-11-08,deluxe
+2022,OK-01,House,0,Adam Martin,DEM,7.5e-05,2022-11-08,deluxe
+2022,OK-01,House,0,Kevin Hern,REP,0.999925,2022-11-08,deluxe
+2022,OH-09,House,0,Marcy Kaptur,DEM,0.77815,2022-11-08,deluxe
+2022,OH-09,House,0,J.R. Majewski,REP,0.22185,2022-11-08,deluxe
+2022,OH-08,House,0,Vanessa Enoch,DEM,2.5e-05,2022-11-08,deluxe
+2022,OH-08,House,0,Warren Davidson,REP,0.999975,2022-11-08,deluxe
+2022,OH-07,House,0,Matthew Diemer,DEM,0.01545,2022-11-08,deluxe
+2022,OH-07,House,0,Max Miller,REP,0.98455,2022-11-08,deluxe
+2022,OH-06,House,0,Bill Johnson,REP,1.0,2022-11-08,deluxe
+2022,OH-05,House,0,Craig Swartz,DEM,2.5e-05,2022-11-08,deluxe
+2022,OH-05,House,0,Bob Latta,REP,0.999975,2022-11-08,deluxe
+2022,OH-04,House,0,Tamie Wilson,DEM,2.5e-05,2022-11-08,deluxe
+2022,OH-04,House,0,Jim Jordan,REP,0.999975,2022-11-08,deluxe
+2022,OH-03,House,0,Joyce Beatty,DEM,0.999975,2022-11-08,deluxe
+2022,OH-03,House,0,Lee R. Stahley,REP,2.5e-05,2022-11-08,deluxe
+2022,OH-02,House,0,Brad Wenstrup,REP,1.0,2022-11-08,deluxe
+2022,OH-15,House,0,Gary Josephson,DEM,0.001475,2022-11-08,deluxe
+2022,OH-15,House,0,Mike Carey,REP,0.998525,2022-11-08,deluxe
+2022,OH-14,House,0,Matt Kilboy,DEM,0.0004,2022-11-08,deluxe
+2022,OH-14,House,0,David P. Joyce,REP,0.9996,2022-11-08,deluxe
+2022,OH-13,House,0,Emilia Sykes,DEM,0.18615,2022-11-08,deluxe
+2022,OH-13,House,0,Madison Gesiotto Gilbert,REP,0.81385,2022-11-08,deluxe
+2022,OH-12,House,0,Amy Rippel-Elton,DEM,7.5e-05,2022-11-08,deluxe
+2022,OH-12,House,0,Troy Balderson,REP,0.999925,2022-11-08,deluxe
+2022,OH-01,House,0,Greg Landsman,DEM,0.160975,2022-11-08,deluxe
+2022,OH-01,House,0,Steve Chabot,REP,0.839025,2022-11-08,deluxe
+2022,OH-11,House,0,Shontel Brown,DEM,1.0,2022-11-08,deluxe
+2022,OH-10,House,0,David Esrati,DEM,0.0023,2022-11-08,deluxe
+2022,OH-10,House,0,Mike Turner,REP,0.9977,2022-11-08,deluxe
+2022,NY-09,House,0,Yvette Clarke,DEM,0.99995,2022-11-08,deluxe
+2022,NY-09,House,0,Menachem M. Raitport,IND,5e-05,2022-11-08,deluxe
+2022,NY-08,House,0,Hakeem S. Jeffries,DEM,1.0,2022-11-08,deluxe
+2022,NY-07,House,0,Nydia M. Velázquez,DEM,1.0,2022-11-08,deluxe
+2022,NY-06,House,0,Grace Meng,DEM,0.999775,2022-11-08,deluxe
+2022,NY-06,House,0,Tom Zmich,REP,0.000225,2022-11-08,deluxe
+2022,NY-05,House,0,Gregory Meeks,DEM,1.0,2022-11-08,deluxe
+2022,NY-04,House,0,Laura A. Gillen,DEM,0.776925,2022-11-08,deluxe
+2022,NY-04,House,0,Anthony P. D'Esposito,REP,0.223075,2022-11-08,deluxe
+2022,NY-03,House,0,Robert P. Zimmerman,DEM,0.6826,2022-11-08,deluxe
+2022,NY-03,House,0,George A.D. Santos,REP,0.3174,2022-11-08,deluxe
+2022,NY-26,House,0,Brian Higgins,DEM,0.998775,2022-11-08,deluxe
+2022,NY-26,House,0,Steven L. Sams II,REP,0.001225,2022-11-08,deluxe
+2022,NY-25,House,0,Joseph D. Morelle,DEM,0.962025,2022-11-08,deluxe
+2022,NY-25,House,0,La'Ron D. Singletary,REP,0.037975,2022-11-08,deluxe
+2022,NY-24,House,0,Steven Holden,DEM,0.00305,2022-11-08,deluxe
+2022,NY-24,House,0,Claudia Tenney,REP,0.99695,2022-11-08,deluxe
+2022,NY-23,House,0,Max H. Della Pia,DEM,0.001025,2022-11-08,deluxe
+2022,NY-23,House,0,Nick Langworthy,REP,0.998975,2022-11-08,deluxe
+2022,NY-22,House,0,Francis Conole,DEM,0.357975,2022-11-08,deluxe
+2022,NY-22,House,0,Brandon M. Williams,REP,0.642025,2022-11-08,deluxe
+2022,NY-02,House,0,Jackie Gordon,DEM,0.035575,2022-11-08,deluxe
+2022,NY-02,House,0,Andrew R. Garbarino,REP,0.964425,2022-11-08,deluxe
+2022,NY-21,House,0,Matt Castelli,DEM,0.003125,2022-11-08,deluxe
+2022,NY-21,House,0,Elise M. Stefanik,REP,0.996875,2022-11-08,deluxe
+2022,NY-20,House,0,Paul D. Tonko,DEM,0.985725,2022-11-08,deluxe
+2022,NY-20,House,0,Elizabeth L. Joy,REP,0.014275,2022-11-08,deluxe
+2022,NY-19,House,0,Josh Riley,DEM,0.5756,2022-11-08,deluxe
+2022,NY-19,House,0,Marcus Molinaro,REP,0.4244,2022-11-08,deluxe
+2022,NY-18,House,0,Pat Ryan,DEM,0.712275,2022-11-08,deluxe
+2022,NY-18,House,0,Colin J. Schmitt,REP,0.287725,2022-11-08,deluxe
+2022,NY-17,House,0,Sean Patrick Maloney,DEM,0.70085,2022-11-08,deluxe
+2022,NY-17,House,0,Michael V. Lawler,REP,0.29915,2022-11-08,deluxe
+2022,NY-16,House,0,Jamaal Bowman,DEM,1.0,2022-11-08,deluxe
+2022,NY-15,House,0,Ritchie J. Torres,DEM,1.0,2022-11-08,deluxe
+2022,NY-14,House,0,Alexandria Ocasio-Cortez,DEM,0.999975,2022-11-08,deluxe
+2022,NY-14,House,0,Tina Forte,REP,2.5e-05,2022-11-08,deluxe
+2022,NY-13,House,0,Adriano Espaillat,DEM,1.0,2022-11-08,deluxe
+2022,NY-12,House,0,Jerrold L. Nadler,DEM,1.0,2022-11-08,deluxe
+2022,NY-01,House,0,Bridget Fleming,DEM,0.22645,2022-11-08,deluxe
+2022,NY-01,House,0,Nicholas J. LaLota,REP,0.77355,2022-11-08,deluxe
+2022,NY-11,House,0,Max N. Rose,DEM,0.0273,2022-11-08,deluxe
+2022,NY-11,House,0,Nicole Malliotakis,REP,0.9727,2022-11-08,deluxe
+2022,NY-10,House,0,Daniel Goldman,DEM,1.0,2022-11-08,deluxe
+2022,NV-04,House,0,Steven A. Horsford,DEM,0.833425,2022-11-08,deluxe
+2022,NV-04,House,0,Sam Peters,REP,0.166575,2022-11-08,deluxe
+2022,NV-03,House,0,Susie Lee,DEM,0.615125,2022-11-08,deluxe
+2022,NV-03,House,0,April Becker,REP,0.384875,2022-11-08,deluxe
+2022,NV-02,House,0,Elizabeth Mercedes Krause,DEM,0.00015,2022-11-08,deluxe
+2022,NV-02,House,0,Mark E. Amodei,REP,0.99985,2022-11-08,deluxe
+2022,NV-01,House,0,Dina Titus,DEM,0.532225,2022-11-08,deluxe
+2022,NV-01,House,0,Mark Robertson,REP,0.46775,2022-11-08,deluxe
+2022,NV-01,House,0,Ken Cavanaugh,IND,2.5e-05,2022-11-08,deluxe
+2022,NM-03,House,0,Teresa Leger Fernandez,DEM,0.991875,2022-11-08,deluxe
+2022,NM-03,House,0,Alexis Martinez Johnson,REP,0.008125,2022-11-08,deluxe
+2022,NM-02,House,0,Gabriel Vasquez,DEM,0.22435,2022-11-08,deluxe
+2022,NM-02,House,0,Yvette Herrell,REP,0.77565,2022-11-08,deluxe
+2022,NM-01,House,0,Melanie Ann Stansbury,DEM,0.9863,2022-11-08,deluxe
+2022,NM-01,House,0,Michelle Garcia Holmes,REP,0.0137,2022-11-08,deluxe
+2022,NJ-09,House,0,Bill Pascrell Jr.,DEM,0.9962,2022-11-08,deluxe
+2022,NJ-09,House,0,Billy Prempeh,REP,0.0038,2022-11-08,deluxe
+2022,NJ-08,House,0,Robert J. Menendez,DEM,1.0,2022-11-08,deluxe
+2022,NJ-07,House,0,Tom Malinowski,DEM,0.283625,2022-11-08,deluxe
+2022,NJ-07,House,0,Thomas H. Kean Jr.,REP,0.716375,2022-11-08,deluxe
+2022,NJ-06,House,0,Frank Pallone Jr.,DEM,0.973625,2022-11-08,deluxe
+2022,NJ-06,House,0,Susan M. Kiley,REP,0.026375,2022-11-08,deluxe
+2022,NJ-05,House,0,Josh Gottheimer,DEM,0.9244,2022-11-08,deluxe
+2022,NJ-05,House,0,Frank T. Pallotta,REP,0.0756,2022-11-08,deluxe
+2022,NJ-04,House,0,Christopher H. Smith,REP,1.0,2022-11-08,deluxe
+2022,NJ-03,House,0,Andy Kim,DEM,0.84885,2022-11-08,deluxe
+2022,NJ-03,House,0,Bob Healey,REP,0.15115,2022-11-08,deluxe
+2022,NJ-02,House,0,Tim Alexander,DEM,0.00445,2022-11-08,deluxe
+2022,NJ-02,House,0,Jeff Van Drew,REP,0.99555,2022-11-08,deluxe
+2022,NJ-12,House,0,Bonnie Watson Coleman,DEM,0.99945,2022-11-08,deluxe
+2022,NJ-12,House,0,Darius Mayfield,REP,0.00055,2022-11-08,deluxe
+2022,NJ-01,House,0,Donald W. Norcross,DEM,0.995225,2022-11-08,deluxe
+2022,NJ-01,House,0,Claire Gustafson,REP,0.004775,2022-11-08,deluxe
+2022,NJ-11,House,0,Mikie Sherrill,DEM,0.96515,2022-11-08,deluxe
+2022,NJ-11,House,0,Paul DeGroot,REP,0.03485,2022-11-08,deluxe
+2022,NJ-10,House,0,Donald M. Payne Jr.,DEM,1.0,2022-11-08,deluxe
+2022,NH-02,House,0,Ann McLane Kuster,DEM,0.934225,2022-11-08,deluxe
+2022,NH-02,House,0,Robert Burns,REP,0.065775,2022-11-08,deluxe
+2022,NH-01,House,0,Chris Pappas,DEM,0.669925,2022-11-08,deluxe
+2022,NH-01,House,0,Karoline Leavitt,REP,0.330075,2022-11-08,deluxe
+2022,NE-03,House,0,Adrian Smith,REP,1.0,2022-11-08,deluxe
+2022,NE-02,House,0,Tony Vargas,DEM,0.079925,2022-11-08,deluxe
+2022,NE-02,House,0,Don Bacon,REP,0.920075,2022-11-08,deluxe
+2022,NE-01,House,0,Patty Pansing Brooks,DEM,0.001525,2022-11-08,deluxe
+2022,NE-01,House,0,Mike Flood,REP,0.998475,2022-11-08,deluxe
+2022,ND-AL,House,0,Kelly Armstrong,REP,0.998375,2022-11-08,deluxe
+2022,ND-AL,House,0,Cara Mund,IND,0.001625,2022-11-08,deluxe
+2022,NC-09,House,0,Ben Clark,DEM,0.006025,2022-11-08,deluxe
+2022,NC-09,House,0,Richard Hudson,REP,0.993975,2022-11-08,deluxe
+2022,NC-08,House,0,Scott Huffman,DEM,2.5e-05,2022-11-08,deluxe
+2022,NC-08,House,0,Dan Bishop,REP,0.999975,2022-11-08,deluxe
+2022,NC-07,House,0,Charles Graham,DEM,0.001975,2022-11-08,deluxe
+2022,NC-07,House,0,David Rouzer,REP,0.998025,2022-11-08,deluxe
+2022,NC-06,House,0,Kathy Manning,DEM,0.9811,2022-11-08,deluxe
+2022,NC-06,House,0,Christian Castelli,REP,0.0189,2022-11-08,deluxe
+2022,NC-05,House,0,Kyle Parrish,DEM,0.000125,2022-11-08,deluxe
+2022,NC-05,House,0,Virginia Foxx,REP,0.999875,2022-11-08,deluxe
+2022,NC-04,House,0,Valerie P. Foushee,DEM,0.999775,2022-11-08,deluxe
+2022,NC-04,House,0,Courtney Geels,REP,0.000225,2022-11-08,deluxe
+2022,NC-03,House,0,Barbara D. Gaskins,DEM,2.5e-05,2022-11-08,deluxe
+2022,NC-03,House,0,Greg Murphy,REP,0.999975,2022-11-08,deluxe
+2022,NC-02,House,0,Deborah K. Ross,DEM,0.99865,2022-11-08,deluxe
+2022,NC-02,House,0,Christine E. Villaverde,REP,0.00135,2022-11-08,deluxe
+2022,NC-14,House,0,Jeff Jackson,DEM,0.98475,2022-11-08,deluxe
+2022,NC-14,House,0,Pat Harrigan,REP,0.01525,2022-11-08,deluxe
+2022,NC-13,House,0,Wiley Nickel,DEM,0.233675,2022-11-08,deluxe
+2022,NC-13,House,0,Bo Hines,REP,0.766325,2022-11-08,deluxe
+2022,NC-12,House,0,Alma S. Adams,DEM,0.99965,2022-11-08,deluxe
+2022,NC-12,House,0,Tyler Lee,REP,0.00035,2022-11-08,deluxe
+2022,NC-01,House,0,Don Davis,DEM,0.9638,2022-11-08,deluxe
+2022,NC-01,House,0,Sandy Smith,REP,0.0362,2022-11-08,deluxe
+2022,NC-11,House,0,Jasmine Beach-Ferrara,DEM,0.0058,2022-11-08,deluxe
+2022,NC-11,House,0,Chuck Edwards,REP,0.994175,2022-11-08,deluxe
+2022,NC-11,House,0,David Adam Coatney,IND,2.5e-05,2022-11-08,deluxe
+2022,NC-10,House,0,Patrick McHenry,REP,1.0,2022-11-08,deluxe
+2022,MT-02,House,0,Penny Ronning,DEM,0.000375,2022-11-08,deluxe
+2022,MT-02,House,0,Matt Rosendale,REP,0.999625,2022-11-08,deluxe
+2022,MT-01,House,0,Monica Tranel,DEM,0.0569,2022-11-08,deluxe
+2022,MT-01,House,0,Ryan K. Zinke,REP,0.94305,2022-11-08,deluxe
+2022,MT-01,House,0,John Lamb,IND,5e-05,2022-11-08,deluxe
+2022,MS-04,House,0,Mike Ezell,REP,1.0,2022-11-08,deluxe
+2022,MS-03,House,0,Shuwaski A. Young,DEM,2.5e-05,2022-11-08,deluxe
+2022,MS-03,House,0,Michael Guest,REP,0.999975,2022-11-08,deluxe
+2022,MS-02,House,0,Bennie G. Thompson,DEM,0.998,2022-11-08,deluxe
+2022,MS-02,House,0,Brian Flowers,REP,0.002,2022-11-08,deluxe
+2022,MS-01,House,0,Trent Kelly,REP,1.0,2022-11-08,deluxe
+2022,MO-08,House,0,Jason Smith,REP,1.0,2022-11-08,deluxe
+2022,MO-07,House,0,Eric Burlison,REP,1.0,2022-11-08,deluxe
+2022,MO-06,House,0,Henry Martin,DEM,2.5e-05,2022-11-08,deluxe
+2022,MO-06,House,0,Sam Graves,REP,0.999975,2022-11-08,deluxe
+2022,MO-05,House,0,"Emanuel Cleaver, II",DEM,0.997425,2022-11-08,deluxe
+2022,MO-05,House,0,Jacob Turk,REP,0.002575,2022-11-08,deluxe
+2022,MO-04,House,0,Mark Alford,REP,1.0,2022-11-08,deluxe
+2022,MO-03,House,0,Bethany Mann,DEM,2.5e-05,2022-11-08,deluxe
+2022,MO-03,House,0,Blaine Luetkemeyer,REP,0.999975,2022-11-08,deluxe
+2022,MO-02,House,0,Trish Gunby,DEM,0.00835,2022-11-08,deluxe
+2022,MO-02,House,0,Ann Wagner,REP,0.99165,2022-11-08,deluxe
+2022,MO-01,House,0,Cori Bush,DEM,1.0,2022-11-08,deluxe
+2022,MN-08,House,0,Jen Schultz,DEM,0.00205,2022-11-08,deluxe
+2022,MN-08,House,0,Pete Stauber,REP,0.99795,2022-11-08,deluxe
+2022,MN-07,House,0,Michelle Fischbach,REP,1.0,2022-11-08,deluxe
+2022,MN-06,House,0,Jeanne Hendricks,DEM,0.0003,2022-11-08,deluxe
+2022,MN-06,House,0,Tom Emmer,REP,0.9997,2022-11-08,deluxe
+2022,MN-05,House,0,Ilhan Omar,DEM,0.999975,2022-11-08,deluxe
+2022,MN-05,House,0,Cicely Davis,REP,2.5e-05,2022-11-08,deluxe
+2022,MN-04,House,0,Betty McCollum,DEM,0.999825,2022-11-08,deluxe
+2022,MN-04,House,0,May Lor Xiong,REP,0.000175,2022-11-08,deluxe
+2022,MN-03,House,0,Dean Phillips,DEM,0.997025,2022-11-08,deluxe
+2022,MN-03,House,0,Tom Weiler,REP,0.002975,2022-11-08,deluxe
+2022,MN-02,House,0,Angie Craig,DEM,0.7995,2022-11-08,deluxe
+2022,MN-02,House,0,Tyler Kistner,REP,0.2005,2022-11-08,deluxe
+2022,MN-01,House,0,Jeff Ettinger,DEM,0.0211,2022-11-08,deluxe
+2022,MN-01,House,0,Brad Finstad,REP,0.9789,2022-11-08,deluxe
+2022,MI-09,House,0,Brian Jaye,DEM,2.5e-05,2022-11-08,deluxe
+2022,MI-09,House,0,Lisa McClain,REP,0.999975,2022-11-08,deluxe
+2022,MI-08,House,0,Daniel T. Kildee,DEM,0.832025,2022-11-08,deluxe
+2022,MI-08,House,0,Paul Junge,REP,0.167975,2022-11-08,deluxe
+2022,MI-07,House,0,Elissa Slotkin,DEM,0.653025,2022-11-08,deluxe
+2022,MI-07,House,0,Tom Barrett,REP,0.34695,2022-11-08,deluxe
+2022,MI-07,House,0,Leah Dailey,IND,2.5e-05,2022-11-08,deluxe
+2022,MI-06,House,0,Debbie Dingell,DEM,0.99925,2022-11-08,deluxe
+2022,MI-06,House,0,Whittney Williams,REP,0.00075,2022-11-08,deluxe
+2022,MI-05,House,0,Bart Goldberg,DEM,5e-05,2022-11-08,deluxe
+2022,MI-05,House,0,Tim Walberg,REP,0.99995,2022-11-08,deluxe
+2022,MI-04,House,0,Joseph Alfonso,DEM,0.005125,2022-11-08,deluxe
+2022,MI-04,House,0,Bill Huizenga,REP,0.994875,2022-11-08,deluxe
+2022,MI-03,House,0,Hillary Scholten,DEM,0.591125,2022-11-08,deluxe
+2022,MI-03,House,0,John Gibbs,REP,0.408875,2022-11-08,deluxe
+2022,MI-02,House,0,John Moolenaar,REP,1.0,2022-11-08,deluxe
+2022,MI-13,House,0,Shri Thanedar,DEM,1.0,2022-11-08,deluxe
+2022,MI-12,House,0,Rashida Tlaib,DEM,1.0,2022-11-08,deluxe
+2022,MI-01,House,0,Bob Lorinser,DEM,0.000725,2022-11-08,deluxe
+2022,MI-01,House,0,Jack Bergman,REP,0.999275,2022-11-08,deluxe
+2022,MI-11,House,0,Haley Stevens,DEM,0.982325,2022-11-08,deluxe
+2022,MI-11,House,0,Mark Ambrose,REP,0.017675,2022-11-08,deluxe
+2022,MI-10,House,0,Carl J. Marlinga,DEM,0.2145,2022-11-08,deluxe
+2022,MI-10,House,0,John James,REP,0.7855,2022-11-08,deluxe
+2022,ME-02,House,0,Jared Forrest Golden,DEM,0.66905,2022-11-08,deluxe
+2022,ME-02,House,0,Bruce Poliquin,REP,0.33095,2022-11-08,deluxe
+2022,ME-01,House,0,Chellie M. Pingree,DEM,0.997125,2022-11-08,deluxe
+2022,ME-01,House,0,Edwin Thelander,REP,0.002875,2022-11-08,deluxe
+2022,MD-08,House,0,Jamie Raskin,DEM,0.999975,2022-11-08,deluxe
+2022,MD-08,House,0,Gregory Thomas Coll,REP,2.5e-05,2022-11-08,deluxe
+2022,MD-07,House,0,Kweisi Mfume,DEM,1.0,2022-11-08,deluxe
+2022,MD-06,House,0,David J. Trone,DEM,0.7151,2022-11-08,deluxe
+2022,MD-06,House,0,Neil C. Parrott,REP,0.2849,2022-11-08,deluxe
+2022,MD-05,House,0,Steny Hoyer,DEM,0.999775,2022-11-08,deluxe
+2022,MD-05,House,0,Chris Palombi,REP,0.000225,2022-11-08,deluxe
+2022,MD-04,House,0,Glenn F. Ivey,DEM,1.0,2022-11-08,deluxe
+2022,MD-03,House,0,John Sarbanes,DEM,0.977325,2022-11-08,deluxe
+2022,MD-03,House,0,Yuripzy Morgan,REP,0.022675,2022-11-08,deluxe
+2022,MD-02,House,0,C.A. Dutch Ruppersberger,DEM,0.991575,2022-11-08,deluxe
+2022,MD-02,House,0,Nicolee Ambrose,REP,0.008425,2022-11-08,deluxe
+2022,MD-01,House,0,Heather R. Mizeur,DEM,0.0108,2022-11-08,deluxe
+2022,MD-01,House,0,Andy Harris,REP,0.9892,2022-11-08,deluxe
+2022,MA-09,House,0,Bill Keating,DEM,0.991225,2022-11-08,deluxe
+2022,MA-09,House,0,Jesse G. Brown,REP,0.008775,2022-11-08,deluxe
+2022,MA-08,House,0,Stephen F. Lynch,DEM,0.99995,2022-11-08,deluxe
+2022,MA-08,House,0,Robert G. Burke,REP,5e-05,2022-11-08,deluxe
+2022,MA-07,House,0,Ayanna S. Pressley,DEM,1.0,2022-11-08,deluxe
+2022,MA-06,House,0,Seth Moulton,DEM,0.99935,2022-11-08,deluxe
+2022,MA-06,House,0,Bob May,REP,0.00065,2022-11-08,deluxe
+2022,MA-05,House,0,Katherine M. Clark,DEM,1.0,2022-11-08,deluxe
+2022,MA-04,House,0,Jake Auchincloss,DEM,1.0,2022-11-08,deluxe
+2022,MA-03,House,0,Lori Loureiro Trahan,DEM,0.999475,2022-11-08,deluxe
+2022,MA-03,House,0,Dean A. Tran,REP,0.000525,2022-11-08,deluxe
+2022,MA-02,House,0,James P. McGovern,DEM,0.999375,2022-11-08,deluxe
+2022,MA-02,House,0,Jeffrey A. Sossa-Paquette,REP,0.000625,2022-11-08,deluxe
+2022,MA-01,House,0,Richard E. Neal,DEM,0.9993,2022-11-08,deluxe
+2022,MA-01,House,0,Dean James Martilli,REP,0.0007,2022-11-08,deluxe
+2022,LA-06,House,0,Garret Graves,REP,1.0,2022-11-08,deluxe
+2022,LA-05,House,0,Oscar “Omar” Dantzler,DEM,0.000175,2022-11-08,deluxe
+2022,LA-05,House,0,Walter Earl Huff,DEM,0.0002,2022-11-08,deluxe
+2022,LA-05,House,0,Julia Letlow,REP,0.918575,2022-11-08,deluxe
+2022,LA-05,House,0,Allen Guillory,REP,0.040175,2022-11-08,deluxe
+2022,LA-05,House,0,Hunter Pullen,REP,0.040875,2022-11-08,deluxe
+2022,LA-04,House,0,“Mike” Johnson,REP,1.0,2022-11-08,deluxe
+2022,LA-03,House,0,Tia Lebrun,DEM,0.0002,2022-11-08,deluxe
+2022,LA-03,House,0,Lessie Olivia Leblanc,DEM,0.0001,2022-11-08,deluxe
+2022,LA-03,House,0,Clay Higgins,REP,0.87615,2022-11-08,deluxe
+2022,LA-03,House,0,Jake Shaheen,REP,0.038025,2022-11-08,deluxe
+2022,LA-03,House,0,Thomas Payne Jr.,REP,0.047375,2022-11-08,deluxe
+2022,LA-03,House,0,Holden Hoggatt,REP,0.03815,2022-11-08,deluxe
+2022,LA-02,House,0,Troy A. Carter,DEM,1.0,2022-11-08,deluxe
+2022,LA-01,House,0,Steve Scalise,REP,1.0,2022-11-08,deluxe
+2022,KY-06,House,0,Geoffrey M. “Geoff” Young,DEM,0.0008,2022-11-08,deluxe
+2022,KY-06,House,0,Andy Barr,REP,0.9992,2022-11-08,deluxe
+2022,KY-05,House,0,Harold “Hal” Rogers,REP,1.0,2022-11-08,deluxe
+2022,KY-04,House,0,Matthew Lehman,DEM,0.000175,2022-11-08,deluxe
+2022,KY-04,House,0,Thomas Massie,REP,0.999825,2022-11-08,deluxe
+2022,KY-03,House,0,Morgan McGarvey,DEM,0.996825,2022-11-08,deluxe
+2022,KY-03,House,0,Stuart N. Ray,REP,0.003175,2022-11-08,deluxe
+2022,KY-02,House,0,S. Brett Guthrie,REP,1.0,2022-11-08,deluxe
+2022,KY-01,House,0,James R. Comer,REP,1.0,2022-11-08,deluxe
+2022,KS-04,House,0,Bob Hernandez,DEM,7.5e-05,2022-11-08,deluxe
+2022,KS-04,House,0,Ron Estes,REP,0.999925,2022-11-08,deluxe
+2022,KS-03,House,0,Sharice Davids,DEM,0.842475,2022-11-08,deluxe
+2022,KS-03,House,0,Amanda L. Adkins,REP,0.1575,2022-11-08,deluxe
+2022,KS-03,House,0,Steven A. Hohe,IND,2.5e-05,2022-11-08,deluxe
+2022,KS-02,House,0,Patrick Schmidt,DEM,0.002825,2022-11-08,deluxe
+2022,KS-02,House,0,Jake LaTurner,REP,0.997175,2022-11-08,deluxe
+2022,KS-01,House,0,Tracey Mann,REP,1.0,2022-11-08,deluxe
+2022,IN-09,House,0,Matthew Fyfe,DEM,7.5e-05,2022-11-08,deluxe
+2022,IN-09,House,0,Erin Houchin,REP,0.999925,2022-11-08,deluxe
+2022,IN-08,House,0,Ray McCormick,DEM,5e-05,2022-11-08,deluxe
+2022,IN-08,House,0,Larry D. Bucshon,REP,0.99995,2022-11-08,deluxe
+2022,IN-07,House,0,André D. Carson,DEM,0.9996,2022-11-08,deluxe
+2022,IN-07,House,0,Angela Grabovsky,REP,0.0004,2022-11-08,deluxe
+2022,IN-06,House,0,Greg Pence,REP,1.0,2022-11-08,deluxe
+2022,IN-05,House,0,Jeannine Lee Lake,DEM,0.0008,2022-11-08,deluxe
+2022,IN-05,House,0,Victoria Spartz,REP,0.9992,2022-11-08,deluxe
+2022,IN-04,House,0,Jim Baird,REP,1.0,2022-11-08,deluxe
+2022,IN-03,House,0,Gary L. Snyder,DEM,2.5e-05,2022-11-08,deluxe
+2022,IN-03,House,0,Jim Banks,REP,0.99995,2022-11-08,deluxe
+2022,IN-03,House,0,Nathan Gotsch,IND,2.5e-05,2022-11-08,deluxe
+2022,IN-02,House,0,Paul D. Steury,DEM,0.000275,2022-11-08,deluxe
+2022,IN-02,House,0,Rudolph Yakym,REP,0.999725,2022-11-08,deluxe
+2022,IN-01,House,0,Frank J. Mrvan,DEM,0.9112,2022-11-08,deluxe
+2022,IN-01,House,0,Jennifer-Ruth Green,REP,0.0888,2022-11-08,deluxe
+2022,IL-09,House,0,Janice D. Schakowsky,DEM,0.999975,2022-11-08,deluxe
+2022,IL-09,House,0,Maxwell “Max” Rice,REP,2.5e-05,2022-11-08,deluxe
+2022,IL-08,House,0,Raja Krishnamoorthi,DEM,0.98535,2022-11-08,deluxe
+2022,IL-08,House,0,Chris Dargis,REP,0.01465,2022-11-08,deluxe
+2022,IL-07,House,0,Danny K. Davis,DEM,1.0,2022-11-08,deluxe
+2022,IL-06,House,0,Sean Casten,DEM,0.673125,2022-11-08,deluxe
+2022,IL-06,House,0,Keith Pekau,REP,0.326875,2022-11-08,deluxe
+2022,IL-05,House,0,Mike Quigley,DEM,0.999925,2022-11-08,deluxe
+2022,IL-05,House,0,Tommy Hanson,REP,7.5e-05,2022-11-08,deluxe
+2022,IL-04,House,0,Jesus “Chuy” Garcia,DEM,1.0,2022-11-08,deluxe
+2022,IL-03,House,0,Delia Ramirez,DEM,0.999975,2022-11-08,deluxe
+2022,IL-03,House,0,Justin Burau,REP,2.5e-05,2022-11-08,deluxe
+2022,IL-02,House,0,Robin Kelly,DEM,1.0,2022-11-08,deluxe
+2022,IL-17,House,0,Eric Sorensen,DEM,0.621775,2022-11-08,deluxe
+2022,IL-17,House,0,Esther Joy King,REP,0.378225,2022-11-08,deluxe
+2022,IL-16,House,0,Elizabeth Haderlein,DEM,5e-05,2022-11-08,deluxe
+2022,IL-16,House,0,Darin LaHood,REP,0.99995,2022-11-08,deluxe
+2022,IL-15,House,0,Mary Miller,REP,1.0,2022-11-08,deluxe
+2022,IL-14,House,0,Lauren Underwood,DEM,0.780325,2022-11-08,deluxe
+2022,IL-14,House,0,Scott R. Gryder,REP,0.219675,2022-11-08,deluxe
+2022,IL-13,House,0,Nikki Budzinski,DEM,0.8617,2022-11-08,deluxe
+2022,IL-13,House,0,Regan Deering,REP,0.1383,2022-11-08,deluxe
+2022,IL-12,House,0,Mike Bost,REP,1.0,2022-11-08,deluxe
+2022,IL-01,House,0,Jonathan L. Jackson,DEM,1.0,2022-11-08,deluxe
+2022,IL-11,House,0,Bill Foster,DEM,0.9607,2022-11-08,deluxe
+2022,IL-11,House,0,Catalina Lauf,REP,0.0393,2022-11-08,deluxe
+2022,IL-10,House,0,Brad Schneider,DEM,0.99495,2022-11-08,deluxe
+2022,IL-10,House,0,Joseph Severino,REP,0.00505,2022-11-08,deluxe
+2022,ID-02,House,0,Wendy Norman,DEM,0.0001,2022-11-08,deluxe
+2022,ID-02,House,0,Mike Simpson,REP,0.9999,2022-11-08,deluxe
+2022,ID-01,House,0,Russ Fulcher,REP,1.0,2022-11-08,deluxe
+2022,IA-04,House,0,Ryan Melton,DEM,0.0001,2022-11-08,deluxe
+2022,IA-04,House,0,Randy Feenstra,REP,0.9999,2022-11-08,deluxe
+2022,IA-03,House,0,Cindy Axne,DEM,0.422525,2022-11-08,deluxe
+2022,IA-03,House,0,Zach Nunn,REP,0.577475,2022-11-08,deluxe
+2022,IA-02,House,0,Liz Mathis,DEM,0.06515,2022-11-08,deluxe
+2022,IA-02,House,0,Ashley Hinson,REP,0.93485,2022-11-08,deluxe
+2022,IA-01,House,0,Christina Bohannan,DEM,0.05865,2022-11-08,deluxe
+2022,IA-01,House,0,Mariannette Miller-Meeks,REP,0.94135,2022-11-08,deluxe
+2022,HI-02,House,0,Jill N. Tokuda,DEM,0.999475,2022-11-08,deluxe
+2022,HI-02,House,0,Joe Akana,REP,0.000525,2022-11-08,deluxe
+2022,HI-01,House,0,Ed Case,DEM,0.999575,2022-11-08,deluxe
+2022,HI-01,House,0,Conrad Kress,REP,0.000425,2022-11-08,deluxe
+2022,GA-09,House,0,Andrew Clyde,REP,1.0,2022-11-08,deluxe
+2022,GA-08,House,0,Austin Scott,REP,1.0,2022-11-08,deluxe
+2022,GA-07,House,0,Lucy McBath,DEM,0.989075,2022-11-08,deluxe
+2022,GA-07,House,0,Mark Gonsalves,REP,0.010925,2022-11-08,deluxe
+2022,GA-06,House,0,Bob Christian,DEM,0.000525,2022-11-08,deluxe
+2022,GA-06,House,0,Rich McCormick,REP,0.999475,2022-11-08,deluxe
+2022,GA-05,House,0,Nikema Williams,DEM,1.0,2022-11-08,deluxe
+2022,GA-04,House,0,Henry C. “Hank” Johnson Jr.,DEM,1.0,2022-11-08,deluxe
+2022,GA-03,House,0,Drew Ferguson,REP,1.0,2022-11-08,deluxe
+2022,GA-02,House,0,Sanford Bishop,DEM,0.908275,2022-11-08,deluxe
+2022,GA-02,House,0,Chris West,REP,0.091725,2022-11-08,deluxe
+2022,GA-14,House,0,Marcus Flowers,DEM,2.5e-05,2022-11-08,deluxe
+2022,GA-14,House,0,Marjorie Taylor Greene,REP,0.999975,2022-11-08,deluxe
+2022,GA-13,House,0,David Scott,DEM,0.999975,2022-11-08,deluxe
+2022,GA-13,House,0,Caesar Gonzales,REP,2.5e-05,2022-11-08,deluxe
+2022,GA-12,House,0,Elizabeth “Liz” Johnson,DEM,0.0005,2022-11-08,deluxe
+2022,GA-12,House,0,Rick W. Allen,REP,0.9995,2022-11-08,deluxe
+2022,GA-01,House,0,Wade Herring,DEM,0.00095,2022-11-08,deluxe
+2022,GA-01,House,0,Earl L. “Buddy” Carter,REP,0.99905,2022-11-08,deluxe
+2022,GA-11,House,0,Antonio Daza,DEM,0.000125,2022-11-08,deluxe
+2022,GA-11,House,0,Barry Loudermilk,REP,0.999875,2022-11-08,deluxe
+2022,GA-10,House,0,Mike Collins,REP,1.0,2022-11-08,deluxe
+2022,FL-09,House,0,Darren Soto,DEM,0.9592,2022-11-08,deluxe
+2022,FL-09,House,0,Scotty Moore,REP,0.0408,2022-11-08,deluxe
+2022,FL-08,House,0,Joanne Terry,DEM,0.000175,2022-11-08,deluxe
+2022,FL-08,House,0,Bill Posey,REP,0.999825,2022-11-08,deluxe
+2022,FL-07,House,0,Karen Green,DEM,0.004025,2022-11-08,deluxe
+2022,FL-07,House,0,Cory Mills,REP,0.995975,2022-11-08,deluxe
+2022,FL-06,House,0,Michael Waltz,REP,0.9999,2022-11-08,deluxe
+2022,FL-06,House,0,Joseph “Joe” Hannoush,IND,0.0001,2022-11-08,deluxe
+2022,FL-05,House,0,John Rutherford,REP,1.0,2022-11-08,deluxe
+2022,FL-04,House,0,LaShonda “L.J.” Holloway,DEM,0.003375,2022-11-08,deluxe
+2022,FL-04,House,0,Aaron Bean,REP,0.996625,2022-11-08,deluxe
+2022,FL-03,House,0,Danielle Hawk,DEM,0.0012,2022-11-08,deluxe
+2022,FL-03,House,0,Kat Cammack,REP,0.9988,2022-11-08,deluxe
+2022,FL-28,House,0,Robert Asencio,DEM,0.006525,2022-11-08,deluxe
+2022,FL-28,House,0,Carlos A. Gimenez,REP,0.993475,2022-11-08,deluxe
+2022,FL-27,House,0,Annette Taddeo,DEM,0.081475,2022-11-08,deluxe
+2022,FL-27,House,0,María Elvira Salazar,REP,0.918525,2022-11-08,deluxe
+2022,FL-26,House,0,Christine Alexandria Olivo,DEM,0.0008,2022-11-08,deluxe
+2022,FL-26,House,0,Mario Diaz-Balart,REP,0.9992,2022-11-08,deluxe
+2022,FL-25,House,0,Debbie Wasserman Schultz,DEM,0.99425,2022-11-08,deluxe
+2022,FL-25,House,0,Carla Spalding,REP,0.00575,2022-11-08,deluxe
+2022,FL-24,House,0,Frederica Wilson,DEM,1.0,2022-11-08,deluxe
+2022,FL-23,House,0,Jared Moskowitz,DEM,0.9322,2022-11-08,deluxe
+2022,FL-23,House,0,Joe Budd,REP,0.0678,2022-11-08,deluxe
+2022,FL-22,House,0,Lois Frankel,DEM,0.98945,2022-11-08,deluxe
+2022,FL-22,House,0,Dan Franzese,REP,0.01055,2022-11-08,deluxe
+2022,FL-02,House,0,Al Lawson,DEM,0.0133,2022-11-08,deluxe
+2022,FL-02,House,0,Neal Dunn,REP,0.9867,2022-11-08,deluxe
+2022,FL-21,House,0,Corinna Balderramos Robinson,DEM,0.0018,2022-11-08,deluxe
+2022,FL-21,House,0,Brian Mast,REP,0.9982,2022-11-08,deluxe
+2022,FL-20,House,0,Sheila Cherfilus-McCormick,DEM,1.0,2022-11-08,deluxe
+2022,FL-19,House,0,Cindy Banyai,DEM,2.5e-05,2022-11-08,deluxe
+2022,FL-19,House,0,Byron Donalds,REP,0.999975,2022-11-08,deluxe
+2022,FL-18,House,0,Scott Franklin,REP,0.999975,2022-11-08,deluxe
+2022,FL-18,House,0,Keith R. Hayden Jr.,IND,2.5e-05,2022-11-08,deluxe
+2022,FL-17,House,0,Andrea Doria Kale,DEM,0.0003,2022-11-08,deluxe
+2022,FL-17,House,0,Greg Steube,REP,0.9997,2022-11-08,deluxe
+2022,FL-16,House,0,Jan Schneider,DEM,0.001525,2022-11-08,deluxe
+2022,FL-16,House,0,Vern Buchanan,REP,0.998475,2022-11-08,deluxe
+2022,FL-15,House,0,Alan M. Cohn,DEM,0.02525,2022-11-08,deluxe
+2022,FL-15,House,0,Laurel Lee,REP,0.97475,2022-11-08,deluxe
+2022,FL-14,House,0,Kathy Castor,DEM,0.98665,2022-11-08,deluxe
+2022,FL-14,House,0,James Judge,REP,0.01335,2022-11-08,deluxe
+2022,FL-13,House,0,Eric Lynn,DEM,0.06735,2022-11-08,deluxe
+2022,FL-13,House,0,Anna Paulina Luna,REP,0.93265,2022-11-08,deluxe
+2022,FL-12,House,0,Gus Michael Bilirakis,REP,1.0,2022-11-08,deluxe
+2022,FL-01,House,0,Rebekah Jones,DEM,0.000975,2022-11-08,deluxe
+2022,FL-01,House,0,Matt Gaetz,REP,0.999025,2022-11-08,deluxe
+2022,FL-11,House,0,Shante Munns,DEM,0.000375,2022-11-08,deluxe
+2022,FL-11,House,0,Daniel Webster,REP,0.999625,2022-11-08,deluxe
+2022,FL-10,House,0,Maxwell Alejandro Frost,DEM,0.998375,2022-11-08,deluxe
+2022,FL-10,House,0,Calvin B. Wimbish,REP,0.001625,2022-11-08,deluxe
+2022,DE-AL,House,0,Lisa Blunt Rochester,DEM,0.9898,2022-11-08,deluxe
+2022,DE-AL,House,0,Lee Murphy,REP,0.0102,2022-11-08,deluxe
+2022,CT-05,House,0,Jahana Hayes,DEM,0.607275,2022-11-08,deluxe
+2022,CT-05,House,0,George Logan,REP,0.392725,2022-11-08,deluxe
+2022,CT-04,House,0,Jim Himes,DEM,0.9967,2022-11-08,deluxe
+2022,CT-04,House,0,Jayme Stevenson,REP,0.0033,2022-11-08,deluxe
+2022,CT-03,House,0,Rosa L. DeLauro,DEM,0.987275,2022-11-08,deluxe
+2022,CT-03,House,0,Lesley DeNardis,REP,0.012725,2022-11-08,deluxe
+2022,CT-02,House,0,Joe Courtney,DEM,0.966275,2022-11-08,deluxe
+2022,CT-02,House,0,Mike France,REP,0.033725,2022-11-08,deluxe
+2022,CT-01,House,0,John B. Larson,DEM,0.99845,2022-11-08,deluxe
+2022,CT-01,House,0,Larry Lazor,REP,0.00155,2022-11-08,deluxe
+2022,CO-08,House,0,Yadira Caraveo,DEM,0.089575,2022-11-08,deluxe
+2022,CO-08,House,0,Barbara Kirkmeyer,REP,0.910425,2022-11-08,deluxe
+2022,CO-07,House,0,Brittany Pettersen,DEM,0.8808,2022-11-08,deluxe
+2022,CO-07,House,0,Erik Aadland,REP,0.1192,2022-11-08,deluxe
+2022,CO-06,House,0,Jason Crow,DEM,0.986,2022-11-08,deluxe
+2022,CO-06,House,0,Steven Monahan,REP,0.013975,2022-11-08,deluxe
+2022,CO-06,House,0,Eric Mulder,IND,2.5e-05,2022-11-08,deluxe
+2022,CO-05,House,0,David Torres,DEM,0.002225,2022-11-08,deluxe
+2022,CO-05,House,0,Doug Lamborn,REP,0.997775,2022-11-08,deluxe
+2022,CO-04,House,0,Ike McCorkle,DEM,0.0005,2022-11-08,deluxe
+2022,CO-04,House,0,Ken Buck,REP,0.9995,2022-11-08,deluxe
+2022,CO-03,House,0,Adam Frisch,DEM,0.02555,2022-11-08,deluxe
+2022,CO-03,House,0,Lauren Boebert,REP,0.97445,2022-11-08,deluxe
+2022,CO-02,House,0,Joe Neguse,DEM,0.999725,2022-11-08,deluxe
+2022,CO-02,House,0,Marshall Dawson,REP,0.000275,2022-11-08,deluxe
+2022,CO-01,House,0,Diana DeGette,DEM,1.0,2022-11-08,deluxe
+2022,CA-09,House,0,Josh Harder,DEM,0.816725,2022-11-08,deluxe
+2022,CA-09,House,0,Tom Patti,REP,0.183275,2022-11-08,deluxe
+2022,CA-08,House,0,John Garamendi,DEM,1.0,2022-11-08,deluxe
+2022,CA-07,House,0,Doris Matsui,DEM,0.999975,2022-11-08,deluxe
+2022,CA-07,House,0,Max Semenenko,REP,2.5e-05,2022-11-08,deluxe
+2022,CA-06,House,0,Ami Bera,DEM,0.9872,2022-11-08,deluxe
+2022,CA-06,House,0,Tamika Hamilton,REP,0.0128,2022-11-08,deluxe
+2022,CA-52,House,0,Juan Vargas,DEM,0.99995,2022-11-08,deluxe
+2022,CA-52,House,0,Tyler Geffeney,REP,5e-05,2022-11-08,deluxe
+2022,CA-05,House,0,Michael J. “Mike” Barkley,DEM,0.0007,2022-11-08,deluxe
+2022,CA-05,House,0,Tom McClintock,REP,0.9993,2022-11-08,deluxe
+2022,CA-51,House,0,Sara Jacobs,DEM,0.999475,2022-11-08,deluxe
+2022,CA-51,House,0,Stan Caplan,REP,0.000525,2022-11-08,deluxe
+2022,CA-50,House,0,Scott Peters,DEM,0.99945,2022-11-08,deluxe
+2022,CA-50,House,0,Corey Gustafson,REP,0.00055,2022-11-08,deluxe
+2022,CA-49,House,0,Mike Levin,DEM,0.818025,2022-11-08,deluxe
+2022,CA-49,House,0,Brian Maryott,REP,0.181975,2022-11-08,deluxe
+2022,CA-48,House,0,Stephen Houlahan,DEM,0.004025,2022-11-08,deluxe
+2022,CA-48,House,0,Darrell Issa,REP,0.995975,2022-11-08,deluxe
+2022,CA-47,House,0,Katie Porter,DEM,0.7967,2022-11-08,deluxe
+2022,CA-47,House,0,Scott Baugh,REP,0.2033,2022-11-08,deluxe
+2022,CA-46,House,0,Lou Correa,DEM,0.99975,2022-11-08,deluxe
+2022,CA-46,House,0,Christopher J. Gonzales,REP,0.00025,2022-11-08,deluxe
+2022,CA-45,House,0,Jay F. Chen,DEM,0.193375,2022-11-08,deluxe
+2022,CA-45,House,0,Michelle Steel,REP,0.806625,2022-11-08,deluxe
+2022,CA-44,House,0,Nanette Diaz Barragan,DEM,1.0,2022-11-08,deluxe
+2022,CA-43,House,0,Maxine Waters,DEM,1.0,2022-11-08,deluxe
+2022,CA-42,House,0,Robert Garcia,DEM,1.0,2022-11-08,deluxe
+2022,CA-04,House,0,Mike Thompson,DEM,0.999975,2022-11-08,deluxe
+2022,CA-04,House,0,Matt Brock,REP,2.5e-05,2022-11-08,deluxe
+2022,CA-41,House,0,Will Rollins,DEM,0.053325,2022-11-08,deluxe
+2022,CA-41,House,0,Ken Calvert,REP,0.946675,2022-11-08,deluxe
+2022,CA-40,House,0,Asif Mahmood,DEM,0.019275,2022-11-08,deluxe
+2022,CA-40,House,0,Young Kim,REP,0.980725,2022-11-08,deluxe
+2022,CA-39,House,0,Mark Takano,DEM,0.996525,2022-11-08,deluxe
+2022,CA-39,House,0,Aja Smith,REP,0.003475,2022-11-08,deluxe
+2022,CA-38,House,0,Linda T. Sánchez,DEM,0.998625,2022-11-08,deluxe
+2022,CA-38,House,0,Eric J. Ching,REP,0.001375,2022-11-08,deluxe
+2022,CA-37,House,0,Sydney Kamlager,DEM,0.99445,2022-11-08,deluxe
+2022,CA-37,House,0,Jan C. Perry,DEM,0.00555,2022-11-08,deluxe
+2022,CA-36,House,0,Ted W. Lieu,DEM,0.999975,2022-11-08,deluxe
+2022,CA-36,House,0,Joe E. Collins III,REP,2.5e-05,2022-11-08,deluxe
+2022,CA-35,House,0,Norma J. Torres,DEM,0.99885,2022-11-08,deluxe
+2022,CA-35,House,0,Mike Cargile,REP,0.00115,2022-11-08,deluxe
+2022,CA-34,House,0,Jimmy Gomez,DEM,0.791075,2022-11-08,deluxe
+2022,CA-34,House,0,David Kim,DEM,0.208925,2022-11-08,deluxe
+2022,CA-33,House,0,Pete Aguilar,DEM,0.997825,2022-11-08,deluxe
+2022,CA-33,House,0,John Mark Porter,REP,0.002175,2022-11-08,deluxe
+2022,CA-32,House,0,Brad Sherman,DEM,0.999975,2022-11-08,deluxe
+2022,CA-32,House,0,Lucie Lapointe Volotzky,REP,2.5e-05,2022-11-08,deluxe
+2022,CA-03,House,0,Kermit Jones,DEM,0.0354,2022-11-08,deluxe
+2022,CA-03,House,0,Kevin Kiley,REP,0.9646,2022-11-08,deluxe
+2022,CA-31,House,0,Grace F. Napolitano,DEM,0.99965,2022-11-08,deluxe
+2022,CA-31,House,0,Daniel Bocic Martinez,REP,0.00035,2022-11-08,deluxe
+2022,CA-30,House,0,Adam B. Schiff,DEM,1.0,2022-11-08,deluxe
+2022,CA-29,House,0,Tony Cardenas,DEM,0.997525,2022-11-08,deluxe
+2022,CA-29,House,0,Angélica María Dueñas,DEM,0.002475,2022-11-08,deluxe
+2022,CA-28,House,0,Judy Chu,DEM,0.99995,2022-11-08,deluxe
+2022,CA-28,House,0,Wes Hallman,REP,5e-05,2022-11-08,deluxe
+2022,CA-27,House,0,Christy Smith,DEM,0.3664,2022-11-08,deluxe
+2022,CA-27,House,0,Mike Garcia,REP,0.6336,2022-11-08,deluxe
+2022,CA-26,House,0,Julia Brownley,DEM,0.960225,2022-11-08,deluxe
+2022,CA-26,House,0,Matt Jacobs,REP,0.039775,2022-11-08,deluxe
+2022,CA-25,House,0,Raul Ruiz,DEM,0.947875,2022-11-08,deluxe
+2022,CA-25,House,0,Brian E. Hawkins,REP,0.052125,2022-11-08,deluxe
+2022,CA-24,House,0,Salud Carbajal,DEM,0.999575,2022-11-08,deluxe
+2022,CA-24,House,0,Brad Allen,REP,0.000425,2022-11-08,deluxe
+2022,CA-23,House,0,Derek Marshall,DEM,0.002175,2022-11-08,deluxe
+2022,CA-23,House,0,Jay Obernolte,REP,0.997825,2022-11-08,deluxe
+2022,CA-22,House,0,Rudy Salas,DEM,0.391425,2022-11-08,deluxe
+2022,CA-22,House,0,David G. Valadao,REP,0.608575,2022-11-08,deluxe
+2022,CA-02,House,0,Jared Huffman,DEM,1.0,2022-11-08,deluxe
+2022,CA-21,House,0,Jim Costa,DEM,0.963225,2022-11-08,deluxe
+2022,CA-21,House,0,Michael Maher,REP,0.036775,2022-11-08,deluxe
+2022,CA-20,House,0,Marisa Wood,DEM,2.5e-05,2022-11-08,deluxe
+2022,CA-20,House,0,Kevin McCarthy,REP,0.999975,2022-11-08,deluxe
+2022,CA-19,House,0,Jimmy Panetta,DEM,1.0,2022-11-08,deluxe
+2022,CA-18,House,0,Zoe Lofgren,DEM,1.0,2022-11-08,deluxe
+2022,CA-17,House,0,Ro Khanna,DEM,1.0,2022-11-08,deluxe
+2022,CA-16,House,0,Anna G. Eshoo,DEM,0.99985,2022-11-08,deluxe
+2022,CA-16,House,0,Rishi Kumar,DEM,0.00015,2022-11-08,deluxe
+2022,CA-15,House,0,Kevin Mullin,DEM,0.927475,2022-11-08,deluxe
+2022,CA-15,House,0,David J. Canepa,DEM,0.072525,2022-11-08,deluxe
+2022,CA-14,House,0,Eric Swalwell,DEM,1.0,2022-11-08,deluxe
+2022,CA-13,House,0,Adam Gray,DEM,0.66565,2022-11-08,deluxe
+2022,CA-13,House,0,John Duarte,REP,0.33435,2022-11-08,deluxe
+2022,CA-12,House,0,Barbara Lee,DEM,1.0,2022-11-08,deluxe
+2022,CA-01,House,0,Max Steiner,DEM,0.0005,2022-11-08,deluxe
+2022,CA-01,House,0,Doug LaMalfa,REP,0.9995,2022-11-08,deluxe
+2022,CA-11,House,0,Nancy Pelosi,DEM,1.0,2022-11-08,deluxe
+2022,CA-10,House,0,Mark DeSaulnier,DEM,0.999625,2022-11-08,deluxe
+2022,CA-10,House,0,Michael Ernest Kerr,IND,0.000375,2022-11-08,deluxe
+2022,AZ-09,House,0,Paul Gosar,REP,1.0,2022-11-08,deluxe
+2022,AZ-08,House,0,Debbie Lesko,REP,1.0,2022-11-08,deluxe
+2022,AZ-07,House,0,Raúl Grijalva,DEM,0.995325,2022-11-08,deluxe
+2022,AZ-07,House,0,Luis Pozzolo,REP,0.004675,2022-11-08,deluxe
+2022,AZ-06,House,0,Kirsten Engel,DEM,0.065225,2022-11-08,deluxe
+2022,AZ-06,House,0,Juan Ciscomani,REP,0.934775,2022-11-08,deluxe
+2022,AZ-05,House,0,Javier Ramos,DEM,0.000375,2022-11-08,deluxe
+2022,AZ-05,House,0,Andy Biggs,REP,0.999625,2022-11-08,deluxe
+2022,AZ-04,House,0,Greg Stanton,DEM,0.93505,2022-11-08,deluxe
+2022,AZ-04,House,0,Kelly Cooper,REP,0.06495,2022-11-08,deluxe
+2022,AZ-03,House,0,Ruben Gallego,DEM,1.0,2022-11-08,deluxe
+2022,AZ-02,House,0,Tom O'Halleran,DEM,0.34165,2022-11-08,deluxe
+2022,AZ-02,House,0,Eli Crane,REP,0.65835,2022-11-08,deluxe
+2022,AZ-01,House,0,Jevin Hodge,DEM,0.0543,2022-11-08,deluxe
+2022,AZ-01,House,0,David Schweikert,REP,0.9457,2022-11-08,deluxe
+2022,AR-04,House,0,Bruce Westerman,REP,1.0,2022-11-08,deluxe
+2022,AR-03,House,0,Steve Womack,REP,0.999975,2022-11-08,deluxe
+2022,AR-03,House,0,Michael J. Kalagias,IND,2.5e-05,2022-11-08,deluxe
+2022,AR-02,House,0,Quintessa Hathaway,DEM,0.000425,2022-11-08,deluxe
+2022,AR-02,House,0,French Hill,REP,0.999575,2022-11-08,deluxe
+2022,AR-01,House,0,Rick Crawford,REP,1.0,2022-11-08,deluxe
+2022,AL-07,House,0,Terrycina Sewell,DEM,0.999875,2022-11-08,deluxe
+2022,AL-07,House,0,Beatrice Nichols,REP,7.5e-05,2022-11-08,deluxe
+2022,AL-07,House,0,Gavin Goodman,IND,5e-05,2022-11-08,deluxe
+2022,AL-06,House,0,Gary Palmer,REP,0.999975,2022-11-08,deluxe
+2022,AL-06,House,0,Andria Chieffo,IND,2.5e-05,2022-11-08,deluxe
+2022,AL-05,House,0,Kathy Warner-Stanton,DEM,5e-05,2022-11-08,deluxe
+2022,AL-05,House,0,Dale Strong,REP,0.99995,2022-11-08,deluxe
+2022,AL-04,House,0,Robert Aderholt,REP,1.0,2022-11-08,deluxe
+2022,AL-03,House,0,Mike Rogers,REP,1.0,2022-11-08,deluxe
+2022,AL-02,House,0,Phyllis Harvey-Hall,DEM,2.5e-05,2022-11-08,deluxe
+2022,AL-02,House,0,Barry Moore,REP,0.999975,2022-11-08,deluxe
+2022,AL-01,House,0,Jerry Carl,REP,0.99985,2022-11-08,deluxe
+2022,AL-01,House,0,Alexander M. Remrey,IND,0.00015,2022-11-08,deluxe
+2022,AK-AL,House,0,Mary S. Peltola,DEM,0.504,2022-11-08,deluxe
+2022,AK-AL,House,0,Sarah Palin,REP,0.329125,2022-11-08,deluxe
+2022,AK-AL,House,0,Nick Begich,REP,0.166525,2022-11-08,deluxe
+2022,AK-AL,House,0,Chris Bye,IND,0.00035,2022-11-08,deluxe
+2022,WI-SEN,Senate,0,Mandela Barnes,DEM,0.188675,2022-11-08,deluxe
+2022,WI-SEN,Senate,0,Ron Johnson,REP,0.811325,2022-11-08,deluxe
+2022,WA-SEN,Senate,0,Patty Murray,DEM,0.91665,2022-11-08,deluxe
+2022,WA-SEN,Senate,0,Tiffany Smiley,REP,0.08335,2022-11-08,deluxe
+2022,VT-SEN,Senate,0,Peter Welch,DEM,0.99985,2022-11-08,deluxe
+2022,VT-SEN,Senate,0,Gerald Malloy,REP,0.00015,2022-11-08,deluxe
+2022,UT-SEN,Senate,0,Mike Lee,REP,0.96225,2022-11-08,deluxe
+2022,UT-SEN,Senate,0,Evan McMullin,IND,0.03775,2022-11-08,deluxe
+2022,SD-SEN,Senate,0,Brian L. Bengs,DEM,0.000175,2022-11-08,deluxe
+2022,SD-SEN,Senate,0,John R. Thune,REP,0.999825,2022-11-08,deluxe
+2022,SC-SEN,Senate,0,Krystle Matthews,DEM,0.00065,2022-11-08,deluxe
+2022,SC-SEN,Senate,0,Tim Scott,REP,0.99935,2022-11-08,deluxe
+2022,PA-SEN,Senate,0,John Fetterman,DEM,0.4266,2022-11-08,deluxe
+2022,PA-SEN,Senate,0,Mehmet Oz,REP,0.5734,2022-11-08,deluxe
+2022,OR-SEN,Senate,0,Ron Wyden,DEM,0.9974,2022-11-08,deluxe
+2022,OR-SEN,Senate,0,Jo Rae Perkins,REP,0.0026,2022-11-08,deluxe
+2022,OK-SEN,Senate,0,Madison Horn,DEM,0.0006,2022-11-08,deluxe
+2022,OK-SEN,Senate,0,James Lankford,REP,0.9994,2022-11-08,deluxe
+2022,OK-SEN-S,Senate,1,Kendra Horn,DEM,0.002175,2022-11-08,deluxe
+2022,OK-SEN-S,Senate,1,Markwayne Mullin,REP,0.997825,2022-11-08,deluxe
+2022,OH-SEN,Senate,0,Tim Ryan,DEM,0.127425,2022-11-08,deluxe
+2022,OH-SEN,Senate,0,J.D. Vance,REP,0.872575,2022-11-08,deluxe
+2022,NY-SEN,Senate,0,Charles E. Schumer,DEM,0.997625,2022-11-08,deluxe
+2022,NY-SEN,Senate,0,Joe Pinion,REP,0.002375,2022-11-08,deluxe
+2022,NV-SEN,Senate,0,Catherine Cortez Masto,DEM,0.4878,2022-11-08,deluxe
+2022,NV-SEN,Senate,0,Adam Paul Laxalt,REP,0.5122,2022-11-08,deluxe
+2022,NH-SEN,Senate,0,Maggie Hassan,DEM,0.72495,2022-11-08,deluxe
+2022,NH-SEN,Senate,0,Donald C. Bolduc,REP,0.27505,2022-11-08,deluxe
+2022,ND-SEN,Senate,0,John Hoeven,REP,1.0,2022-11-08,deluxe
+2022,NC-SEN,Senate,0,Cheri Beasley,DEM,0.177725,2022-11-08,deluxe
+2022,NC-SEN,Senate,0,Ted Budd,REP,0.822275,2022-11-08,deluxe
+2022,MO-SEN,Senate,0,Trudy Busch Valentine,DEM,0.007775,2022-11-08,deluxe
+2022,MO-SEN,Senate,0,Eric Schmitt,REP,0.992225,2022-11-08,deluxe
+2022,MD-SEN,Senate,0,Chris Van Hollen,DEM,0.999725,2022-11-08,deluxe
+2022,MD-SEN,Senate,0,Chris Chaffee,REP,0.000275,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,Gary Chambers,DEM,0.00295,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,Luke Mixon,DEM,0.005925,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,Syrita Steib,DEM,0.001475,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,Salvador P. Rodriguez,DEM,0.001025,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,John Kennedy,REP,0.931875,2022-11-08,deluxe
+2022,LA-SEN,Senate,0,Devin Lance Graham,REP,0.05675,2022-11-08,deluxe
+2022,KY-SEN,Senate,0,Charles Booker,DEM,0.0008,2022-11-08,deluxe
+2022,KY-SEN,Senate,0,Rand Paul,REP,0.9992,2022-11-08,deluxe
+2022,KS-SEN,Senate,0,Mark R. Holland,DEM,0.00075,2022-11-08,deluxe
+2022,KS-SEN,Senate,0,Jerry Moran,REP,0.99925,2022-11-08,deluxe
+2022,IN-SEN,Senate,0,Thomas McDermott,DEM,0.014325,2022-11-08,deluxe
+2022,IN-SEN,Senate,0,Todd Young,REP,0.985675,2022-11-08,deluxe
+2022,IL-SEN,Senate,0,Tammy Duckworth,DEM,0.99675,2022-11-08,deluxe
+2022,IL-SEN,Senate,0,Kathy Salvi,REP,0.003225,2022-11-08,deluxe
+2022,IL-SEN,Senate,0,Bill Redpath,IND,2.5e-05,2022-11-08,deluxe
+2022,ID-SEN,Senate,0,David Roth,DEM,0.0001,2022-11-08,deluxe
+2022,ID-SEN,Senate,0,Mike Crapo,REP,0.9999,2022-11-08,deluxe
+2022,IA-SEN,Senate,0,Michael Franken,DEM,0.026075,2022-11-08,deluxe
+2022,IA-SEN,Senate,0,Chuck Grassley,REP,0.973925,2022-11-08,deluxe
+2022,HI-SEN,Senate,0,Brian Schatz,DEM,0.99965,2022-11-08,deluxe
+2022,HI-SEN,Senate,0,Bob McDermott,REP,0.00035,2022-11-08,deluxe
+2022,GA-SEN,Senate,0,Raphael Warnock,DEM,0.3677,2022-11-08,deluxe
+2022,GA-SEN,Senate,0,Herschel Junior Walker,REP,0.6323,2022-11-08,deluxe
+2022,FL-SEN,Senate,0,Val Demings,DEM,0.046425,2022-11-08,deluxe
+2022,FL-SEN,Senate,0,Marco Rubio,REP,0.953575,2022-11-08,deluxe
+2022,CT-SEN,Senate,0,Richard Blumenthal,DEM,0.993925,2022-11-08,deluxe
+2022,CT-SEN,Senate,0,Leora R. Levy,REP,0.006075,2022-11-08,deluxe
+2022,CO-SEN,Senate,0,Michael Bennet,DEM,0.913725,2022-11-08,deluxe
+2022,CO-SEN,Senate,0,Joe O'Dea,REP,0.086275,2022-11-08,deluxe
+2022,CA-SEN,Senate,0,Alex Padilla,DEM,0.999125,2022-11-08,deluxe
+2022,CA-SEN,Senate,0,Mark P. Meuser,REP,0.000875,2022-11-08,deluxe
+2022,AZ-SEN,Senate,0,Mark Kelly,DEM,0.66035,2022-11-08,deluxe
+2022,AZ-SEN,Senate,0,Blake Masters,REP,0.339625,2022-11-08,deluxe
+2022,AZ-SEN,Senate,0,Marc Victor,IND,2.5e-05,2022-11-08,deluxe
+2022,AR-SEN,Senate,0,Natalie James,DEM,0.000175,2022-11-08,deluxe
+2022,AR-SEN,Senate,0,John Boozman,REP,0.999825,2022-11-08,deluxe
+2022,AL-SEN,Senate,0,Will Boyd,DEM,2.5e-05,2022-11-08,deluxe
+2022,AL-SEN,Senate,0,Katie Britt,REP,0.999975,2022-11-08,deluxe
+2022,AK-SEN,Senate,0,Patricia R. Chesbro,DEM,0.00315,2022-11-08,deluxe
+2022,AK-SEN,Senate,0,Lisa Murkowski,REP,0.501525,2022-11-08,deluxe
+2022,AK-SEN,Senate,0,Kelly C. Tshibaka,REP,0.4953,2022-11-08,deluxe
+2022,AK-SEN,Senate,0,Buzz A. Kelley,REP,2.5e-05,2022-11-08,deluxe

@@ -1,0 +1,1283 @@
+race_id,chamber,candidate_name,party,is_incumbent,incumbent_party_of_seat,open_seat,incumbent_running_in_different_district,is_major,special,system,uncontested,kalshi_name_match,notes
+AK-SEN,Senate,Dan S. Sullivan,REP,1,REP,0,0,1,0,rcv,0,0,"AK: top-four primary, ranked-choice general | Senate incumbent Dan Sullivan (REP, 2014 2020): Incumbent advanced to general | Kalshi lists parties only (no names) for this race"
+AK-SEN,Senate,Mary Peltola,DEM,0,REP,0,0,1,0,rcv,0,0,"AK: top-four primary, ranked-choice general | Senate incumbent Dan Sullivan (REP, 2014 2020): Incumbent advanced to general | Kalshi lists parties only (no names) for this race"
+AK-SEN,Senate,Dan J. Sullivan,REP,0,REP,0,0,0,0,rcv,0,0,"AK: top-four primary, ranked-choice general | Senate incumbent Dan Sullivan (REP, 2014 2020): Incumbent advanced to general | Kalshi lists parties only (no names) for this race"
+AK-SEN,Senate,Gerald Heikes,REP,0,REP,0,0,0,0,rcv,0,0,"AK: top-four primary, ranked-choice general | Senate incumbent Dan Sullivan (REP, 2014 2020): Incumbent advanced to general | Kalshi lists parties only (no names) for this race"
+AL-SEN,Senate,Barry Moore,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Tommy Tuberville (REP, 2020): Incumbent retiring to run for governor"
+AL-SEN,Senate,Everett Wess,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Tommy Tuberville (REP, 2020): Incumbent retiring to run for governor"
+AR-SEN,Senate,Hallie Shoffner,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Tom Cotton (REP, 2014 2020): Incumbent renominated"
+AR-SEN,Senate,Tom Cotton,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Tom Cotton (REP, 2014 2020): Incumbent renominated"
+AR-SEN,Senate,Jeff Wadlin,LIB,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Tom Cotton (REP, 2014 2020): Incumbent renominated"
+CO-SEN,Senate,John Hickenlooper,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+CO-SEN,Senate,Mark Baisley,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+CO-SEN,Senate,Adam Withrow,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Unity | Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+CO-SEN,Senate,Blake Huber,LIB,0,DEM,0,0,0,0,plurality,0,0,"Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+CO-SEN,Senate,Bob Chew,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Forward | Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+CO-SEN,Senate,Christopher Baum,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Approval Voting | Senate incumbent John Hickenlooper (DEM, 2020): Incumbent renominated"
+DE-SEN,Senate,Chris Coons,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Chris Coons (DEM, 2010 (special) 2014 2020): Incumbent renominated"
+DE-SEN,Senate,Michael Katz,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Chris Coons (DEM, 2010 (special) 2014 2020): Incumbent renominated"
+FL-SEN,Senate,Angie Nixon,DEM,0,REP,0,0,1,1,plurality,0,1,"Senate incumbent Ashley Moody (REP, 2025 (appointed)): Interim appointee nominated"
+FL-SEN,Senate,Ashley Moody,REP,1,REP,0,0,1,1,plurality,0,1,"Senate incumbent Ashley Moody (REP, 2025 (appointed)): Interim appointee nominated"
+FL-SEN,Senate,Neil Gillespie,IND,0,REP,0,0,0,1,plurality,0,0,"Senate incumbent Ashley Moody (REP, 2025 (appointed)): Interim appointee nominated"
+GA-SEN,Senate,Jon Ossoff,DEM,1,DEM,0,0,1,0,runoff-possible,0,1,"GA general needs a majority; runoff Dec 1 2026 if no one >50% | Senate incumbent Jon Ossoff (DEM, 2021): Incumbent renominated"
+GA-SEN,Senate,Mike Collins,REP,0,DEM,0,0,1,0,runoff-possible,0,1,"GA general needs a majority; runoff Dec 1 2026 if no one >50% | Senate incumbent Jon Ossoff (DEM, 2021): Incumbent renominated"
+IA-SEN,Senate,Ashley Hinson,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Joni Ernst (REP, 2014 2020): Incumbent retiring"
+IA-SEN,Senate,Josh Turek,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Joni Ernst (REP, 2014 2020): Incumbent retiring"
+IA-SEN,Senate,Thomas Laehn,LIB,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Joni Ernst (REP, 2014 2020): Incumbent retiring"
+ID-SEN,Senate,Jim Risch,REP,1,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Jim Risch (REP, 2008 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: David Roth"
+ID-SEN,Senate,Todd Achilles,IND,0,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Jim Risch (REP, 2008 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: David Roth"
+ID-SEN,Senate,Matt Loesby,LIB,0,REP,0,0,0,0,plurality,0,0,"no DEM nominee | Senate incumbent Jim Risch (REP, 2008 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: David Roth"
+ID-SEN,Senate,Natalie Fleming,IND,0,REP,0,0,0,0,plurality,0,0,"no DEM nominee | Senate incumbent Jim Risch (REP, 2008 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: David Roth"
+IL-SEN,Senate,Don Tracy,REP,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Dick Durbin (DEM, 1996 2002 2008 2014 2020): Incumbent retiring"
+IL-SEN,Senate,Juliana Stratton,DEM,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Dick Durbin (DEM, 1996 2002 2008 2014 2020): Incumbent retiring"
+IL-SEN,Senate,Whitfield Harrington Jr.,IND,0,DEM,1,0,0,0,plurality,0,0,"Senate incumbent Dick Durbin (DEM, 1996 2002 2008 2014 2020): Incumbent retiring"
+KS-SEN,Senate,Adam Hamilton,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Roger Marshall (REP, 2020): Incumbent renominated"
+KS-SEN,Senate,Roger Marshall,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Roger Marshall (REP, 2020): Incumbent renominated"
+KS-SEN,Senate,David Graham,LIB,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Roger Marshall (REP, 2020): Incumbent renominated"
+KY-SEN,Senate,Andy Barr,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Mitch McConnell (REP, 1984 1990 1996 2002 2008 2014 2020): Incumbent retiring"
+KY-SEN,Senate,Charles Booker,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Mitch McConnell (REP, 1984 1990 1996 2002 2008 2014 2020): Incumbent retiring"
+KY-SEN,Senate,Christopher Campbell,IND,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Mitch McConnell (REP, 1984 1990 1996 2002 2008 2014 2020): Incumbent retiring"
+LA-SEN,Senate,Jamie Davis,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Bill Cassidy (REP, 2014 2020): Incumbent lost renomination"
+LA-SEN,Senate,Julia Letlow,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Bill Cassidy (REP, 2014 2020): Incumbent lost renomination"
+MA-SEN,Senate,Ed Markey,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Ed Markey (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+MA-SEN,Senate,John Deaton,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Ed Markey (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+MA-SEN,Senate,Joe Tache,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Socialism and Liberation | Senate incumbent Ed Markey (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+MA-SEN,Senate,Shiva Ayyadurai,IND,0,DEM,0,0,0,0,plurality,0,0,"Senate incumbent Ed Markey (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+ME-SEN,Senate,Susan Collins,REP,1,REP,0,0,1,0,rcv,0,1,"ME: ranked-choice general for federal races | Senate incumbent Susan Collins (REP, 1996 2002 2008 2014 2020): Incumbent renominated"
+ME-SEN,Senate,Troy Jackson,DEM,0,REP,0,0,1,0,rcv,0,1,"ME: ranked-choice general for federal races | Senate incumbent Susan Collins (REP, 1996 2002 2008 2014 2020): Incumbent renominated"
+MI-SEN,Senate,Abdul El-Sayed,DEM,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MI-SEN,Senate,Mike Rogers,REP,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MI-SEN,Senate,Douglas P. Marsh,GRN,0,DEM,1,0,0,0,plurality,0,0,"Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MI-SEN,Senate,Lydia Christensen,LIB,0,DEM,1,0,0,0,plurality,0,0,"Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MI-SEN,Senate,Tim Long,OTHER,0,DEM,1,0,0,0,plurality,0,0,"party label: U.S. Taxpayers | Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MI-SEN,Senate,Walter P. Kristy,OTHER,0,DEM,1,0,0,0,plurality,0,0,"party label: Natural Law | Senate incumbent Gary Peters (DEM, 2014 2020): Incumbent retiring"
+MN-SEN,Senate,Michele Tafoya,REP,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Tina Smith (DEM, 2018 (appointed) 2018 (special) 2020): Incumbent retiring"
+MN-SEN,Senate,Peggy Flanagan,DEM,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Tina Smith (DEM, 2018 (appointed) 2018 (special) 2020): Incumbent retiring"
+MN-SEN,Senate,Marisa Simonetti,IND,0,DEM,1,0,0,0,plurality,0,0,"Senate incumbent Tina Smith (DEM, 2018 (appointed) 2018 (special) 2020): Incumbent retiring"
+MN-SEN,Senate,Rebecca Whiting,LIB,0,DEM,1,0,0,0,plurality,0,0,"Senate incumbent Tina Smith (DEM, 2018 (appointed) 2018 (special) 2020): Incumbent retiring"
+MS-SEN,Senate,Cindy Hyde-Smith,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Cindy Hyde-Smith (REP, 2018 (appointed) 2018 (special) 2020): Incumbent renominated"
+MS-SEN,Senate,Scott Colom,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Cindy Hyde-Smith (REP, 2018 (appointed) 2018 (special) 2020): Incumbent renominated"
+MS-SEN,Senate,Ty Pinkins,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Cindy Hyde-Smith (REP, 2018 (appointed) 2018 (special) 2020): Incumbent renominated"
+MT-SEN,Senate,Kurt Alme,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Steve Daines (REP, 2014 2020): Incumbent retiring"
+MT-SEN,Senate,Seth Bodnar,IND,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Steve Daines (REP, 2014 2020): Incumbent retiring"
+MT-SEN,Senate,Alani Bankhead,DEM,0,REP,1,0,0,0,plurality,0,1,"Senate incumbent Steve Daines (REP, 2014 2020): Incumbent retiring"
+MT-SEN,Senate,Kyle Austin,LIB,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Steve Daines (REP, 2014 2020): Incumbent retiring"
+NC-SEN,Senate,Michael Whatley,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Thom Tillis (REP, 2014 2020): Incumbent retiring"
+NC-SEN,Senate,Roy Cooper,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Thom Tillis (REP, 2014 2020): Incumbent retiring"
+NC-SEN,Senate,Michael Dublin,GRN,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Thom Tillis (REP, 2014 2020): Incumbent retiring"
+NC-SEN,Senate,Shannon Bray,LIB,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Thom Tillis (REP, 2014 2020): Incumbent retiring"
+NE-SEN,Senate,Dan Osborn,IND,0,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Pete Ricketts (REP, 2023 (appointed) 2024 (special)): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Cindy Burbank"
+NE-SEN,Senate,Pete Ricketts,REP,1,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Pete Ricketts (REP, 2023 (appointed) 2024 (special)): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Cindy Burbank"
+NE-SEN,Senate,Chuck Conboy,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: America First | no DEM nominee | Senate incumbent Pete Ricketts (REP, 2023 (appointed) 2024 (special)): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Cindy Burbank"
+NE-SEN,Senate,Mike Marvin,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Legal Marijuana Now | no DEM nominee | Senate incumbent Pete Ricketts (REP, 2023 (appointed) 2024 (special)): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Cindy Burbank"
+NE-SEN,Senate,Robin Richards,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Working People | no DEM nominee | Senate incumbent Pete Ricketts (REP, 2023 (appointed) 2024 (special)): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Cindy Burbank"
+NH-SEN,Senate,Chris Pappas,DEM,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Jeanne Shaheen (DEM, 2008 2014 2020): Incumbent retiring"
+NH-SEN,Senate,John E. Sununu,REP,0,DEM,1,0,1,0,plurality,0,1,"Senate incumbent Jeanne Shaheen (DEM, 2008 2014 2020): Incumbent retiring"
+NH-SEN,Senate,Edmond LaPlante,OTHER,0,DEM,1,0,0,0,plurality,0,0,"party label: Constitution | Senate incumbent Jeanne Shaheen (DEM, 2008 2014 2020): Incumbent retiring"
+NJ-SEN,Senate,Cory Booker,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Cory Booker (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+NJ-SEN,Senate,Justin Murphy,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Cory Booker (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+NJ-SEN,Senate,Joanne Kuniansky,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Socialist Workers | Senate incumbent Cory Booker (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+NJ-SEN,Senate,Veronica Fernandez,IND,0,DEM,0,0,0,0,plurality,0,0,"Senate incumbent Cory Booker (DEM, 2013 (special) 2014 2020): Incumbent renominated"
+NM-SEN,Senate,Ben Ray Luján,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Ben Ray Luján (DEM, 2020): Incumbent renominated"
+NM-SEN,Senate,Larry Marker,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Ben Ray Luján (DEM, 2020): Incumbent renominated"
+OH-SEN,Senate,Jon Husted,REP,1,REP,0,0,1,1,plurality,0,1,"Senate incumbent Jon Husted (REP, 2025 (appointed)): Interim appointee nominated"
+OH-SEN,Senate,Sherrod Brown,DEM,0,REP,0,0,1,1,plurality,0,1,"Senate incumbent Jon Husted (REP, 2025 (appointed)): Interim appointee nominated"
+OH-SEN,Senate,Greg Levy,IND,0,REP,0,0,0,1,plurality,0,0,"Senate incumbent Jon Husted (REP, 2025 (appointed)): Interim appointee nominated"
+OH-SEN,Senate,William Redpath,LIB,0,REP,0,0,0,1,plurality,0,0,"Senate incumbent Jon Husted (REP, 2025 (appointed)): Interim appointee nominated"
+OK-SEN,Senate,Kevin Hern,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Alan Armstrong (REP, 2026 (appointed)): Interim appointee ineligible to run"
+OK-SEN,Senate,N'Kiyla Jasmine Thomas,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Alan Armstrong (REP, 2026 (appointed)): Interim appointee ineligible to run"
+OK-SEN,Senate,Curtis Stinnett,IND,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Alan Armstrong (REP, 2026 (appointed)): Interim appointee ineligible to run"
+OK-SEN,Senate,Ron Meinhardt,IND,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Alan Armstrong (REP, 2026 (appointed)): Interim appointee ineligible to run"
+OK-SEN,Senate,Sevier White,LIB,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent Alan Armstrong (REP, 2026 (appointed)): Interim appointee ineligible to run"
+OR-SEN,Senate,David Brock Smith,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Jeff Merkley (DEM, 2008 2014 2020): Incumbent renominated"
+OR-SEN,Senate,Jeff Merkley,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Jeff Merkley (DEM, 2008 2014 2020): Incumbent renominated"
+OR-SEN,Senate,Chris Henry,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Progressive | Senate incumbent Jeff Merkley (DEM, 2008 2014 2020): Incumbent renominated"
+OR-SEN,Senate,Gary Lyndon Dye,LIB,0,DEM,0,0,0,0,plurality,0,0,"Senate incumbent Jeff Merkley (DEM, 2008 2014 2020): Incumbent renominated"
+RI-SEN,Senate,Jack Reed,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Jack Reed (DEM, 1996 2002 2008 2014 2020): Incumbent renominated"
+RI-SEN,Senate,Raymond McKay,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Jack Reed (DEM, 1996 2002 2008 2014 2020): Incumbent renominated"
+RI-SEN,Senate,Michael Bahry,IND,0,DEM,0,0,0,0,plurality,0,0,"Senate incumbent Jack Reed (DEM, 1996 2002 2008 2014 2020): Incumbent renominated"
+SC-SEN,Senate,Annie Andrews,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Darline Graham (REP, 2026 (appointed)): Interim appointee nominated in runoff"
+SC-SEN,Senate,Darline Graham,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Darline Graham (REP, 2026 (appointed)): Interim appointee nominated in runoff"
+SC-SEN,Senate,Kasie Whitener,LIB,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Darline Graham (REP, 2026 (appointed)): Interim appointee nominated in runoff"
+SC-SEN,Senate,Mark Hackett,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Constitution | Senate incumbent Darline Graham (REP, 2026 (appointed)): Interim appointee nominated in runoff"
+SD-SEN,Senate,Brian Bengs,IND,0,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Mike Rounds (REP, 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Julian Beaudion"
+SD-SEN,Senate,Mike Rounds,REP,1,REP,0,0,1,0,plurality,0,1,"no DEM nominee | Senate incumbent Mike Rounds (REP, 2014 2020): Incumbent renominated | Kalshi names not on Wikipedia ballot list: Julian Beaudion"
+TN-SEN,Senate,Bill Hagerty,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Marquita Bradshaw,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Andrew Gerena,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Catherine Whitson,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,David Sutman Jr.,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,James Macon III,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Jeremy Hearn,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Robert Jones,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Tharon Chandler,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TN-SEN,Senate,Yoshi Matthews,IND,0,REP,0,0,0,0,plurality,0,0,"Senate incumbent Bill Hagerty (REP, 2020): Incumbent renominated"
+TX-SEN,Senate,James Talarico,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent John Cornyn (REP, 2002 2008 2014 2020): Incumbent lost renomination in runoff"
+TX-SEN,Senate,Ken Paxton,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent John Cornyn (REP, 2002 2008 2014 2020): Incumbent lost renomination in runoff"
+TX-SEN,Senate,Ted Brown,LIB,0,REP,1,0,0,0,plurality,0,0,"Senate incumbent John Cornyn (REP, 2002 2008 2014 2020): Incumbent lost renomination in runoff"
+VA-SEN,Senate,Bert Mizusawa,REP,0,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Mark Warner (DEM, 2008 2014 2020): Incumbent renominated"
+VA-SEN,Senate,Mark Warner,DEM,1,DEM,0,0,1,0,plurality,0,1,"Senate incumbent Mark Warner (DEM, 2008 2014 2020): Incumbent renominated"
+WV-SEN,Senate,Rachel Fetty Anderson,DEM,0,REP,0,0,1,0,plurality,0,1,"Senate incumbent Shelley Moore Capito (REP, 2014 2020): Incumbent renominated"
+WV-SEN,Senate,Shelley Moore Capito,REP,1,REP,0,0,1,0,plurality,0,1,"Senate incumbent Shelley Moore Capito (REP, 2014 2020): Incumbent renominated"
+WV-SEN,Senate,S. Marshall Wilson,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Constitution | Senate incumbent Shelley Moore Capito (REP, 2014 2020): Incumbent renominated"
+WY-SEN,Senate,Harriet Hageman,REP,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Cynthia Lummis (REP, 2020): Incumbent retiring"
+WY-SEN,Senate,James W. Byrd,DEM,0,REP,1,0,1,0,plurality,0,1,"Senate incumbent Cynthia Lummis (REP, 2020): Incumbent retiring"
+AK-AL,House,Bill Hill,IND,0,REP,0,0,1,0,rcv,0,1,"AK: top-four primary, ranked-choice general | Nick Begich III: Incumbent advanced to general"
+AK-AL,House,Nick Begich III,REP,1,REP,0,0,1,0,rcv,0,1,"AK: top-four primary, ranked-choice general | Nick Begich III: Incumbent advanced to general"
+AK-AL,House,Eric Hafner,DEM,0,REP,0,0,0,0,rcv,0,1,"AK: top-four primary, ranked-choice general | Nick Begich III: Incumbent advanced to general"
+AK-AL,House,Jim McDermott,LIB,0,REP,0,0,0,0,rcv,0,0,"AK: top-four primary, ranked-choice general | Nick Begich III: Incumbent advanced to general"
+AL-01,House,Clyde Jones Jr.,DEM,0,REP,1,0,1,0,plurality,0,1,"district number now held by Barry Moore (REP), listed by Wikipedia under AL-02 on the new lines (Incumbent retiring to run for U.S. Senate. Republican loss.)"
+AL-01,House,Jerry Carl,REP,0,REP,1,0,1,0,plurality,0,1,"district number now held by Barry Moore (REP), listed by Wikipedia under AL-02 on the new lines (Incumbent retiring to run for U.S. Senate. Republican loss.)"
+AL-02,House,Rhett Marques,REP,0,DEM,0,0,1,0,plurality,0,1,Shomari Figures: Incumbent renominated; Barry Moore: Incumbent retiring to run for U.S. Senate. Republican loss.
+AL-02,House,Shomari Figures,DEM,1,DEM,0,0,1,0,plurality,0,1,Shomari Figures: Incumbent renominated; Barry Moore: Incumbent retiring to run for U.S. Senate. Republican loss.
+AL-03,House,Lee McInnis,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Rogers: Incumbent renominated
+AL-03,House,Mike Rogers,REP,1,REP,0,0,1,0,plurality,0,1,Mike Rogers: Incumbent renominated
+AL-04,House,Amanda Pusczek,DEM,0,REP,0,0,1,0,plurality,0,1,Robert Aderholt: Incumbent renominated
+AL-04,House,Robert Aderholt,REP,1,REP,0,0,1,0,plurality,0,1,Robert Aderholt: Incumbent renominated
+AL-05,House,Andrew Sneed,DEM,0,REP,0,0,1,0,plurality,0,1,Dale Strong: Incumbent renominated
+AL-05,House,Dale Strong,REP,1,REP,0,0,1,0,plurality,0,1,Dale Strong: Incumbent renominated
+AL-06,House,Gary Palmer,REP,1,REP,0,0,1,0,plurality,0,1,Gary Palmer: Incumbent renominated
+AL-06,House,Maurice Mercer,DEM,0,REP,0,0,1,0,plurality,0,1,Gary Palmer: Incumbent renominated
+AL-07,House,Ammie Akin,REP,0,DEM,0,0,1,0,plurality,0,1,Terri Sewell: Incumbent renominated
+AL-07,House,Terri Sewell,DEM,1,DEM,0,0,1,0,plurality,0,1,Terri Sewell: Incumbent renominated
+AR-01,House,Rick Crawford,REP,1,REP,0,0,1,0,plurality,0,1,Rick Crawford: Incumbent renominated
+AR-01,House,Terri Green,DEM,0,REP,0,0,1,0,plurality,0,1,Rick Crawford: Incumbent renominated
+AR-01,House,Steve Parsons,LIB,0,REP,0,0,0,0,plurality,0,0,Rick Crawford: Incumbent renominated
+AR-02,House,Chris Jones,DEM,0,REP,0,0,1,0,plurality,0,1,French Hill: Incumbent renominated
+AR-02,House,French Hill,REP,1,REP,0,0,1,0,plurality,0,1,French Hill: Incumbent renominated
+AR-03,House,Robb Ryerse,DEM,0,REP,0,0,1,0,plurality,0,1,Steve Womack: Incumbent renominated
+AR-03,House,Steve Womack,REP,1,REP,0,0,1,0,plurality,0,1,Steve Womack: Incumbent renominated
+AR-03,House,Bobby Wilson,LIB,0,REP,0,0,0,0,plurality,0,0,Steve Womack: Incumbent renominated
+AR-04,House,Bruce Westerman,REP,1,REP,0,0,1,0,plurality,0,1,Bruce Westerman: Incumbent renominated
+AR-04,House,James Russell,DEM,0,REP,0,0,1,0,plurality,0,1,Bruce Westerman: Incumbent renominated
+AZ-01,House,Amish Shah,DEM,0,REP,1,0,1,0,plurality,0,1,David Schweikert: Incumbent retiring to run for governor
+AZ-01,House,Jay Feely,REP,0,REP,1,0,1,0,plurality,0,1,David Schweikert: Incumbent retiring to run for governor
+AZ-01,House,Monica Alponte,LIB,0,REP,1,0,0,0,plurality,0,0,David Schweikert: Incumbent retiring to run for governor
+AZ-02,House,Eli Crane,REP,1,REP,0,0,1,0,plurality,0,1,Eli Crane: Incumbent renominated
+AZ-02,House,Jonathan Nez,DEM,0,REP,0,0,1,0,plurality,0,1,Eli Crane: Incumbent renominated
+AZ-02,House,Curtis Goodwin,LIB,0,REP,0,0,0,0,plurality,0,0,Eli Crane: Incumbent renominated
+AZ-03,House,David Redkey,GRN,0,DEM,0,0,1,0,plurality,0,0,no REP nominee | Yassamin Ansari: Incumbent renominated
+AZ-03,House,Yassamin Ansari,DEM,1,DEM,0,0,1,0,plurality,0,1,no REP nominee | Yassamin Ansari: Incumbent renominated
+AZ-03,House,Alan Aversa,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: No Labels | no REP nominee | Yassamin Ansari: Incumbent renominated
+AZ-04,House,Greg Stanton,DEM,1,DEM,0,0,1,0,plurality,0,1,Greg Stanton: Incumbent renominated
+AZ-04,House,Zuhdi Jasser,REP,0,DEM,0,0,1,0,plurality,0,1,Greg Stanton: Incumbent renominated
+AZ-04,House,Tisha Benoit,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: No Labels | Greg Stanton: Incumbent renominated
+AZ-05,House,Elizabeth Lee,DEM,0,REP,1,0,1,0,plurality,0,1,Andy Biggs: Incumbent retiring to run for governor
+AZ-05,House,Mark Lamb,REP,0,REP,1,0,1,0,plurality,0,1,Andy Biggs: Incumbent retiring to run for governor
+AZ-06,House,JoAnna Mendoza,DEM,0,REP,0,0,1,0,plurality,0,1,Juan Ciscomani: Incumbent renominated
+AZ-06,House,Juan Ciscomani,REP,1,REP,0,0,1,0,plurality,0,1,Juan Ciscomani: Incumbent renominated
+AZ-06,House,Gary Swing,GRN,0,REP,0,0,0,0,plurality,0,0,Juan Ciscomani: Incumbent renominated
+AZ-06,House,Jereme Peters,LIB,0,REP,0,0,0,0,plurality,0,0,Juan Ciscomani: Incumbent renominated
+AZ-07,House,Adelita Grijalva,DEM,1,DEM,0,0,1,0,plurality,0,1,Adelita Grijalva: Incumbent renominated
+AZ-07,House,Daniel Butierez,REP,0,DEM,0,0,1,0,plurality,0,1,Adelita Grijalva: Incumbent renominated
+AZ-08,House,Abraham Hamadeh,REP,1,REP,0,0,1,0,plurality,0,1,Abraham Hamadeh: Incumbent renominated
+AZ-08,House,Bernadette Greene-Placentia,DEM,0,REP,0,0,1,0,plurality,0,1,Abraham Hamadeh: Incumbent renominated
+AZ-09,House,Dani Sterbinsky,DEM,0,REP,0,0,1,0,plurality,0,1,Paul Gosar: Incumbent renominated
+AZ-09,House,Paul Gosar,REP,1,REP,0,0,1,0,plurality,0,1,Paul Gosar: Incumbent renominated
+CA-01,House,James Gallagher,REP,1,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | James Gallagher: Incumbent advanced to general
+CA-01,House,Mike McGuire,DEM,0,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | James Gallagher: Incumbent advanced to general
+CA-02,House,Jared Huffman,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jared Huffman: Incumbent advanced to general
+CA-02,House,Robin Littau,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jared Huffman: Incumbent advanced to general
+CA-03,House,Ami Bera,DEM,1,IND,0,1,1,0,top-two,0,1,"incumbent of CA-06 (old lines) | CA top-two general (same-party pairs possible) | district number now held by Kevin Kiley (IND), listed by Wikipedia under CA-06 on the new lines (Incumbent advanced to general); incumbent(s) redistricted in: Ami Bera (DEM, from CA-06); Ami Bera: Incumbent advanced to general"
+CA-03,House,Robb Tucker,REP,0,IND,0,0,1,0,top-two,0,1,"CA top-two general (same-party pairs possible) | district number now held by Kevin Kiley (IND), listed by Wikipedia under CA-06 on the new lines (Incumbent advanced to general); incumbent(s) redistricted in: Ami Bera (DEM, from CA-06); Ami Bera: Incumbent advanced to general"
+CA-04,House,Eric Jones,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Mike Thompson: Incumbent advanced to general. Democratic hold.
+CA-04,House,Mike Thompson,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Mike Thompson: Incumbent advanced to general. Democratic hold.
+CA-05,House,Michael Masuda,DEM,0,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Tom McClintock: Incumbent advanced to general
+CA-05,House,Tom McClintock,REP,1,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Tom McClintock: Incumbent advanced to general
+CA-06,House,Kevin Kiley,IND,1,DEM,0,1,1,0,top-two,0,1,"incumbent of CA-03 (old lines) | no REP nominee | CA top-two general (same-party pairs possible) | district number now held by Ami Bera (DEM), listed by Wikipedia under CA-03 on the new lines (Incumbent advanced to general); incumbent(s) redistricted in: Kevin Kiley (IND, from CA-03); Kevin Kiley: Incumbent advanced to general"
+CA-06,House,Richard Pan,DEM,0,DEM,0,0,1,0,top-two,0,1,"no REP nominee | CA top-two general (same-party pairs possible) | district number now held by Ami Bera (DEM), listed by Wikipedia under CA-03 on the new lines (Incumbent advanced to general); incumbent(s) redistricted in: Kevin Kiley (IND, from CA-03); Kevin Kiley: Incumbent advanced to general"
+CA-07,House,Doris Matsui,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Doris Matsui: Incumbent advanced to general. Democratic hold.
+CA-07,House,Mai Vang,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Doris Matsui: Incumbent advanced to general. Democratic hold.
+CA-08,House,John Garamendi,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | John Garamendi: Incumbent advanced to general
+CA-08,House,Rudy Recile,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | John Garamendi: Incumbent advanced to general
+CA-09,House,John McBride,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Josh Harder: Incumbent advanced to general
+CA-09,House,Josh Harder,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Josh Harder: Incumbent advanced to general
+CA-10,House,Jeff Frese,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mark DeSaulnier: Incumbent advanced to general
+CA-10,House,Mark DeSaulnier,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mark DeSaulnier: Incumbent advanced to general
+CA-11,House,Connie Chan,DEM,0,DEM,1,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Nancy Pelosi: Incumbent retiring. Democratic hold.
+CA-11,House,Scott Wiener,DEM,0,DEM,1,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Nancy Pelosi: Incumbent retiring. Democratic hold.
+CA-12,House,Jamie Joyce,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Lateefah Simon: Incumbent advanced to general Democratic hold.
+CA-12,House,Lateefah Simon,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Lateefah Simon: Incumbent advanced to general Democratic hold.
+CA-13,House,Adam Gray,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Adam Gray: Incumbent advanced to general
+CA-13,House,Kevin Lincoln,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Adam Gray: Incumbent advanced to general
+CA-14,House,Aisha Wahab,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Aisha Wahab: Incumbent advanced to general. Democratic hold.
+CA-14,House,Melissa Hernandez,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Aisha Wahab: Incumbent advanced to general. Democratic hold.
+CA-15,House,Charles Hoelter,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Kevin Mullin: Incumbent advanced to general
+CA-15,House,Kevin Mullin,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Kevin Mullin: Incumbent advanced to general
+CA-16,House,Peter Soulé,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Sam Liccardo: Incumbent advanced to general
+CA-16,House,Sam Liccardo,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Sam Liccardo: Incumbent advanced to general
+CA-17,House,Ritesh Tandon,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Ro Khanna: Incumbent advanced to general
+CA-17,House,Ro Khanna,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Ro Khanna: Incumbent advanced to general
+CA-18,House,Shane Lewis,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Zoe Lofgren: Incumbent advanced to general
+CA-18,House,Zoe Lofgren,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Zoe Lofgren: Incumbent advanced to general
+CA-19,House,Jimmy Panetta,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jimmy Panetta: Incumbent advanced to general
+CA-19,House,Peter Coe Verbica,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jimmy Panetta: Incumbent advanced to general
+CA-20,House,Sandra Van Scotter,DEM,0,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Vince Fong: Incumbent advanced to general
+CA-20,House,Vince Fong,REP,1,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Vince Fong: Incumbent advanced to general
+CA-21,House,Jim Costa,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jim Costa: Incumbent advanced to general
+CA-21,House,Kyle Kirkland,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jim Costa: Incumbent advanced to general
+CA-22,House,David Valadao,REP,1,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | David Valadao: Incumbent advanced to general
+CA-22,House,Randy Villegas,DEM,0,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | David Valadao: Incumbent advanced to general
+CA-23,House,Jay Obernolte,REP,1,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jay Obernolte: Incumbent advanced to general
+CA-23,House,Tessa Lynn Hodge,DEM,0,REP,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Jay Obernolte: Incumbent advanced to general
+CA-24,House,Bob Smith,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Salud Carbajal: Incumbent advanced to general
+CA-24,House,Salud Carbajal,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Salud Carbajal: Incumbent advanced to general
+CA-25,House,Joe Males,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Raul Ruiz: Incumbent advanced to general
+CA-25,House,Raul Ruiz,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Raul Ruiz: Incumbent advanced to general
+CA-26,House,Jacqui Irwin,DEM,0,DEM,1,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Julia Brownley: Incumbent retiring
+CA-26,House,Sam Gallucci,REP,0,DEM,1,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Julia Brownley: Incumbent retiring
+CA-27,House,George Whitesides,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | George T. Whitesides: Incumbent advanced to general
+CA-27,House,Jason Gibbs,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | George T. Whitesides: Incumbent advanced to general
+CA-28,House,April Verlato,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Judy Chu: Incumbent advanced to general
+CA-28,House,Judy Chu,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Judy Chu: Incumbent advanced to general
+CA-29,House,Angelica Dueñas,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Luz Rivas: Incumbent advanced to general. Democratic hold.
+CA-29,House,Luz Rivas,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Luz Rivas: Incumbent advanced to general. Democratic hold.
+CA-30,House,Laura Friedman,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Laura Friedman: Incumbent advanced to general
+CA-30,House,Scott Meyers,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Laura Friedman: Incumbent advanced to general
+CA-31,House,Eric Ching,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Gil Cisneros: Incumbent advanced to general
+CA-31,House,Gil Cisneros,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Gil Cisneros: Incumbent advanced to general
+CA-32,House,Brad Sherman,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Brad Sherman: Incumbent advanced to general
+CA-32,House,Larry Thompson,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Brad Sherman: Incumbent advanced to general
+CA-33,House,Pete Aguilar,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Pete Aguilar: Incumbent advanced to general
+CA-33,House,Stephanie Vargas,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Pete Aguilar: Incumbent advanced to general
+CA-34,House,Angela Gonzales-Torres,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Jimmy Gomez: Incumbent advanced to general. Democratic hold.
+CA-34,House,Jimmy Gomez,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Jimmy Gomez: Incumbent advanced to general. Democratic hold.
+CA-35,House,Mike Cargile,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Norma Torres: Incumbent advanced to general
+CA-35,House,Norma Torres,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Norma Torres: Incumbent advanced to general
+CA-36,House,Houston Brignano,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Ted Lieu: Incumbent advanced to general
+CA-36,House,Ted Lieu,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Ted Lieu: Incumbent advanced to general
+CA-37,House,Samantha Mota,DEM,0,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Sydney Kamlager-Dove: Incumbent advanced to general. Democratic hold.
+CA-37,House,Sydney Kamlager-Dove,DEM,1,DEM,0,0,1,0,top-two,0,1,no REP nominee | CA top-two general (same-party pairs possible) | Sydney Kamlager-Dove: Incumbent advanced to general. Democratic hold.
+CA-38,House,Hilda Solis,DEM,0,DEM,1,0,1,0,top-two,0,1,"CA top-two general (same-party pairs possible) | district number now held by Linda Sánchez (DEM), listed by Wikipedia under CA-41 on the new lines (Incumbent advanced to general)"
+CA-38,House,Pedro Casas,REP,0,DEM,1,0,1,0,top-two,0,1,"CA top-two general (same-party pairs possible) | district number now held by Linda Sánchez (DEM), listed by Wikipedia under CA-41 on the new lines (Incumbent advanced to general)"
+CA-39,House,Mark Takano,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mark Takano: Incumbent advanced to general
+CA-39,House,Steve Manos,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mark Takano: Incumbent advanced to general
+CA-40,House,Ken Calvert,REP,1,REP,0,1,1,0,top-two,0,1,incumbent of CA-41 (old lines) | no DEM nominee | CA top-two general (same-party pairs possible) | Young Kim: Incumbent advanced to general. Republican hold.; Ken Calvert: Incumbent advanced to general. Republican hold.
+CA-40,House,Young Kim,REP,1,REP,0,0,1,0,top-two,0,1,no DEM nominee | CA top-two general (same-party pairs possible) | Young Kim: Incumbent advanced to general. Republican hold.; Ken Calvert: Incumbent advanced to general. Republican hold.
+CA-41,House,Linda Sánchez,DEM,1,REP,0,1,1,0,top-two,0,1,"incumbent of CA-38 (old lines) | CA top-two general (same-party pairs possible) | district number now held by Ken Calvert (REP), listed by Wikipedia under CA-40 on the new lines (Incumbent advanced to general. Republican hold.); incumbent(s) redistricted in: Linda Sánchez (DEM, from CA-38); Linda Sánchez: Incumbent advanced to general"
+CA-41,House,Mitch Clemmons,REP,0,REP,0,0,1,0,top-two,0,1,"CA top-two general (same-party pairs possible) | district number now held by Ken Calvert (REP), listed by Wikipedia under CA-40 on the new lines (Incumbent advanced to general. Republican hold.); incumbent(s) redistricted in: Linda Sánchez (DEM, from CA-38); Linda Sánchez: Incumbent advanced to general"
+CA-42,House,Brian Burley,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Robert Garcia: Incumbent advanced to general
+CA-42,House,Robert Garcia,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Robert Garcia: Incumbent advanced to general
+CA-43,House,Cristian Morales,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Maxine Waters: Incumbent advanced to general
+CA-43,House,Maxine Waters,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Maxine Waters: Incumbent advanced to general
+CA-44,House,Genevieve Angel,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Nanette Barragán: Incumbent advanced to general
+CA-44,House,Nanette Barragán,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Nanette Barragán: Incumbent advanced to general
+CA-45,House,Chuong Vo,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Derek Tran: Incumbent advanced to general
+CA-45,House,Derek Tran,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Derek Tran: Incumbent advanced to general
+CA-46,House,David Pan,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Lou Correa: Incumbent advanced to general
+CA-46,House,Lou Correa,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Lou Correa: Incumbent advanced to general
+CA-47,House,Dave Min,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Dave Min: Incumbent advanced to general
+CA-47,House,Jenny Le Roux,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Dave Min: Incumbent advanced to general
+CA-48,House,Jim Desmond,REP,0,REP,1,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Darrell Issa: Incumbent retiring
+CA-48,House,Marni von Wilpert,DEM,0,REP,1,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Darrell Issa: Incumbent retiring
+CA-49,House,Armen Kurdian,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mike Levin: Incumbent advanced to general
+CA-49,House,Mike Levin,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Mike Levin: Incumbent advanced to general
+CA-50,House,Scott Peters,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Scott Peters: Incumbent advanced to general
+CA-50,House,Steve Cohen,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Scott Peters: Incumbent advanced to general
+CA-51,House,Ricardo Cabrera,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Sara Jacobs: Incumbent advanced to general
+CA-51,House,Sara Jacobs,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Sara Jacobs: Incumbent advanced to general
+CA-52,House,Jeff Belle,REP,0,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Juan Vargas: Incumbent advanced to general
+CA-52,House,Juan Vargas,DEM,1,DEM,0,0,1,0,top-two,0,1,CA top-two general (same-party pairs possible) | Juan Vargas: Incumbent advanced to general
+CO-01,House,Christy Peterson,REP,0,DEM,1,0,1,0,plurality,0,1,Diana DeGette: Incumbent lost renomination
+CO-01,House,Melat Kiros,DEM,0,DEM,1,0,1,0,plurality,0,1,Diana DeGette: Incumbent lost renomination
+CO-01,House,Chad Humphrey,LIB,0,DEM,1,0,0,0,plurality,0,0,Diana DeGette: Incumbent lost renomination
+CO-01,House,Critter Milton,OTHER,0,DEM,1,0,0,0,plurality,0,0,party label: Unity | Diana DeGette: Incumbent lost renomination
+CO-01,House,Shimon Blau,IND,0,DEM,1,0,0,0,plurality,0,0,Diana DeGette: Incumbent lost renomination
+CO-02,House,Joe Neguse,DEM,1,DEM,0,0,1,0,plurality,0,1,Joe Neguse: Incumbent renominated
+CO-02,House,Kelley Dennison,REP,0,DEM,0,0,1,0,plurality,0,1,Joe Neguse: Incumbent renominated
+CO-02,House,Gaylon Kent,LIB,0,DEM,0,0,0,0,plurality,0,0,Joe Neguse: Incumbent renominated
+CO-03,House,Dwayne Romero,DEM,0,REP,0,0,1,0,plurality,0,1,Jeff Hurd: Incumbent renominated
+CO-03,House,Jeff Hurd,REP,1,REP,0,0,1,0,plurality,0,1,Jeff Hurd: Incumbent renominated
+CO-03,House,Clifton Brown,IND,0,REP,0,0,0,0,plurality,0,0,Jeff Hurd: Incumbent renominated
+CO-03,House,Cory Robertson,LIB,0,REP,0,0,0,0,plurality,0,0,Jeff Hurd: Incumbent renominated
+CO-04,House,Eileen Laubacher,DEM,0,REP,0,0,1,0,plurality,0,1,Lauren Boebert: Incumbent renominated
+CO-04,House,Lauren Boebert,REP,1,REP,0,0,1,0,plurality,0,1,Lauren Boebert: Incumbent renominated
+CO-04,House,Douglas Mangeris,LIB,0,REP,0,0,0,0,plurality,0,0,Lauren Boebert: Incumbent renominated
+CO-05,House,Jeff Crank,REP,1,REP,0,0,1,0,plurality,0,1,Jeff Crank: Incumbent renominated
+CO-05,House,Jessica Killin,DEM,0,REP,0,0,1,0,plurality,0,1,Jeff Crank: Incumbent renominated
+CO-05,House,Christopher Mitchell,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Constitution | Jeff Crank: Incumbent renominated
+CO-05,House,Mark Elworth,LIB,0,REP,0,0,0,0,plurality,0,0,Jeff Crank: Incumbent renominated
+CO-06,House,Jason Clark,REP,0,DEM,0,0,1,0,plurality,0,1,Jason Crow: Incumbent renominated
+CO-06,House,Jason Crow,DEM,1,DEM,0,0,1,0,plurality,0,1,Jason Crow: Incumbent renominated
+CO-06,House,Meredith Ryan,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Unity | Jason Crow: Incumbent renominated
+CO-06,House,Patty McMahon,LIB,0,DEM,0,0,0,0,plurality,0,0,Jason Crow: Incumbent renominated
+CO-06,House,Samir Ezzeldin Witta,IND,0,DEM,0,0,0,0,plurality,0,0,Jason Crow: Incumbent renominated
+CO-07,House,Brittany Pettersen,DEM,1,DEM,0,0,1,0,plurality,0,1,Brittany Pettersen: Incumbent renominated
+CO-07,House,Tim Bennett,REP,0,DEM,0,0,1,0,plurality,0,1,Brittany Pettersen: Incumbent renominated
+CO-07,House,Dan Sallis,LIB,0,DEM,0,0,0,0,plurality,0,0,Brittany Pettersen: Incumbent renominated
+CO-07,House,Joe Krzeczkowski,IND,0,DEM,0,0,0,0,plurality,0,0,Brittany Pettersen: Incumbent renominated
+CO-07,House,Lawrence Clark,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Constitution | Brittany Pettersen: Incumbent renominated
+CO-07,House,Susan Hall,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Unity | Brittany Pettersen: Incumbent renominated
+CO-08,House,Gabe Evans,REP,1,REP,0,0,1,0,plurality,0,1,Gabe Evans: Incumbent renominated
+CO-08,House,Manny Rutinel,DEM,0,REP,0,0,1,0,plurality,0,1,Gabe Evans: Incumbent renominated
+CO-08,House,Dan Wood,LIB,0,REP,0,0,0,0,plurality,0,0,Gabe Evans: Incumbent renominated
+CT-01,House,Amy Chai,REP,0,DEM,1,0,1,0,plurality,0,1,John B. Larson: Incumbent lost renomination
+CT-01,House,Luke Bronin,DEM,0,DEM,1,0,1,0,plurality,0,1,John B. Larson: Incumbent lost renomination
+CT-01,House,Mary Sanders,GRN,0,DEM,1,0,0,0,plurality,0,0,John B. Larson: Incumbent lost renomination
+CT-02,House,George Austin,REP,0,DEM,0,0,1,0,plurality,0,1,Joe Courtney: Incumbent renominated
+CT-02,House,Joe Courtney,DEM,1,DEM,0,0,1,0,plurality,0,1,Joe Courtney: Incumbent renominated
+CT-03,House,Chris Lancia,REP,0,DEM,0,0,1,0,plurality,0,1,Rosa DeLauro: Incumbent renominated
+CT-03,House,Rosa DeLauro,DEM,1,DEM,0,0,1,0,plurality,0,1,Rosa DeLauro: Incumbent renominated
+CT-03,House,Thomas Egan,IND,0,DEM,0,0,0,0,plurality,0,0,Rosa DeLauro: Incumbent renominated
+CT-04,House,Jim Himes,DEM,1,DEM,0,0,1,0,plurality,0,1,Jim Himes: Incumbent renominated
+CT-04,House,Michael Goldstein,REP,0,DEM,0,0,1,0,plurality,0,1,Jim Himes: Incumbent renominated
+CT-04,House,Benjamin Wesley,IND,0,DEM,0,0,0,0,plurality,0,0,Jim Himes: Incumbent renominated
+CT-05,House,Chris Shea,REP,0,DEM,0,0,1,0,plurality,0,1,Jahana Hayes: Incumbent renominated
+CT-05,House,Jahana Hayes,DEM,1,DEM,0,0,1,0,plurality,0,1,Jahana Hayes: Incumbent renominated
+DE-AL,House,Joseph Arminio,REP,0,DEM,0,0,1,0,plurality,0,1,Sarah McBride: Incumbent renominated
+DE-AL,House,Sarah McBride,DEM,1,DEM,0,0,1,0,plurality,0,1,Sarah McBride: Incumbent renominated
+FL-01,House,Gay Valimont,DEM,0,REP,0,0,1,0,plurality,0,1,Jimmy Patronis: Incumbent renominated
+FL-01,House,Jimmy Patronis,REP,1,REP,0,0,1,0,plurality,0,1,Jimmy Patronis: Incumbent renominated
+FL-01,House,Tyler Davis,IND,0,REP,0,0,0,0,plurality,0,0,Jimmy Patronis: Incumbent renominated
+FL-02,House,Amanda Green,DEM,0,REP,1,0,1,0,plurality,0,1,Neal Dunn: Incumbent retiring
+FL-02,House,Austin Rogers,REP,0,REP,1,0,1,0,plurality,0,1,Neal Dunn: Incumbent retiring
+FL-03,House,Kat Cammack,REP,1,REP,0,0,1,0,plurality,0,1,Kat Cammack: Incumbent renominated
+FL-03,House,Seth Harp,DEM,0,REP,0,0,1,0,plurality,0,1,Kat Cammack: Incumbent renominated
+FL-03,House,Mike Klein,IND,0,REP,0,0,0,0,plurality,0,0,Kat Cammack: Incumbent renominated
+FL-04,House,Aaron Bean,REP,1,REP,0,0,1,0,plurality,0,1,Aaron Bean: Incumbent renominated
+FL-04,House,LaShonda Holloway,DEM,0,REP,0,0,1,0,plurality,0,1,Aaron Bean: Incumbent renominated
+FL-04,House,Mike Sell,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Florida Forward | Aaron Bean: Incumbent renominated
+FL-04,House,Todd Schaefer,IND,0,REP,0,0,0,0,plurality,0,0,Aaron Bean: Incumbent renominated
+FL-05,House,John Rutherford,REP,1,REP,0,0,1,0,plurality,0,1,John Rutherford: Incumbent renominated
+FL-05,House,Rachel Grage,DEM,0,REP,0,0,1,0,plurality,0,1,John Rutherford: Incumbent renominated
+FL-06,House,Eric Yonce,DEM,0,REP,0,0,1,0,plurality,0,1,Randy Fine: Incumbent renominated
+FL-06,House,Randy Fine,REP,1,REP,0,0,1,0,plurality,0,1,Randy Fine: Incumbent renominated
+FL-06,House,Andrew Parrott,LIB,0,REP,0,0,0,0,plurality,0,0,Randy Fine: Incumbent renominated
+FL-06,House,Michael Gist,IND,0,REP,0,0,0,0,plurality,0,0,Randy Fine: Incumbent renominated
+FL-07,House,Bale Dalton,DEM,0,REP,1,0,1,0,plurality,0,1,Cory Mills: Incumbent lost renomination
+FL-07,House,Ryan Elijah,REP,0,REP,1,0,1,0,plurality,0,1,Cory Mills: Incumbent lost renomination
+FL-07,House,Christopher Dennison,LIB,0,REP,1,0,0,0,plurality,0,0,Cory Mills: Incumbent lost renomination
+FL-08,House,Jennifer Jenkins,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Haridopolos: Incumbent renominated
+FL-08,House,Mike Haridopolos,REP,1,REP,0,0,1,0,plurality,0,1,Mike Haridopolos: Incumbent renominated
+FL-09,House,Dan Green,REP,0,DEM,0,0,1,0,plurality,0,1,Darren Soto: Incumbent renominated
+FL-09,House,Darren Soto,DEM,1,DEM,0,0,1,0,plurality,0,1,Darren Soto: Incumbent renominated
+FL-10,House,Maxwell Frost,DEM,1,DEM,0,0,1,0,plurality,1,1,only one candidate listed (unopposed) | Maxwell Frost: Incumbent re-elected
+FL-11,House,James Pericola,DEM,0,REP,1,0,1,0,plurality,0,1,Daniel Webster: Incumbent retiring
+FL-11,House,Joe Strada,REP,0,REP,1,0,1,0,plurality,0,1,Daniel Webster: Incumbent retiring
+FL-11,House,Ralph Groves,LIB,0,REP,1,0,0,0,plurality,0,0,Daniel Webster: Incumbent retiring
+FL-12,House,Gus Bilirakis,REP,1,REP,0,0,1,0,plurality,0,1,Gus Bilirakis: Incumbent renominated
+FL-12,House,Kimberly Overman,DEM,0,REP,0,0,1,0,plurality,0,1,Gus Bilirakis: Incumbent renominated
+FL-12,House,Branden Scrivener,IND,0,REP,0,0,0,0,plurality,0,0,Gus Bilirakis: Incumbent renominated
+FL-13,House,Anna Paulina Luna,REP,1,REP,0,0,1,0,plurality,0,1,Anna Paulina Luna: Incumbent renominated
+FL-13,House,Leela Gray,DEM,0,REP,0,0,1,0,plurality,0,1,Anna Paulina Luna: Incumbent renominated
+FL-13,House,Tony D'Arrigo,IND,0,REP,0,0,0,0,plurality,0,0,Anna Paulina Luna: Incumbent renominated
+FL-14,House,Kathy Castor,DEM,1,DEM,0,0,1,0,plurality,0,1,Kathy Castor: Incumbent renominated
+FL-14,House,Mike Beltran,REP,0,DEM,0,0,1,0,plurality,0,1,Kathy Castor: Incumbent renominated
+FL-14,House,Brian Lambert,LIB,0,DEM,0,0,0,0,plurality,0,0,Kathy Castor: Incumbent renominated
+FL-15,House,Laurel Lee,REP,1,REP,0,0,1,0,plurality,0,1,Laurel Lee: Incumbent renominated
+FL-15,House,Robert People,DEM,0,REP,0,0,1,0,plurality,0,1,Laurel Lee: Incumbent renominated
+FL-16,House,Kelly Kirschner,DEM,0,REP,1,0,1,0,plurality,0,1,Vern Buchanan: Incumbent retiring
+FL-16,House,Sydney Gruters,REP,0,REP,1,0,1,0,plurality,0,1,Vern Buchanan: Incumbent retiring
+FL-16,House,Mark Davis,IND,0,REP,1,0,0,0,plurality,0,0,Vern Buchanan: Incumbent retiring
+FL-17,House,Greg Steube,REP,1,REP,0,0,1,0,plurality,0,1,Greg Steube: Incumbent renominated
+FL-17,House,Matthew Montavon,DEM,0,REP,0,0,1,0,plurality,0,1,Greg Steube: Incumbent renominated
+FL-17,House,Michael Quirk,IND,0,REP,0,0,0,0,plurality,0,0,Greg Steube: Incumbent renominated
+FL-18,House,Curtis Gibson,DEM,0,REP,0,0,1,0,plurality,0,1,Scott Franklin: Incumbent renominated
+FL-18,House,Scott Franklin,REP,1,REP,0,0,1,0,plurality,0,1,Scott Franklin: Incumbent renominated
+FL-18,House,Deva Simmons,IND,0,REP,0,0,0,0,plurality,0,0,Scott Franklin: Incumbent renominated
+FL-19,House,Jim Schwartzel,REP,0,REP,1,0,1,0,plurality,0,1,Byron Donalds: Incumbent retiring to run for governor
+FL-19,House,Victor Arias,DEM,0,REP,1,0,1,0,plurality,0,1,Byron Donalds: Incumbent retiring to run for governor
+FL-19,House,Seth Haskin,IND,0,REP,1,0,0,0,plurality,0,0,Byron Donalds: Incumbent retiring to run for governor
+FL-20,House,Brent Andersen,REP,0,DEM,0,0,1,0,plurality,0,1,"seat vacant (Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.); Vacant: Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.; Debbie Wasserman Schultz: Incumbent renominated"
+FL-20,House,Debbie Wasserman Schultz,DEM,1,DEM,0,1,1,0,plurality,0,1,"incumbent of FL-25 (old lines) | seat vacant (Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.); Vacant: Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.; Debbie Wasserman Schultz: Incumbent renominated"
+FL-20,House,Kedner Maxime,OTHER,0,DEM,0,0,0,0,plurality,0,0,"party label: Independent Party of Florida | seat vacant (Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.); Vacant: Rep. Sheila Cherfilus-McCormick (D) resigned April 21, 2026. Democratic loss.; Debbie Wasserman Schultz: Incumbent renominated"
+FL-21,House,Brian Mast,REP,1,REP,0,0,1,0,plurality,0,1,Brian Mast: Incumbent renominated
+FL-21,House,James Martin,DEM,0,REP,0,0,1,0,plurality,0,1,Brian Mast: Incumbent renominated
+FL-21,House,Alexander Cooke,IND,0,REP,0,0,0,0,plurality,0,0,Brian Mast: Incumbent renominated
+FL-22,House,Casey Askar,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Lois Frankel (DEM), listed by Wikipedia under FL-23 on the new lines (Incumbent renominated)"
+FL-22,House,Pia Dandiya,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Lois Frankel (DEM), listed by Wikipedia under FL-23 on the new lines (Incumbent renominated)"
+FL-23,House,Deborah Adeimy,REP,0,DEM,0,0,1,0,plurality,0,1,"district number now held by Jared Moskowitz (DEM), listed by Wikipedia under FL-25 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Lois Frankel (DEM, from FL-22); Lois Frankel: Incumbent renominated"
+FL-23,House,Lois Frankel,DEM,1,DEM,0,1,1,0,plurality,0,1,"incumbent of FL-22 (old lines) | district number now held by Jared Moskowitz (DEM), listed by Wikipedia under FL-25 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Lois Frankel (DEM, from FL-22); Lois Frankel: Incumbent renominated"
+FL-24,House,Oliver Gilbert,DEM,0,DEM,1,0,1,0,plurality,0,1,Frederica Wilson: Incumbent retiring
+FL-24,House,Te Mayonna Brown,REP,0,DEM,1,0,1,0,plurality,0,1,Frederica Wilson: Incumbent retiring
+FL-25,House,Jared Moskowitz,DEM,1,DEM,0,1,1,0,plurality,0,1,"incumbent of FL-23 (old lines) | district number now held by Debbie Wasserman Schultz (DEM), listed by Wikipedia under FL-20 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Jared Moskowitz (DEM, from FL-23); Jared Moskowitz: Incumbent renominated"
+FL-25,House,Scott Singer,REP,0,DEM,0,0,1,0,plurality,0,1,"district number now held by Debbie Wasserman Schultz (DEM), listed by Wikipedia under FL-20 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Jared Moskowitz (DEM, from FL-23); Jared Moskowitz: Incumbent renominated"
+FL-25,House,Peter Jassenoff,LIB,0,DEM,0,0,0,0,plurality,0,0,"district number now held by Debbie Wasserman Schultz (DEM), listed by Wikipedia under FL-20 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Jared Moskowitz (DEM, from FL-23); Jared Moskowitz: Incumbent renominated"
+FL-26,House,Mario Díaz-Balart,REP,1,REP,0,0,1,0,plurality,0,1,Mario Díaz-Balart: Incumbent renominated
+FL-26,House,Nicole Locklin,DEM,0,REP,0,0,1,0,plurality,0,1,Mario Díaz-Balart: Incumbent renominated
+FL-26,House,Deborah Ann Meidinger Hosey,IND,0,REP,0,0,0,0,plurality,0,0,Mario Díaz-Balart: Incumbent renominated
+FL-27,House,Eliott Rodriguez,DEM,0,REP,0,0,1,0,plurality,0,1,María Elvira Salazar: Incumbent renominated
+FL-27,House,María Elvira Salazar,REP,1,REP,0,0,1,0,plurality,0,1,María Elvira Salazar: Incumbent renominated
+FL-28,House,Carlos Giménez,REP,1,REP,0,0,1,0,plurality,0,1,Carlos A. Giménez: Incumbent renominated
+FL-28,House,Phil Ehr,DEM,0,REP,0,0,1,0,plurality,0,1,Carlos A. Giménez: Incumbent renominated
+FL-28,House,Eddy Rojas,IND,0,REP,0,0,0,0,plurality,0,0,Carlos A. Giménez: Incumbent renominated
+GA-01,House,Amanda Hollowell,DEM,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Buddy Carter: Incumbent retiring to run for U.S. Senate
+GA-01,House,Jim Kingston,REP,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Buddy Carter: Incumbent retiring to run for U.S. Senate
+GA-02,House,Matt Day,REP,0,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Sanford Bishop: Incumbent renominated
+GA-02,House,Sanford Bishop,DEM,1,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Sanford Bishop: Incumbent renominated
+GA-03,House,Brian Jack,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Brian Jack: Incumbent renominated
+GA-03,House,Maura Keller,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Brian Jack: Incumbent renominated
+GA-04,House,Hank Johnson,DEM,1,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Hank Johnson: Incumbent renominated
+GA-04,House,James Duffie,REP,0,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Hank Johnson: Incumbent renominated
+GA-05,House,John Oscar Salvesen,REP,0,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Nikema Williams: Incumbent renominated
+GA-05,House,Nikema Williams,DEM,1,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Nikema Williams: Incumbent renominated
+GA-06,House,Kevin Martin,REP,0,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Lucy McBath: Incumbent renominated
+GA-06,House,Lucy McBath,DEM,1,DEM,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Lucy McBath: Incumbent renominated
+GA-07,House,Rich McCormick,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Rich McCormick: Incumbent renominated
+GA-07,House,Tony Kozycki,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Rich McCormick: Incumbent renominated
+GA-08,House,Austin Scott,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Austin Scott: Incumbent renominated
+GA-08,House,Kelly Esti,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Austin Scott: Incumbent renominated
+GA-09,House,Andrew Clyde,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Andrew Clyde: Incumbent renominated
+GA-09,House,Caitlyn Gegen,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Andrew Clyde: Incumbent renominated
+GA-10,House,Houston Gaines,REP,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Mike Collins: Incumbent retiring to run for U.S. Senate
+GA-10,House,Pam Delancy,DEM,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Mike Collins: Incumbent retiring to run for U.S. Senate
+GA-11,House,Chris Harden,DEM,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Barry Loudermilk: Incumbent retiring
+GA-11,House,John Cowan,REP,0,REP,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Barry Loudermilk: Incumbent retiring
+GA-12,House,Ceretta Smith,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Rick Allen: Incumbent renominated
+GA-12,House,Rick Allen,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Rick Allen: Incumbent renominated
+GA-13,House,Jasmine Clark,DEM,0,DEM,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Everton Blair: Blair lost the initial nomination for the full term; later elected to complete David Scott's unexpired term.
+GA-13,House,Jonathan Chavez,REP,0,DEM,1,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Everton Blair: Blair lost the initial nomination for the full term; later elected to complete David Scott's unexpired term.
+GA-14,House,Clay Fuller,REP,1,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Clay Fuller: Incumbent renominated
+GA-14,House,Shawn Harris,DEM,0,REP,0,0,1,0,runoff-possible,0,1,GA general needs a majority; runoff Dec 1 2026 if no one >50% | Clay Fuller: Incumbent renominated
+HI-01,House,Adriel Lam,REP,0,DEM,0,0,1,0,plurality,0,1,Ed Case: Incumbent renominated
+HI-01,House,Ed Case,DEM,1,DEM,0,0,1,0,plurality,0,1,Ed Case: Incumbent renominated
+HI-01,House,Jordan Conley,GRN,0,DEM,0,0,0,0,plurality,0,0,Ed Case: Incumbent renominated
+HI-01,House,Nathan Berning,IND,0,DEM,0,0,0,0,plurality,0,0,Ed Case: Incumbent renominated
+HI-02,House,Brenton Awa,REP,0,DEM,0,0,1,0,plurality,0,1,Jill Tokuda: Incumbent renominated
+HI-02,House,Jill Tokuda,DEM,1,DEM,0,0,1,0,plurality,0,1,Jill Tokuda: Incumbent renominated
+IA-01,House,Christina Bohannan,DEM,0,REP,0,0,1,0,plurality,0,1,Mariannette Miller-Meeks: Incumbent renominated
+IA-01,House,Mariannette Miller-Meeks,REP,1,REP,0,0,1,0,plurality,0,1,Mariannette Miller-Meeks: Incumbent renominated
+IA-01,House,Michael Bridgford,IND,0,REP,0,0,0,0,plurality,0,1,Mariannette Miller-Meeks: Incumbent renominated
+IA-02,House,Joe Mitchell,REP,0,REP,1,0,1,0,plurality,0,1,Ashley Hinson: Incumbent retiring to run for U.S. Senate
+IA-02,House,Lindsay James,DEM,0,REP,1,0,1,0,plurality,0,1,Ashley Hinson: Incumbent retiring to run for U.S. Senate
+IA-02,House,Dave Bushaw,IND,0,REP,1,0,0,0,plurality,0,0,Ashley Hinson: Incumbent retiring to run for U.S. Senate
+IA-02,House,Rick Stewart,LIB,0,REP,1,0,0,0,plurality,0,0,Ashley Hinson: Incumbent retiring to run for U.S. Senate
+IA-03,House,Sarah Trone Garriott,DEM,0,REP,0,0,1,0,plurality,0,1,Zach Nunn: Incumbent renominated
+IA-03,House,Zach Nunn,REP,1,REP,0,0,1,0,plurality,0,1,Zach Nunn: Incumbent renominated
+IA-04,House,Chris McGowan,REP,0,REP,1,0,1,0,plurality,0,1,Randy Feenstra: Incumbent retiring to run for governor
+IA-04,House,David Dawson,DEM,0,REP,1,0,1,0,plurality,0,1,Randy Feenstra: Incumbent retiring to run for governor
+ID-01,House,Kaylee Peterson,DEM,0,REP,0,0,1,0,plurality,0,1,Russ Fulcher: Incumbent renominated
+ID-01,House,Russ Fulcher,REP,1,REP,0,0,1,0,plurality,0,1,Russ Fulcher: Incumbent renominated
+ID-01,House,Brendan Gomez,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Constitution | Russ Fulcher: Incumbent renominated
+ID-01,House,Sarah Zabel,IND,0,REP,0,0,0,0,plurality,0,0,Russ Fulcher: Incumbent renominated
+ID-02,House,Ellie Gilbreath,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Simpson: Incumbent renominated
+ID-02,House,Mike Simpson,REP,1,REP,0,0,1,0,plurality,0,1,Mike Simpson: Incumbent renominated
+ID-02,House,Emre Houser,IND,0,REP,0,0,0,0,plurality,0,0,Mike Simpson: Incumbent renominated
+ID-02,House,Tripp Hutchinson,IND,0,REP,0,0,0,0,plurality,0,0,Mike Simpson: Incumbent renominated
+ID-02,House,Will Johanson,LIB,0,REP,0,0,0,0,plurality,0,0,Mike Simpson: Incumbent renominated
+IL-01,House,Christian Maxwell,REP,0,DEM,0,0,1,0,plurality,0,1,Jonathan Jackson: Incumbent renominated
+IL-01,House,Jonathan Jackson,DEM,1,DEM,0,0,1,0,plurality,0,1,Jonathan Jackson: Incumbent renominated
+IL-02,House,Donna Miller,DEM,0,DEM,1,0,1,0,plurality,0,1,Robin Kelly: Incumbent retiring to run for U.S. Senate
+IL-02,House,Michael Noack,REP,0,DEM,1,0,1,0,plurality,0,1,Robin Kelly: Incumbent retiring to run for U.S. Senate
+IL-03,House,Angel Oakley,REP,0,DEM,0,0,1,0,plurality,0,1,Delia Ramirez: Incumbent renominated
+IL-03,House,Delia Ramirez,DEM,1,DEM,0,0,1,0,plurality,0,1,Delia Ramirez: Incumbent renominated
+IL-04,House,Lupe Castillo,REP,0,DEM,1,0,1,0,plurality,0,1,Chuy García: Incumbent retiring | Kalshi names not on Wikipedia ballot list: Mayra Macías
+IL-04,House,Patty Garcia,DEM,0,DEM,1,0,1,0,plurality,0,1,Chuy García: Incumbent retiring | Kalshi names not on Wikipedia ballot list: Mayra Macías
+IL-04,House,Chris Getty,IND,0,DEM,1,0,0,0,plurality,0,1,Chuy García: Incumbent retiring | Kalshi names not on Wikipedia ballot list: Mayra Macías
+IL-04,House,Ed Hershey,OTHER,0,DEM,1,0,0,0,plurality,0,0,party label: Working Class | Chuy García: Incumbent retiring | Kalshi names not on Wikipedia ballot list: Mayra Macías
+IL-05,House,Mike Quigley,DEM,1,DEM,0,0,1,0,plurality,0,1,Mike Quigley: Incumbent renominated
+IL-05,House,Tommy Hanson,REP,0,DEM,0,0,1,0,plurality,0,1,Mike Quigley: Incumbent renominated
+IL-06,House,Niki Conforti,REP,0,DEM,0,0,1,0,plurality,0,1,Sean Casten: Incumbent renominated
+IL-06,House,Sean Casten,DEM,1,DEM,0,0,1,0,plurality,0,1,Sean Casten: Incumbent renominated
+IL-07,House,Chad Koppie,REP,0,DEM,1,0,1,0,plurality,0,1,Danny Davis: Incumbent retiring
+IL-07,House,La Shawn Ford,DEM,0,DEM,1,0,1,0,plurality,0,1,Danny Davis: Incumbent retiring
+IL-08,House,Jennifer Davis,REP,0,DEM,1,0,1,0,plurality,0,1,Raja Krishnamoorthi: Incumbent retiring to run for U.S. Senate
+IL-08,House,Melissa Bean,DEM,0,DEM,1,0,1,0,plurality,0,1,Raja Krishnamoorthi: Incumbent retiring to run for U.S. Senate
+IL-09,House,Daniel Biss,DEM,0,DEM,1,0,1,0,plurality,0,1,Jan Schakowsky: Incumbent retiring
+IL-09,House,John Elleson,REP,0,DEM,1,0,1,0,plurality,0,1,Jan Schakowsky: Incumbent retiring
+IL-10,House,Brad Schneider,DEM,1,DEM,0,0,1,0,plurality,0,1,Brad Schneider: Incumbent renominated
+IL-10,House,Carl Lambrecht,REP,0,DEM,0,0,1,0,plurality,0,1,Brad Schneider: Incumbent renominated
+IL-11,House,Bill Foster,DEM,1,DEM,0,0,1,0,plurality,0,1,Bill Foster: Incumbent renominated
+IL-11,House,Jeff Walter,REP,0,DEM,0,0,1,0,plurality,0,1,Bill Foster: Incumbent renominated
+IL-12,House,Julie Fortier,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Bost: Incumbent renominated
+IL-12,House,Mike Bost,REP,1,REP,0,0,1,0,plurality,0,1,Mike Bost: Incumbent renominated
+IL-13,House,Jeff Wilson,REP,0,DEM,0,0,1,0,plurality,0,1,Nikki Budzinski: Incumbent renominated
+IL-13,House,Nikki Budzinski,DEM,1,DEM,0,0,1,0,plurality,0,1,Nikki Budzinski: Incumbent renominated
+IL-14,House,James Marter,REP,0,DEM,0,0,1,0,plurality,0,1,Lauren Underwood: Incumbent renominated
+IL-14,House,Lauren Underwood,DEM,1,DEM,0,0,1,0,plurality,0,1,Lauren Underwood: Incumbent renominated
+IL-15,House,Jennifer Todd,DEM,0,REP,0,0,1,0,plurality,0,1,Mary Miller: Incumbent renominated
+IL-15,House,Mary Miller,REP,1,REP,0,0,1,0,plurality,0,1,Mary Miller: Incumbent renominated
+IL-16,House,Darin LaHood,REP,1,REP,0,0,1,0,plurality,0,1,Darin LaHood: Incumbent renominated
+IL-16,House,Paul Nolley,DEM,0,REP,0,0,1,0,plurality,0,1,Darin LaHood: Incumbent renominated
+IL-17,House,Dillan Vancil,REP,0,DEM,0,0,1,0,plurality,0,1,Eric Sorensen: Incumbent renominated
+IL-17,House,Eric Sorensen,DEM,1,DEM,0,0,1,0,plurality,0,1,Eric Sorensen: Incumbent renominated
+IN-01,House,Barb Regnitz,REP,0,DEM,0,0,1,0,plurality,0,1,Frank J. Mrvan: Incumbent renominated
+IN-01,House,Frank Mrvan,DEM,1,DEM,0,0,1,0,plurality,0,1,Frank J. Mrvan: Incumbent renominated
+IN-02,House,Jamee Decio,DEM,0,REP,0,0,1,0,plurality,0,1,Rudy Yakym: Incumbent renominated
+IN-02,House,Rudy Yakym,REP,1,REP,0,0,1,0,plurality,0,1,Rudy Yakym: Incumbent renominated
+IN-02,House,William Henry,LIB,0,REP,0,0,0,0,plurality,0,0,Rudy Yakym: Incumbent renominated
+IN-03,House,Kelly Thompson,DEM,0,REP,0,0,1,0,plurality,0,1,Marlin Stutzman: Incumbent renominated
+IN-03,House,Marlin Stutzman,REP,1,REP,0,0,1,0,plurality,0,1,Marlin Stutzman: Incumbent renominated
+IN-04,House,Drew Cox,DEM,0,REP,0,0,1,0,plurality,0,1,Jim Baird: Incumbent renominated
+IN-04,House,Jim Baird,REP,1,REP,0,0,1,0,plurality,0,1,Jim Baird: Incumbent renominated
+IN-05,House,J. D. Ford,DEM,0,REP,0,0,1,0,plurality,0,1,Victoria Spartz: Incumbent renominated
+IN-05,House,Victoria Spartz,REP,1,REP,0,0,1,0,plurality,0,1,Victoria Spartz: Incumbent renominated
+IN-06,House,Cinde Wirth,DEM,0,REP,0,0,1,0,plurality,0,1,Jefferson Shreve: Incumbent renominated
+IN-06,House,Jefferson Shreve,REP,1,REP,0,0,1,0,plurality,0,1,Jefferson Shreve: Incumbent renominated
+IN-07,House,André Carson,DEM,1,DEM,0,0,1,0,plurality,0,1,André Carson: Incumbent renominated
+IN-07,House,Patrick McAuley,REP,0,DEM,0,0,1,0,plurality,0,1,André Carson: Incumbent renominated
+IN-07,House,James Sceniak,LIB,0,DEM,0,0,0,0,plurality,0,0,André Carson: Incumbent renominated
+IN-08,House,Mark Messmer,REP,1,REP,0,0,1,0,plurality,0,1,Mark Messmer: Incumbent renominated
+IN-08,House,Mary Allen,DEM,0,REP,0,0,1,0,plurality,0,1,Mark Messmer: Incumbent renominated
+IN-09,House,Brad Meyer,DEM,0,REP,0,0,1,0,plurality,0,1,Erin Houchin: Incumbent renominated
+IN-09,House,Erin Houchin,REP,1,REP,0,0,1,0,plurality,0,1,Erin Houchin: Incumbent renominated
+IN-09,House,Tonya Hudson,LIB,0,REP,0,0,0,0,plurality,0,0,Erin Houchin: Incumbent renominated
+KS-01,House,Lauren Reinhold,DEM,0,REP,0,0,1,0,plurality,0,1,Tracey Mann: Incumbent renominated
+KS-01,House,Tracey Mann,REP,1,REP,0,0,1,0,plurality,0,1,Tracey Mann: Incumbent renominated
+KS-01,House,Steven Jacob,LIB,0,REP,0,0,0,0,plurality,0,0,Tracey Mann: Incumbent renominated
+KS-02,House,Derek Schmidt,REP,1,REP,0,0,1,0,plurality,0,1,Derek Schmidt: Incumbent renominated
+KS-02,House,Don Coover,DEM,0,REP,0,0,1,0,plurality,0,1,Derek Schmidt: Incumbent renominated
+KS-02,House,John Hauer,LIB,0,REP,0,0,0,0,plurality,0,0,Derek Schmidt: Incumbent renominated
+KS-03,House,Eric Jenkins,REP,0,DEM,0,0,1,0,plurality,0,1,Sharice Davids: Incumbent renominated
+KS-03,House,Sharice Davids,DEM,1,DEM,0,0,1,0,plurality,0,1,Sharice Davids: Incumbent renominated
+KS-03,House,Steven Hohe,LIB,0,DEM,0,0,0,0,plurality,0,0,Sharice Davids: Incumbent renominated
+KS-04,House,Katy Tyndell,DEM,0,REP,0,0,1,0,plurality,0,1,Ron Estes: Incumbent renominated
+KS-04,House,Ron Estes,REP,1,REP,0,0,1,0,plurality,0,1,Ron Estes: Incumbent renominated
+KS-04,House,Drew Cranmer,LIB,0,REP,0,0,0,0,plurality,0,0,Ron Estes: Incumbent renominated
+KY-01,House,Drew Williams,DEM,0,REP,0,0,1,0,plurality,0,1,James Comer: Incumbent renominated
+KY-01,House,James Comer,REP,1,REP,0,0,1,0,plurality,0,1,James Comer: Incumbent renominated
+KY-02,House,Brett Guthrie,REP,1,REP,0,0,1,0,plurality,0,1,Brett Guthrie: Incumbent renominated
+KY-02,House,Megan Wingfield,DEM,0,REP,0,0,1,0,plurality,0,1,Brett Guthrie: Incumbent renominated
+KY-02,House,Thomas Loecken,IND,0,REP,0,0,0,0,plurality,0,0,Brett Guthrie: Incumbent renominated
+KY-03,House,Maria Rodriquez,REP,0,DEM,0,0,1,0,plurality,0,1,Morgan McGarvey: Incumbent renominated
+KY-03,House,Morgan McGarvey,DEM,1,DEM,0,0,1,0,plurality,0,1,Morgan McGarvey: Incumbent renominated
+KY-04,House,Ed Gallrein,REP,0,REP,1,0,1,0,plurality,0,1,Thomas Massie: Incumbent lost renomination
+KY-04,House,Melissa Strange,DEM,0,REP,1,0,1,0,plurality,0,1,Thomas Massie: Incumbent lost renomination
+KY-04,House,Jeremy Todd,LIB,0,REP,1,0,0,0,plurality,0,0,Thomas Massie: Incumbent lost renomination
+KY-05,House,Hal Rogers,REP,1,REP,0,0,1,0,plurality,0,1,Hal Rogers: Incumbent renominated
+KY-05,House,Ned Pillersdorf,DEM,0,REP,0,0,1,0,plurality,0,1,Hal Rogers: Incumbent renominated
+KY-05,House,Gerardo Serrano,IND,0,REP,0,0,0,0,plurality,0,0,Hal Rogers: Incumbent renominated
+KY-05,House,Mikel Wein,IND,0,REP,0,0,0,0,plurality,0,0,Hal Rogers: Incumbent renominated
+KY-06,House,Ralph Alvarado,REP,0,REP,1,0,1,0,plurality,0,1,Andy Barr: Incumbent retiring to run for U.S. Senate
+KY-06,House,Zach Dembo,DEM,0,REP,1,0,1,0,plurality,0,1,Andy Barr: Incumbent retiring to run for U.S. Senate
+KY-06,House,Jay Bowman,IND,0,REP,1,0,0,0,plurality,0,0,Andy Barr: Incumbent retiring to run for U.S. Senate
+KY-06,House,Pete Lynch,OTHER,0,REP,1,0,0,0,plurality,0,0,party label: Kentucky | Andy Barr: Incumbent retiring to run for U.S. Senate
+LA-01,House,Lauren Jewett,DEM,0,REP,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Steve Scalise: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-01,House,Steve Scalise,REP,1,REP,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Steve Scalise: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-01,House,Liddy Glass,IND,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Steve Scalise: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-01,House,Randall Arrington,REP,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Steve Scalise: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-02,House,Peter Williams,REP,0,DEM,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Troy Carter: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-02,House,Troy Carter,DEM,1,DEM,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Troy Carter: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-02,House,Lisa Ballay,LIB,0,DEM,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Troy Carter: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-02,House,Renada Collins,DEM,0,DEM,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Troy Carter: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-02,House,Walter Beach,IND,0,DEM,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | Troy Carter: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,Clay Higgins,REP,1,REP,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,Caleb Walker,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,John Day,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,Kate Cotten,REP,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,Priscilla Gonzalez,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-03,House,Tia LeBrun,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 4 DEM candidates on the ballot; is_major not assigned among them | Clay Higgins: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-04,House,Mike Johnson,REP,1,REP,0,0,1,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them | Mike Johnson: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-04,House,Conrad Cable,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them | Mike Johnson: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-04,House,Gordon Heslop,REP,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them | Mike Johnson: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-04,House,Matt Gromlich,DEM,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them | Mike Johnson: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-04,House,Mike Nichols,REP,0,REP,0,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them | Mike Johnson: Incumbent running | Kalshi lists parties only (no names) for this race
+LA-05,House,Antonio Wilson,DEM,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Austin Magee,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Dan McKay,DEM,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Gabe Firment,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Michael Echols,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Misti Cordell,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Omar Dantzler,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Patricia Moore,DEM,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-05,House,Stewart Cathey Jr.,REP,0,REP,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 3 DEM candidates on the ballot; is_major not assigned among them; 6 REP candidates on the ballot; is_major not assigned among them | Julia Letlow: Incumbent retiring to run for U.S. Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Blake Miguez,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Chris Johnson,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Larry Davis,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Lindsay Garcia,DEM,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Michael Mebruer,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Monique Appeaning,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Pat Forbes,DEM,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Rick Edmonds,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Rufus Craig,LIB,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+LA-06,House,Stephen Wagley,REP,0,DEM,1,0,0,0,runoff-possible,0,0,LA House 2026: Nov 3 is an all-party jungle primary on the new map; runoff Dec 12 if no one >50% | 2 DEM candidates on the ballot; is_major not assigned among them; 7 REP candidates on the ballot; is_major not assigned among them | Cleo Fields: Incumbent retiring to run for Louisiana State Senate | Kalshi lists parties only (no names) for this race
+MA-01,House,Nadia Milleron,IND,0,DEM,0,0,1,0,plurality,0,0,no REP nominee | Richard Neal: Incumbent renominated
+MA-01,House,Richard Neal,DEM,1,DEM,0,0,1,0,plurality,0,1,no REP nominee | Richard Neal: Incumbent renominated
+MA-02,House,Jim McGovern,DEM,1,DEM,0,0,1,0,plurality,1,1,only one candidate listed (unopposed) | Jim McGovern: Incumbent re-elected
+MA-03,House,Gary Grossi,REP,0,DEM,0,0,1,0,plurality,0,1,Lori Trahan: Incumbent renominated
+MA-03,House,Lori Trahan,DEM,1,DEM,0,0,1,0,plurality,0,1,Lori Trahan: Incumbent renominated
+MA-03,House,Dennis Conlon,IND,0,DEM,0,0,0,0,plurality,0,0,Lori Trahan: Incumbent renominated
+MA-04,House,Jake Auchincloss,DEM,1,DEM,0,0,1,0,plurality,0,1,Jake Auchincloss: Incumbent renominated
+MA-04,House,Thomas Stalcup,REP,0,DEM,0,0,1,0,plurality,0,1,Jake Auchincloss: Incumbent renominated
+MA-05,House,Katherine Clark,DEM,1,DEM,0,0,1,0,plurality,1,1,only one candidate listed (unopposed) | Katherine Clark: Incumbent re-elected
+MA-06,House,Dan Koh,DEM,0,DEM,1,0,1,0,plurality,0,1,Seth Moulton: Incumbent retiring to run for U.S. Senate
+MA-06,House,Micah Jones,REP,0,DEM,1,0,1,0,plurality,0,1,Seth Moulton: Incumbent retiring to run for U.S. Senate
+MA-07,House,Ayanna Pressley,DEM,1,DEM,0,0,1,0,plurality,1,1,only one candidate listed (unopposed) | Ayanna Pressley: Incumbent re-elected
+MA-08,House,Robert Burke,REP,0,DEM,0,0,1,0,plurality,0,1,Stephen Lynch: Incumbent renominated
+MA-08,House,Stephen Lynch,DEM,1,DEM,0,0,1,0,plurality,0,1,Stephen Lynch: Incumbent renominated
+MA-08,House,Rasheed Walters,IND,0,DEM,0,0,0,0,plurality,0,0,Stephen Lynch: Incumbent renominated
+MA-09,House,Bill Keating,DEM,1,DEM,0,0,1,0,plurality,0,1,Bill Keating: Incumbent renominated
+MA-09,House,Tyler MacAllister,REP,0,DEM,0,0,1,0,plurality,0,1,Bill Keating: Incumbent renominated
+MD-01,House,Andy Harris,REP,1,REP,0,0,1,0,plurality,0,1,Andy Harris: Incumbent renominated
+MD-01,House,Dan Schwartz,DEM,0,REP,0,0,1,0,plurality,0,1,Andy Harris: Incumbent renominated
+MD-02,House,Dave Wallace,REP,0,DEM,0,0,1,0,plurality,0,1,Johnny Olszewski: Incumbent renominated
+MD-02,House,Johnny Olszewski,DEM,1,DEM,0,0,1,0,plurality,0,1,Johnny Olszewski: Incumbent renominated
+MD-03,House,Berney Flowers,REP,0,DEM,0,0,1,0,plurality,0,1,Sarah Elfreth: Incumbent renominated
+MD-03,House,Sarah Elfreth,DEM,1,DEM,0,0,1,0,plurality,0,1,Sarah Elfreth: Incumbent renominated
+MD-04,House,George McDermott,REP,0,DEM,0,0,1,0,plurality,0,1,Glenn Ivey: Incumbent renominated
+MD-04,House,Glenn Ivey,DEM,1,DEM,0,0,1,0,plurality,0,1,Glenn Ivey: Incumbent renominated
+MD-04,House,Sam Husseini,GRN,0,DEM,0,0,0,0,plurality,0,0,Glenn Ivey: Incumbent renominated
+MD-05,House,Adrian Boafo,DEM,0,DEM,1,0,1,0,plurality,0,1,Steny Hoyer: Incumbent retiring
+MD-05,House,Chris Chaffee,REP,0,DEM,1,0,1,0,plurality,0,1,Steny Hoyer: Incumbent retiring
+MD-06,House,April McClain Delaney,DEM,1,DEM,0,0,1,0,plurality,0,1,April McClain Delaney: Incumbent renominated
+MD-06,House,Robin Ficker,REP,0,DEM,0,0,1,0,plurality,0,1,April McClain Delaney: Incumbent renominated
+MD-06,House,Moshe Landman,GRN,0,DEM,0,0,0,0,plurality,0,0,April McClain Delaney: Incumbent renominated
+MD-07,House,Kweisi Mfume,DEM,1,DEM,0,0,1,0,plurality,0,1,Kweisi Mfume: Incumbent renominated
+MD-07,House,Scott Collier,REP,0,DEM,0,0,1,0,plurality,0,1,Kweisi Mfume: Incumbent renominated
+MD-08,House,Cheryl Riley,REP,0,DEM,0,0,1,0,plurality,0,1,Jamie Raskin: Incumbent renominated
+MD-08,House,Jamie Raskin,DEM,1,DEM,0,0,1,0,plurality,0,1,Jamie Raskin: Incumbent renominated
+MD-08,House,Nancy Wallace,GRN,0,DEM,0,0,0,0,plurality,0,0,Jamie Raskin: Incumbent renominated
+ME-01,House,Chellie Pingree,DEM,1,DEM,0,0,1,0,rcv,0,1,ME: ranked-choice general for federal races | Chellie Pingree: Incumbent renominated
+ME-01,House,Ronald Russell,REP,0,DEM,0,0,1,0,rcv,0,1,ME: ranked-choice general for federal races | Chellie Pingree: Incumbent renominated
+ME-02,House,Matthew Dunlap,DEM,0,DEM,1,0,1,0,rcv,0,1,ME: ranked-choice general for federal races | Jared Golden: Incumbent retiring
+ME-02,House,Paul LePage,REP,0,DEM,1,0,1,0,rcv,0,1,ME: ranked-choice general for federal races | Jared Golden: Incumbent retiring
+MI-01,House,Callie Barr,DEM,0,REP,0,0,1,0,plurality,0,1,Jack Bergman: Incumbent renominated
+MI-01,House,Jack Bergman,REP,1,REP,0,0,1,0,plurality,0,1,Jack Bergman: Incumbent renominated
+MI-01,House,Arnett Satterla,LIB,0,REP,0,0,0,0,plurality,0,0,Jack Bergman: Incumbent renominated
+MI-01,House,Doc Kovaly,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Jack Bergman: Incumbent renominated
+MI-01,House,LaVeta Davenport,GRN,0,REP,0,0,0,0,plurality,0,0,Jack Bergman: Incumbent renominated
+MI-01,House,Liz Hakola,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Working Class | Jack Bergman: Incumbent renominated
+MI-01,House,Zebulon Featherly,IND,0,REP,0,0,0,0,plurality,0,0,Jack Bergman: Incumbent renominated
+MI-02,House,Ben Ambrose,DEM,0,REP,0,0,1,0,plurality,0,1,John Moolenaar: Incumbent renominated
+MI-02,House,John Moolenaar,REP,1,REP,0,0,1,0,plurality,0,1,John Moolenaar: Incumbent renominated
+MI-02,House,Charlotte Magoon,GRN,0,REP,0,0,0,0,plurality,0,0,John Moolenaar: Incumbent renominated
+MI-02,House,Richard Sills,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Natural Law | John Moolenaar: Incumbent renominated
+MI-03,House,Hillary Scholten,DEM,1,DEM,0,0,1,0,plurality,0,1,Hillary Scholten: Incumbent renominated
+MI-03,House,Terri DeBoer,REP,0,DEM,0,0,1,0,plurality,0,1,Hillary Scholten: Incumbent renominated
+MI-03,House,Joe Jock,GRN,0,DEM,0,0,0,0,plurality,0,0,Hillary Scholten: Incumbent renominated
+MI-04,House,Bill Huizenga,REP,1,REP,0,0,1,0,plurality,0,1,Bill Huizenga: Incumbent renominated
+MI-04,House,Sean McCann,DEM,0,REP,0,0,1,0,plurality,0,1,Bill Huizenga: Incumbent renominated
+MI-04,House,Shafina Che Barnett,GRN,0,REP,0,0,0,0,plurality,0,0,Bill Huizenga: Incumbent renominated
+MI-05,House,Christian Vukasovich,DEM,0,REP,0,0,1,0,plurality,0,1,Tim Walberg: Incumbent renominated
+MI-05,House,Tim Walberg,REP,1,REP,0,0,1,0,plurality,0,1,Tim Walberg: Incumbent renominated
+MI-05,House,Jim Bronke,GRN,0,REP,0,0,0,0,plurality,0,0,Tim Walberg: Incumbent renominated
+MI-05,House,Ronald A. Muszynski,LIB,0,REP,0,0,0,0,plurality,0,0,Tim Walberg: Incumbent renominated
+MI-05,House,Sharon M. Renier,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Tim Walberg: Incumbent renominated
+MI-06,House,Debbie Dingell,DEM,1,DEM,0,0,1,0,plurality,0,1,Debbie Dingell: Incumbent renominated
+MI-06,House,Heather Smiley,REP,0,DEM,0,0,1,0,plurality,0,1,Debbie Dingell: Incumbent renominated
+MI-06,House,Clyde Shabazz,GRN,0,DEM,0,0,0,0,plurality,0,0,Debbie Dingell: Incumbent renominated
+MI-06,House,Linda Rayburn,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Working Class | Debbie Dingell: Incumbent renominated
+MI-06,House,Michael Mickevicius,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Debbie Dingell: Incumbent renominated
+MI-06,House,Timothy A. Tegan,LIB,0,DEM,0,0,0,0,plurality,0,0,Debbie Dingell: Incumbent renominated
+MI-07,House,Tom Barrett,REP,1,REP,0,0,1,0,plurality,0,1,Tom Barrett: Incumbent renominated
+MI-07,House,William Lawrence,DEM,0,REP,0,0,1,0,plurality,0,1,Tom Barrett: Incumbent renominated
+MI-07,House,Shane Dedrick,GRN,0,REP,0,0,0,0,plurality,0,0,Tom Barrett: Incumbent renominated
+MI-08,House,Kristen McDonald Rivet,DEM,1,DEM,0,0,1,0,plurality,0,1,Kristen McDonald Rivet: Incumbent renominated
+MI-08,House,Thomas Smith,REP,0,DEM,0,0,1,0,plurality,0,1,Kristen McDonald Rivet: Incumbent renominated
+MI-08,House,Jim Casha,GRN,0,DEM,0,0,0,0,plurality,0,0,Kristen McDonald Rivet: Incumbent renominated
+MI-08,House,Kathy Goodwin,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Working Class | Kristen McDonald Rivet: Incumbent renominated
+MI-08,House,Mia C. Pettus,LIB,0,DEM,0,0,0,0,plurality,0,0,Kristen McDonald Rivet: Incumbent renominated
+MI-09,House,Lisa McClain,REP,1,REP,0,0,1,0,plurality,0,1,Lisa McClain: Incumbent renominated
+MI-09,House,Ray Pooley,DEM,0,REP,0,0,1,0,plurality,0,1,Lisa McClain: Incumbent renominated
+MI-09,House,Destiny Clayton,GRN,0,REP,0,0,0,0,plurality,0,0,Lisa McClain: Incumbent renominated
+MI-09,House,Jim Walkowicz,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Working Class | Lisa McClain: Incumbent renominated
+MI-09,House,John Vlahos,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Lisa McClain: Incumbent renominated
+MI-09,House,Kevin Vayko,LIB,0,REP,0,0,0,0,plurality,0,0,Lisa McClain: Incumbent renominated
+MI-10,House,Christina Hines,DEM,0,REP,1,0,1,0,plurality,0,1,John James: Incumbent retiring to run for governor
+MI-10,House,Mike Bouchard Jr.,REP,0,REP,1,0,1,0,plurality,0,1,John James: Incumbent retiring to run for governor
+MI-10,House,Andrea L. Kirby,OTHER,0,REP,1,0,0,0,plurality,0,0,party label: Working Class | John James: Incumbent retiring to run for governor
+MI-10,House,Kwabena Nkromo,GRN,0,REP,1,0,0,0,plurality,0,0,John James: Incumbent retiring to run for governor
+MI-10,House,Mike Saliba,LIB,0,REP,1,0,0,0,plurality,0,0,John James: Incumbent retiring to run for governor
+MI-11,House,Ethan Baker,REP,0,DEM,1,0,1,0,plurality,0,1,Haley Stevens: Incumbent retiring to run for U.S. Senate
+MI-11,House,Jeremy Moss,DEM,0,DEM,1,0,1,0,plurality,0,1,Haley Stevens: Incumbent retiring to run for U.S. Senate
+MI-11,House,Anil Kumar,IND,0,DEM,1,0,0,0,plurality,0,0,Haley Stevens: Incumbent retiring to run for U.S. Senate
+MI-11,House,Farid Ishac,LIB,0,DEM,1,0,0,0,plurality,0,0,Haley Stevens: Incumbent retiring to run for U.S. Senate
+MI-11,House,Ryan Teasdale,GRN,0,DEM,1,0,0,0,plurality,0,0,Haley Stevens: Incumbent retiring to run for U.S. Senate
+MI-12,House,James Hooper,REP,0,DEM,0,0,1,0,plurality,0,1,Rashida Tlaib: Incumbent renominated
+MI-12,House,Rashida Tlaib,DEM,1,DEM,0,0,1,0,plurality,0,1,Rashida Tlaib: Incumbent renominated
+MI-12,House,Brenda K. Sanders,GRN,0,DEM,0,0,0,0,plurality,0,0,Rashida Tlaib: Incumbent renominated
+MI-12,House,Gary Walkowicz,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Working Class | Rashida Tlaib: Incumbent renominated
+MI-12,House,Marc J. Sosnowski,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Rashida Tlaib: Incumbent renominated
+MI-13,House,Donavan McKinney,DEM,0,DEM,1,0,1,0,plurality,0,1,Shri Thanedar: Incumbent lost renomination
+MI-13,House,T. P. Nykoriak,REP,0,DEM,1,0,1,0,plurality,0,1,Shri Thanedar: Incumbent lost renomination
+MI-13,House,Chris Dardzinski,OTHER,0,DEM,1,0,0,0,plurality,0,0,party label: U.S. Taxpayers | Shri Thanedar: Incumbent lost renomination
+MI-13,House,Raelyn Light,GRN,0,DEM,1,0,0,0,plurality,0,0,Shri Thanedar: Incumbent lost renomination
+MI-13,House,Simone R. Coleman,OTHER,0,DEM,1,0,0,0,plurality,0,0,party label: Working Class | Shri Thanedar: Incumbent lost renomination
+MN-01,House,Brad Finstad,REP,1,REP,0,0,1,0,plurality,0,1,Brad Finstad: Incumbent renominated
+MN-01,House,Jake Johnson,DEM,0,REP,0,0,1,0,plurality,0,1,Brad Finstad: Incumbent renominated
+MN-02,House,Eric Pratt,REP,0,DEM,1,0,1,0,plurality,0,1,Angie Craig: Incumbent retiring to run for U.S. Senate
+MN-02,House,Matt Little,DEM,0,DEM,1,0,1,0,plurality,0,1,Angie Craig: Incumbent retiring to run for U.S. Senate
+MN-03,House,Kelly Morrison,DEM,1,DEM,0,0,1,0,plurality,0,1,Kelly Morrison: Incumbent renominated
+MN-03,House,Tyler Bass,REP,0,DEM,0,0,1,0,plurality,0,1,Kelly Morrison: Incumbent renominated
+MN-04,House,Betty McCollum,DEM,1,DEM,0,0,1,0,plurality,0,1,Betty McCollum: Incumbent renominated
+MN-04,House,Paul Wikstrom,REP,0,DEM,0,0,1,0,plurality,0,1,Betty McCollum: Incumbent renominated
+MN-05,House,Ilhan Omar,DEM,1,DEM,0,0,1,0,plurality,0,1,Ilhan Omar: Incumbent renominated
+MN-05,House,John Nagel,REP,0,DEM,0,0,1,0,plurality,0,1,Ilhan Omar: Incumbent renominated
+MN-05,House,DeVelle Jackson,IND,0,DEM,0,0,0,0,plurality,0,1,Ilhan Omar: Incumbent renominated
+MN-06,House,Doug Chapin,DEM,0,REP,0,0,1,0,plurality,0,1,Tom Emmer: Incumbent renominated
+MN-06,House,Tom Emmer,REP,1,REP,0,0,1,0,plurality,0,1,Tom Emmer: Incumbent renominated
+MN-07,House,Erik Osberg,DEM,0,REP,0,0,1,0,plurality,0,1,Michelle Fischbach: Incumbent renominated
+MN-07,House,Michelle Fischbach,REP,1,REP,0,0,1,0,plurality,0,1,Michelle Fischbach: Incumbent renominated
+MN-08,House,Pete Stauber,REP,1,REP,0,0,1,0,plurality,0,1,Pete Stauber: Incumbent renominated
+MN-08,House,Trina Swanson,DEM,0,REP,0,0,1,0,plurality,0,1,Pete Stauber: Incumbent renominated
+MO-01,House,Paul Berry,REP,0,DEM,0,0,1,0,plurality,0,1,Wesley Bell: Incumbent renominated
+MO-01,House,Wesley Bell,DEM,1,DEM,0,0,1,0,plurality,0,1,Wesley Bell: Incumbent renominated
+MO-01,House,Tom Schmitz,LIB,0,DEM,0,0,0,0,plurality,0,0,Wesley Bell: Incumbent renominated
+MO-02,House,Ann Wagner,REP,1,REP,0,0,1,0,plurality,0,1,Ann Wagner: Incumbent renominated
+MO-02,House,Fred Wellman,DEM,0,REP,0,0,1,0,plurality,0,1,Ann Wagner: Incumbent renominated
+MO-02,House,Brandon Daugherty,LIB,0,REP,0,0,0,0,plurality,0,0,Ann Wagner: Incumbent renominated
+MO-03,House,Bethany Mann,DEM,0,REP,0,0,1,0,plurality,0,1,Bob Onder: Incumbent renominated
+MO-03,House,Bob Onder,REP,1,REP,0,0,1,0,plurality,0,1,Bob Onder: Incumbent renominated
+MO-03,House,Jim Higgins,LIB,0,REP,0,0,0,0,plurality,0,0,Bob Onder: Incumbent renominated
+MO-04,House,Jordan Herrera,DEM,0,REP,0,0,1,0,plurality,0,1,Mark Alford: Incumbent renominated
+MO-04,House,Mark Alford,REP,1,REP,0,0,1,0,plurality,0,1,Mark Alford: Incumbent renominated
+MO-04,House,Thomas Holbrook,LIB,0,REP,0,0,0,0,plurality,0,0,Mark Alford: Incumbent renominated
+MO-05,House,Emanuel Cleaver,DEM,1,DEM,0,0,1,0,plurality,0,1,Emanuel Cleaver: Incumbent renominated
+MO-05,House,Rick Brattin,REP,0,DEM,0,0,1,0,plurality,0,1,Emanuel Cleaver: Incumbent renominated
+MO-05,House,Randy Langkraehr,LIB,0,DEM,0,0,0,0,plurality,0,0,Emanuel Cleaver: Incumbent renominated
+MO-06,House,Chris Stigall,REP,0,REP,1,0,1,0,plurality,0,1,Sam Graves: Incumbent retiring
+MO-06,House,Josh Smead,DEM,0,REP,1,0,1,0,plurality,0,1,Sam Graves: Incumbent retiring
+MO-06,House,Andy Maidment,LIB,0,REP,1,0,0,0,plurality,0,0,Sam Graves: Incumbent retiring
+MO-07,House,Eric Burlison,REP,1,REP,0,0,1,0,plurality,0,1,Eric Burlison: Incumbent renominated
+MO-07,House,Missi Hesketh,DEM,0,REP,0,0,1,0,plurality,0,1,Eric Burlison: Incumbent renominated
+MO-07,House,Kevin Craig,LIB,0,REP,0,0,0,0,plurality,0,0,Eric Burlison: Incumbent renominated
+MO-08,House,Chris Reichard,DEM,0,REP,0,0,1,0,plurality,0,1,Jason Smith: Incumbent renominated
+MO-08,House,Jason Smith,REP,1,REP,0,0,1,0,plurality,0,1,Jason Smith: Incumbent renominated
+MO-08,House,Rebecca Sharpe Lombard,LIB,0,REP,0,0,0,0,plurality,0,0,Jason Smith: Incumbent renominated
+MS-01,House,Cliff Johnson,DEM,0,REP,0,0,1,0,plurality,0,1,Trent Kelly: Incumbent renominated
+MS-01,House,Trent Kelly,REP,1,REP,0,0,1,0,plurality,0,1,Trent Kelly: Incumbent renominated
+MS-01,House,Johnny Baucom,LIB,0,REP,0,0,0,0,plurality,0,0,Trent Kelly: Incumbent renominated
+MS-02,House,Bennie Thompson,DEM,1,DEM,0,0,1,0,plurality,0,1,Bennie Thompson: Incumbent renominated
+MS-02,House,Ron Eller,REP,0,DEM,0,0,1,0,plurality,0,1,Bennie Thompson: Incumbent renominated
+MS-02,House,Bennie Foster,IND,0,DEM,0,0,0,0,plurality,0,0,Bennie Thompson: Incumbent renominated
+MS-03,House,Michael Chiaradio,DEM,0,REP,0,0,1,0,plurality,0,1,Michael Guest: Incumbent renominated
+MS-03,House,Michael Guest,REP,1,REP,0,0,1,0,plurality,0,1,Michael Guest: Incumbent renominated
+MS-03,House,Erik Kiehle,LIB,0,REP,0,0,0,0,plurality,0,0,Michael Guest: Incumbent renominated
+MS-04,House,Jeffrey Hulum III,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Ezell: Incumbent renominated
+MS-04,House,Mike Ezell,REP,1,REP,0,0,1,0,plurality,0,1,Mike Ezell: Incumbent renominated
+MS-04,House,Carl Boyanton,IND,0,REP,0,0,0,0,plurality,0,0,Mike Ezell: Incumbent renominated
+MT-01,House,Aaron Flint,REP,0,REP,1,0,1,0,plurality,0,1,Ryan Zinke: Incumbent retiring
+MT-01,House,Sam Forstag,DEM,0,REP,1,0,1,0,plurality,0,1,Ryan Zinke: Incumbent retiring
+MT-01,House,Nick Sheedy,LIB,0,REP,1,0,0,0,plurality,0,0,Ryan Zinke: Incumbent retiring
+MT-02,House,Brian Miller,DEM,0,REP,0,0,1,0,plurality,0,1,Troy Downing: Incumbent renominated
+MT-02,House,Troy Downing,REP,1,REP,0,0,1,0,plurality,0,1,Troy Downing: Incumbent renominated
+MT-02,House,Michael Eisenhauer,IND,0,REP,0,0,0,0,plurality,0,0,Troy Downing: Incumbent renominated
+MT-02,House,Patrick McCracken,LIB,0,REP,0,0,0,0,plurality,0,0,Troy Downing: Incumbent renominated
+NC-01,House,Don Davis,DEM,1,DEM,0,0,1,0,plurality,0,1,Don Davis: Incumbent renominated
+NC-01,House,Laurie Buckhout,REP,0,DEM,0,0,1,0,plurality,0,1,Don Davis: Incumbent renominated
+NC-01,House,Tom Bailey,LIB,0,DEM,0,0,0,0,plurality,0,0,Don Davis: Incumbent renominated
+NC-02,House,Deborah Ross,DEM,1,DEM,0,0,1,0,plurality,0,1,Deborah Ross: Incumbent renominated
+NC-02,House,Eugene Douglass,REP,0,DEM,0,0,1,0,plurality,0,1,Deborah Ross: Incumbent renominated
+NC-02,House,Matthew Laszacs,LIB,0,DEM,0,0,0,0,plurality,0,0,Deborah Ross: Incumbent renominated
+NC-03,House,Greg Murphy,REP,1,REP,0,0,1,0,plurality,0,1,Greg Murphy: Incumbent renominated
+NC-03,House,Raymond Smith Jr.,DEM,0,REP,0,0,1,0,plurality,0,1,Greg Murphy: Incumbent renominated
+NC-03,House,Daniel Cavender,LIB,0,REP,0,0,0,0,plurality,0,0,Greg Murphy: Incumbent renominated
+NC-04,House,Max Ganorkar,REP,0,DEM,0,0,1,0,plurality,0,1,Valerie Foushee: Incumbent renominated
+NC-04,House,Valerie Foushee,DEM,1,DEM,0,0,1,0,plurality,0,1,Valerie Foushee: Incumbent renominated
+NC-04,House,Guy Meilleur,LIB,0,DEM,0,0,0,0,plurality,0,0,Valerie Foushee: Incumbent renominated
+NC-05,House,Chuck Hubbard,DEM,0,REP,0,0,1,0,plurality,0,1,Virginia Foxx: Incumbent renominated
+NC-05,House,Virginia Foxx,REP,1,REP,0,0,1,0,plurality,0,1,Virginia Foxx: Incumbent renominated
+NC-05,House,Robert Luffman,LIB,0,REP,0,0,0,0,plurality,0,0,Virginia Foxx: Incumbent renominated
+NC-06,House,Addison McDowell,REP,1,REP,0,0,1,0,plurality,0,1,Addison McDowell: Incumbent renominated
+NC-06,House,Cyril Jefferson,DEM,0,REP,0,0,1,0,plurality,0,1,Addison McDowell: Incumbent renominated
+NC-07,House,David Rouzer,REP,1,REP,0,0,1,0,plurality,0,1,David Rouzer: Incumbent renominated
+NC-07,House,Kimberly Hardy,DEM,0,REP,0,0,1,0,plurality,0,1,David Rouzer: Incumbent renominated
+NC-07,House,Maad Abu-Ghazalah,LIB,0,REP,0,0,0,0,plurality,0,0,David Rouzer: Incumbent renominated
+NC-08,House,Colby Watson,DEM,0,REP,0,0,1,0,plurality,0,1,Mark Harris: Incumbent renominated
+NC-08,House,Mark Harris,REP,1,REP,0,0,1,0,plurality,0,1,Mark Harris: Incumbent renominated
+NC-08,House,Bo Whitehead,GRN,0,REP,0,0,0,0,plurality,0,0,Mark Harris: Incumbent renominated
+NC-09,House,Richard Hudson,REP,1,REP,0,0,1,0,plurality,0,1,Richard Hudson: Incumbent renominated
+NC-09,House,Richard Ojeda,DEM,0,REP,0,0,1,0,plurality,0,1,Richard Hudson: Incumbent renominated
+NC-10,House,Ashley Bell,DEM,0,REP,0,0,1,0,plurality,0,1,Pat Harrigan: Incumbent renominated
+NC-10,House,Pat Harrigan,REP,1,REP,0,0,1,0,plurality,0,1,Pat Harrigan: Incumbent renominated
+NC-10,House,Steve Feldman,LIB,0,REP,0,0,0,0,plurality,0,0,Pat Harrigan: Incumbent renominated
+NC-11,House,Jamie Ager,DEM,0,REP,1,0,1,0,plurality,0,1,Chuck Edwards: Incumbent renominated but withdrew
+NC-11,House,Jennifer Balkcom,REP,0,REP,1,0,1,0,plurality,0,1,Chuck Edwards: Incumbent renominated but withdrew
+NC-11,House,Travis Groo,LIB,0,REP,1,0,0,0,plurality,0,0,Chuck Edwards: Incumbent renominated but withdrew
+NC-12,House,Alma Adams,DEM,1,DEM,0,0,1,0,plurality,0,1,Alma Adams: Incumbent renominated
+NC-12,House,Jack Codiga,REP,0,DEM,0,0,1,0,plurality,0,1,Alma Adams: Incumbent renominated
+NC-13,House,Brad Knott,REP,1,REP,0,0,1,0,plurality,0,1,Brad Knott: Incumbent renominated
+NC-13,House,Paul Barringer,DEM,0,REP,0,0,1,0,plurality,0,1,Brad Knott: Incumbent renominated
+NC-13,House,Steven Swinton,LIB,0,REP,0,0,0,0,plurality,0,0,Brad Knott: Incumbent renominated
+NC-14,House,Lakesha Womack,DEM,0,REP,0,0,1,0,plurality,0,1,Tim Moore: Incumbent renominated
+NC-14,House,Tim Moore,REP,1,REP,0,0,1,0,plurality,0,1,Tim Moore: Incumbent renominated
+ND-AL,House,Julie Fedorchak,REP,1,REP,0,0,1,0,plurality,0,1,Julie Fedorchak: Incumbent renominated
+ND-AL,House,Trygve Hammer,DEM,0,REP,0,0,1,0,plurality,0,1,Julie Fedorchak: Incumbent renominated
+ND-AL,House,Charles Tuttle,IND,0,REP,0,0,0,0,plurality,0,0,Julie Fedorchak: Incumbent renominated
+ND-AL,House,Helene Neville,IND,0,REP,0,0,0,0,plurality,0,0,Julie Fedorchak: Incumbent renominated
+NE-01,House,Chris Backemeyer,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Flood: Incumbent renominated | Kalshi names not on Wikipedia ballot list: Austin Ahlman
+NE-01,House,Mike Flood,REP,1,REP,0,0,1,0,plurality,0,1,Mike Flood: Incumbent renominated | Kalshi names not on Wikipedia ballot list: Austin Ahlman
+NE-01,House,Daniel Hartong,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: America First | Mike Flood: Incumbent renominated | Kalshi names not on Wikipedia ballot list: Austin Ahlman
+NE-01,House,Nik Sandman,LIB,0,REP,0,0,0,0,plurality,0,0,Mike Flood: Incumbent renominated | Kalshi names not on Wikipedia ballot list: Austin Ahlman
+NE-02,House,Brinker Harding,REP,0,REP,1,0,1,0,plurality,0,1,Don Bacon: Incumbent retiring
+NE-02,House,Denise Powell,DEM,0,REP,1,0,1,0,plurality,0,1,Don Bacon: Incumbent retiring
+NE-02,House,Eric Foreman,LIB,0,REP,1,0,0,0,plurality,0,0,Don Bacon: Incumbent retiring
+NE-03,House,Adrian Smith,REP,1,REP,0,0,1,0,plurality,0,1,Adrian Smith: Incumbent renominated
+NE-03,House,Becky Stille,DEM,0,REP,0,0,1,0,plurality,0,1,Adrian Smith: Incumbent renominated
+NE-03,House,David Else,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Legal Marijuana Now | Adrian Smith: Incumbent renominated
+NE-03,House,Macey Budke,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Working People | Adrian Smith: Incumbent renominated
+NE-03,House,Mark Cohen,IND,0,REP,0,0,0,0,plurality,0,0,Adrian Smith: Incumbent renominated
+NH-01,House,Anthony DiLorenzo,REP,0,DEM,1,0,1,0,plurality,0,1,Chris Pappas: Incumbent retiring to run for U.S. Senate
+NH-01,House,Stefany Shaheen,DEM,0,DEM,1,0,1,0,plurality,0,1,Chris Pappas: Incumbent retiring to run for U.S. Senate
+NH-02,House,Lily Tang Williams,REP,0,DEM,0,0,1,0,plurality,0,1,Maggie Goodlander: Incumbent renominated
+NH-02,House,Maggie Goodlander,DEM,1,DEM,0,0,1,0,plurality,0,1,Maggie Goodlander: Incumbent renominated
+NH-02,House,Robbie Mahrou,IND,0,DEM,0,0,0,0,plurality,0,0,Maggie Goodlander: Incumbent renominated
+NJ-01,House,Damon Galdo,REP,0,DEM,0,0,1,0,plurality,0,1,Donald Norcross: Incumbent renominated
+NJ-01,House,Donald Norcross,DEM,1,DEM,0,0,1,0,plurality,0,1,Donald Norcross: Incumbent renominated
+NJ-02,House,Jeff Van Drew,REP,1,REP,0,0,1,0,plurality,0,1,Jeff Van Drew: Incumbent renominated
+NJ-02,House,Zack Mullock,DEM,0,REP,0,0,1,0,plurality,0,1,Jeff Van Drew: Incumbent renominated
+NJ-02,House,Ramon Mora Jr.,IND,0,REP,0,0,0,0,plurality,0,0,Jeff Van Drew: Incumbent renominated
+NJ-03,House,Herb Conaway,DEM,1,DEM,0,0,1,0,plurality,0,1,Herb Conaway: Incumbent renominated
+NJ-03,House,Michael McGuire,REP,0,DEM,0,0,1,0,plurality,0,1,Herb Conaway: Incumbent renominated
+NJ-03,House,Ryan Kelly,IND,0,DEM,0,0,0,0,plurality,0,0,Herb Conaway: Incumbent renominated
+NJ-03,House,Steven Welzer,GRN,0,DEM,0,0,0,0,plurality,0,0,Herb Conaway: Incumbent renominated
+NJ-04,House,Chris Smith,REP,1,REP,0,0,1,0,plurality,0,1,Chris Smith: Incumbent renominated
+NJ-04,House,Rachel Peace,DEM,0,REP,0,0,1,0,plurality,0,1,Chris Smith: Incumbent renominated
+NJ-05,House,Josh Gottheimer,DEM,1,DEM,0,0,1,0,plurality,0,1,Josh Gottheimer: Incumbent renominated
+NJ-05,House,Sean Kirrane,REP,0,DEM,0,0,1,0,plurality,0,1,Josh Gottheimer: Incumbent renominated
+NJ-05,House,Adam Rueda,IND,0,DEM,0,0,0,0,plurality,0,0,Josh Gottheimer: Incumbent renominated
+NJ-06,House,Frank Pallone,DEM,1,DEM,0,0,1,0,plurality,0,1,Frank Pallone: Incumbent renominated
+NJ-06,House,Hillary Herzig,REP,0,DEM,0,0,1,0,plurality,0,1,Frank Pallone: Incumbent renominated
+NJ-07,House,Rebecca Bennett,DEM,0,REP,0,0,1,0,plurality,0,1,Thomas Kean Jr.: Incumbent renominated
+NJ-07,House,Thomas Kean Jr.,REP,1,REP,0,0,1,0,plurality,0,1,Thomas Kean Jr.: Incumbent renominated
+NJ-07,House,Seamus O'Toole,IND,0,REP,0,0,0,0,plurality,0,0,Thomas Kean Jr.: Incumbent renominated
+NJ-08,House,Rob Menendez,DEM,1,DEM,0,0,1,0,plurality,0,1,no REP nominee | second contender ambiguous among 2 IND candidates; none flagged | Rob Menendez: Incumbent renominated
+NJ-08,House,Aristotle Eliopoulos,IND,0,DEM,0,0,0,0,plurality,0,0,no REP nominee | second contender ambiguous among 2 IND candidates; none flagged | Rob Menendez: Incumbent renominated
+NJ-08,House,Craig Honts,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Socialist Workers | no REP nominee | second contender ambiguous among 2 IND candidates; none flagged | Rob Menendez: Incumbent renominated
+NJ-08,House,Da'Shone Hughey,IND,0,DEM,0,0,0,0,plurality,0,0,no REP nominee | second contender ambiguous among 2 IND candidates; none flagged | Rob Menendez: Incumbent renominated
+NJ-09,House,Nellie Pou,DEM,1,DEM,0,0,1,0,plurality,0,1,Nellie Pou: Incumbent renominated
+NJ-09,House,Rosie Pino,REP,0,DEM,0,0,1,0,plurality,0,1,Nellie Pou: Incumbent renominated
+NJ-09,House,Terrisa Bukovinac,IND,0,DEM,0,0,0,0,plurality,0,0,Nellie Pou: Incumbent renominated
+NJ-10,House,Carmen Bucco,REP,0,DEM,0,0,1,0,plurality,0,1,LaMonica McIver: Incumbent renominated
+NJ-10,House,LaMonica McIver,DEM,1,DEM,0,0,1,0,plurality,0,1,LaMonica McIver: Incumbent renominated
+NJ-11,House,Analilia Mejia,DEM,1,DEM,0,0,1,0,plurality,0,1,Analilia Mejia: Incumbent renominated
+NJ-11,House,Joe Hathaway,REP,0,DEM,0,0,1,0,plurality,0,1,Analilia Mejia: Incumbent renominated
+NJ-11,House,Alan Bond,IND,0,DEM,0,0,0,0,plurality,0,0,Analilia Mejia: Incumbent renominated
+NJ-12,House,Adam Hamawy,DEM,0,DEM,1,0,1,0,plurality,0,1,Bonnie Watson Coleman: Incumbent retiring
+NJ-12,House,Gregg Mele,REP,0,DEM,1,0,1,0,plurality,0,1,Bonnie Watson Coleman: Incumbent retiring
+NJ-12,House,Andres Jinete,GRN,0,DEM,1,0,0,0,plurality,0,0,Bonnie Watson Coleman: Incumbent retiring
+NJ-12,House,Winston Jordan,IND,0,DEM,1,0,0,0,plurality,0,0,Bonnie Watson Coleman: Incumbent retiring
+NM-01,House,Didi Okpareke,REP,0,DEM,0,0,1,0,plurality,0,1,Melanie Stansbury: Incumbent renominated
+NM-01,House,Melanie Stansbury,DEM,1,DEM,0,0,1,0,plurality,0,1,Melanie Stansbury: Incumbent renominated
+NM-02,House,Gabe Vasquez,DEM,1,DEM,0,0,1,0,plurality,0,1,Gabe Vasquez: Incumbent renominated
+NM-02,House,Greg Cunningham,REP,0,DEM,0,0,1,0,plurality,0,1,Gabe Vasquez: Incumbent renominated
+NM-03,House,Martin Zamora,REP,0,DEM,0,0,1,0,plurality,0,1,Teresa Leger Fernandez: Incumbent renominated
+NM-03,House,Teresa Leger Fernández,DEM,1,DEM,0,0,1,0,plurality,0,1,Teresa Leger Fernandez: Incumbent renominated
+NV-01,House,Carrie Buck,REP,0,DEM,0,0,1,0,plurality,0,1,Dina Titus: Incumbent renominated
+NV-01,House,Dina Titus,DEM,1,DEM,0,0,1,0,plurality,0,1,Dina Titus: Incumbent renominated
+NV-01,House,Bobby Khan,IND,0,DEM,0,0,0,0,plurality,0,0,Dina Titus: Incumbent renominated
+NV-01,House,Steven St. John,IND,0,DEM,0,0,0,0,plurality,0,0,Dina Titus: Incumbent renominated
+NV-02,House,David Flippo,REP,0,REP,1,0,1,0,plurality,0,1,Mark Amodei: Incumbent retiring
+NV-02,House,Teresa Benitez-Thompson,DEM,0,REP,1,0,1,0,plurality,0,1,Mark Amodei: Incumbent retiring
+NV-02,House,Lynn Chapman,OTHER,0,REP,1,0,0,0,plurality,0,0,party label: Independent American | Mark Amodei: Incumbent retiring
+NV-03,House,Martin O'Donnell,REP,0,DEM,0,0,1,0,plurality,0,1,Susie Lee: Incumbent renominated
+NV-03,House,Susie Lee,DEM,1,DEM,0,0,1,0,plurality,0,1,Susie Lee: Incumbent renominated
+NV-03,House,Jon Kamerath,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Independent American | Susie Lee: Incumbent renominated
+NV-04,House,Cody Whipple,REP,0,DEM,0,0,1,0,plurality,0,1,Steven Horsford: Incumbent renominated
+NV-04,House,Steven Horsford,DEM,1,DEM,0,0,1,0,plurality,0,1,Steven Horsford: Incumbent renominated
+NV-04,House,Russell Best,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Independent American | Steven Horsford: Incumbent renominated
+NV-04,House,William Johnson,IND,0,DEM,0,0,0,0,plurality,0,0,Steven Horsford: Incumbent renominated
+NY-01,House,Chris Gallant,DEM,0,REP,0,0,1,0,plurality,0,1,Nick LaLota: Incumbent renominated
+NY-01,House,Nick LaLota,REP,1,REP,0,0,1,0,plurality,0,1,Nick LaLota: Incumbent renominated
+NY-02,House,Andrew Garbarino,REP,1,REP,0,0,1,0,plurality,0,1,Andrew Garbarino: Incumbent renominated
+NY-02,House,Patrick Halpin,DEM,0,REP,0,0,1,0,plurality,0,1,Andrew Garbarino: Incumbent renominated
+NY-03,House,Mike LiPetri,REP,0,DEM,0,0,1,0,plurality,0,1,Tom Suozzi: Incumbent renominated
+NY-03,House,Tom Suozzi,DEM,1,DEM,0,0,1,0,plurality,0,1,Tom Suozzi: Incumbent renominated
+NY-04,House,Jeanine Driscoll,REP,0,DEM,0,0,1,0,plurality,0,1,Laura Gillen: Incumbent renominated
+NY-04,House,Laura Gillen,DEM,1,DEM,0,0,1,0,plurality,0,1,Laura Gillen: Incumbent renominated
+NY-04,House,Blay Tarnoff,LIB,0,DEM,0,0,0,0,plurality,0,0,Laura Gillen: Incumbent renominated
+NY-05,House,George Marsh,REP,0,DEM,0,0,1,0,plurality,0,1,Gregory Meeks: Incumbent renominated
+NY-05,House,Gregory Meeks,DEM,1,DEM,0,0,1,0,plurality,0,1,Gregory Meeks: Incumbent renominated
+NY-06,House,Grace Meng,DEM,1,DEM,0,0,1,0,plurality,0,1,Grace Meng: Incumbent renominated
+NY-06,House,Joseph Chou,REP,0,DEM,0,0,1,0,plurality,0,1,Grace Meng: Incumbent renominated
+NY-07,House,Claire Valdez,DEM,0,DEM,1,0,1,0,plurality,0,1,Nydia Velázquez: Incumbent retiring
+NY-07,House,Melvin Rivera,REP,0,DEM,1,0,1,0,plurality,0,1,Nydia Velázquez: Incumbent retiring
+NY-07,House,Priscilla Ghaznavi,IND,0,DEM,1,0,0,0,plurality,0,0,Nydia Velázquez: Incumbent retiring
+NY-08,House,Hakeem Jeffries,DEM,1,DEM,0,0,1,0,plurality,0,1,Hakeem Jeffries: Incumbent renominated
+NY-08,House,Lewis Mizrahi,REP,0,DEM,0,0,1,0,plurality,0,1,Hakeem Jeffries: Incumbent renominated
+NY-09,House,Joel Azumah,REP,0,DEM,0,0,1,0,plurality,0,1,Yvette Clarke: Incumbent renominated
+NY-09,House,Yvette Clarke,DEM,1,DEM,0,0,1,0,plurality,0,1,Yvette Clarke: Incumbent renominated
+NY-10,House,Brad Lander,DEM,0,DEM,1,0,1,0,plurality,0,1,Dan Goldman: Incumbent lost renomination
+NY-10,House,Jennifer Moore,REP,0,DEM,1,0,1,0,plurality,0,1,Dan Goldman: Incumbent lost renomination
+NY-11,House,Michael DeCillis,DEM,0,REP,0,0,1,0,plurality,0,1,Nicole Malliotakis: Incumbent renominated
+NY-11,House,Nicole Malliotakis,REP,1,REP,0,0,1,0,plurality,0,1,Nicole Malliotakis: Incumbent renominated
+NY-12,House,Caroline Shinkle,REP,0,DEM,1,0,1,0,plurality,0,1,Jerry Nadler: Incumbent retiring
+NY-12,House,Micah Lasher,DEM,0,DEM,1,0,1,0,plurality,0,1,Jerry Nadler: Incumbent retiring
+NY-12,House,Karen Ortiz,IND,0,DEM,1,0,0,0,plurality,0,0,Jerry Nadler: Incumbent retiring
+NY-12,House,Wilneida Negron,IND,0,DEM,1,0,0,0,plurality,0,0,Jerry Nadler: Incumbent retiring
+NY-13,House,Darializa Avila Chevalier,DEM,0,DEM,1,0,1,0,plurality,0,1,Adriano Espaillat: Incumbent lost renomination
+NY-13,House,Jomo Williams,REP,0,DEM,1,0,1,0,plurality,0,1,Adriano Espaillat: Incumbent lost renomination
+NY-14,House,Alexandria Ocasio-Cortez,DEM,1,DEM,0,0,1,0,plurality,0,1,Alexandria Ocasio-Cortez: Incumbent renominated
+NY-14,House,Diamant Hysenaj,REP,0,DEM,0,0,1,0,plurality,0,1,Alexandria Ocasio-Cortez: Incumbent renominated
+NY-15,House,Ritchie Torres,DEM,1,DEM,0,0,1,0,plurality,0,1,Ritchie Torres: Incumbent renominated
+NY-15,House,Stylo Sapaskis,REP,0,DEM,0,0,1,0,plurality,0,1,Ritchie Torres: Incumbent renominated
+NY-15,House,Andre Easton,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Socialism and Liberation | Ritchie Torres: Incumbent renominated
+NY-15,House,Gonzalo Duran,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Conservative | Ritchie Torres: Incumbent renominated
+NY-15,House,Jose Vega,IND,0,DEM,0,0,0,0,plurality,0,0,Ritchie Torres: Incumbent renominated
+NY-16,House,George Latimer,DEM,1,DEM,0,0,1,0,plurality,0,1,George Latimer: Incumbent renominated
+NY-16,House,Joseph Cinquemani,REP,0,DEM,0,0,1,0,plurality,0,1,George Latimer: Incumbent renominated
+NY-17,House,Cait Conley,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Lawler: Incumbent renominated
+NY-17,House,Mike Lawler,REP,1,REP,0,0,1,0,plurality,0,1,Mike Lawler: Incumbent renominated
+NY-18,House,Jacqueline Auringer,REP,0,DEM,0,0,1,0,plurality,0,1,Pat Ryan: Incumbent renominated
+NY-18,House,Pat Ryan,DEM,1,DEM,0,0,1,0,plurality,0,1,Pat Ryan: Incumbent renominated
+NY-19,House,Josh Riley,DEM,1,DEM,0,0,1,0,plurality,0,1,Josh Riley: Incumbent renominated
+NY-19,House,Peter Oberacker,REP,0,DEM,0,0,1,0,plurality,0,1,Josh Riley: Incumbent renominated
+NY-20,House,Paul Tonko,DEM,1,DEM,0,0,1,0,plurality,0,1,Paul Tonko: Incumbent renominated
+NY-20,House,Ralph Ambrosio,REP,0,DEM,0,0,1,0,plurality,0,1,Paul Tonko: Incumbent renominated
+NY-21,House,Anthony Constantino,REP,0,REP,1,0,1,0,plurality,0,1,Elise Stefanik: Incumbent retiring
+NY-21,House,Blake Gendebien,DEM,0,REP,1,0,1,0,plurality,0,1,Elise Stefanik: Incumbent retiring
+NY-22,House,John Mannion,DEM,1,DEM,0,0,1,0,plurality,0,1,John Mannion: Incumbent renominated
+NY-22,House,Kailee Buller,REP,0,DEM,0,0,1,0,plurality,0,1,John Mannion: Incumbent renominated
+NY-23,House,Aaron Gies,DEM,0,REP,0,0,1,0,plurality,0,1,Nick Langworthy: Incumbent renominated
+NY-23,House,Nick Langworthy,REP,1,REP,0,0,1,0,plurality,0,1,Nick Langworthy: Incumbent renominated
+NY-24,House,Alissa Ellman,DEM,0,REP,0,0,1,0,plurality,0,1,Claudia Tenney: Incumbent renominated
+NY-24,House,Claudia Tenney,REP,1,REP,0,0,1,0,plurality,0,1,Claudia Tenney: Incumbent renominated
+NY-25,House,Joseph Morelle,DEM,1,DEM,0,0,1,0,plurality,0,1,Joseph Morelle: Incumbent renominated
+NY-25,House,Virginia McIntyre,REP,0,DEM,0,0,1,0,plurality,0,1,Joseph Morelle: Incumbent renominated
+NY-26,House,Dennis Hannon,REP,0,DEM,0,0,1,0,plurality,0,1,Tim Kennedy: Incumbent renominated
+NY-26,House,Tim Kennedy,DEM,1,DEM,0,0,1,0,plurality,0,1,Tim Kennedy: Incumbent renominated
+OH-01,House,Eric Conroy,REP,0,DEM,0,0,1,0,plurality,0,1,Greg Landsman: Incumbent renominated
+OH-01,House,Greg Landsman,DEM,1,DEM,0,0,1,0,plurality,0,1,Greg Landsman: Incumbent renominated
+OH-01,House,Nathan Weise,LIB,0,DEM,0,0,0,0,plurality,0,0,Greg Landsman: Incumbent renominated
+OH-02,House,David Taylor,REP,1,REP,0,0,1,0,plurality,0,1,David Taylor: Incumbent renominated
+OH-02,House,Jennifer Mazzuckelli,DEM,0,REP,0,0,1,0,plurality,0,1,David Taylor: Incumbent renominated
+OH-03,House,Cleophus Dulaney,REP,0,DEM,0,0,1,0,plurality,0,1,Joyce Beatty: Incumbent renominated
+OH-03,House,Joyce Beatty,DEM,1,DEM,0,0,1,0,plurality,0,1,Joyce Beatty: Incumbent renominated
+OH-04,House,Jim Jordan,REP,1,REP,0,0,1,0,plurality,0,1,Jim Jordan: Incumbent renominated
+OH-04,House,Joshua Kolasinski,DEM,0,REP,0,0,1,0,plurality,0,1,Jim Jordan: Incumbent renominated
+OH-04,House,Tracey Tackett,IND,0,REP,0,0,0,0,plurality,0,0,Jim Jordan: Incumbent renominated
+OH-05,House,Bob Latta,REP,1,REP,0,0,1,0,plurality,0,1,Bob Latta: Incumbent renominated
+OH-05,House,Brian Shaver,DEM,0,REP,0,0,1,0,plurality,0,1,Bob Latta: Incumbent renominated
+OH-05,House,Michael Veloff,LIB,0,REP,0,0,0,0,plurality,0,0,Bob Latta: Incumbent renominated
+OH-06,House,Elizabeth Kirtley,DEM,0,REP,0,0,1,0,plurality,0,1,Michael Rulli: Incumbent renominated
+OH-06,House,Michael Rulli,REP,1,REP,0,0,1,0,plurality,0,1,Michael Rulli: Incumbent renominated
+OH-07,House,Brian Poindexter,DEM,0,REP,0,0,1,0,plurality,0,1,Max Miller: Incumbent renominated
+OH-07,House,Max Miller,REP,1,REP,0,0,1,0,plurality,0,1,Max Miller: Incumbent renominated
+OH-08,House,Vanessa Enoch,DEM,0,REP,0,0,1,0,plurality,0,1,Warren Davidson: Incumbent renominated
+OH-08,House,Warren Davidson,REP,1,REP,0,0,1,0,plurality,0,1,Warren Davidson: Incumbent renominated
+OH-09,House,Derek Merrin,REP,0,DEM,0,0,1,0,plurality,0,1,Marcy Kaptur: Incumbent renominated
+OH-09,House,Marcy Kaptur,DEM,1,DEM,0,0,1,0,plurality,0,1,Marcy Kaptur: Incumbent renominated
+OH-09,House,Matthew Althaus,LIB,0,DEM,0,0,0,0,plurality,0,0,Marcy Kaptur: Incumbent renominated
+OH-10,House,Kristina Knickerbocker,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Turner: Incumbent renominated
+OH-10,House,Mike Turner,REP,1,REP,0,0,1,0,plurality,0,1,Mike Turner: Incumbent renominated
+OH-10,House,Thomas McMasters,LIB,0,REP,0,0,0,0,plurality,0,0,Mike Turner: Incumbent renominated
+OH-11,House,Mike Kirchner,REP,0,DEM,0,0,1,0,plurality,0,1,Shontel Brown: Incumbent renominated
+OH-11,House,Shontel Brown,DEM,1,DEM,0,0,1,0,plurality,0,1,Shontel Brown: Incumbent renominated
+OH-12,House,Jerrad Christian,DEM,0,REP,0,0,1,0,plurality,0,1,Troy Balderson: Incumbent renominated
+OH-12,House,Troy Balderson,REP,1,REP,0,0,1,0,plurality,0,1,Troy Balderson: Incumbent renominated
+OH-13,House,Carey Coleman,REP,0,DEM,0,0,1,0,plurality,0,1,Emilia Sykes: Incumbent renominated
+OH-13,House,Emilia Sykes,DEM,1,DEM,0,0,1,0,plurality,0,1,Emilia Sykes: Incumbent renominated
+OH-13,House,Sandeep Dixit,IND,0,DEM,0,0,0,0,plurality,0,0,Emilia Sykes: Incumbent renominated
+OH-14,House,David Joyce,REP,1,REP,0,0,1,0,plurality,0,1,David Joyce: Incumbent renominated
+OH-14,House,Maria Jukic,DEM,0,REP,0,0,1,0,plurality,0,1,David Joyce: Incumbent renominated
+OH-15,House,Don Leonard,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Carey: Incumbent renominated
+OH-15,House,Mike Carey,REP,1,REP,0,0,1,0,plurality,0,1,Mike Carey: Incumbent renominated
+OH-15,House,Brennan Barrington,LIB,0,REP,0,0,0,0,plurality,0,0,Mike Carey: Incumbent renominated
+OK-01,House,John Croisant,DEM,0,REP,1,0,1,0,plurality,0,1,Kevin Hern: Incumbent retiring to run for U.S. Senate
+OK-01,House,Mark Tedford,REP,0,REP,1,0,1,0,plurality,0,1,Kevin Hern: Incumbent retiring to run for U.S. Senate
+OK-02,House,Brandon Wade,DEM,0,REP,0,0,1,0,plurality,0,1,Josh Brecheen: Incumbent renominated
+OK-02,House,Josh Brecheen,REP,1,REP,0,0,1,0,plurality,0,1,Josh Brecheen: Incumbent renominated
+OK-02,House,Ronnie Hopkins,IND,0,REP,0,0,0,0,plurality,0,0,Josh Brecheen: Incumbent renominated
+OK-03,House,Frank Lucas,REP,1,REP,0,0,1,0,plurality,0,1,Frank Lucas: Incumbent renominated
+OK-03,House,Suzie Byrd,DEM,0,REP,0,0,1,0,plurality,0,1,Frank Lucas: Incumbent renominated
+OK-04,House,Mitchell Jacob,DEM,0,REP,0,0,1,0,plurality,0,1,Tom Cole: Incumbent renominated
+OK-04,House,Tom Cole,REP,1,REP,0,0,1,0,plurality,0,1,Tom Cole: Incumbent renominated
+OK-04,House,Rocco Bonacci,IND,0,REP,0,0,0,0,plurality,0,0,Tom Cole: Incumbent renominated
+OK-05,House,Jena Nelson,DEM,0,REP,0,0,1,0,plurality,0,1,Stephanie Bice: Incumbent renominated
+OK-05,House,Stephanie Bice,REP,1,REP,0,0,1,0,plurality,0,1,Stephanie Bice: Incumbent renominated
+OK-05,House,Austin Nieves,IND,0,REP,0,0,0,0,plurality,0,0,Stephanie Bice: Incumbent renominated
+OK-05,House,Robert Henri,IND,0,REP,0,0,0,0,plurality,0,0,Stephanie Bice: Incumbent renominated
+OR-01,House,Barbara Kahl,REP,0,DEM,0,0,1,0,plurality,0,1,Suzanne Bonamici: Incumbent renominated
+OR-01,House,Suzanne Bonamici,DEM,1,DEM,0,0,1,0,plurality,0,1,Suzanne Bonamici: Incumbent renominated
+OR-02,House,Chris Beck,DEM,0,REP,0,0,1,0,plurality,0,1,Cliff Bentz: Incumbent renominated
+OR-02,House,Cliff Bentz,REP,1,REP,0,0,1,0,plurality,0,1,Cliff Bentz: Incumbent renominated
+OR-03,House,Loran Ayles,REP,0,DEM,0,0,1,0,plurality,0,1,Maxine Dexter: Incumbent renominated
+OR-03,House,Maxine Dexter,DEM,1,DEM,0,0,1,0,plurality,0,1,Maxine Dexter: Incumbent renominated
+OR-04,House,Monique DeSpain,REP,0,DEM,0,0,1,0,plurality,0,1,Val Hoyle: Incumbent renominated
+OR-04,House,Val Hoyle,DEM,1,DEM,0,0,1,0,plurality,0,1,Val Hoyle: Incumbent renominated
+OR-04,House,Justin Filip,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Pacific Green | Val Hoyle: Incumbent renominated
+OR-05,House,Janelle Bynum,DEM,1,DEM,0,0,1,0,plurality,0,1,Janelle Bynum: Incumbent renominated
+OR-05,House,Patti Adair,REP,0,DEM,0,0,1,0,plurality,0,1,Janelle Bynum: Incumbent renominated
+OR-05,House,Andrea Townsend,OTHER,0,DEM,0,0,0,0,plurality,0,0,party label: Pacific Green | Janelle Bynum: Incumbent renominated
+OR-06,House,Andrea Salinas,DEM,1,DEM,0,0,1,0,plurality,0,1,Andrea Salinas: Incumbent renominated
+OR-06,House,David Russ,REP,0,DEM,0,0,1,0,plurality,0,1,Andrea Salinas: Incumbent renominated
+PA-01,House,Bob Harvie,DEM,0,REP,0,0,1,0,plurality,0,1,Brian Fitzpatrick: Incumbent renominated
+PA-01,House,Brian Fitzpatrick,REP,1,REP,0,0,1,0,plurality,0,1,Brian Fitzpatrick: Incumbent renominated
+PA-02,House,Brendan Boyle,DEM,1,DEM,0,0,1,0,plurality,0,1,Brendan Boyle: Incumbent renominated
+PA-02,House,Jessica Arriaga,REP,0,DEM,0,0,1,0,plurality,0,1,Brendan Boyle: Incumbent renominated
+PA-03,House,Chris Rabb,DEM,0,DEM,1,0,1,0,plurality,0,1,no REP nominee | Dwight Evans: Incumbent retiring
+PA-03,House,Dennis Mahoney,IND,0,DEM,1,0,1,0,plurality,0,0,no REP nominee | Dwight Evans: Incumbent retiring
+PA-04,House,Aurora Stuski,REP,0,DEM,0,0,1,0,plurality,0,1,Madeleine Dean: Incumbent renominated
+PA-04,House,Madeleine Dean,DEM,1,DEM,0,0,1,0,plurality,0,1,Madeleine Dean: Incumbent renominated
+PA-05,House,Mary Gay Scanlon,DEM,1,DEM,0,0,1,0,plurality,0,1,Mary Gay Scanlon: Incumbent renominated
+PA-05,House,Nicholas Manganaro,REP,0,DEM,0,0,1,0,plurality,0,1,Mary Gay Scanlon: Incumbent renominated
+PA-06,House,Chrissy Houlahan,DEM,1,DEM,0,0,1,0,plurality,0,1,Chrissy Houlahan: Incumbent renominated
+PA-06,House,Marty Young,REP,0,DEM,0,0,1,0,plurality,0,1,Chrissy Houlahan: Incumbent renominated
+PA-07,House,Bob Brooks,DEM,0,REP,0,0,1,0,plurality,0,1,Ryan Mackenzie: Incumbent renominated
+PA-07,House,Ryan Mackenzie,REP,1,REP,0,0,1,0,plurality,0,1,Ryan Mackenzie: Incumbent renominated
+PA-08,House,Paige Cognetti,DEM,0,REP,0,0,1,0,plurality,0,1,Rob Bresnahan: Incumbent renominated
+PA-08,House,Rob Bresnahan,REP,1,REP,0,0,1,0,plurality,0,1,Rob Bresnahan: Incumbent renominated
+PA-09,House,Dan Meuser,REP,1,REP,0,0,1,0,plurality,0,1,Dan Meuser: Incumbent renominated
+PA-09,House,Rachel Wallace,DEM,0,REP,0,0,1,0,plurality,0,1,Dan Meuser: Incumbent renominated
+PA-10,House,Janelle Stelson,DEM,0,REP,0,0,1,0,plurality,0,1,Scott Perry: Incumbent renominated
+PA-10,House,Scott Perry,REP,1,REP,0,0,1,0,plurality,0,1,Scott Perry: Incumbent renominated
+PA-11,House,Lloyd Smucker,REP,1,REP,0,0,1,0,plurality,0,1,Lloyd Smucker: Incumbent renominated
+PA-11,House,Nancy Mannion,DEM,0,REP,0,0,1,0,plurality,0,1,Lloyd Smucker: Incumbent renominated
+PA-12,House,James Hayes,REP,0,DEM,0,0,1,0,plurality,0,1,Summer Lee: Incumbent renominated
+PA-12,House,Summer Lee,DEM,1,DEM,0,0,1,0,plurality,0,1,Summer Lee: Incumbent renominated
+PA-13,House,Beth Farnham,DEM,0,REP,0,0,1,0,plurality,0,1,John Joyce: Incumbent renominated
+PA-13,House,John Joyce,REP,1,REP,0,0,1,0,plurality,0,1,John Joyce: Incumbent renominated
+PA-14,House,Alan Bradstock,DEM,0,REP,0,0,1,0,plurality,0,1,Guy Reschenthaler: Incumbent renominated
+PA-14,House,Guy Reschenthaler,REP,1,REP,0,0,1,0,plurality,0,1,Guy Reschenthaler: Incumbent renominated
+PA-15,House,Glenn Thompson,REP,1,REP,0,0,1,0,plurality,0,1,Glenn Thompson: Incumbent renominated
+PA-15,House,Ray Bilger,DEM,0,REP,0,0,1,0,plurality,0,1,Glenn Thompson: Incumbent renominated
+PA-16,House,Justin Wagner,DEM,0,REP,0,0,1,0,plurality,0,1,Mike Kelly: Incumbent renominated
+PA-16,House,Mike Kelly,REP,1,REP,0,0,1,0,plurality,0,1,Mike Kelly: Incumbent renominated
+PA-17,House,Chris Deluzio,DEM,1,DEM,0,0,1,0,plurality,0,1,Chris Deluzio: Incumbent renominated
+PA-17,House,Tony Guy,REP,0,DEM,0,0,1,0,plurality,0,1,Chris Deluzio: Incumbent renominated
+RI-01,House,Gabe Amo,DEM,1,DEM,0,0,1,0,plurality,0,1,Gabe Amo: Incumbent renominated
+RI-01,House,Kellie Keenan,REP,0,DEM,0,0,1,0,plurality,0,1,Gabe Amo: Incumbent renominated
+RI-01,House,Pedro DeSouza,IND,0,DEM,0,0,0,0,plurality,0,0,Gabe Amo: Incumbent renominated
+RI-02,House,Seth Magaziner,DEM,1,DEM,0,0,1,0,plurality,0,1,Seth Magaziner: Incumbent renominated
+RI-02,House,Vic Mellor,REP,0,DEM,0,0,1,0,plurality,0,1,Seth Magaziner: Incumbent renominated
+SC-01,House,Jenny Costa Honeycutt,REP,0,REP,1,0,1,0,plurality,0,1,Nancy Mace: Incumbent retiring to run for governor
+SC-01,House,Nancy Lacore,DEM,0,REP,1,0,1,0,plurality,0,1,Nancy Mace: Incumbent retiring to run for governor
+SC-01,House,Bill Reeside,LIB,0,REP,1,0,0,0,plurality,0,0,Nancy Mace: Incumbent retiring to run for governor
+SC-02,House,Joe Wilson,REP,1,REP,0,0,1,0,plurality,0,1,Joe Wilson: Incumbent renominated
+SC-02,House,Zyon Khalifa,DEM,0,REP,0,0,1,0,plurality,0,1,Joe Wilson: Incumbent renominated
+SC-02,House,Dayna Alane Smith,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Workers | Joe Wilson: Incumbent renominated
+SC-03,House,Eunice Lehmacher,DEM,0,REP,0,0,1,0,plurality,0,1,Sheri Biggs: Incumbent renominated
+SC-03,House,Sheri Biggs,REP,1,REP,0,0,1,0,plurality,0,1,Sheri Biggs: Incumbent renominated
+SC-03,House,Brian Corriea,LIB,0,REP,0,0,0,0,plurality,0,0,Sheri Biggs: Incumbent renominated
+SC-04,House,Courtney McClain,DEM,0,REP,0,0,1,0,plurality,0,1,William Timmons: Incumbent renominated
+SC-04,House,William Timmons,REP,1,REP,0,0,1,0,plurality,0,1,William Timmons: Incumbent renominated
+SC-04,House,Jessica Ethridge,LIB,0,REP,0,0,0,0,plurality,0,0,William Timmons: Incumbent renominated
+SC-05,House,Mallory Dittmer,DEM,0,REP,1,0,1,0,plurality,0,1,Ralph Norman: Incumbent retiring to run for governor
+SC-05,House,Wes Climer,REP,0,REP,1,0,1,0,plurality,0,1,Ralph Norman: Incumbent retiring to run for governor
+SC-06,House,Jim Clyburn,DEM,1,DEM,0,0,1,0,plurality,0,1,Jim Clyburn: Incumbent renominated
+SC-06,House,John Peterson,REP,0,DEM,0,0,1,0,plurality,0,1,Jim Clyburn: Incumbent renominated
+SC-07,House,John Vincent,DEM,0,REP,0,0,1,0,plurality,0,1,Russell Fry: Incumbent renominated
+SC-07,House,Russell Fry,REP,1,REP,0,0,1,0,plurality,0,1,Russell Fry: Incumbent renominated
+SD-AL,House,Marty Jackley,REP,0,REP,1,0,1,0,plurality,0,1,Dusty Johnson: Incumbent retiring to run for governor
+SD-AL,House,Nikki Gronli,DEM,0,REP,1,0,1,0,plurality,0,1,Dusty Johnson: Incumbent retiring to run for governor
+TN-01,House,Diana Harshbarger,REP,1,REP,0,0,1,0,plurality,0,1,Diana Harshbarger: Incumbent renominated
+TN-01,House,Kristi Burke,DEM,0,REP,0,0,1,0,plurality,0,1,Diana Harshbarger: Incumbent renominated
+TN-01,House,Billy Cody,IND,0,REP,0,0,0,0,plurality,0,0,Diana Harshbarger: Incumbent renominated
+TN-01,House,Chris Campbell,IND,0,REP,0,0,0,0,plurality,0,0,Diana Harshbarger: Incumbent renominated
+TN-01,House,Joshua Ashburn,IND,0,REP,0,0,0,0,plurality,0,0,Diana Harshbarger: Incumbent renominated
+TN-01,House,Richard Baker,IND,0,REP,0,0,0,0,plurality,0,0,Diana Harshbarger: Incumbent renominated
+TN-01,House,Tyler McClain,IND,0,REP,0,0,0,0,plurality,0,0,Diana Harshbarger: Incumbent renominated
+TN-02,House,Michaela Barnett,DEM,0,REP,0,0,1,0,plurality,0,1,Tim Burchett: Incumbent renominated
+TN-02,House,Tim Burchett,REP,1,REP,0,0,1,0,plurality,0,1,Tim Burchett: Incumbent renominated
+TN-02,House,Adam Heimerman,IND,0,REP,0,0,0,0,plurality,0,0,Tim Burchett: Incumbent renominated
+TN-02,House,Bruce Fine,IND,0,REP,0,0,0,0,plurality,0,0,Tim Burchett: Incumbent renominated
+TN-03,House,Anna Golladay,DEM,0,REP,0,0,1,0,plurality,0,1,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Chuck Fleischmann,REP,1,REP,0,0,1,0,plurality,0,1,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Dean Arnold,IND,0,REP,0,0,0,0,plurality,0,0,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Donnie Ownby,IND,0,REP,0,0,0,0,plurality,0,0,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Edward Roland,IND,0,REP,0,0,0,0,plurality,0,0,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Jean Howard-Hill,IND,0,REP,0,0,0,0,plurality,0,0,Chuck Fleischmann: Incumbent renominated
+TN-03,House,Rodney Joe King,IND,0,REP,0,0,0,0,plurality,0,0,Chuck Fleischmann: Incumbent renominated
+TN-04,House,Scott DesJarlais,REP,1,REP,0,0,1,0,plurality,0,1,Scott DesJarlais: Incumbent renominated
+TN-04,House,Victoria Broderick,DEM,0,REP,0,0,1,0,plurality,0,1,Scott DesJarlais: Incumbent renominated
+TN-04,House,Clay Faircloth,IND,0,REP,0,0,0,0,plurality,0,0,Scott DesJarlais: Incumbent renominated
+TN-04,House,Jacob Anders,IND,0,REP,0,0,0,0,plurality,0,0,Scott DesJarlais: Incumbent renominated
+TN-05,House,Charlie Hatcher,REP,0,REP,1,0,1,0,plurality,0,1,Andy Ogles: Incumbent lost renomination
+TN-05,House,Chaz Molder,DEM,0,REP,1,0,1,0,plurality,0,1,Andy Ogles: Incumbent lost renomination
+TN-05,House,James Johnson,IND,0,REP,1,0,0,0,plurality,0,0,Andy Ogles: Incumbent lost renomination
+TN-05,House,Micheál O'Leary,IND,0,REP,1,0,0,0,plurality,0,0,Andy Ogles: Incumbent lost renomination
+TN-06,House,Johnny Garrett,REP,0,REP,1,0,1,0,plurality,0,1,John Rose: Incumbent retiring to run for governor
+TN-06,House,Mike Croley,DEM,0,REP,1,0,1,0,plurality,0,1,John Rose: Incumbent retiring to run for governor
+TN-06,House,Angus Purdy,IND,0,REP,1,0,0,0,plurality,0,0,John Rose: Incumbent retiring to run for governor
+TN-06,House,Christopher Monday,IND,0,REP,1,0,0,0,plurality,0,0,John Rose: Incumbent retiring to run for governor
+TN-07,House,Darden Copeland,DEM,0,REP,0,0,1,0,plurality,0,1,Matt Van Epps: Incumbent renominated
+TN-07,House,Matt Van Epps,REP,1,REP,0,0,1,0,plurality,0,1,Matt Van Epps: Incumbent renominated
+TN-07,House,Andrew Koontz,IND,0,REP,0,0,0,0,plurality,0,0,Matt Van Epps: Incumbent renominated
+TN-07,House,Lowell Reynolds,IND,0,REP,0,0,0,0,plurality,0,0,Matt Van Epps: Incumbent renominated
+TN-08,House,David Kustoff,REP,1,REP,0,0,1,0,plurality,0,1,David Kustoff: Incumbent renominated
+TN-08,House,Heidi Kuhn,DEM,0,REP,0,0,1,0,plurality,0,1,David Kustoff: Incumbent renominated
+TN-08,House,Adam Austill,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-08,House,Antonio Futch,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-08,House,Henry Ward III,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-08,House,Horace Taylor,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-08,House,Pamela Moses,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-08,House,Wells Blankenship,IND,0,REP,0,0,0,0,plurality,0,0,David Kustoff: Incumbent renominated
+TN-09,House,Brent Taylor,REP,0,DEM,1,0,1,0,plurality,0,1,Steve Cohen: Incumbent retiring
+TN-09,House,Justin Pearson,DEM,0,DEM,1,0,1,0,plurality,0,1,Steve Cohen: Incumbent retiring
+TN-09,House,Dennis Clark,IND,0,DEM,1,0,0,0,plurality,0,0,Steve Cohen: Incumbent retiring
+TN-09,House,Michelle Head,IND,0,DEM,1,0,0,0,plurality,0,0,Steve Cohen: Incumbent retiring
+TX-01,House,Nathaniel Moran,REP,1,REP,0,0,1,0,plurality,0,1,Nathaniel Moran: Incumbent renominated
+TX-01,House,Yolanda Prince,DEM,0,REP,0,0,1,0,plurality,0,1,Nathaniel Moran: Incumbent renominated
+TX-02,House,Shaun Finnie,DEM,0,REP,1,0,1,0,plurality,0,1,Dan Crenshaw: Incumbent lost renomination
+TX-02,House,Steve Toth,REP,0,REP,1,0,1,0,plurality,0,1,Dan Crenshaw: Incumbent lost renomination
+TX-03,House,Evan Hunt,DEM,0,REP,0,0,1,0,plurality,0,1,Keith Self: Incumbent renominated
+TX-03,House,Keith Self,REP,1,REP,0,0,1,0,plurality,0,1,Keith Self: Incumbent renominated
+TX-04,House,Jason Pearce,DEM,0,REP,0,0,1,0,plurality,0,1,Pat Fallon: Incumbent renominated
+TX-04,House,Pat Fallon,REP,1,REP,0,0,1,0,plurality,0,1,Pat Fallon: Incumbent renominated
+TX-05,House,Chelsey Hockett,DEM,0,REP,0,0,1,0,plurality,0,1,Lance Gooden: Incumbent renominated
+TX-05,House,Lance Gooden,REP,1,REP,0,0,1,0,plurality,0,1,Lance Gooden: Incumbent renominated
+TX-06,House,Danny Minton,DEM,0,REP,0,0,1,0,plurality,0,1,Jake Ellzey: Incumbent renominated
+TX-06,House,Jake Ellzey,REP,1,REP,0,0,1,0,plurality,0,1,Jake Ellzey: Incumbent renominated
+TX-07,House,Alexander Hale,REP,0,DEM,0,0,1,0,plurality,0,1,Lizzie Fletcher: Incumbent renominated
+TX-07,House,Lizzie Fletcher,DEM,1,DEM,0,0,1,0,plurality,0,1,Lizzie Fletcher: Incumbent renominated
+TX-07,House,Espoir Ngabo,GRN,0,DEM,0,0,0,0,plurality,0,0,Lizzie Fletcher: Incumbent renominated
+TX-08,House,Jessica Hart Steinmann,REP,0,REP,1,0,1,0,plurality,0,1,Morgan Luttrell: Incumbent retiring
+TX-08,House,Laura Jones,DEM,0,REP,1,0,1,0,plurality,0,1,Morgan Luttrell: Incumbent retiring
+TX-09,House,Alex Mealer,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Al Green (DEM), listed by Wikipedia under TX-18 on the new lines (Incumbent lost renomination. Democratic loss.)"
+TX-09,House,Leticia Gutierrez,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Al Green (DEM), listed by Wikipedia under TX-18 on the new lines (Incumbent lost renomination. Democratic loss.)"
+TX-10,House,Caitlin Rourk,DEM,0,REP,1,0,1,0,plurality,0,1,Michael McCaul: Incumbent retiring
+TX-10,House,Chris Gober,REP,0,REP,1,0,1,0,plurality,0,1,Michael McCaul: Incumbent retiring
+TX-11,House,August Pfluger,REP,1,REP,0,0,1,0,plurality,0,1,August Pfluger: Incumbent renominated
+TX-11,House,Claire Reynolds,DEM,0,REP,0,0,1,0,plurality,0,1,August Pfluger: Incumbent renominated
+TX-12,House,Angela Rodriguez Prilliman,DEM,0,REP,0,0,1,0,plurality,0,1,Craig Goldman: Incumbent renominated
+TX-12,House,Craig Goldman,REP,1,REP,0,0,1,0,plurality,0,1,Craig Goldman: Incumbent renominated
+TX-13,House,Mark Nair,DEM,0,REP,0,0,1,0,plurality,0,1,Ronny Jackson: Incumbent renominated
+TX-13,House,Ronny Jackson,REP,1,REP,0,0,1,0,plurality,0,1,Ronny Jackson: Incumbent renominated
+TX-14,House,Randy Weber,REP,1,REP,0,0,1,0,plurality,0,1,Randy Weber: Incumbent renominated
+TX-14,House,Thurman Bartie,DEM,0,REP,0,0,1,0,plurality,0,1,Randy Weber: Incumbent renominated
+TX-15,House,Bobby Pulido,DEM,0,REP,0,0,1,0,plurality,0,1,Monica De La Cruz: Incumbent renominated
+TX-15,House,Monica De La Cruz,REP,1,REP,0,0,1,0,plurality,0,1,Monica De La Cruz: Incumbent renominated
+TX-16,House,Adam Bauman,REP,0,DEM,0,0,1,0,plurality,0,1,Veronica Escobar: Incumbent renominated
+TX-16,House,Veronica Escobar,DEM,1,DEM,0,0,1,0,plurality,0,1,Veronica Escobar: Incumbent renominated
+TX-17,House,Casey Shepard,DEM,0,REP,0,0,1,0,plurality,0,1,Pete Sessions: Incumbent renominated
+TX-17,House,Pete Sessions,REP,1,REP,0,0,1,0,plurality,0,1,Pete Sessions: Incumbent renominated
+TX-18,House,Christian Menefee,DEM,1,DEM,0,0,1,0,plurality,0,1,Christian Menefee: Incumbent renominated; Al Green: Incumbent lost renomination. Democratic loss.
+TX-18,House,Ronald Whitfield,REP,0,DEM,0,0,1,0,plurality,0,1,Christian Menefee: Incumbent renominated; Al Green: Incumbent lost renomination. Democratic loss.
+TX-19,House,Kyle Rable,DEM,0,REP,1,0,1,0,plurality,0,1,Jodey Arrington: Incumbent retiring
+TX-19,House,Tom Sell,REP,0,REP,1,0,1,0,plurality,0,1,Jodey Arrington: Incumbent retiring
+TX-20,House,Edgardo Rafael Baez,REP,0,DEM,0,0,1,0,plurality,0,1,Joaquin Castro: Incumbent renominated
+TX-20,House,Joaquin Castro,DEM,1,DEM,0,0,1,0,plurality,0,1,Joaquin Castro: Incumbent renominated
+TX-21,House,Kristin Hook,DEM,0,REP,1,0,1,0,plurality,0,1,Chip Roy: Incumbent retiring to run for Texas attorney general
+TX-21,House,Mark Teixeira,REP,0,REP,1,0,1,0,plurality,0,1,Chip Roy: Incumbent retiring to run for Texas attorney general
+TX-22,House,Marquette Greene-Scott,DEM,0,REP,1,0,1,0,plurality,0,1,Troy Nehls: Incumbent retiring
+TX-22,House,Trever Nehls,REP,0,REP,1,0,1,0,plurality,0,1,Troy Nehls: Incumbent retiring
+TX-23,House,Brandon Herrera,REP,0,REP,1,0,1,0,plurality,0,1,"seat vacant (Rep. Tony Gonzales (R) resigned April 14, 2026.); Vacant: Rep. Tony Gonzales (R) resigned April 14, 2026."
+TX-23,House,Katy Padilla Stout,DEM,0,REP,1,0,1,0,plurality,0,1,"seat vacant (Rep. Tony Gonzales (R) resigned April 14, 2026.); Vacant: Rep. Tony Gonzales (R) resigned April 14, 2026."
+TX-23,House,Ben Mendoza,IND,0,REP,1,0,0,0,plurality,0,0,"seat vacant (Rep. Tony Gonzales (R) resigned April 14, 2026.); Vacant: Rep. Tony Gonzales (R) resigned April 14, 2026."
+TX-24,House,Beth Van Duyne,REP,1,REP,0,0,1,0,plurality,0,1,Beth Van Duyne: Incumbent renominated
+TX-24,House,Kevin Burge,DEM,0,REP,0,0,1,0,plurality,0,1,Beth Van Duyne: Incumbent renominated
+TX-25,House,Dione Sims,DEM,0,REP,0,0,1,0,plurality,0,1,Roger Williams: Incumbent renominated; Marc Veasey: Incumbent retiring. Democratic loss.
+TX-25,House,Roger Williams,REP,1,REP,0,0,1,0,plurality,0,1,Roger Williams: Incumbent renominated; Marc Veasey: Incumbent retiring. Democratic loss.
+TX-26,House,Brandon Gill,REP,1,REP,0,0,1,0,plurality,0,1,Brandon Gill: Incumbent renominated
+TX-26,House,Steven Shook,DEM,0,REP,0,0,1,0,plurality,0,1,Brandon Gill: Incumbent renominated
+TX-26,House,Phil Gray,LIB,0,REP,0,0,0,0,plurality,0,0,Brandon Gill: Incumbent renominated
+TX-27,House,Michael Cloud,REP,1,REP,0,0,1,0,plurality,0,1,Michael Cloud: Incumbent renominated
+TX-27,House,Tanya Lloyd,DEM,0,REP,0,0,1,0,plurality,0,1,Michael Cloud: Incumbent renominated
+TX-28,House,Henry Cuellar,DEM,1,DEM,0,0,1,0,plurality,0,1,Henry Cuellar: Incumbent renominated
+TX-28,House,Tano Tijerina,REP,0,DEM,0,0,1,0,plurality,0,1,Henry Cuellar: Incumbent renominated
+TX-28,House,Marlón Durán,GRN,0,DEM,0,0,0,0,plurality,0,0,Henry Cuellar: Incumbent renominated
+TX-29,House,Martha Fierro,REP,0,DEM,0,0,1,0,plurality,0,1,Sylvia Garcia: Incumbent renominated
+TX-29,House,Sylvia Garcia,DEM,1,DEM,0,0,1,0,plurality,0,1,Sylvia Garcia: Incumbent renominated
+TX-30,House,Everett Jackson,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Jasmine Crockett (DEM), listed by Wikipedia under TX-33 on the new lines (Incumbent retiring to run for U.S. Senate. Democratic loss.)"
+TX-30,House,Frederick Haynes III,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Jasmine Crockett (DEM), listed by Wikipedia under TX-33 on the new lines (Incumbent retiring to run for U.S. Senate. Democratic loss.)"
+TX-31,House,John Carter,REP,1,REP,0,0,1,0,plurality,0,1,John Carter: Incumbent renominated
+TX-31,House,Justin Early,DEM,0,REP,0,0,1,0,plurality,0,1,John Carter: Incumbent renominated
+TX-31,House,Greg Stoker,GRN,0,REP,0,0,0,0,plurality,0,0,John Carter: Incumbent renominated
+TX-32,House,Dan Barrios,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Julie Johnson (DEM), listed by Wikipedia under TX-33 on the new lines (Incumbent lost renomination)"
+TX-32,House,Jace Yarbrough,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Julie Johnson (DEM), listed by Wikipedia under TX-33 on the new lines (Incumbent lost renomination)"
+TX-33,House,Colin Allred,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Marc Veasey (DEM), listed by Wikipedia under TX-25 on the new lines (Incumbent retiring. Democratic loss.); incumbent(s) redistricted in: Jasmine Crockett (DEM, from TX-30), Julie Johnson (DEM, from TX-32); Jasmine Crockett: Incumbent retiring to run for U.S. Senate. Democratic loss.; Julie Johnson: Incumbent lost renomination"
+TX-33,House,Patrick Gillespie,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Marc Veasey (DEM), listed by Wikipedia under TX-25 on the new lines (Incumbent retiring. Democratic loss.); incumbent(s) redistricted in: Jasmine Crockett (DEM, from TX-30), Julie Johnson (DEM, from TX-32); Jasmine Crockett: Incumbent retiring to run for U.S. Senate. Democratic loss.; Julie Johnson: Incumbent lost renomination"
+TX-34,House,Eric Flores,REP,0,DEM,0,0,1,0,plurality,0,1,Vicente Gonzalez: Incumbent renominated
+TX-34,House,Vicente Gonzalez,DEM,1,DEM,0,0,1,0,plurality,0,1,Vicente Gonzalez: Incumbent renominated
+TX-34,House,Chris Royal,LIB,0,DEM,0,0,0,0,plurality,0,0,Vicente Gonzalez: Incumbent renominated
+TX-34,House,Eddie Espinoza,GRN,0,DEM,0,0,0,0,plurality,0,0,Vicente Gonzalez: Incumbent renominated
+TX-35,House,Carlos De La Cruz,REP,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Greg Casar (DEM), listed by Wikipedia under TX-37 on the new lines (Incumbent renominated)"
+TX-35,House,Johnny Garcia,DEM,0,DEM,1,0,1,0,plurality,0,1,"district number now held by Greg Casar (DEM), listed by Wikipedia under TX-37 on the new lines (Incumbent renominated)"
+TX-36,House,Brian Babin,REP,1,REP,0,0,1,0,plurality,0,1,Brian Babin: Incumbent renominated
+TX-36,House,Rhonda Hart,DEM,0,REP,0,0,1,0,plurality,0,1,Brian Babin: Incumbent renominated
+TX-37,House,Greg Casar,DEM,1,DEM,0,1,1,0,plurality,0,1,incumbent of TX-35 (old lines) | Lloyd Doggett: Incumbent retiring. Democratic loss.; Greg Casar: Incumbent renominated
+TX-37,House,Lauren Peña,REP,0,DEM,0,0,1,0,plurality,0,1,Lloyd Doggett: Incumbent retiring. Democratic loss.; Greg Casar: Incumbent renominated
+TX-38,House,Jon Bonck,REP,0,REP,1,0,1,0,plurality,0,1,Wesley Hunt: Incumbent retiring to run for U.S. Senate
+TX-38,House,Melissa McDonough,DEM,0,REP,1,0,1,0,plurality,0,1,Wesley Hunt: Incumbent retiring to run for U.S. Senate
+TX-38,House,Alex McMenemy,GRN,0,REP,1,0,0,0,plurality,0,0,Wesley Hunt: Incumbent retiring to run for U.S. Senate
+UT-01,House,Ben McAdams,DEM,0,REP,1,0,1,0,plurality,0,1,"district number now held by Blake Moore (REP), listed by Wikipedia under UT-02 on the new lines (Incumbent renominated)"
+UT-01,House,Riley Owen,REP,0,REP,1,0,1,0,plurality,0,1,"district number now held by Blake Moore (REP), listed by Wikipedia under UT-02 on the new lines (Incumbent renominated)"
+UT-01,House,Elias Montgomery,IND,0,REP,1,0,0,0,plurality,0,0,"district number now held by Blake Moore (REP), listed by Wikipedia under UT-02 on the new lines (Incumbent renominated)"
+UT-01,House,Jesse West,LIB,0,REP,1,0,0,0,plurality,0,0,"district number now held by Blake Moore (REP), listed by Wikipedia under UT-02 on the new lines (Incumbent renominated)"
+UT-02,House,Blake Moore,REP,1,REP,0,1,1,0,plurality,0,1,"incumbent of UT-01 (old lines) | district number now held by Celeste Maloy (REP), listed by Wikipedia under UT-03 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Blake Moore (REP, from UT-01); Blake Moore: Incumbent renominated"
+UT-02,House,Peter Crosby,DEM,0,REP,0,0,1,0,plurality,0,1,"district number now held by Celeste Maloy (REP), listed by Wikipedia under UT-03 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Blake Moore (REP, from UT-01); Blake Moore: Incumbent renominated"
+UT-02,House,Carlton Bowen,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Independent American | district number now held by Celeste Maloy (REP), listed by Wikipedia under UT-03 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Blake Moore (REP, from UT-01); Blake Moore: Incumbent renominated"
+UT-02,House,Daniel Cottam,LIB,0,REP,0,0,0,0,plurality,0,0,"district number now held by Celeste Maloy (REP), listed by Wikipedia under UT-03 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Blake Moore (REP, from UT-01); Blake Moore: Incumbent renominated"
+UT-02,House,Robert Moesinger,IND,0,REP,0,0,0,0,plurality,0,0,"district number now held by Celeste Maloy (REP), listed by Wikipedia under UT-03 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Blake Moore (REP, from UT-01); Blake Moore: Incumbent renominated"
+UT-03,House,Celeste Maloy,REP,1,REP,0,1,1,0,plurality,0,1,"incumbent of UT-02 (old lines) | district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-03,House,Kent Udell,DEM,0,REP,0,0,1,0,plurality,0,1,"district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-03,House,Adonis Hooslyn,IND,0,REP,0,0,0,0,plurality,0,0,"district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-03,House,Ayden Scott,IND,0,REP,0,0,0,0,plurality,0,0,"district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-03,House,Cassie Easley,OTHER,0,REP,0,0,0,0,plurality,0,0,"party label: Constitution | district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-03,House,Michael Stoddard,LIB,0,REP,0,0,0,0,plurality,0,0,"district number now held by Mike Kennedy (REP), listed by Wikipedia under UT-04 on the new lines (Incumbent renominated); incumbent(s) redistricted in: Celeste Maloy (REP, from UT-02); Celeste Maloy: Incumbent renominated"
+UT-04,House,Jonny Larsen,DEM,0,REP,0,0,1,0,plurality,0,1,Burgess Owens: Incumbent retiring. Republican loss.; Mike Kennedy: Incumbent renominated
+UT-04,House,Mike Kennedy,REP,1,REP,0,1,1,0,plurality,0,1,incumbent of UT-03 (old lines) | Burgess Owens: Incumbent retiring. Republican loss.; Mike Kennedy: Incumbent renominated
+UT-04,House,Steven Burt,IND,0,REP,0,0,0,0,plurality,0,0,Burgess Owens: Incumbent retiring. Republican loss.; Mike Kennedy: Incumbent renominated
+UT-04,House,Taylor Wright,LIB,0,REP,0,0,0,0,plurality,0,0,Burgess Owens: Incumbent retiring. Republican loss.; Mike Kennedy: Incumbent renominated
+VA-01,House,Rob Wittman,REP,1,REP,0,0,1,0,plurality,0,1,Rob Wittman: Incumbent renominated
+VA-01,House,Shannon Taylor,DEM,0,REP,0,0,1,0,plurality,0,1,Rob Wittman: Incumbent renominated
+VA-02,House,Elaine Luria,DEM,0,REP,0,0,1,0,plurality,0,1,Jen Kiggans: Incumbent renominated
+VA-02,House,Jen Kiggans,REP,1,REP,0,0,1,0,plurality,0,1,Jen Kiggans: Incumbent renominated
+VA-02,House,Geral Staten,IND,0,REP,0,0,0,0,plurality,0,0,Jen Kiggans: Incumbent renominated
+VA-02,House,J. Matt Baker,IND,0,REP,0,0,0,0,plurality,0,0,Jen Kiggans: Incumbent renominated
+VA-03,House,Bobby Scott,DEM,1,DEM,0,0,1,0,plurality,0,1,Bobby Scott: Incumbent renominated
+VA-03,House,Edwin Rivera,REP,0,DEM,0,0,1,0,plurality,0,1,Bobby Scott: Incumbent renominated
+VA-03,House,Makiba Gaines,IND,0,DEM,0,0,0,0,plurality,0,0,Bobby Scott: Incumbent renominated
+VA-03,House,Stephen Woll,IND,0,DEM,0,0,0,0,plurality,0,0,Bobby Scott: Incumbent renominated
+VA-04,House,Jennifer McClellan,DEM,1,DEM,0,0,1,0,plurality,0,1,Jennifer McClellan: Incumbent renominated
+VA-04,House,Robert Murray,REP,0,DEM,0,0,1,0,plurality,0,1,Jennifer McClellan: Incumbent renominated
+VA-04,House,Joan Bell,IND,0,DEM,0,0,0,0,plurality,0,0,Jennifer McClellan: Incumbent renominated
+VA-05,House,John McGuire,REP,1,REP,0,0,1,0,plurality,0,1,John McGuire: Incumbent renominated
+VA-05,House,Tom Perriello,DEM,0,REP,0,0,1,0,plurality,0,1,John McGuire: Incumbent renominated
+VA-05,House,Cooke Harvey,IND,0,REP,0,0,0,0,plurality,0,0,John McGuire: Incumbent renominated
+VA-06,House,Ben Cline,REP,1,REP,0,0,1,0,plurality,0,1,Ben Cline: Incumbent renominated
+VA-06,House,Beth Macy,DEM,0,REP,0,0,1,0,plurality,0,1,Ben Cline: Incumbent renominated
+VA-07,House,Doug Ollivant,REP,0,DEM,0,0,1,0,plurality,0,1,Eugene Vindman: Incumbent renominated
+VA-07,House,Eugene Vindman,DEM,1,DEM,0,0,1,0,plurality,0,1,Eugene Vindman: Incumbent renominated
+VA-07,House,Alaha Ahrar,IND,0,DEM,0,0,0,0,plurality,0,0,Eugene Vindman: Incumbent renominated
+VA-07,House,Joshua Ertle,IND,0,DEM,0,0,0,0,plurality,0,0,Eugene Vindman: Incumbent renominated
+VA-07,House,Randall Terry,IND,0,DEM,0,0,0,0,plurality,0,0,Eugene Vindman: Incumbent renominated
+VA-07,House,Taner Demirci Lopez,LIB,0,DEM,0,0,0,0,plurality,0,0,Eugene Vindman: Incumbent renominated
+VA-08,House,Don Beyer,DEM,1,DEM,0,0,1,0,plurality,0,1,Don Beyer: Incumbent renominated
+VA-08,House,Tony Sabio,REP,0,DEM,0,0,1,0,plurality,0,1,Don Beyer: Incumbent renominated
+VA-08,House,Shelly Arnoldi,LIB,0,DEM,0,0,0,0,plurality,0,0,Don Beyer: Incumbent renominated
+VA-08,House,Tim Sharman,IND,0,DEM,0,0,0,0,plurality,0,0,Don Beyer: Incumbent renominated
+VA-09,House,Joy Powers,DEM,0,REP,0,0,1,0,plurality,0,1,Morgan Griffith: Incumbent renominated
+VA-09,House,Morgan Griffith,REP,1,REP,0,0,1,0,plurality,0,1,Morgan Griffith: Incumbent renominated
+VA-10,House,Dave Beckwith,REP,0,DEM,0,0,1,0,plurality,0,1,Suhas Subramanyam: Incumbent renominated
+VA-10,House,Suhas Subramanyam,DEM,1,DEM,0,0,1,0,plurality,0,1,Suhas Subramanyam: Incumbent renominated
+VA-10,House,Ahsen Malik,IND,0,DEM,0,0,0,0,plurality,0,0,Suhas Subramanyam: Incumbent renominated
+VA-11,House,Arthur Purves,REP,0,DEM,0,0,1,0,plurality,0,1,James Walkinshaw: Incumbent renominated
+VA-11,House,James Walkinshaw,DEM,1,DEM,0,0,1,0,plurality,0,1,James Walkinshaw: Incumbent renominated
+VA-11,House,Dianne Blais,GRN,0,DEM,0,0,0,0,plurality,0,0,James Walkinshaw: Incumbent renominated
+VT-AL,House,Becca Balint,DEM,1,DEM,0,0,1,0,plurality,0,1,Becca Balint: Incumbent renominated
+VT-AL,House,Gerald Malloy,REP,0,DEM,0,0,1,0,plurality,0,1,Becca Balint: Incumbent renominated
+VT-AL,House,Adam Ortiz,IND,0,DEM,0,0,0,0,plurality,0,0,Becca Balint: Incumbent renominated
+VT-AL,House,Phoenix Altair,IND,0,DEM,0,0,0,0,plurality,0,0,Becca Balint: Incumbent renominated
+VT-AL,House,Ryan Walton,IND,0,DEM,0,0,0,0,plurality,0,0,Becca Balint: Incumbent renominated
+VT-AL,House,Suz Seymour,IND,0,DEM,0,0,0,0,plurality,0,0,Becca Balint: Incumbent renominated
+WA-01,House,Mary Silva,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Suzan DelBene: Incumbent advanced to general
+WA-01,House,Suzan DelBene,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Suzan DelBene: Incumbent advanced to general
+WA-02,House,Edwin Feller,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Rick Larsen: Incumbent advanced to general
+WA-02,House,Rick Larsen,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Rick Larsen: Incumbent advanced to general
+WA-03,House,John Braun,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Marie Gluesenkamp Perez: Incumbent advanced to general
+WA-03,House,Marie Gluesenkamp Perez,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Marie Gluesenkamp Perez: Incumbent advanced to general
+WA-04,House,Amanda McKinney,REP,0,REP,1,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Dan Newhouse: Incumbent retiring
+WA-04,House,John Duresky,DEM,0,REP,1,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Dan Newhouse: Incumbent retiring
+WA-05,House,Carmela Conroy,DEM,0,REP,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Michael Baumgartner: Incumbent advanced to general
+WA-05,House,Michael Baumgartner,REP,1,REP,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Michael Baumgartner: Incumbent advanced to general
+WA-06,House,Emily Randall,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Emily Randall: Incumbent advanced to general
+WA-06,House,Teresa Fox,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Emily Randall: Incumbent advanced to general
+WA-07,House,Nirav Sheth,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Pramila Jayapal: Incumbent advanced to general
+WA-07,House,Pramila Jayapal,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Pramila Jayapal: Incumbent advanced to general
+WA-08,House,Kim Schrier,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Kim Schrier: Incumbent advanced to general
+WA-08,House,Spencer Meline,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Kim Schrier: Incumbent advanced to general
+WA-09,House,Adam Smith,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Adam Smith: Incumbent advanced to general
+WA-09,House,Doug Basler,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Adam Smith: Incumbent advanced to general
+WA-10,House,Chris Chung,REP,0,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Marilyn Strickland: Incumbent advanced to general
+WA-10,House,Marilyn Strickland,DEM,1,DEM,0,0,1,0,top-two,0,1,WA top-two general (same-party pairs possible) | Marilyn Strickland: Incumbent advanced to general
+WI-01,House,Bryan Steil,REP,1,REP,0,0,1,0,plurality,0,1,Bryan Steil: Incumbent renominated
+WI-01,House,Mitchell Berman,DEM,0,REP,0,0,1,0,plurality,0,1,Bryan Steil: Incumbent renominated
+WI-02,House,Mark Pocan,DEM,1,DEM,0,0,1,0,plurality,1,1,only one candidate listed (unopposed) | Mark Pocan: Incumbent re-elected
+WI-03,House,Derrick Van Orden,REP,1,REP,0,0,1,0,plurality,0,1,Derrick Van Orden: Incumbent renominated
+WI-03,House,Rebecca Cooke,DEM,0,REP,0,0,1,0,plurality,0,1,Derrick Van Orden: Incumbent renominated
+WI-03,House,Alexander Kent,IND,0,REP,0,0,0,0,plurality,0,0,Derrick Van Orden: Incumbent renominated
+WI-03,House,Rustin Provance,IND,0,REP,0,0,0,0,plurality,0,0,Derrick Van Orden: Incumbent renominated
+WI-04,House,Gwen Moore,DEM,1,DEM,0,0,1,0,plurality,0,1,Gwen Moore: Incumbent renominated
+WI-04,House,Tim Rogers,REP,0,DEM,0,0,1,0,plurality,0,1,Gwen Moore: Incumbent renominated
+WI-04,House,Arthur Burks,IND,0,DEM,0,0,0,0,plurality,0,0,Gwen Moore: Incumbent renominated
+WI-05,House,Andrew Beck,DEM,0,REP,0,0,1,0,plurality,0,1,Scott Fitzgerald: Incumbent renominated
+WI-05,House,Scott Fitzgerald,REP,1,REP,0,0,1,0,plurality,0,1,Scott Fitzgerald: Incumbent renominated
+WI-06,House,Brad Smith,DEM,0,REP,0,0,1,0,plurality,0,1,Glenn Grothman: Incumbent renominated
+WI-06,House,Glenn Grothman,REP,1,REP,0,0,1,0,plurality,0,1,Glenn Grothman: Incumbent renominated
+WI-06,House,Elizabeth Fitzgibbon,IND,0,REP,0,0,0,0,plurality,0,0,Glenn Grothman: Incumbent renominated
+WI-06,House,Matthew Arndt,GRN,0,REP,0,0,0,0,plurality,0,0,Glenn Grothman: Incumbent renominated
+WI-06,House,Michael Thurow,IND,0,REP,0,0,0,0,plurality,0,0,Glenn Grothman: Incumbent renominated
+WI-07,House,Fred Clark,DEM,0,REP,1,0,1,0,plurality,0,1,Tom Tiffany: Incumbent retiring to run for governor
+WI-07,House,Michael Alfonso,REP,0,REP,1,0,1,0,plurality,0,1,Tom Tiffany: Incumbent retiring to run for governor
+WI-08,House,Rick Crosson,DEM,0,REP,0,0,1,0,plurality,0,1,Tony Wied: Incumbent renominated
+WI-08,House,Tony Wied,REP,1,REP,0,0,1,0,plurality,0,1,Tony Wied: Incumbent renominated
+WV-01,House,Carol Miller,REP,1,REP,0,0,1,0,plurality,0,1,Carol Miller: Incumbent renominated
+WV-01,House,Vince George,DEM,0,REP,0,0,1,0,plurality,0,1,Carol Miller: Incumbent renominated
+WV-01,House,Belinda Fox-Spencer,OTHER,0,REP,0,0,0,0,plurality,0,0,party label: Constitution | Carol Miller: Incumbent renominated
+WV-02,House,Ace Parsi,DEM,0,REP,0,0,1,0,plurality,0,1,Riley Moore: Incumbent renominated
+WV-02,House,Riley Moore,REP,1,REP,0,0,1,0,plurality,0,1,Riley Moore: Incumbent renominated
+WY-AL,House,Chuck Gray,REP,0,REP,1,0,1,0,plurality,0,1,Harriet Hageman: Incumbent retiring to run for U.S. Senate
+WY-AL,House,Lisa Kinney,DEM,0,REP,1,0,1,0,plurality,0,1,Harriet Hageman: Incumbent retiring to run for U.S. Senate
+WY-AL,House,Jeffrey Haggit,OTHER,0,REP,1,0,0,0,plurality,0,0,party label: Constitution | Harriet Hageman: Incumbent retiring to run for U.S. Senate
+WY-AL,House,Shawn Johnson,LIB,0,REP,1,0,0,0,plurality,0,0,Harriet Hageman: Incumbent retiring to run for U.S. Senate

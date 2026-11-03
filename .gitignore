@@ -1,0 +1,34 @@
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# Symlinks that scripts/run_kavi_models.sh creates so each model sees its original folder layout
+models/kavi-*/data/clean
+models/kavi-*/data/benchmark
+models/kavi-*/data/kalshi
+models/kavi-*/data/templates
+models/kavi-*/data/dossiers
+models/kavi-*/data/raw
+models/kavi-*/src/data
+
+# Model by-products: only the forecast and the two backtests are kept
+models/kavi-*/out/*
+!models/kavi-*/out/pred_2026.csv
+!models/kavi-*/out/backtest_2018.csv
+!models/kavi-*/out/backtest_2022.csv
+
+# Pau stack: check file written by run.sh, and the working folders of a full re-run
+models/pau-stack/results/joint2026/*.check.csv
+models/pau-stack/pbase/work/
+models/pau-stack/pbase/out/
+
+# Rebuilt copy of the submission (compared against ./predictions_full_congress.csv by run_all.sh)
+out/predictions_full_congress.csv
+
+# Raw downloads (only data/raw/mit is redistributed)
+data/raw/*
+!data/raw/mit/

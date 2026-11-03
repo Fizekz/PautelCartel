@@ -1,0 +1,1131 @@
+year,race_id,chamber,special,candidate,party,p_fte,forecastdate,model
+2018,AK-AL,House,0,Don Young,REP,0.6481,2018-11-05,classic
+2018,AK-AL,House,0,Alyse S. Galvin,DEM,0.3519,2018-11-05,classic
+2018,AL-01,House,0,Bradley Byrne,REP,0.9998,2018-11-05,classic
+2018,AL-01,House,0,Robert Kennedy Jr.,DEM,0.0002,2018-11-05,classic
+2018,AL-02,House,0,Martha Roby,REP,0.9775,2018-11-05,classic
+2018,AL-02,House,0,Tabitha Isner,DEM,0.0225,2018-11-05,classic
+2018,AL-03,House,0,Mike Rogers,REP,0.9984,2018-11-05,classic
+2018,AL-03,House,0,Mallory Hagan,DEM,0.0016,2018-11-05,classic
+2018,AL-04,House,0,Robert B. Aderholt,REP,1.0,2018-11-05,classic
+2018,AL-04,House,0,Lee Auman,DEM,0.0,2018-11-05,classic
+2018,AL-05,House,0,Mo Brooks,REP,0.999,2018-11-05,classic
+2018,AL-05,House,0,Peter Joffrion,DEM,0.001,2018-11-05,classic
+2018,AL-06,House,0,Gary Palmer,REP,0.9999,2018-11-05,classic
+2018,AL-06,House,0,Danner Kline,DEM,0.0001,2018-11-05,classic
+2018,AL-07,House,0,Terri A. Sewell,DEM,1.0,2018-11-05,classic
+2018,AR-01,House,0,Rick Crawford,REP,0.9996,2018-11-05,classic
+2018,AR-01,House,0,Chintan Desai,DEM,0.0004,2018-11-05,classic
+2018,AR-01,House,0,Elvis Presley,OTHER,0.0,2018-11-05,classic
+2018,AR-02,House,0,French Hill,REP,0.8629,2018-11-05,classic
+2018,AR-02,House,0,Clarke Tucker,DEM,0.1371,2018-11-05,classic
+2018,AR-02,House,0,Joe Ryne Swafford,OTHER,0.0,2018-11-05,classic
+2018,AR-03,House,0,Steve Womack,REP,0.9992,2018-11-05,classic
+2018,AR-03,House,0,Josh Mahony,DEM,0.0008,2018-11-05,classic
+2018,AR-03,House,0,Michael Kalagias,OTHER,0.0,2018-11-05,classic
+2018,AR-04,House,0,Bruce Westerman,REP,0.9997,2018-11-05,classic
+2018,AR-04,House,0,Hayden Shamel,DEM,0.0003,2018-11-05,classic
+2018,AR-04,House,0,Tom Canada,OTHER,0.0,2018-11-05,classic
+2018,AZ-01,House,0,Tom O'Halleran,DEM,0.8905,2018-11-05,classic
+2018,AZ-01,House,0,Wendy Rogers,REP,0.1095,2018-11-05,classic
+2018,AZ-02,House,0,Ann Kirkpatrick,DEM,0.9656,2018-11-05,classic
+2018,AZ-02,House,0,Lea Marquez Peterson,REP,0.0344,2018-11-05,classic
+2018,AZ-03,House,0,Raul Grijalva,DEM,0.9999,2018-11-05,classic
+2018,AZ-03,House,0,Nick Pierson,REP,0.0001,2018-11-05,classic
+2018,AZ-04,House,0,Paul A. Gosar,REP,0.9997,2018-11-05,classic
+2018,AZ-04,House,0,David Brill,DEM,0.0003,2018-11-05,classic
+2018,AZ-04,House,0,Haryaksha Gregor Knauer,GRN,0.0,2018-11-05,classic
+2018,AZ-05,House,0,Andy Biggs,REP,0.999,2018-11-05,classic
+2018,AZ-05,House,0,Joan Greene,DEM,0.001,2018-11-05,classic
+2018,AZ-06,House,0,David Schweikert,REP,0.9123,2018-11-05,classic
+2018,AZ-06,House,0,Anita Malik,DEM,0.0877,2018-11-05,classic
+2018,AZ-07,House,0,Ruben Gallego,DEM,1.0,2018-11-05,classic
+2018,AZ-07,House,0,Gary Swing,GRN,0.0,2018-11-05,classic
+2018,AZ-08,House,0,Debbie Lesko,REP,0.7812,2018-11-05,classic
+2018,AZ-08,House,0,Hiral Tipirneni,DEM,0.2188,2018-11-05,classic
+2018,AZ-09,House,0,Greg Stanton,DEM,0.9958,2018-11-05,classic
+2018,AZ-09,House,0,Steve Ferrara,REP,0.0042,2018-11-05,classic
+2018,CA-01,House,0,Doug LaMalfa,REP,0.7919,2018-11-05,classic
+2018,CA-01,House,0,Audrey Denney,DEM,0.2081,2018-11-05,classic
+2018,CA-02,House,0,Jared Huffman,DEM,1.0,2018-11-05,classic
+2018,CA-02,House,0,Dale K. Mensing,REP,0.0,2018-11-05,classic
+2018,CA-03,House,0,John Garamendi,DEM,0.9997,2018-11-05,classic
+2018,CA-03,House,0,Charlie Schaupp,REP,0.0003,2018-11-05,classic
+2018,CA-04,House,0,Tom McClintock,REP,0.8486,2018-11-05,classic
+2018,CA-04,House,0,Jessica Morse,DEM,0.1514,2018-11-05,classic
+2018,CA-05,House,0,Mike Thompson,DEM,0.9999,2018-11-05,classic
+2018,CA-05,House,0,Anthony Mills,IND,0.0001,2018-11-05,classic
+2018,CA-06,House,0,Doris O. Matsui,DEM,1.0,2018-11-05,classic
+2018,CA-06,House,0,Jrmar Jefferson,DEM,0.0,2018-11-05,classic
+2018,CA-07,House,0,Ami Bera,DEM,0.9951,2018-11-05,classic
+2018,CA-07,House,0,Andrew Grant,REP,0.0049,2018-11-05,classic
+2018,CA-08,House,0,Paul Cook,REP,0.9651,2018-11-05,classic
+2018,CA-08,House,0,Tim Donnelly,REP,0.0349,2018-11-05,classic
+2018,CA-09,House,0,Jerry McNerney,DEM,0.9995,2018-11-05,classic
+2018,CA-09,House,0,Marla Livengood,REP,0.0005,2018-11-05,classic
+2018,CA-10,House,0,Josh Harder,DEM,0.7734,2018-11-05,classic
+2018,CA-10,House,0,Jeff Denham,REP,0.2266,2018-11-05,classic
+2018,CA-11,House,0,Mark DeSaulnier,DEM,1.0,2018-11-05,classic
+2018,CA-11,House,0,John Fitzgerald,REP,0.0,2018-11-05,classic
+2018,CA-12,House,0,Nancy Pelosi,DEM,1.0,2018-11-05,classic
+2018,CA-12,House,0,Lisa Remmer,REP,0.0,2018-11-05,classic
+2018,CA-13,House,0,Barbara Lee,DEM,1.0,2018-11-05,classic
+2018,CA-13,House,0,Laura Wells,GRN,0.0,2018-11-05,classic
+2018,CA-14,House,0,Jackie Speier,DEM,1.0,2018-11-05,classic
+2018,CA-14,House,0,Cristina Osmeña,REP,0.0,2018-11-05,classic
+2018,CA-15,House,0,Eric Swalwell,DEM,1.0,2018-11-05,classic
+2018,CA-15,House,0,Rudy L. Peters Jr.,REP,0.0,2018-11-05,classic
+2018,CA-16,House,0,Jim Costa,DEM,0.9831,2018-11-05,classic
+2018,CA-16,House,0,Elizabeth Heng,REP,0.0169,2018-11-05,classic
+2018,CA-17,House,0,Ro Khanna,DEM,1.0,2018-11-05,classic
+2018,CA-17,House,0,Ron Cohen,REP,0.0,2018-11-05,classic
+2018,CA-18,House,0,Anna G. Eshoo,DEM,1.0,2018-11-05,classic
+2018,CA-18,House,0,Christine Russell,REP,0.0,2018-11-05,classic
+2018,CA-19,House,0,Zoe Lofgren,DEM,1.0,2018-11-05,classic
+2018,CA-19,House,0,Justin James Aguilera,REP,0.0,2018-11-05,classic
+2018,CA-20,House,0,Jimmy Panetta,DEM,0.9997,2018-11-05,classic
+2018,CA-20,House,0,Ronald Paul Kabat,IND,0.0003,2018-11-05,classic
+2018,CA-21,House,0,David Valadao,REP,0.7929,2018-11-05,classic
+2018,CA-21,House,0,TJ Cox,DEM,0.2071,2018-11-05,classic
+2018,CA-22,House,0,Devin Nunes,REP,0.9557,2018-11-05,classic
+2018,CA-22,House,0,Andrew Janz,DEM,0.0443,2018-11-05,classic
+2018,CA-23,House,0,Kevin McCarthy,REP,0.9996,2018-11-05,classic
+2018,CA-23,House,0,Tatiana Matta,DEM,0.0004,2018-11-05,classic
+2018,CA-24,House,0,Salud Carbajal,DEM,0.9847,2018-11-05,classic
+2018,CA-24,House,0,Justin Fareed,REP,0.0153,2018-11-05,classic
+2018,CA-25,House,0,Katie Hill,DEM,0.6331,2018-11-05,classic
+2018,CA-25,House,0,Steve Knight,REP,0.3669,2018-11-05,classic
+2018,CA-26,House,0,Julia Brownley,DEM,0.9998,2018-11-05,classic
+2018,CA-26,House,0,Antonio Sabato Jr.,REP,0.0002,2018-11-05,classic
+2018,CA-27,House,0,Judy Chu,DEM,1.0,2018-11-05,classic
+2018,CA-27,House,0,Bryan Witt,DEM,0.0,2018-11-05,classic
+2018,CA-28,House,0,Adam Schiff,DEM,1.0,2018-11-05,classic
+2018,CA-28,House,0,Johnny J. Nalbandian,REP,0.0,2018-11-05,classic
+2018,CA-29,House,0,Tony Cárdenas,DEM,1.0,2018-11-05,classic
+2018,CA-29,House,0,Benito Benny Bernal,REP,0.0,2018-11-05,classic
+2018,CA-30,House,0,Brad Sherman,DEM,1.0,2018-11-05,classic
+2018,CA-30,House,0,Mark S. Reed,REP,0.0,2018-11-05,classic
+2018,CA-31,House,0,Pete Aguilar,DEM,0.9987,2018-11-05,classic
+2018,CA-31,House,0,Sean Flynn,REP,0.0013,2018-11-05,classic
+2018,CA-32,House,0,Grace Napolitano,DEM,1.0,2018-11-05,classic
+2018,CA-32,House,0,Joshua M. Scott,REP,0.0,2018-11-05,classic
+2018,CA-33,House,0,Ted Lieu,DEM,1.0,2018-11-05,classic
+2018,CA-33,House,0,Kenneth Weston Wright,REP,0.0,2018-11-05,classic
+2018,CA-34,House,0,Jimmy Gomez,DEM,0.9999,2018-11-05,classic
+2018,CA-34,House,0,Kenneth Mejia,GRN,0.0001,2018-11-05,classic
+2018,CA-35,House,0,Norma Torres,DEM,1.0,2018-11-05,classic
+2018,CA-35,House,0,Christian Leonel Valiente,REP,0.0,2018-11-05,classic
+2018,CA-36,House,0,Raul Ruiz,DEM,0.9982,2018-11-05,classic
+2018,CA-36,House,0,Kimberlin Brown Pelzer,REP,0.0018,2018-11-05,classic
+2018,CA-37,House,0,Karen Bass,DEM,1.0,2018-11-05,classic
+2018,CA-37,House,0,Ron J. Bassilian,REP,0.0,2018-11-05,classic
+2018,CA-38,House,0,Linda Sánchez,DEM,1.0,2018-11-05,classic
+2018,CA-38,House,0,Ryan Downing,REP,0.0,2018-11-05,classic
+2018,CA-39,House,0,Gil Cisneros,DEM,0.5812,2018-11-05,classic
+2018,CA-39,House,0,Young Kim,REP,0.4188,2018-11-05,classic
+2018,CA-40,House,0,Lucille Roybal-Allard,DEM,0.9998,2018-11-05,classic
+2018,CA-40,House,0,Rodolfo Cortes Barragan,GRN,0.0002,2018-11-05,classic
+2018,CA-41,House,0,Mark Takano,DEM,0.9998,2018-11-05,classic
+2018,CA-41,House,0,Aja Smith,REP,0.0002,2018-11-05,classic
+2018,CA-42,House,0,Ken Calvert,REP,0.9746,2018-11-05,classic
+2018,CA-42,House,0,Julia C. Peacock,DEM,0.0254,2018-11-05,classic
+2018,CA-43,House,0,Maxine Waters,DEM,1.0,2018-11-05,classic
+2018,CA-43,House,0,Omar Navarro,REP,0.0,2018-11-05,classic
+2018,CA-44,House,0,Nanette Diaz Barragán,DEM,1.0,2018-11-05,classic
+2018,CA-44,House,0,Aja L. Brown,DEM,0.0,2018-11-05,classic
+2018,CA-45,House,0,Katie Porter,DEM,0.6252,2018-11-05,classic
+2018,CA-45,House,0,Mimi Walters,REP,0.3748,2018-11-05,classic
+2018,CA-46,House,0,J. Luis Correa,DEM,1.0,2018-11-05,classic
+2018,CA-46,House,0,Russell Rene Lambert,REP,0.0,2018-11-05,classic
+2018,CA-47,House,0,Alan Lowenthal,DEM,0.9999,2018-11-05,classic
+2018,CA-47,House,0,John Briscoe,REP,0.0001,2018-11-05,classic
+2018,CA-48,House,0,Harley Rouda,DEM,0.5624,2018-11-05,classic
+2018,CA-48,House,0,Dana Rohrabacher,REP,0.4376,2018-11-05,classic
+2018,CA-49,House,0,Mike Levin,DEM,0.9593,2018-11-05,classic
+2018,CA-49,House,0,Diane L. Harkey,REP,0.0407,2018-11-05,classic
+2018,CA-50,House,0,Duncan D. Hunter,REP,0.7798,2018-11-05,classic
+2018,CA-50,House,0,Ammar Campa-Najjar,DEM,0.2202,2018-11-05,classic
+2018,CA-51,House,0,Juan Vargas,DEM,1.0,2018-11-05,classic
+2018,CA-51,House,0,Juan M. Hidalgo Jr.,REP,0.0,2018-11-05,classic
+2018,CA-52,House,0,Scott Peters,DEM,0.9994,2018-11-05,classic
+2018,CA-52,House,0,Omar Qudrat,REP,0.0006,2018-11-05,classic
+2018,CA-53,House,0,Susan Davis,DEM,1.0,2018-11-05,classic
+2018,CA-53,House,0,Morgan Murtaugh,REP,0.0,2018-11-05,classic
+2018,CO-01,House,0,Diana DeGette,DEM,1.0,2018-11-05,classic
+2018,CO-01,House,0,Raymon Anthony Doane,LIB,0.0,2018-11-05,classic
+2018,CO-01,House,0,Charles Casper Stockham,REP,0.0,2018-11-05,classic
+2018,CO-02,House,0,Joe Neguse,DEM,0.9996,2018-11-05,classic
+2018,CO-02,House,0,Peter Yu,REP,0.0004,2018-11-05,classic
+2018,CO-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,CO-03,House,0,Scott Tipton,REP,0.8004,2018-11-05,classic
+2018,CO-03,House,0,Diane Mitsch Bush,DEM,0.1996,2018-11-05,classic
+2018,CO-03,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,CO-04,House,0,Ken Buck,REP,0.9566,2018-11-05,classic
+2018,CO-04,House,0,Karen McCormick,DEM,0.0434,2018-11-05,classic
+2018,CO-05,House,0,Doug Lamborn,REP,0.9784,2018-11-05,classic
+2018,CO-05,House,0,Stephany Rose Spaulding,DEM,0.0216,2018-11-05,classic
+2018,CO-05,House,0,Douglas Randall,OTHER,0.0,2018-11-05,classic
+2018,CO-06,House,0,Jason Crow,DEM,0.8846,2018-11-05,classic
+2018,CO-06,House,0,Mike Coffman,REP,0.1154,2018-11-05,classic
+2018,CO-06,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,CO-07,House,0,Ed Perlmutter,DEM,0.9993,2018-11-05,classic
+2018,CO-07,House,0,Mark Barrington,REP,0.0007,2018-11-05,classic
+2018,CO-07,House,0,Jennifer Nackerud,OTHER,0.0,2018-11-05,classic
+2018,CT-01,House,0,John B. Larson,DEM,0.9999,2018-11-05,classic
+2018,CT-01,House,0,Jennifer Nye,REP,0.0001,2018-11-05,classic
+2018,CT-01,House,0,Tom McCormick,OTHER,0.0,2018-11-05,classic
+2018,CT-02,House,0,Joe Courtney,DEM,0.9998,2018-11-05,classic
+2018,CT-02,House,0,Dan Postemski,REP,0.0002,2018-11-05,classic
+2018,CT-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,CT-03,House,0,Rosa L. DeLauro,DEM,1.0,2018-11-05,classic
+2018,CT-03,House,0,Angel Cadena,REP,0.0,2018-11-05,classic
+2018,CT-04,House,0,Jim Himes,DEM,0.9996,2018-11-05,classic
+2018,CT-04,House,0,Harry Arora,REP,0.0004,2018-11-05,classic
+2018,CT-05,House,0,Jahana Hayes,DEM,0.9739,2018-11-05,classic
+2018,CT-05,House,0,Manny Santos,REP,0.0261,2018-11-05,classic
+2018,DE-AL,House,0,Lisa Blunt Rochester,DEM,0.9977,2018-11-05,classic
+2018,DE-AL,House,0,Scott Walker,REP,0.0023,2018-11-05,classic
+2018,FL-01,House,0,Matt Gaetz,REP,1.0,2018-11-05,classic
+2018,FL-01,House,0,Jennifer Zimmerman,DEM,0.0,2018-11-05,classic
+2018,FL-02,House,0,Neal Dunn,REP,0.9997,2018-11-05,classic
+2018,FL-02,House,0,Bob Rackleff,DEM,0.0003,2018-11-05,classic
+2018,FL-03,House,0,Ted Yoho,REP,0.9868,2018-11-05,classic
+2018,FL-03,House,0,Yvonne Hayes Hinson,DEM,0.0132,2018-11-05,classic
+2018,FL-04,House,0,John Rutherford,REP,0.9999,2018-11-05,classic
+2018,FL-04,House,0,"George ""Ges"" Selmont",DEM,0.0001,2018-11-05,classic
+2018,FL-04,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,FL-05,House,0,Al Lawson,DEM,1.0,2018-11-05,classic
+2018,FL-05,House,0,Virginia Fuller,REP,0.0,2018-11-05,classic
+2018,FL-06,House,0,Michael Waltz,REP,0.7414,2018-11-05,classic
+2018,FL-06,House,0,Nancy Soderberg,DEM,0.2586,2018-11-05,classic
+2018,FL-07,House,0,Stephanie Murphy,DEM,0.9464,2018-11-05,classic
+2018,FL-07,House,0,Mike Miller,REP,0.0536,2018-11-05,classic
+2018,FL-08,House,0,Bill Posey,REP,0.9934,2018-11-05,classic
+2018,FL-08,House,0,Sanjay Patel,DEM,0.0066,2018-11-05,classic
+2018,FL-09,House,0,Darren Soto,DEM,0.9846,2018-11-05,classic
+2018,FL-09,House,0,Wayne Liebnitzky,REP,0.0154,2018-11-05,classic
+2018,FL-10,House,0,Val Demings,DEM,1.0,2018-11-05,classic
+2018,FL-11,House,0,Daniel Webster,REP,0.9994,2018-11-05,classic
+2018,FL-11,House,0,Dana Cottrell,DEM,0.0006,2018-11-05,classic
+2018,FL-12,House,0,Gus M. Bilirakis,REP,0.9956,2018-11-05,classic
+2018,FL-12,House,0,Chris Hunter,DEM,0.0044,2018-11-05,classic
+2018,FL-12,House,0,Angelika Purkis,OTHER,0.0,2018-11-05,classic
+2018,FL-13,House,0,Charlie Crist,DEM,0.9984,2018-11-05,classic
+2018,FL-13,House,0,George Buck,REP,0.0016,2018-11-05,classic
+2018,FL-14,House,0,Kathy Castor,DEM,1.0,2018-11-05,classic
+2018,FL-15,House,0,Ross Spano,REP,0.5708,2018-11-05,classic
+2018,FL-15,House,0,Kristen Carlson,DEM,0.4292,2018-11-05,classic
+2018,FL-16,House,0,Vern Buchanan,REP,0.8598,2018-11-05,classic
+2018,FL-16,House,0,David Shapiro,DEM,0.1402,2018-11-05,classic
+2018,FL-17,House,0,Greg Steube,REP,0.9981,2018-11-05,classic
+2018,FL-17,House,0,April Freeman,DEM,0.0019,2018-11-05,classic
+2018,FL-18,House,0,Brian Mast,REP,0.914,2018-11-05,classic
+2018,FL-18,House,0,Lauren Baer,DEM,0.086,2018-11-05,classic
+2018,FL-19,House,0,Francis Rooney,REP,0.9903,2018-11-05,classic
+2018,FL-19,House,0,David Holden,DEM,0.0097,2018-11-05,classic
+2018,FL-20,House,0,Alcee L. Hastings,DEM,1.0,2018-11-05,classic
+2018,FL-21,House,0,Lois Frankel,DEM,1.0,2018-11-05,classic
+2018,FL-22,House,0,Ted Deutch,DEM,0.9996,2018-11-05,classic
+2018,FL-22,House,0,Nicolas Kimaz,REP,0.0004,2018-11-05,classic
+2018,FL-23,House,0,Debbie Wasserman Schultz,DEM,0.9997,2018-11-05,classic
+2018,FL-23,House,0,Joe Kaufman,REP,0.0003,2018-11-05,classic
+2018,FL-23,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,FL-24,House,0,Frederica Wilson,DEM,1.0,2018-11-05,classic
+2018,FL-25,House,0,Mario Diaz-Balart,REP,0.7232,2018-11-05,classic
+2018,FL-25,House,0,Mary Barzee Flores,DEM,0.2768,2018-11-05,classic
+2018,FL-26,House,0,Debbie Mucarsel-Powell,DEM,0.5622,2018-11-05,classic
+2018,FL-26,House,0,Carlos Curbelo,REP,0.4378,2018-11-05,classic
+2018,FL-27,House,0,Donna Shalala,DEM,0.8473,2018-11-05,classic
+2018,FL-27,House,0,Maria Salazar,REP,0.1527,2018-11-05,classic
+2018,FL-27,House,0,Mayra Joli,OTHER,0.0,2018-11-05,classic
+2018,GA-01,House,0,Buddy Carter,REP,0.9983,2018-11-05,classic
+2018,GA-01,House,0,Lisa M. Ring,DEM,0.0017,2018-11-05,classic
+2018,GA-02,House,0,Sanford D. Bishop Jr.,DEM,0.9997,2018-11-05,classic
+2018,GA-02,House,0,Herman West Jr.,REP,0.0003,2018-11-05,classic
+2018,GA-03,House,0,A. Drew Ferguson,REP,0.9999,2018-11-05,classic
+2018,GA-03,House,0,Chuck Enderlin,DEM,0.0001,2018-11-05,classic
+2018,GA-04,House,0,Hank Johnson,DEM,1.0,2018-11-05,classic
+2018,GA-04,House,0,Joe Profit,REP,0.0,2018-11-05,classic
+2018,GA-05,House,0,John Lewis,DEM,1.0,2018-11-05,classic
+2018,GA-06,House,0,Karen C. Handel,REP,0.5095,2018-11-05,classic
+2018,GA-06,House,0,Lucy McBath,DEM,0.4905,2018-11-05,classic
+2018,GA-07,House,0,Rob Woodall,REP,0.8399,2018-11-05,classic
+2018,GA-07,House,0,Carolyn Bourdeaux,DEM,0.1601,2018-11-05,classic
+2018,GA-08,House,0,Austin Scott,REP,1.0,2018-11-05,classic
+2018,GA-09,House,0,Doug Collins,REP,1.0,2018-11-05,classic
+2018,GA-09,House,0,Josh McCall,DEM,0.0,2018-11-05,classic
+2018,GA-10,House,0,Jody Hice,REP,0.9999,2018-11-05,classic
+2018,GA-10,House,0,Tabitha A. Johnson-Green,DEM,0.0001,2018-11-05,classic
+2018,GA-11,House,0,Barry Loudermilk,REP,0.9999,2018-11-05,classic
+2018,GA-11,House,0,Flynn D. Broady Jr.,DEM,0.0001,2018-11-05,classic
+2018,GA-12,House,0,Rick Allen,REP,0.9882,2018-11-05,classic
+2018,GA-12,House,0,Francys Johnson,DEM,0.0118,2018-11-05,classic
+2018,GA-13,House,0,David Scott,DEM,1.0,2018-11-05,classic
+2018,GA-13,House,0,David Callahan,REP,0.0,2018-11-05,classic
+2018,GA-14,House,0,Tom Graves,REP,1.0,2018-11-05,classic
+2018,GA-14,House,0,Steven Lamar Foster,DEM,0.0,2018-11-05,classic
+2018,HI-01,House,0,Ed Case,DEM,1.0,2018-11-05,classic
+2018,HI-01,House,0,Cam Cavasso,REP,0.0,2018-11-05,classic
+2018,HI-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,HI-02,House,0,Tulsi Gabbard,DEM,1.0,2018-11-05,classic
+2018,HI-02,House,0,Brian Evans,REP,0.0,2018-11-05,classic
+2018,IA-01,House,0,Abby Finkenauer,DEM,0.955,2018-11-05,classic
+2018,IA-01,House,0,Rod Blum,REP,0.0449,2018-11-05,classic
+2018,IA-01,House,0,Troy Hageman,OTHER,0.0,2018-11-05,classic
+2018,IA-02,House,0,David Loebsack,DEM,0.9888,2018-11-05,classic
+2018,IA-02,House,0,Christopher Peters,REP,0.0112,2018-11-05,classic
+2018,IA-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,IA-03,House,0,Cindy Axne,DEM,0.7007,2018-11-05,classic
+2018,IA-03,House,0,David Young,REP,0.2993,2018-11-05,classic
+2018,IA-03,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,IA-04,House,0,Steve King,REP,0.853,2018-11-05,classic
+2018,IA-04,House,0,J.D. Scholten,DEM,0.147,2018-11-05,classic
+2018,IA-04,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,ID-01,House,0,Russ Fulcher,REP,0.9945,2018-11-05,classic
+2018,ID-01,House,0,Cristina McNeil,DEM,0.0055,2018-11-05,classic
+2018,ID-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,ID-02,House,0,Mike Simpson,REP,0.9991,2018-11-05,classic
+2018,ID-02,House,0,Aaron Swisher,DEM,0.0009,2018-11-05,classic
+2018,IL-01,House,0,Bobby L. Rush,DEM,1.0,2018-11-05,classic
+2018,IL-01,House,0,Thomas Rudbeck,OTHER,0.0,2018-11-05,classic
+2018,IL-01,House,0,Jimmy Lee Tillman II,REP,0.0,2018-11-05,classic
+2018,IL-02,House,0,Robin Kelly,DEM,1.0,2018-11-05,classic
+2018,IL-02,House,0,David Merkle,REP,0.0,2018-11-05,classic
+2018,IL-03,House,0,Daniel Lipinski,DEM,0.9999,2018-11-05,classic
+2018,IL-03,House,0,Arthur J. Jones,REP,0.0001,2018-11-05,classic
+2018,IL-04,House,0,"Jesus ""Chuy"" Garcia",DEM,1.0,2018-11-05,classic
+2018,IL-04,House,0,Mark Wayne Lorch,REP,0.0,2018-11-05,classic
+2018,IL-05,House,0,Mike Quigley,DEM,1.0,2018-11-05,classic
+2018,IL-05,House,0,Tom Hanson,REP,0.0,2018-11-05,classic
+2018,IL-06,House,0,Peter J. Roskam,REP,0.5156,2018-11-05,classic
+2018,IL-06,House,0,Sean Casten,DEM,0.4844,2018-11-05,classic
+2018,IL-07,House,0,Danny K. Davis,DEM,1.0,2018-11-05,classic
+2018,IL-07,House,0,Craig Cameron,REP,0.0,2018-11-05,classic
+2018,IL-08,House,0,Raja Krishnamoorthi,DEM,0.9998,2018-11-05,classic
+2018,IL-08,House,0,"Jitendra ""JD"" Diganvker",REP,0.0002,2018-11-05,classic
+2018,IL-09,House,0,Jan Schakowsky,DEM,1.0,2018-11-05,classic
+2018,IL-09,House,0,John D. Elleson,REP,0.0,2018-11-05,classic
+2018,IL-10,House,0,Bradley Schneider,DEM,0.9998,2018-11-05,classic
+2018,IL-10,House,0,Douglas R. Bennett,REP,0.0002,2018-11-05,classic
+2018,IL-11,House,0,Bill Foster,DEM,0.9999,2018-11-05,classic
+2018,IL-11,House,0,Nick Stella,REP,0.0001,2018-11-05,classic
+2018,IL-12,House,0,Mike Bost,REP,0.7211,2018-11-05,classic
+2018,IL-12,House,0,Brendan Kelly,DEM,0.2789,2018-11-05,classic
+2018,IL-12,House,0,Randy Auxier,OTHER,0.0,2018-11-05,classic
+2018,IL-13,House,0,Rodney Davis,REP,0.7188,2018-11-05,classic
+2018,IL-13,House,0,Betsy Dirksen Londrigan,DEM,0.2812,2018-11-05,classic
+2018,IL-14,House,0,Lauren Underwood,DEM,0.6945,2018-11-05,classic
+2018,IL-14,House,0,Randy Hultgren,REP,0.3055,2018-11-05,classic
+2018,IL-15,House,0,John Shimkus,REP,0.9999,2018-11-05,classic
+2018,IL-15,House,0,Kevin Gaither,DEM,0.0001,2018-11-05,classic
+2018,IL-16,House,0,Adam Kinzinger,REP,0.9925,2018-11-05,classic
+2018,IL-16,House,0,Sara Dady,DEM,0.0075,2018-11-05,classic
+2018,IL-17,House,0,Cheri Bustos,DEM,0.9997,2018-11-05,classic
+2018,IL-17,House,0,William W. Fawell,REP,0.0003,2018-11-05,classic
+2018,IL-18,House,0,Darin LaHood,REP,0.9999,2018-11-05,classic
+2018,IL-18,House,0,Junius Rodriguez,DEM,0.0001,2018-11-05,classic
+2018,IN-01,House,0,Peter Visclosky,DEM,0.9999,2018-11-05,classic
+2018,IN-01,House,0,Mark Leyva,REP,0.0001,2018-11-05,classic
+2018,IN-02,House,0,Jackie Walorski,REP,0.9611,2018-11-05,classic
+2018,IN-02,House,0,Mel Hall,DEM,0.0389,2018-11-05,classic
+2018,IN-03,House,0,Jim Banks,REP,0.9976,2018-11-05,classic
+2018,IN-03,House,0,Courtney Tritch,DEM,0.0024,2018-11-05,classic
+2018,IN-04,House,0,Jim Baird,REP,0.9985,2018-11-05,classic
+2018,IN-04,House,0,Tobi Beck,DEM,0.0015,2018-11-05,classic
+2018,IN-05,House,0,Susan W. Brooks,REP,0.9626,2018-11-05,classic
+2018,IN-05,House,0,Dee Thornton,DEM,0.0374,2018-11-05,classic
+2018,IN-06,House,0,Greg Pence,REP,0.9995,2018-11-05,classic
+2018,IN-06,House,0,Jeannine Lee Lake,DEM,0.0005,2018-11-05,classic
+2018,IN-06,House,0,Tom Ferkinhoff,OTHER,0.0,2018-11-05,classic
+2018,IN-07,House,0,André Carson,DEM,1.0,2018-11-05,classic
+2018,IN-07,House,0,"Wayne ""Gunny"" Harmon",REP,0.0,2018-11-05,classic
+2018,IN-08,House,0,Larry Bucshon,REP,0.9966,2018-11-05,classic
+2018,IN-08,House,0,William Tanoos,DEM,0.0034,2018-11-05,classic
+2018,IN-09,House,0,Trey Hollingsworth,REP,0.8367,2018-11-05,classic
+2018,IN-09,House,0,Liz Watson,DEM,0.1633,2018-11-05,classic
+2018,KS-01,House,0,Roger Marshall,REP,0.9989,2018-11-05,classic
+2018,KS-01,House,0,Alan LaPolice,DEM,0.0011,2018-11-05,classic
+2018,KS-02,House,0,Paul Davis,DEM,0.6171,2018-11-05,classic
+2018,KS-02,House,0,Steve Watkins,REP,0.3828,2018-11-05,classic
+2018,KS-02,House,0,Kelly Standley,OTHER,0.0001,2018-11-05,classic
+2018,KS-03,House,0,Sharice Davids,DEM,0.8488,2018-11-05,classic
+2018,KS-03,House,0,Kevin Yoder,REP,0.1512,2018-11-05,classic
+2018,KS-03,House,0,Chris Clemmons,OTHER,0.0,2018-11-05,classic
+2018,KS-04,House,0,Ron Estes,REP,0.9929,2018-11-05,classic
+2018,KS-04,House,0,James A. Thompson,DEM,0.0071,2018-11-05,classic
+2018,KY-01,House,0,James Comer,REP,1.0,2018-11-05,classic
+2018,KY-01,House,0,Paul Walker,DEM,0.0,2018-11-05,classic
+2018,KY-02,House,0,Brett S. Guthrie,REP,0.9991,2018-11-05,classic
+2018,KY-02,House,0,Hank Linderman,DEM,0.0009,2018-11-05,classic
+2018,KY-02,House,0,Thomas Loecken,OTHER,0.0,2018-11-05,classic
+2018,KY-03,House,0,John A. Yarmuth,DEM,0.9989,2018-11-05,classic
+2018,KY-03,House,0,Vickie Glisson,REP,0.0011,2018-11-05,classic
+2018,KY-03,House,0,Gregory Boles,OTHER,0.0,2018-11-05,classic
+2018,KY-04,House,0,Thomas Massie,REP,0.9997,2018-11-05,classic
+2018,KY-04,House,0,Seth Hall,DEM,0.0003,2018-11-05,classic
+2018,KY-04,House,0,Mike Moffett,OTHER,0.0,2018-11-05,classic
+2018,KY-05,House,0,Harold Rogers,REP,1.0,2018-11-05,classic
+2018,KY-05,House,0,Kenneth S. Stepp,DEM,0.0,2018-11-05,classic
+2018,KY-06,House,0,Andy Barr,REP,0.5394,2018-11-05,classic
+2018,KY-06,House,0,Amy McGrath,DEM,0.4606,2018-11-05,classic
+2018,KY-06,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,LA-01,House,0,Steve Scalise,REP,1.0,2018-11-05,classic
+2018,LA-01,House,0,Jim Francis,DEM,0.0,2018-11-05,classic
+2018,LA-01,House,0,Tammy M. Savoie,DEM,0.0,2018-11-05,classic
+2018,LA-01,House,0,Lee Ann Dugas,DEM,0.0,2018-11-05,classic
+2018,LA-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,LA-02,House,0,Cedric Richmond,DEM,1.0,2018-11-05,classic
+2018,LA-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,LA-03,House,0,Clay Higgins,REP,0.9956,2018-11-05,classic
+2018,LA-03,House,0,Josh Guillory,REP,0.0038,2018-11-05,classic
+2018,LA-03,House,0,Mimi Methvin,DEM,0.0003,2018-11-05,classic
+2018,LA-03,House,0,Aaron Andrus,OTHER,0.0002,2018-11-05,classic
+2018,LA-03,House,0,Rob Anderson,DEM,0.0001,2018-11-05,classic
+2018,LA-03,House,0,Larry Rader,DEM,0.0,2018-11-05,classic
+2018,LA-03,House,0,Verone Thomas,DEM,0.0,2018-11-05,classic
+2018,LA-04,House,0,Mike Johnson,REP,0.9994,2018-11-05,classic
+2018,LA-04,House,0,Ryan Trundle,DEM,0.0005,2018-11-05,classic
+2018,LA-04,House,0,Mark Halverson,IND,0.0,2018-11-05,classic
+2018,LA-05,House,0,Ralph Abraham,REP,0.9998,2018-11-05,classic
+2018,LA-05,House,0,Jessee Carlton Fleenor,DEM,0.0002,2018-11-05,classic
+2018,LA-05,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,LA-06,House,0,Garret Graves,REP,0.9999,2018-11-05,classic
+2018,LA-06,House,0,Justin DeWitt,DEM,0.0001,2018-11-05,classic
+2018,LA-06,House,0,Andie Saizan,DEM,0.0,2018-11-05,classic
+2018,LA-06,House,0,Devin Lance Graham,IND,0.0,2018-11-05,classic
+2018,MA-01,House,0,Richard E. Neal,DEM,1.0,2018-11-05,classic
+2018,MA-02,House,0,James McGovern,DEM,1.0,2018-11-05,classic
+2018,MA-02,House,0,Tracy Lovvorn,REP,0.0,2018-11-05,classic
+2018,MA-03,House,0,Lori Trahan,DEM,0.9997,2018-11-05,classic
+2018,MA-03,House,0,Rick Green,REP,0.0003,2018-11-05,classic
+2018,MA-03,House,0,Michael P. Mullen,OTHER,0.0,2018-11-05,classic
+2018,MA-04,House,0,Joseph P. Kennedy III,DEM,1.0,2018-11-05,classic
+2018,MA-05,House,0,Katherine Clark,DEM,1.0,2018-11-05,classic
+2018,MA-05,House,0,John Hugo,REP,0.0,2018-11-05,classic
+2018,MA-06,House,0,Seth Moulton,DEM,1.0,2018-11-05,classic
+2018,MA-06,House,0,Mary Jean Charbonneau,OTHER,0.0,2018-11-05,classic
+2018,MA-06,House,0,Joseph S. Schneider,REP,0.0,2018-11-05,classic
+2018,MA-07,House,0,Ayanna Pressley,DEM,1.0,2018-11-05,classic
+2018,MA-08,House,0,Stephen F. Lynch,DEM,1.0,2018-11-05,classic
+2018,MA-09,House,0,William Keating,DEM,0.9973,2018-11-05,classic
+2018,MA-09,House,0,Peter D. Tedeschi,REP,0.0027,2018-11-05,classic
+2018,MD-01,House,0,Andy Harris,REP,0.9908,2018-11-05,classic
+2018,MD-01,House,0,Jesse Colvin,DEM,0.0092,2018-11-05,classic
+2018,MD-01,House,0,Jenica Martin,OTHER,0.0,2018-11-05,classic
+2018,MD-02,House,0,C. A. Dutch Ruppersberger,DEM,0.9999,2018-11-05,classic
+2018,MD-02,House,0,Liz Matory,REP,0.0001,2018-11-05,classic
+2018,MD-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MD-03,House,0,John P. Sarbanes,DEM,1.0,2018-11-05,classic
+2018,MD-03,House,0,David Lashar,OTHER,0.0,2018-11-05,classic
+2018,MD-03,House,0,Charles Anthony,REP,0.0,2018-11-05,classic
+2018,MD-04,House,0,Anthony Brown,DEM,1.0,2018-11-05,classic
+2018,MD-04,House,0,David Bishop,OTHER,0.0,2018-11-05,classic
+2018,MD-04,House,0,George McDermott,REP,0.0,2018-11-05,classic
+2018,MD-05,House,0,Steny H. Hoyer,DEM,1.0,2018-11-05,classic
+2018,MD-05,House,0,William A. Devine III,REP,0.0,2018-11-05,classic
+2018,MD-05,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MD-06,House,0,David Trone,DEM,0.994,2018-11-05,classic
+2018,MD-06,House,0,Amie Hoeber,REP,0.006,2018-11-05,classic
+2018,MD-06,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MD-07,House,0,Elijah Cummings,DEM,1.0,2018-11-05,classic
+2018,MD-07,House,0,David Griggs,OTHER,0.0,2018-11-05,classic
+2018,MD-07,House,0,Richmond Davis,REP,0.0,2018-11-05,classic
+2018,MD-08,House,0,Jamie Raskin,DEM,1.0,2018-11-05,classic
+2018,MD-08,House,0,Jasen Wunder,OTHER,0.0,2018-11-05,classic
+2018,MD-08,House,0,John Walsh,REP,0.0,2018-11-05,classic
+2018,ME-01,House,0,Chellie Pingree,DEM,0.9997,2018-11-05,classic
+2018,ME-01,House,0,Mark Holbrook,REP,0.0003,2018-11-05,classic
+2018,ME-01,House,0,Marty Grohman,OTHER,0.0,2018-11-05,classic
+2018,ME-02,House,0,Jared Golden,DEM,0.6343,2018-11-05,classic
+2018,ME-02,House,0,Bruce Poliquin,REP,0.3657,2018-11-05,classic
+2018,ME-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-01,House,0,Jack Bergman,REP,0.9267,2018-11-05,classic
+2018,MI-01,House,0,Matt Morgan,DEM,0.0733,2018-11-05,classic
+2018,MI-02,House,0,Bill Huizenga,REP,0.9418,2018-11-05,classic
+2018,MI-02,House,0,Rob Davidson,DEM,0.0582,2018-11-05,classic
+2018,MI-02,House,0,Ronald E. Graeser,OTHER,0.0,2018-11-05,classic
+2018,MI-03,House,0,Justin Amash,REP,0.9818,2018-11-05,classic
+2018,MI-03,House,0,Cathy Albro,DEM,0.0182,2018-11-05,classic
+2018,MI-03,House,0,Ted Gerrard,OTHER,0.0,2018-11-05,classic
+2018,MI-04,House,0,John Moolenaar,REP,0.9985,2018-11-05,classic
+2018,MI-04,House,0,Jerry Hilliard,DEM,0.0015,2018-11-05,classic
+2018,MI-05,House,0,Daniel Kildee,DEM,0.9997,2018-11-05,classic
+2018,MI-05,House,0,Travis Wines,REP,0.0003,2018-11-05,classic
+2018,MI-05,House,0,Kathy Goodwin,OTHER,0.0,2018-11-05,classic
+2018,MI-06,House,0,Fred Upton,REP,0.7779,2018-11-05,classic
+2018,MI-06,House,0,Matt Longjohn,DEM,0.2221,2018-11-05,classic
+2018,MI-06,House,0,Stephen J. Young,OTHER,0.0,2018-11-05,classic
+2018,MI-07,House,0,Tim Walberg,REP,0.5862,2018-11-05,classic
+2018,MI-07,House,0,Gretchen Driskell,DEM,0.4138,2018-11-05,classic
+2018,MI-08,House,0,Elissa Slotkin,DEM,0.664,2018-11-05,classic
+2018,MI-08,House,0,Mike Bishop,REP,0.336,2018-11-05,classic
+2018,MI-08,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-09,House,0,Andy Levin,DEM,0.9963,2018-11-05,classic
+2018,MI-09,House,0,Candius Stearns,REP,0.0037,2018-11-05,classic
+2018,MI-09,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-10,House,0,Paul Mitchell,REP,0.9988,2018-11-05,classic
+2018,MI-10,House,0,Kimberly Bizon,DEM,0.0012,2018-11-05,classic
+2018,MI-10,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-11,House,0,Haley Stevens,DEM,0.7934,2018-11-05,classic
+2018,MI-11,House,0,Lena Epstein,REP,0.2066,2018-11-05,classic
+2018,MI-11,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-12,House,0,Debbie Dingell,DEM,1.0,2018-11-05,classic
+2018,MI-12,House,0,Jeff Jones,REP,0.0,2018-11-05,classic
+2018,MI-12,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-13,House,0,Rashida Tlaib,DEM,1.0,2018-11-05,classic
+2018,MI-13,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MI-14,House,0,Brenda Lawrence,DEM,1.0,2018-11-05,classic
+2018,MI-14,House,0,Philip Kolody,OTHER,0.0,2018-11-05,classic
+2018,MI-14,House,0,Marc S. Herschfus,REP,0.0,2018-11-05,classic
+2018,MN-01,House,0,Dan Feehan,DEM,0.5532,2018-11-05,classic
+2018,MN-01,House,0,Jim Hagedorn,REP,0.4468,2018-11-05,classic
+2018,MN-02,House,0,Angie Craig,DEM,0.8638,2018-11-05,classic
+2018,MN-02,House,0,Jason Lewis,REP,0.1362,2018-11-05,classic
+2018,MN-03,House,0,Dean Phillips,DEM,0.8444,2018-11-05,classic
+2018,MN-03,House,0,Erik Paulsen,REP,0.1556,2018-11-05,classic
+2018,MN-04,House,0,Betty McCollum,DEM,0.9999,2018-11-05,classic
+2018,MN-04,House,0,Greg Ryan,REP,0.0001,2018-11-05,classic
+2018,MN-04,House,0,Susan Pendergast Sindt,OTHER,0.0,2018-11-05,classic
+2018,MN-05,House,0,Ilhan Omar,DEM,1.0,2018-11-05,classic
+2018,MN-05,House,0,Jennifer Zielinski,REP,0.0,2018-11-05,classic
+2018,MN-06,House,0,Tom Emmer,REP,0.9992,2018-11-05,classic
+2018,MN-06,House,0,Ian Todd,DEM,0.0008,2018-11-05,classic
+2018,MN-07,House,0,Collin C. Peterson,DEM,0.9335,2018-11-05,classic
+2018,MN-07,House,0,Dave Hughes,REP,0.0665,2018-11-05,classic
+2018,MN-08,House,0,Pete Stauber,REP,0.8073,2018-11-05,classic
+2018,MN-08,House,0,Joe Radinovich,DEM,0.1927,2018-11-05,classic
+2018,MN-08,House,0,Ray Skip Sandman,OTHER,0.0,2018-11-05,classic
+2018,MO-01,House,0,"William ""Lacy"" Clay Jr.",DEM,1.0,2018-11-05,classic
+2018,MO-01,House,0,Robb Cunningham,OTHER,0.0,2018-11-05,classic
+2018,MO-01,House,0,Robert Vroman,REP,0.0,2018-11-05,classic
+2018,MO-02,House,0,Ann Wagner,REP,0.8401,2018-11-05,classic
+2018,MO-02,House,0,Cort VanOstran,DEM,0.1599,2018-11-05,classic
+2018,MO-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MO-03,House,0,Blaine Luetkemeyer,REP,0.9999,2018-11-05,classic
+2018,MO-03,House,0,Katy Geppert,DEM,0.0001,2018-11-05,classic
+2018,MO-03,House,0,Donald Stolle,OTHER,0.0,2018-11-05,classic
+2018,MO-04,House,0,Vicky Hartzler,REP,0.9995,2018-11-05,classic
+2018,MO-04,House,0,Renee Hoagenson,DEM,0.0005,2018-11-05,classic
+2018,MO-04,House,0,Mark Bliss,OTHER,0.0,2018-11-05,classic
+2018,MO-05,House,0,Emanuel Cleaver,DEM,0.9992,2018-11-05,classic
+2018,MO-05,House,0,Jacob Turk,REP,0.0008,2018-11-05,classic
+2018,MO-05,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MO-06,House,0,Sam Graves,REP,0.9997,2018-11-05,classic
+2018,MO-06,House,0,Henry Robert Martin,DEM,0.0003,2018-11-05,classic
+2018,MO-06,House,0,Dan Hogan,OTHER,0.0,2018-11-05,classic
+2018,MO-07,House,0,Billy Long,REP,1.0,2018-11-05,classic
+2018,MO-07,House,0,Jamie Daniel Schoolcraft,DEM,0.0,2018-11-05,classic
+2018,MO-07,House,0,Benjamin Brixey,OTHER,0.0,2018-11-05,classic
+2018,MO-08,House,0,Jason Smith,REP,1.0,2018-11-05,classic
+2018,MO-08,House,0,Kathy Ellis,DEM,0.0,2018-11-05,classic
+2018,MO-08,House,0,Jonathan Shell,OTHER,0.0,2018-11-05,classic
+2018,MS-01,House,0,Trent Kelly,REP,0.9995,2018-11-05,classic
+2018,MS-01,House,0,Randy Wadkins,DEM,0.0005,2018-11-05,classic
+2018,MS-01,House,0,Tracella Lou O'Hara Hill,OTHER,0.0,2018-11-05,classic
+2018,MS-02,House,0,Bennie G. Thompson,DEM,1.0,2018-11-05,classic
+2018,MS-02,House,0,Irving Harris,OTHER,0.0,2018-11-05,classic
+2018,MS-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,MS-03,House,0,Michael Guest,REP,0.9964,2018-11-05,classic
+2018,MS-03,House,0,Michael Ted Evans,DEM,0.0036,2018-11-05,classic
+2018,MS-03,House,0,Matthew Holland,OTHER,0.0,2018-11-05,classic
+2018,MS-04,House,0,Steven Palazzo,REP,0.9951,2018-11-05,classic
+2018,MS-04,House,0,Jeramey Anderson,DEM,0.0049,2018-11-05,classic
+2018,MS-04,House,0,Lajena Sheets,OTHER,0.0,2018-11-05,classic
+2018,MT-AL,House,0,Greg Gianforte,REP,0.7614,2018-11-05,classic
+2018,MT-AL,House,0,Kathleen Williams,DEM,0.2385,2018-11-05,classic
+2018,MT-AL,House,0,Elinor Swanson,OTHER,0.0001,2018-11-05,classic
+2018,NC-01,House,0,G.K. Butterfield,DEM,1.0,2018-11-05,classic
+2018,NC-01,House,0,Roger Allison,REP,0.0,2018-11-05,classic
+2018,NC-02,House,0,George Holding,REP,0.8497,2018-11-05,classic
+2018,NC-02,House,0,Linda Coleman,DEM,0.1502,2018-11-05,classic
+2018,NC-02,House,0,Jeff Matemu,OTHER,0.0,2018-11-05,classic
+2018,NC-03,House,0,Walter B. Jones,REP,1.0,2018-11-05,classic
+2018,NC-04,House,0,David Price,DEM,1.0,2018-11-05,classic
+2018,NC-04,House,0,Barbara Howe,OTHER,0.0,2018-11-05,classic
+2018,NC-04,House,0,Steve Von Loor,REP,0.0,2018-11-05,classic
+2018,NC-05,House,0,Virginia Foxx,REP,0.9596,2018-11-05,classic
+2018,NC-05,House,0,DD Adams,DEM,0.0404,2018-11-05,classic
+2018,NC-06,House,0,Mark Walker,REP,0.8693,2018-11-05,classic
+2018,NC-06,House,0,Ryan Watts,DEM,0.1307,2018-11-05,classic
+2018,NC-07,House,0,David Rouzer,REP,0.8189,2018-11-05,classic
+2018,NC-07,House,0,Kyle Horton,DEM,0.1811,2018-11-05,classic
+2018,NC-07,House,0,David Fallin,OTHER,0.0,2018-11-05,classic
+2018,NC-08,House,0,Richard Hudson,REP,0.8763,2018-11-05,classic
+2018,NC-08,House,0,Frank McNeill,DEM,0.1237,2018-11-05,classic
+2018,NC-09,House,0,Mark Harris,REP,0.5299,2018-11-05,classic
+2018,NC-09,House,0,Dan McCready,DEM,0.47,2018-11-05,classic
+2018,NC-09,House,0,Jeff Scott,OTHER,0.0,2018-11-05,classic
+2018,NC-10,House,0,Patrick T. McHenry,REP,0.9985,2018-11-05,classic
+2018,NC-10,House,0,David Brown,DEM,0.0015,2018-11-05,classic
+2018,NC-11,House,0,Mark Meadows,REP,0.997,2018-11-05,classic
+2018,NC-11,House,0,Phillip G. Price,DEM,0.003,2018-11-05,classic
+2018,NC-11,House,0,Clifton Ingram Jr.,OTHER,0.0,2018-11-05,classic
+2018,NC-12,House,0,Alma Adams,DEM,1.0,2018-11-05,classic
+2018,NC-12,House,0,Paul Wright,REP,0.0,2018-11-05,classic
+2018,NC-13,House,0,Ted Budd,REP,0.6146,2018-11-05,classic
+2018,NC-13,House,0,Kathy Manning,DEM,0.3854,2018-11-05,classic
+2018,NC-13,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,ND-AL,House,0,Kelly Armstrong,REP,0.9986,2018-11-05,classic
+2018,ND-AL,House,0,Mac Schneider,DEM,0.0014,2018-11-05,classic
+2018,ND-AL,House,0,Charles Tuttle,OTHER,0.0,2018-11-05,classic
+2018,NE-01,House,0,Jeff Fortenberry,REP,0.9976,2018-11-05,classic
+2018,NE-01,House,0,Jessica McClure,DEM,0.0024,2018-11-05,classic
+2018,NE-02,House,0,Don Bacon,REP,0.5828,2018-11-05,classic
+2018,NE-02,House,0,Kara Eastman,DEM,0.4172,2018-11-05,classic
+2018,NE-03,House,0,Adrian Smith,REP,1.0,2018-11-05,classic
+2018,NE-03,House,0,Paul Theobald,DEM,0.0,2018-11-05,classic
+2018,NH-01,House,0,Chris Pappas,DEM,0.8927,2018-11-05,classic
+2018,NH-01,House,0,Eddie Edwards,REP,0.1073,2018-11-05,classic
+2018,NH-01,House,0,Dan Belforti,OTHER,0.0,2018-11-05,classic
+2018,NH-02,House,0,Ann Kuster,DEM,0.9961,2018-11-05,classic
+2018,NH-02,House,0,Steven Negron,REP,0.0039,2018-11-05,classic
+2018,NH-02,House,0,Justin O'Donnell,OTHER,0.0,2018-11-05,classic
+2018,NJ-01,House,0,Donald Norcross,DEM,0.9999,2018-11-05,classic
+2018,NJ-01,House,0,Paul E. Dilks,REP,0.0001,2018-11-05,classic
+2018,NJ-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-02,House,0,Jeff Van Drew,DEM,0.9782,2018-11-05,classic
+2018,NJ-02,House,0,Seth Grossman,REP,0.0218,2018-11-05,classic
+2018,NJ-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-03,House,0,Andy Kim,DEM,0.5445,2018-11-05,classic
+2018,NJ-03,House,0,Tom MacArthur,REP,0.4555,2018-11-05,classic
+2018,NJ-03,House,0,Lawrence Berlinski Jr.,OTHER,0.0,2018-11-05,classic
+2018,NJ-04,House,0,Chris Smith,REP,0.9311,2018-11-05,classic
+2018,NJ-04,House,0,Joshua Welle,DEM,0.0689,2018-11-05,classic
+2018,NJ-04,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-05,House,0,Josh Gottheimer,DEM,0.9871,2018-11-05,classic
+2018,NJ-05,House,0,John J. McCann Jr.,REP,0.0129,2018-11-05,classic
+2018,NJ-05,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-06,House,0,Frank Pallone Jr.,DEM,0.9999,2018-11-05,classic
+2018,NJ-06,House,0,Richard J. Pezzullo,REP,0.0001,2018-11-05,classic
+2018,NJ-07,House,0,Tom Malinowski,DEM,0.779,2018-11-05,classic
+2018,NJ-07,House,0,Leonard Lance,REP,0.221,2018-11-05,classic
+2018,NJ-07,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-08,House,0,Albio Sires,DEM,1.0,2018-11-05,classic
+2018,NJ-08,House,0,John R. Muniz,REP,0.0,2018-11-05,classic
+2018,NJ-08,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-09,House,0,Bill Pascrell Jr.,DEM,1.0,2018-11-05,classic
+2018,NJ-09,House,0,Claudio Belusic,OTHER,0.0,2018-11-05,classic
+2018,NJ-09,House,0,Eric P. Fisher,REP,0.0,2018-11-05,classic
+2018,NJ-10,House,0,Donald Payne Jr.,DEM,1.0,2018-11-05,classic
+2018,NJ-10,House,0,Agha Khan,REP,0.0,2018-11-05,classic
+2018,NJ-10,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-11,House,0,Mikie Sherrill,DEM,0.8532,2018-11-05,classic
+2018,NJ-11,House,0,Jay Webber,REP,0.1468,2018-11-05,classic
+2018,NJ-11,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NJ-12,House,0,Bonnie Watson Coleman,DEM,1.0,2018-11-05,classic
+2018,NJ-12,House,0,Daryl Kipnis,REP,0.0,2018-11-05,classic
+2018,NM-01,House,0,Debra A. Haaland,DEM,0.9793,2018-11-05,classic
+2018,NM-01,House,0,Janice E. Arnold-Jones,REP,0.0207,2018-11-05,classic
+2018,NM-01,House,0,Lloyd Princeton,OTHER,0.0,2018-11-05,classic
+2018,NM-02,House,0,Yvette Herrell,REP,0.5607,2018-11-05,classic
+2018,NM-02,House,0,Xochitl Torres Small,DEM,0.4393,2018-11-05,classic
+2018,NM-03,House,0,Ben R. Lujan,DEM,0.9995,2018-11-05,classic
+2018,NM-03,House,0,Jerald Steve McFall,REP,0.0005,2018-11-05,classic
+2018,NM-03,House,0,Christopher Manning,OTHER,0.0,2018-11-05,classic
+2018,NV-01,House,0,Dina Titus,DEM,0.9999,2018-11-05,classic
+2018,NV-01,House,0,Joyce Bentley,REP,0.0001,2018-11-05,classic
+2018,NV-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NV-02,House,0,Mark Amodei,REP,0.9976,2018-11-05,classic
+2018,NV-02,House,0,Clint Koble,DEM,0.0024,2018-11-05,classic
+2018,NV-03,House,0,Susie Lee,DEM,0.8812,2018-11-05,classic
+2018,NV-03,House,0,Danny Tarkanian,REP,0.1188,2018-11-05,classic
+2018,NV-03,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NV-04,House,0,Steven A. Horsford,DEM,0.8755,2018-11-05,classic
+2018,NV-04,House,0,Cresent Hardy,REP,0.1245,2018-11-05,classic
+2018,NV-04,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NY-01,House,0,Lee Zeldin,REP,0.9344,2018-11-05,classic
+2018,NY-01,House,0,Perry Gershon,DEM,0.0656,2018-11-05,classic
+2018,NY-01,House,0,Kate Browning,OTHER,0.0,2018-11-05,classic
+2018,NY-02,House,0,Pete King,REP,0.7261,2018-11-05,classic
+2018,NY-02,House,0,Liuba Grechen Shirley,DEM,0.2739,2018-11-05,classic
+2018,NY-03,House,0,Thomas Suozzi,DEM,0.9967,2018-11-05,classic
+2018,NY-03,House,0,Dan DeBono,REP,0.0033,2018-11-05,classic
+2018,NY-04,House,0,Kathleen Rice,DEM,0.9996,2018-11-05,classic
+2018,NY-04,House,0,Ameer Benno,REP,0.0004,2018-11-05,classic
+2018,NY-05,House,0,Gregory W. Meeks,DEM,1.0,2018-11-05,classic
+2018,NY-06,House,0,Grace Meng,DEM,0.9999,2018-11-05,classic
+2018,NY-06,House,0,Tom Hillgardner,OTHER,0.0001,2018-11-05,classic
+2018,NY-07,House,0,Nydia M. Velázquez,DEM,1.0,2018-11-05,classic
+2018,NY-07,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NY-08,House,0,Hakeem Jeffries,DEM,1.0,2018-11-05,classic
+2018,NY-08,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NY-09,House,0,Yvette D. Clarke,DEM,1.0,2018-11-05,classic
+2018,NY-09,House,0,Joel Anabilah-Azumah,OTHER,0.0,2018-11-05,classic
+2018,NY-09,House,0,Lutchi Gayot,REP,0.0,2018-11-05,classic
+2018,NY-10,House,0,Jerrold Nadler,DEM,1.0,2018-11-05,classic
+2018,NY-10,House,0,Naomi Levin,REP,0.0,2018-11-05,classic
+2018,NY-11,House,0,Daniel Donovan,REP,0.7642,2018-11-05,classic
+2018,NY-11,House,0,Max N. Rose,DEM,0.2358,2018-11-05,classic
+2018,NY-11,House,0,Henry Bardel,GRN,0.0,2018-11-05,classic
+2018,NY-12,House,0,Carolyn Maloney,DEM,1.0,2018-11-05,classic
+2018,NY-12,House,0,Scott Hutchins,OTHER,0.0,2018-11-05,classic
+2018,NY-12,House,0,Eliot Rabin,REP,0.0,2018-11-05,classic
+2018,NY-13,House,0,Adriano Espaillat,DEM,1.0,2018-11-05,classic
+2018,NY-13,House,0,Jineea Butler,REP,0.0,2018-11-05,classic
+2018,NY-14,House,0,Alexandria Ocasio-Cortez,DEM,1.0,2018-11-05,classic
+2018,NY-14,House,0,Joseph Crowley,OTHER,0.0,2018-11-05,classic
+2018,NY-14,House,0,Anthony Pappas,REP,0.0,2018-11-05,classic
+2018,NY-14,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NY-15,House,0,José E. Serrano,DEM,1.0,2018-11-05,classic
+2018,NY-15,House,0,Jason Gonzalez,REP,0.0,2018-11-05,classic
+2018,NY-16,House,0,Eliot Engel,DEM,1.0,2018-11-05,classic
+2018,NY-17,House,0,Nita Lowey,DEM,0.9999,2018-11-05,classic
+2018,NY-17,House,0,Joseph Ciardullo,OTHER,0.0001,2018-11-05,classic
+2018,NY-18,House,0,Sean Patrick Maloney,DEM,0.9921,2018-11-05,classic
+2018,NY-18,House,0,James O'Donnell,REP,0.0079,2018-11-05,classic
+2018,NY-19,House,0,Antonio Delgado,DEM,0.6112,2018-11-05,classic
+2018,NY-19,House,0,John Faso,REP,0.3888,2018-11-05,classic
+2018,NY-19,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,NY-20,House,0,Paul D. Tonko,DEM,0.9999,2018-11-05,classic
+2018,NY-20,House,0,Francis Vitollo,REP,0.0001,2018-11-05,classic
+2018,NY-21,House,0,Elise Stefanik,REP,0.892,2018-11-05,classic
+2018,NY-21,House,0,Tedra L. Cobb,DEM,0.1079,2018-11-05,classic
+2018,NY-21,House,0,Lynn Kahn,OTHER,0.0,2018-11-05,classic
+2018,NY-22,House,0,Anthony Brindisi,DEM,0.521,2018-11-05,classic
+2018,NY-22,House,0,Claudia Tenney,REP,0.479,2018-11-05,classic
+2018,NY-23,House,0,Tom Reed,REP,0.8329,2018-11-05,classic
+2018,NY-23,House,0,Tracy Mitrano,DEM,0.1671,2018-11-05,classic
+2018,NY-24,House,0,John Katko,REP,0.8228,2018-11-05,classic
+2018,NY-24,House,0,Dana Balter,DEM,0.1772,2018-11-05,classic
+2018,NY-25,House,0,Joseph D. Morelle,DEM,0.9902,2018-11-05,classic
+2018,NY-25,House,0,Jim Maxwell,REP,0.0098,2018-11-05,classic
+2018,NY-26,House,0,Brian Higgins,DEM,1.0,2018-11-05,classic
+2018,NY-26,House,0,Renee Zeno,REP,0.0,2018-11-05,classic
+2018,NY-27,House,0,Chris Collins,REP,0.7591,2018-11-05,classic
+2018,NY-27,House,0,Nate McMurray,DEM,0.2409,2018-11-05,classic
+2018,NY-27,House,0,Larry Piegza,OTHER,0.0,2018-11-05,classic
+2018,OH-01,House,0,Steve Chabot,REP,0.7998,2018-11-05,classic
+2018,OH-01,House,0,Aftab Pureval,DEM,0.2002,2018-11-05,classic
+2018,OH-01,House,0,Dirk Kubala,OTHER,0.0,2018-11-05,classic
+2018,OH-02,House,0,Brad Wenstrup,REP,0.9769,2018-11-05,classic
+2018,OH-02,House,0,Jill Schiller,DEM,0.0231,2018-11-05,classic
+2018,OH-02,House,0,James Condit Jr.,OTHER,0.0,2018-11-05,classic
+2018,OH-03,House,0,Joyce Beatty,DEM,1.0,2018-11-05,classic
+2018,OH-03,House,0,Jim Burgess,REP,0.0,2018-11-05,classic
+2018,OH-04,House,0,Jim Jordan,REP,0.9904,2018-11-05,classic
+2018,OH-04,House,0,Janet Garrett,DEM,0.0096,2018-11-05,classic
+2018,OH-05,House,0,Robert E. Latta,REP,0.9983,2018-11-05,classic
+2018,OH-05,House,0,J. Michael Galbraith,DEM,0.0017,2018-11-05,classic
+2018,OH-05,House,0,Don Kissick,OTHER,0.0,2018-11-05,classic
+2018,OH-06,House,0,Bill Johnson,REP,0.9998,2018-11-05,classic
+2018,OH-06,House,0,Shawna Roberts,DEM,0.0002,2018-11-05,classic
+2018,OH-07,House,0,Bob Gibbs,REP,0.9633,2018-11-05,classic
+2018,OH-07,House,0,Ken Harbaugh,DEM,0.0367,2018-11-05,classic
+2018,OH-08,House,0,Warren Davidson,REP,0.9997,2018-11-05,classic
+2018,OH-08,House,0,Vanessa Enoch,DEM,0.0003,2018-11-05,classic
+2018,OH-09,House,0,Marcy Kaptur,DEM,1.0,2018-11-05,classic
+2018,OH-09,House,0,Steven W. Kraus,REP,0.0,2018-11-05,classic
+2018,OH-10,House,0,Michael Turner,REP,0.9013,2018-11-05,classic
+2018,OH-10,House,0,Theresa A. Gasper,DEM,0.0987,2018-11-05,classic
+2018,OH-10,House,0,David Harlow,OTHER,0.0,2018-11-05,classic
+2018,OH-11,House,0,Marcia L. Fudge,DEM,1.0,2018-11-05,classic
+2018,OH-11,House,0,Beverly A. Goldstein,REP,0.0,2018-11-05,classic
+2018,OH-12,House,0,Troy Balderson,REP,0.6562,2018-11-05,classic
+2018,OH-12,House,0,Danny O'Connor,DEM,0.3438,2018-11-05,classic
+2018,OH-12,House,0,Joe Manchik,OTHER,0.0,2018-11-05,classic
+2018,OH-13,House,0,Tim Ryan,DEM,1.0,2018-11-05,classic
+2018,OH-13,House,0,Chris DePizzo,REP,0.0,2018-11-05,classic
+2018,OH-14,House,0,David Joyce,REP,0.8456,2018-11-05,classic
+2018,OH-14,House,0,Betsy Rader,DEM,0.1544,2018-11-05,classic
+2018,OH-15,House,0,Steve Stivers,REP,0.9789,2018-11-05,classic
+2018,OH-15,House,0,Rick Neal,DEM,0.0211,2018-11-05,classic
+2018,OH-15,House,0,Johnathan Miller,OTHER,0.0,2018-11-05,classic
+2018,OH-16,House,0,Anthony Gonzalez,REP,0.9152,2018-11-05,classic
+2018,OH-16,House,0,Susan Moran Palmer,DEM,0.0848,2018-11-05,classic
+2018,OK-01,House,0,Kevin Hern,REP,0.9985,2018-11-05,classic
+2018,OK-01,House,0,Tim Gilpin,DEM,0.0015,2018-11-05,classic
+2018,OK-02,House,0,Markwayne Mullin,REP,0.9985,2018-11-05,classic
+2018,OK-02,House,0,Jason Nichols,DEM,0.0015,2018-11-05,classic
+2018,OK-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,OK-03,House,0,Frank Lucas,REP,0.9999,2018-11-05,classic
+2018,OK-03,House,0,Frankie Robbins,DEM,0.0001,2018-11-05,classic
+2018,OK-04,House,0,Tom Cole,REP,1.0,2018-11-05,classic
+2018,OK-04,House,0,Mary Brannon,DEM,0.0,2018-11-05,classic
+2018,OK-04,House,0,Ruby Peters,IND,0.0,2018-11-05,classic
+2018,OK-05,House,0,Steve Russell,REP,0.8605,2018-11-05,classic
+2018,OK-05,House,0,Kendra Horn,DEM,0.1395,2018-11-05,classic
+2018,OR-01,House,0,Suzanne Bonamici,DEM,0.9999,2018-11-05,classic
+2018,OR-01,House,0,John Verbeek,REP,0.0001,2018-11-05,classic
+2018,OR-01,House,0,Drew Layda,OTHER,0.0,2018-11-05,classic
+2018,OR-02,House,0,Greg Walden,REP,0.9899,2018-11-05,classic
+2018,OR-02,House,0,Jamie McLeod-Skinner,DEM,0.0101,2018-11-05,classic
+2018,OR-02,House,0,Mark Roberts,OTHER,0.0,2018-11-05,classic
+2018,OR-03,House,0,Earl Blumenauer,DEM,1.0,2018-11-05,classic
+2018,OR-03,House,0,Tom Harrison,REP,0.0,2018-11-05,classic
+2018,OR-03,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,OR-04,House,0,Peter DeFazio,DEM,0.9961,2018-11-05,classic
+2018,OR-04,House,0,Arthur B. Robinson,REP,0.0039,2018-11-05,classic
+2018,OR-04,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,OR-05,House,0,Kurt Schrader,DEM,0.8537,2018-11-05,classic
+2018,OR-05,House,0,Mark Callahan,REP,0.1463,2018-11-05,classic
+2018,OR-05,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,PA-01,House,0,Brian Fitzpatrick,REP,0.5716,2018-11-05,classic
+2018,PA-01,House,0,Scott Wallace,DEM,0.4284,2018-11-05,classic
+2018,PA-02,House,0,Brendan Boyle,DEM,1.0,2018-11-05,classic
+2018,PA-02,House,0,David Torres,REP,0.0,2018-11-05,classic
+2018,PA-03,House,0,Dwight Evans,DEM,1.0,2018-11-05,classic
+2018,PA-03,House,0,Bryan E. Leib,REP,0.0,2018-11-05,classic
+2018,PA-04,House,0,Madeleine Dean,DEM,0.999,2018-11-05,classic
+2018,PA-04,House,0,Dan David,REP,0.001,2018-11-05,classic
+2018,PA-05,House,0,Mary Gay Scanlon,DEM,0.9999,2018-11-05,classic
+2018,PA-05,House,0,Pearl Kim,REP,0.0001,2018-11-05,classic
+2018,PA-06,House,0,Chrissy Houlahan,DEM,0.9911,2018-11-05,classic
+2018,PA-06,House,0,Greg McCauley,REP,0.0089,2018-11-05,classic
+2018,PA-07,House,0,Susan Wild,DEM,0.9522,2018-11-05,classic
+2018,PA-07,House,0,Marty Nothstein,REP,0.0478,2018-11-05,classic
+2018,PA-07,House,0,Tim Silfies,LIB,0.0,2018-11-05,classic
+2018,PA-08,House,0,Matt Cartwright,DEM,0.9629,2018-11-05,classic
+2018,PA-08,House,0,John Chrin,REP,0.0371,2018-11-05,classic
+2018,PA-09,House,0,Dan Meuser,REP,0.9982,2018-11-05,classic
+2018,PA-09,House,0,Denny Wolff,DEM,0.0018,2018-11-05,classic
+2018,PA-10,House,0,Scott Perry,REP,0.6765,2018-11-05,classic
+2018,PA-10,House,0,George Scott,DEM,0.3235,2018-11-05,classic
+2018,PA-11,House,0,Lloyd Smucker,REP,0.9339,2018-11-05,classic
+2018,PA-11,House,0,Jess King,DEM,0.0661,2018-11-05,classic
+2018,PA-12,House,0,Tom Marino,REP,0.9997,2018-11-05,classic
+2018,PA-12,House,0,Marc Friedenberg,DEM,0.0003,2018-11-05,classic
+2018,PA-13,House,0,John Joyce,REP,0.9998,2018-11-05,classic
+2018,PA-13,House,0,Brent Ottaway,DEM,0.0002,2018-11-05,classic
+2018,PA-14,House,0,Guy Reschenthaler,REP,0.9932,2018-11-05,classic
+2018,PA-14,House,0,Bibiana Boerio,DEM,0.0068,2018-11-05,classic
+2018,PA-15,House,0,Glenn W. Thompson,REP,1.0,2018-11-05,classic
+2018,PA-15,House,0,Susan Boser,DEM,0.0,2018-11-05,classic
+2018,PA-16,House,0,Mike Kelly,REP,0.8756,2018-11-05,classic
+2018,PA-16,House,0,Ron DiNicola,DEM,0.1244,2018-11-05,classic
+2018,PA-16,House,0,Ebert G Bill Beeman,LIB,0.0,2018-11-05,classic
+2018,PA-17,House,0,Conor Lamb,DEM,0.9571,2018-11-05,classic
+2018,PA-17,House,0,Keith Rothfus,REP,0.0429,2018-11-05,classic
+2018,PA-18,House,0,Mike Doyle,DEM,1.0,2018-11-05,classic
+2018,RI-01,House,0,David Cicilline,DEM,1.0,2018-11-05,classic
+2018,RI-01,House,0,Patrick Donovan,REP,0.0,2018-11-05,classic
+2018,RI-02,House,0,Jim Langevin,DEM,0.9999,2018-11-05,classic
+2018,RI-02,House,0,Salvatore Caiozzo,REP,0.0001,2018-11-05,classic
+2018,SC-01,House,0,Katie Arrington,REP,0.9096,2018-11-05,classic
+2018,SC-01,House,0,Joe Cunningham,DEM,0.0904,2018-11-05,classic
+2018,SC-02,House,0,Joe Wilson,REP,0.9931,2018-11-05,classic
+2018,SC-02,House,0,Sean Carrigan,DEM,0.0069,2018-11-05,classic
+2018,SC-02,House,0,Sonny Narang,OTHER,0.0,2018-11-05,classic
+2018,SC-03,House,0,Jeff Duncan,REP,0.9996,2018-11-05,classic
+2018,SC-03,House,0,Mary Geren,DEM,0.0004,2018-11-05,classic
+2018,SC-03,House,0,Dave Moore,OTHER,0.0,2018-11-05,classic
+2018,SC-04,House,0,William Timmons,REP,0.9999,2018-11-05,classic
+2018,SC-04,House,0,Brandon Brown,DEM,0.0001,2018-11-05,classic
+2018,SC-04,House,0,Guy Furay,OTHER,0.0,2018-11-05,classic
+2018,SC-05,House,0,Ralph Norman,REP,0.9877,2018-11-05,classic
+2018,SC-05,House,0,Archie Parnell,DEM,0.0123,2018-11-05,classic
+2018,SC-05,House,0,Michael Chandler,OTHER,0.0,2018-11-05,classic
+2018,SC-06,House,0,James E. Clyburn,DEM,1.0,2018-11-05,classic
+2018,SC-06,House,0,Bryan Pugh,OTHER,0.0,2018-11-05,classic
+2018,SC-06,House,0,Gerhard Gressmann,REP,0.0,2018-11-05,classic
+2018,SC-07,House,0,Tom Rice,REP,0.9946,2018-11-05,classic
+2018,SC-07,House,0,Robert Williams,DEM,0.0054,2018-11-05,classic
+2018,SD-AL,House,0,Dusty Johnson,REP,0.9919,2018-11-05,classic
+2018,SD-AL,House,0,Tim Bjorkman,DEM,0.0081,2018-11-05,classic
+2018,SD-AL,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TN-01,House,0,Phil Roe,REP,1.0,2018-11-05,classic
+2018,TN-01,House,0,Marty Olsen,DEM,0.0,2018-11-05,classic
+2018,TN-01,House,0,Michael Salyer,OTHER,0.0,2018-11-05,classic
+2018,TN-02,House,0,Tim Burchett,REP,0.9998,2018-11-05,classic
+2018,TN-02,House,0,Renee Hoyos,DEM,0.0002,2018-11-05,classic
+2018,TN-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TN-03,House,0,Chuck Fleischmann,REP,0.9996,2018-11-05,classic
+2018,TN-03,House,0,Danielle Mitchell,DEM,0.0004,2018-11-05,classic
+2018,TN-03,House,0,Rick Tyler,OTHER,0.0,2018-11-05,classic
+2018,TN-04,House,0,Scott DesJarlais,REP,0.9935,2018-11-05,classic
+2018,TN-04,House,0,Mariah Phillips,DEM,0.0065,2018-11-05,classic
+2018,TN-04,House,0,Michael Shupe,OTHER,0.0,2018-11-05,classic
+2018,TN-05,House,0,Jim Cooper,DEM,1.0,2018-11-05,classic
+2018,TN-05,House,0,Jody M. Ball,REP,0.0,2018-11-05,classic
+2018,TN-06,House,0,John Rose,REP,1.0,2018-11-05,classic
+2018,TN-06,House,0,Dawn Barlow,DEM,0.0,2018-11-05,classic
+2018,TN-06,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TN-07,House,0,Mark E. Green,REP,0.9998,2018-11-05,classic
+2018,TN-07,House,0,Justin Kanew,DEM,0.0002,2018-11-05,classic
+2018,TN-07,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TN-08,House,0,David Kustoff,REP,1.0,2018-11-05,classic
+2018,TN-08,House,0,Erika Stotts Pearson,DEM,0.0,2018-11-05,classic
+2018,TN-08,House,0,James Hart,OTHER,0.0,2018-11-05,classic
+2018,TN-09,House,0,Steve Cohen,DEM,1.0,2018-11-05,classic
+2018,TN-09,House,0,Leo AwGoWhat,OTHER,0.0,2018-11-05,classic
+2018,TN-09,House,0,Charlotte Bergmann,REP,0.0,2018-11-05,classic
+2018,TX-01,House,0,Louie Gohmert,REP,1.0,2018-11-05,classic
+2018,TX-01,House,0,Shirley McKellar,DEM,0.0,2018-11-05,classic
+2018,TX-01,House,0,Jeff Callaway,OTHER,0.0,2018-11-05,classic
+2018,TX-02,House,0,Dan Crenshaw,REP,0.895,2018-11-05,classic
+2018,TX-02,House,0,Todd Litton,DEM,0.105,2018-11-05,classic
+2018,TX-02,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TX-03,House,0,Van Taylor,REP,0.9927,2018-11-05,classic
+2018,TX-03,House,0,Lorie Burch,DEM,0.0073,2018-11-05,classic
+2018,TX-03,House,0,Christopher Claytor,OTHER,0.0,2018-11-05,classic
+2018,TX-04,House,0,John Ratcliffe,REP,1.0,2018-11-05,classic
+2018,TX-04,House,0,Catherine Krantz,DEM,0.0,2018-11-05,classic
+2018,TX-04,House,0,Ken Ashby,OTHER,0.0,2018-11-05,classic
+2018,TX-05,House,0,Lance Gooden,REP,0.9996,2018-11-05,classic
+2018,TX-05,House,0,Dan Wood,DEM,0.0004,2018-11-05,classic
+2018,TX-06,House,0,Ron Wright,REP,0.9424,2018-11-05,classic
+2018,TX-06,House,0,Jana Lynne Sanchez,DEM,0.0576,2018-11-05,classic
+2018,TX-06,House,0,Jason Harber,OTHER,0.0,2018-11-05,classic
+2018,TX-07,House,0,Lizzie Pannill Fletcher,DEM,0.5187,2018-11-05,classic
+2018,TX-07,House,0,John Culberson,REP,0.4813,2018-11-05,classic
+2018,TX-08,House,0,Kevin Brady,REP,1.0,2018-11-05,classic
+2018,TX-08,House,0,Steven David,DEM,0.0,2018-11-05,classic
+2018,TX-08,House,0,Chris Duncan,OTHER,0.0,2018-11-05,classic
+2018,TX-09,House,0,Al Green,DEM,1.0,2018-11-05,classic
+2018,TX-09,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TX-10,House,0,Michael T. McCaul,REP,0.9378,2018-11-05,classic
+2018,TX-10,House,0,Mike Siegel,DEM,0.0621,2018-11-05,classic
+2018,TX-10,House,0,Mike Ryan,OTHER,0.0,2018-11-05,classic
+2018,TX-11,House,0,K. Michael Conaway,REP,1.0,2018-11-05,classic
+2018,TX-11,House,0,Jennie Lou Leeder,DEM,0.0,2018-11-05,classic
+2018,TX-11,House,0,Rhett Rosenquest Smith,OTHER,0.0,2018-11-05,classic
+2018,TX-12,House,0,Kay Granger,REP,1.0,2018-11-05,classic
+2018,TX-12,House,0,Vanessa Adia,DEM,0.0,2018-11-05,classic
+2018,TX-12,House,0,Jacob Leddy,OTHER,0.0,2018-11-05,classic
+2018,TX-13,House,0,Mac Thornberry,REP,1.0,2018-11-05,classic
+2018,TX-13,House,0,Greg Sagan,DEM,0.0,2018-11-05,classic
+2018,TX-13,House,0,Calvin DeWeese,OTHER,0.0,2018-11-05,classic
+2018,TX-14,House,0,Randy Weber,REP,0.992,2018-11-05,classic
+2018,TX-14,House,0,Adrienne Bell,DEM,0.008,2018-11-05,classic
+2018,TX-14,House,0,Don Conley III,OTHER,0.0,2018-11-05,classic
+2018,TX-15,House,0,Vicente Gonzalez,DEM,0.9997,2018-11-05,classic
+2018,TX-15,House,0,Tim Westley,REP,0.0003,2018-11-05,classic
+2018,TX-15,House,0,Anthony Cristo,OTHER,0.0,2018-11-05,classic
+2018,TX-16,House,0,Veronica Escobar,DEM,1.0,2018-11-05,classic
+2018,TX-16,House,0,Ben Mendoza,OTHER,0.0,2018-11-05,classic
+2018,TX-16,House,0,Rick Seeberger,REP,0.0,2018-11-05,classic
+2018,TX-17,House,0,Bill Flores,REP,0.9979,2018-11-05,classic
+2018,TX-17,House,0,Rick Kennedy,DEM,0.002,2018-11-05,classic
+2018,TX-17,House,0,Peter Churchman,OTHER,0.0,2018-11-05,classic
+2018,TX-18,House,0,Sheila Jackson Lee,DEM,1.0,2018-11-05,classic
+2018,TX-18,House,0,Ava Reynero Pate,REP,0.0,2018-11-05,classic
+2018,TX-18,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TX-19,House,0,Jodey Arrington,REP,1.0,2018-11-05,classic
+2018,TX-19,House,0,Miguel Levario,DEM,0.0,2018-11-05,classic
+2018,TX-20,House,0,Joaquin Castro,DEM,0.9998,2018-11-05,classic
+2018,TX-20,House,0,Jeffrey Blunt,OTHER,0.0002,2018-11-05,classic
+2018,TX-21,House,0,Chip Roy,REP,0.8535,2018-11-05,classic
+2018,TX-21,House,0,Joseph Kopser,DEM,0.1465,2018-11-05,classic
+2018,TX-21,House,0,Lee Santos,OTHER,0.0,2018-11-05,classic
+2018,TX-22,House,0,Pete Olson,REP,0.8054,2018-11-05,classic
+2018,TX-22,House,0,Sri Preston Kulkarni,DEM,0.1946,2018-11-05,classic
+2018,TX-22,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TX-23,House,0,Will Hurd,REP,0.7745,2018-11-05,classic
+2018,TX-23,House,0,Gina Ortiz Jones,DEM,0.2255,2018-11-05,classic
+2018,TX-23,House,0,Ruben Corvalan,OTHER,0.0,2018-11-05,classic
+2018,TX-24,House,0,Kenny Marchant,REP,0.969,2018-11-05,classic
+2018,TX-24,House,0,Jan McDowell,DEM,0.031,2018-11-05,classic
+2018,TX-25,House,0,Roger Williams,REP,0.8786,2018-11-05,classic
+2018,TX-25,House,0,Julie Oliver,DEM,0.1213,2018-11-05,classic
+2018,TX-25,House,0,Desarae Lindsey,OTHER,0.0,2018-11-05,classic
+2018,TX-26,House,0,Michael Burgess,REP,0.9995,2018-11-05,classic
+2018,TX-26,House,0,Linsey Fagan,DEM,0.0005,2018-11-05,classic
+2018,TX-26,House,0,Mark Boler,OTHER,0.0,2018-11-05,classic
+2018,TX-27,House,0,Michael Cloud,REP,0.9985,2018-11-05,classic
+2018,TX-27,House,0,Eric Holguin,DEM,0.0015,2018-11-05,classic
+2018,TX-27,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,TX-28,House,0,Henry Cuellar,DEM,0.9998,2018-11-05,classic
+2018,TX-28,House,0,Arthur Thomas IV,OTHER,0.0002,2018-11-05,classic
+2018,TX-29,House,0,Sylvia R. Garcia,DEM,1.0,2018-11-05,classic
+2018,TX-29,House,0,Cullen Burns,OTHER,0.0,2018-11-05,classic
+2018,TX-29,House,0,Phillip Aronoff,REP,0.0,2018-11-05,classic
+2018,TX-30,House,0,Eddie Bernice Johnson,DEM,1.0,2018-11-05,classic
+2018,TX-30,House,0,Shawn Jones,OTHER,0.0,2018-11-05,classic
+2018,TX-31,House,0,John Carter,REP,0.9338,2018-11-05,classic
+2018,TX-31,House,0,Mary Jennings Hegar,DEM,0.0662,2018-11-05,classic
+2018,TX-31,House,0,Jason Hope,OTHER,0.0,2018-11-05,classic
+2018,TX-32,House,0,Pete Sessions,REP,0.6283,2018-11-05,classic
+2018,TX-32,House,0,Colin Allred,DEM,0.3717,2018-11-05,classic
+2018,TX-32,House,0,Melina Baker,OTHER,0.0,2018-11-05,classic
+2018,TX-33,House,0,Marc Veasey,DEM,1.0,2018-11-05,classic
+2018,TX-33,House,0,Jason Reeves,OTHER,0.0,2018-11-05,classic
+2018,TX-33,House,0,Willie Billups,REP,0.0,2018-11-05,classic
+2018,TX-34,House,0,Filemon Vela,DEM,0.9999,2018-11-05,classic
+2018,TX-34,House,0,Rey Gonzalez,REP,0.0001,2018-11-05,classic
+2018,TX-35,House,0,Lloyd Doggett,DEM,1.0,2018-11-05,classic
+2018,TX-35,House,0,Clark Patterson,OTHER,0.0,2018-11-05,classic
+2018,TX-35,House,0,David Smalling,REP,0.0,2018-11-05,classic
+2018,TX-36,House,0,Brian Babin,REP,1.0,2018-11-05,classic
+2018,TX-36,House,0,Dayna Steele,DEM,0.0,2018-11-05,classic
+2018,UT-01,House,0,Rob Bishop,REP,0.9998,2018-11-05,classic
+2018,UT-01,House,0,Lee Castillo,DEM,0.0002,2018-11-05,classic
+2018,UT-01,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,UT-02,House,0,Chris Stewart,REP,0.9848,2018-11-05,classic
+2018,UT-02,House,0,Shireen Ghorbani,DEM,0.0152,2018-11-05,classic
+2018,UT-02,House,0,Jeffrey Whipple,OTHER,0.0001,2018-11-05,classic
+2018,UT-03,House,0,John R. Curtis,REP,1.0,2018-11-05,classic
+2018,UT-03,House,0,James Singer,DEM,0.0,2018-11-05,classic
+2018,UT-03,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,UT-04,House,0,Ben McAdams,DEM,0.6194,2018-11-05,classic
+2018,UT-04,House,0,Mia Love,REP,0.3806,2018-11-05,classic
+2018,VA-01,House,0,Robert J. Wittman,REP,0.9696,2018-11-05,classic
+2018,VA-01,House,0,Vangie Williams,DEM,0.0304,2018-11-05,classic
+2018,VA-02,House,0,Scott Taylor,REP,0.674,2018-11-05,classic
+2018,VA-02,House,0,Elaine Luria,DEM,0.326,2018-11-05,classic
+2018,VA-03,House,0,Robert C. Scott,DEM,1.0,2018-11-05,classic
+2018,VA-04,House,0,A. Donald McEachin,DEM,0.9994,2018-11-05,classic
+2018,VA-04,House,0,Ryan McAdams,REP,0.0006,2018-11-05,classic
+2018,VA-04,House,0,Pete Wells,LIB,0.0,2018-11-05,classic
+2018,VA-05,House,0,Denver Riggleman,REP,0.5409,2018-11-05,classic
+2018,VA-05,House,0,Leslie Cockburn,DEM,0.4591,2018-11-05,classic
+2018,VA-06,House,0,Ben Cline,REP,0.995,2018-11-05,classic
+2018,VA-06,House,0,Jennifer Lewis,DEM,0.005,2018-11-05,classic
+2018,VA-07,House,0,Dave Brat,REP,0.5638,2018-11-05,classic
+2018,VA-07,House,0,Abigail Spanberger,DEM,0.4362,2018-11-05,classic
+2018,VA-07,House,0,Joe Walton,OTHER,0.0001,2018-11-05,classic
+2018,VA-08,House,0,Don Beyer,DEM,1.0,2018-11-05,classic
+2018,VA-08,House,0,Thomas Oh,REP,0.0,2018-11-05,classic
+2018,VA-09,House,0,Morgan Griffith,REP,0.991,2018-11-05,classic
+2018,VA-09,House,0,Anthony Flaccavento,DEM,0.009,2018-11-05,classic
+2018,VA-10,House,0,Jennifer Wexton,DEM,0.8933,2018-11-05,classic
+2018,VA-10,House,0,Barbara Comstock,REP,0.1067,2018-11-05,classic
+2018,VA-11,House,0,Gerald E. Connolly,DEM,0.9999,2018-11-05,classic
+2018,VA-11,House,0,Jeff Dove,REP,0.0001,2018-11-05,classic
+2018,VA-11,House,0,Stevan Porter,OTHER,0.0,2018-11-05,classic
+2018,VT-AL,House,0,Peter Welch,DEM,1.0,2018-11-05,classic
+2018,VT-AL,House,0,Anya Tynio,REP,0.0,2018-11-05,classic
+2018,VT-AL,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,WA-01,House,0,Suzan DelBene,DEM,0.9993,2018-11-05,classic
+2018,WA-01,House,0,Jeffrey Beeler,REP,0.0007,2018-11-05,classic
+2018,WA-02,House,0,Rick Larsen,DEM,0.9998,2018-11-05,classic
+2018,WA-02,House,0,Brian Luke,LIB,0.0002,2018-11-05,classic
+2018,WA-03,House,0,Jaime Herrera Beutler,REP,0.7452,2018-11-05,classic
+2018,WA-03,House,0,Carolyn Long,DEM,0.2548,2018-11-05,classic
+2018,WA-04,House,0,Dan Newhouse,REP,0.996,2018-11-05,classic
+2018,WA-04,House,0,Christine Brown,DEM,0.004,2018-11-05,classic
+2018,WA-05,House,0,Cathy McMorris Rodgers,REP,0.7644,2018-11-05,classic
+2018,WA-05,House,0,Lisa Brown,DEM,0.2356,2018-11-05,classic
+2018,WA-06,House,0,Derek Kilmer,DEM,0.9999,2018-11-05,classic
+2018,WA-06,House,0,Douglas Dightman,REP,0.0001,2018-11-05,classic
+2018,WA-07,House,0,Pramila Jayapal,DEM,1.0,2018-11-05,classic
+2018,WA-07,House,0,Craig Keller,REP,0.0,2018-11-05,classic
+2018,WA-08,House,0,Kim Schrier,DEM,0.6675,2018-11-05,classic
+2018,WA-08,House,0,Dino Rossi,REP,0.3325,2018-11-05,classic
+2018,WA-09,House,0,Adam Smith,DEM,0.9853,2018-11-05,classic
+2018,WA-09,House,0,Sarah Smith,DEM,0.0147,2018-11-05,classic
+2018,WA-10,House,0,Denny Heck,DEM,0.9997,2018-11-05,classic
+2018,WA-10,House,0,Joseph Brumbles,REP,0.0003,2018-11-05,classic
+2018,WI-01,House,0,Bryan Steil,REP,0.7827,2018-11-05,classic
+2018,WI-01,House,0,Randy Bryce,DEM,0.2172,2018-11-05,classic
+2018,WI-01,House,0,Ken Yorgan,IND,0.0,2018-11-05,classic
+2018,WI-02,House,0,Mark Pocan,DEM,1.0,2018-11-05,classic
+2018,WI-03,House,0,Ron Kind,DEM,0.9971,2018-11-05,classic
+2018,WI-03,House,0,Steve Toft,REP,0.0029,2018-11-05,classic
+2018,WI-04,House,0,Gwen Moore,DEM,1.0,2018-11-05,classic
+2018,WI-04,House,0,Robert R. Raymond,IND,0.0,2018-11-05,classic
+2018,WI-04,House,0,Tim Rogers,REP,0.0,2018-11-05,classic
+2018,WI-05,House,0,F. James Sensenbrenner,REP,0.9902,2018-11-05,classic
+2018,WI-05,House,0,Tom Palzewicz,DEM,0.0098,2018-11-05,classic
+2018,WI-06,House,0,Glenn Grothman,REP,0.9553,2018-11-05,classic
+2018,WI-06,House,0,Dan Kohl,DEM,0.0447,2018-11-05,classic
+2018,WI-07,House,0,Sean P. Duffy,REP,0.994,2018-11-05,classic
+2018,WI-07,House,0,Margaret Engebretson,DEM,0.006,2018-11-05,classic
+2018,WI-07,House,0,Ken Driessen,OTHER,0.0,2018-11-05,classic
+2018,WI-08,House,0,Mike Gallagher,REP,0.9957,2018-11-05,classic
+2018,WI-08,House,0,Beau Liegeois,DEM,0.0043,2018-11-05,classic
+2018,WV-01,House,0,David McKinley,REP,0.9995,2018-11-05,classic
+2018,WV-01,House,0,Kendra Fershee,DEM,0.0005,2018-11-05,classic
+2018,WV-02,House,0,Alex Mooney,REP,0.9339,2018-11-05,classic
+2018,WV-02,House,0,Talley Sergent,DEM,0.0661,2018-11-05,classic
+2018,WV-02,House,0,Daniel Lutz Jr.,OTHER,0.0,2018-11-05,classic
+2018,WV-03,House,0,Carol Miller,REP,0.9261,2018-11-05,classic
+2018,WV-03,House,0,Richard Ojeda,DEM,0.0739,2018-11-05,classic
+2018,WY-AL,House,0,Liz Cheney,REP,0.9998,2018-11-05,classic
+2018,WY-AL,House,0,Greg Hunter,DEM,0.0002,2018-11-05,classic
+2018,WY-AL,House,0,Others,OTHER,0.0,2018-11-05,classic
+2018,AZ-SEN,Senate,0,Kyrsten Sinema,DEM,0.6144,2018-11-06,classic
+2018,AZ-SEN,Senate,0,Martha McSally,REP,0.3856,2018-11-06,classic
+2018,AZ-SEN,Senate,0,Angela Green,GRN,0.0,2018-11-06,classic
+2018,CA-SEN,Senate,0,Dianne Feinstein,DEM,0.955,2018-11-06,classic
+2018,CA-SEN,Senate,0,Kevin de Leon,DEM,0.045,2018-11-06,classic
+2018,CT-SEN,Senate,0,Christopher Murphy,DEM,0.9968,2018-11-06,classic
+2018,CT-SEN,Senate,0,Matthew Corey,REP,0.0032,2018-11-06,classic
+2018,CT-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,DE-SEN,Senate,0,Thomas R. Carper,DEM,0.9989,2018-11-06,classic
+2018,DE-SEN,Senate,0,Rob Arlett,REP,0.0011,2018-11-06,classic
+2018,DE-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,FL-SEN,Senate,0,Bill Nelson,DEM,0.7038,2018-11-06,classic
+2018,FL-SEN,Senate,0,Rick Scott,REP,0.2962,2018-11-06,classic
+2018,HI-SEN,Senate,0,Mazie K. Hirono,DEM,1.0,2018-11-06,classic
+2018,HI-SEN,Senate,0,Ron Curtis,REP,0.0,2018-11-06,classic
+2018,IN-SEN,Senate,0,Joe Donnelly,DEM,0.7185,2018-11-06,classic
+2018,IN-SEN,Senate,0,Mike Braun,REP,0.2815,2018-11-06,classic
+2018,IN-SEN,Senate,0,Lucy M. Brenton,LIB,0.0,2018-11-06,classic
+2018,MA-SEN,Senate,0,Elizabeth Warren,DEM,0.9983,2018-11-06,classic
+2018,MA-SEN,Senate,0,Geoff Diehl,REP,0.0017,2018-11-06,classic
+2018,MA-SEN,Senate,0,V. A. Shiva Ayyadurai,IND,0.0,2018-11-06,classic
+2018,MD-SEN,Senate,0,Benjamin L. Cardin,DEM,0.9999,2018-11-06,classic
+2018,MD-SEN,Senate,0,Tony Campbell,REP,0.0001,2018-11-06,classic
+2018,MD-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,ME-SEN,Senate,0,Angus S. King Jr.,IND,0.9905,2018-11-06,classic
+2018,ME-SEN,Senate,0,Eric L. Brakey,REP,0.0095,2018-11-06,classic
+2018,ME-SEN,Senate,0,Zak Ringelstein,DEM,0.0001,2018-11-06,classic
+2018,MI-SEN,Senate,0,Debbie Stabenow,DEM,0.9581,2018-11-06,classic
+2018,MI-SEN,Senate,0,John James,REP,0.0419,2018-11-06,classic
+2018,MI-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,MN-SEN,Senate,0,Amy Klobuchar,DEM,0.9977,2018-11-06,classic
+2018,MN-SEN,Senate,0,Jim Newberger,REP,0.0023,2018-11-06,classic
+2018,MN-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,MN-SEN-S,Senate,1,Tina Smith,DEM,0.9242,2018-11-06,classic
+2018,MN-SEN-S,Senate,1,Karin Housley,REP,0.0758,2018-11-06,classic
+2018,MN-SEN-S,Senate,1,Others,OTHER,0.0,2018-11-06,classic
+2018,MO-SEN,Senate,0,Claire McCaskill,DEM,0.5689,2018-11-06,classic
+2018,MO-SEN,Senate,0,Josh Hawley,REP,0.4311,2018-11-06,classic
+2018,MO-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,MS-SEN,Senate,0,Roger F. Wicker,REP,0.9862,2018-11-06,classic
+2018,MS-SEN,Senate,0,David Baria,DEM,0.0138,2018-11-06,classic
+2018,MS-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,MS-SEN-S,Senate,1,Cindy Hyde-Smith,REP,0.703,2018-11-06,classic
+2018,MS-SEN-S,Senate,1,Mike Espy,DEM,0.2523,2018-11-06,classic
+2018,MS-SEN-S,Senate,1,Chris McDaniel,REP,0.0447,2018-11-06,classic
+2018,MS-SEN-S,Senate,1,Tobey Bartee,DEM,0.0,2018-11-06,classic
+2018,MT-SEN,Senate,0,Jon Tester,DEM,0.7602,2018-11-06,classic
+2018,MT-SEN,Senate,0,Matt Rosendale,REP,0.2398,2018-11-06,classic
+2018,MT-SEN,Senate,0,Rick Breckenridge,LIB,0.0,2018-11-06,classic
+2018,ND-SEN,Senate,0,Kevin Cramer,REP,0.7324,2018-11-06,classic
+2018,ND-SEN,Senate,0,Heidi Heitkamp,DEM,0.2676,2018-11-06,classic
+2018,NE-SEN,Senate,0,Deb Fischer,REP,0.9786,2018-11-06,classic
+2018,NE-SEN,Senate,0,Jane Raybould,DEM,0.0214,2018-11-06,classic
+2018,NE-SEN,Senate,0,Jim Schultz,LIB,0.0,2018-11-06,classic
+2018,NJ-SEN,Senate,0,Robert Menendez,DEM,0.9461,2018-11-06,classic
+2018,NJ-SEN,Senate,0,Bob Hugin,REP,0.0539,2018-11-06,classic
+2018,NJ-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,NM-SEN,Senate,0,Martin Heinrich,DEM,0.9907,2018-11-06,classic
+2018,NM-SEN,Senate,0,Mick Rich,REP,0.0088,2018-11-06,classic
+2018,NM-SEN,Senate,0,Gary Johnson,LIB,0.0005,2018-11-06,classic
+2018,NV-SEN,Senate,0,Jacky Rosen,DEM,0.5702,2018-11-06,classic
+2018,NV-SEN,Senate,0,Dean Heller,REP,0.4298,2018-11-06,classic
+2018,NV-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,NY-SEN,Senate,0,Kirsten E. Gillibrand,DEM,0.9995,2018-11-06,classic
+2018,NY-SEN,Senate,0,Chele Farley,REP,0.0005,2018-11-06,classic
+2018,OH-SEN,Senate,0,Sherrod Brown,DEM,0.9667,2018-11-06,classic
+2018,OH-SEN,Senate,0,Jim Renacci,REP,0.0333,2018-11-06,classic
+2018,PA-SEN,Senate,0,Robert P. Casey Jr.,DEM,0.9686,2018-11-06,classic
+2018,PA-SEN,Senate,0,Lou Barletta,REP,0.0314,2018-11-06,classic
+2018,PA-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,RI-SEN,Senate,0,Sheldon Whitehouse,DEM,0.999,2018-11-06,classic
+2018,RI-SEN,Senate,0,Bob Flanders,REP,0.001,2018-11-06,classic
+2018,TN-SEN,Senate,0,Marsha Blackburn,REP,0.8035,2018-11-06,classic
+2018,TN-SEN,Senate,0,Phil Bredesen,DEM,0.1965,2018-11-06,classic
+2018,TN-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,TX-SEN,Senate,0,Ted Cruz,REP,0.7879,2018-11-06,classic
+2018,TX-SEN,Senate,0,Beto O'Rourke,DEM,0.2121,2018-11-06,classic
+2018,TX-SEN,Senate,0,Neal M. Dikeman,LIB,0.0,2018-11-06,classic
+2018,UT-SEN,Senate,0,Mitt Romney,REP,0.9991,2018-11-06,classic
+2018,UT-SEN,Senate,0,Jenny Wilson,DEM,0.0009,2018-11-06,classic
+2018,UT-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,VA-SEN,Senate,0,Tim Kaine,DEM,0.9872,2018-11-06,classic
+2018,VA-SEN,Senate,0,Corey Stewart,REP,0.0127,2018-11-06,classic
+2018,VA-SEN,Senate,0,Matt Waters,LIB,0.0,2018-11-06,classic
+2018,VT-SEN,Senate,0,Bernard Sanders,IND,1.0,2018-11-06,classic
+2018,VT-SEN,Senate,0,Lawrence Zupan,REP,0.0,2018-11-06,classic
+2018,VT-SEN,Senate,0,Others,OTHER,0.0,2018-11-06,classic
+2018,WA-SEN,Senate,0,Maria Cantwell,DEM,0.9961,2018-11-06,classic
+2018,WA-SEN,Senate,0,Susan Hutchison,REP,0.0039,2018-11-06,classic
+2018,WI-SEN,Senate,0,Tammy Baldwin,DEM,0.9772,2018-11-06,classic
+2018,WI-SEN,Senate,0,Leah Vukmir,REP,0.0228,2018-11-06,classic
+2018,WV-SEN,Senate,0,Joe Manchin III,DEM,0.8787,2018-11-06,classic
+2018,WV-SEN,Senate,0,Patrick Morrisey,REP,0.1213,2018-11-06,classic
+2018,WV-SEN,Senate,0,Rusty Hollen,LIB,0.0,2018-11-06,classic
+2018,WY-SEN,Senate,0,John Barrasso,REP,0.9997,2018-11-06,classic
+2018,WY-SEN,Senate,0,Gary Trauner,DEM,0.0003,2018-11-06,classic
+2018,WY-SEN,Senate,0,Joseph Porambo,LIB,0.0,2018-11-06,classic
