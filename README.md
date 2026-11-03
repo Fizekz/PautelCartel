@@ -1,3 +1,4 @@
+We where lazy and made this readme with claude 
 # Model Citizens 2026: Full Congress forecast
 
 This repository holds our entry to the Stanford Democracy Day "Model Citizens" forecasting contest, **Full Congress
@@ -311,9 +312,7 @@ appendices.
 ## Team and credits
 
 Built by **Kavi Patel** and **Pau Schulz**. The two of us first built forecasts separately, competing against each
-other, then pooled our best models for this submission. Much of the engineering (data fetching, model code,
-backtests and these documents) was done by AI agents (Anthropic's Claude) working under our direction; the modelling
-choices and the final calls, including the pick rule and the four California overrides, were ours.
+other, then pooled our best models for this submission. This readme is made by claude.
 
 Data credits: MIT Election Data and Science Lab (CC0), FiveThirtyEight (CC BY 4.0), Wikipedia contributors (CC BY-SA),
 Ballotpedia (2026 California primary results), VoteHub, the Federal Election Commission, The Downballot, Gallup and the UCSB American Presidency Project, the US
