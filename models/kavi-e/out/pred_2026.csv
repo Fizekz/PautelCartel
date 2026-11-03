@@ -1,0 +1,952 @@
+race_id,chamber,candidate,party,q,p_kalshi,note
+AK-SEN,Senate,Republican party,REP,0.337978,0.292079,mu +1.5 sd 4.3; lean -12.2; inc -1; rating -0.33; polls +2.0 (w 0.91); dossier P(D) 0.65 at weight 0.15: model mu +1.6 -> +1.5 (P(D) 0.66 -> 0.66)
+AK-SEN,Senate,Democratic party,DEM,0.662022,0.707921,mu +1.5 sd 4.3; lean -12.2; inc -1; rating -0.33; polls +2.0 (w 0.91); dossier P(D) 0.65 at weight 0.15: model mu +1.6 -> +1.5 (P(D) 0.66 -> 0.66)
+AL-SEN,Senate,Barry Moore,REP,0.999437,0.972664,mu -18.6 sd 3.9; lean -29.4; inc +0; rating +3.00; polls -16.3 (w 0.77)
+AL-SEN,Senate,Everett Wess,DEM,0.000563,0.027336,mu -18.6 sd 3.9; lean -29.4; inc +0; rating +3.00; polls -16.3 (w 0.77)
+AR-SEN,Senate,Tom Cotton,REP,0.997605,0.942914,mu -13.7 sd 3.8; lean -29.8; inc -1; rating +3.00; polls -13.2 (w 0.73); dossier P(D) 0.04 at weight 0.35: model mu -17.4 -> -13.7 (P(D) 0.00 -> 0.00)
+AR-SEN,Senate,Hallie Shoffner,DEM,0.002395,0.057086,mu -13.7 sd 3.8; lean -29.8; inc -1; rating +3.00; polls -13.2 (w 0.73); dossier P(D) 0.04 at weight 0.35: model mu -17.4 -> -13.7 (P(D) 0.00 -> 0.00)
+CO-SEN,Senate,Mark Baisley,REP,0.000533,0.012475,mu +27.1 sd 5.6; lean +12.8; inc +1; rating -3.00
+CO-SEN,Senate,John Hickenlooper,DEM,0.999467,0.987525,mu +27.1 sd 5.6; lean +12.8; inc +1; rating -3.00
+DE-SEN,Senate,Michael Katz,REP,0.00039,0.018574,mu +28.8 sd 5.6; lean +16.5; inc +1; rating -3.00
+DE-SEN,Senate,Chris Coons,DEM,0.99961,0.981426,mu +28.8 sd 5.6; lean +16.5; inc +1; rating -3.00
+FL-SEN,Senate,Ashley Moody,REP,0.939895,0.885,mu -6.5 sd 4.4; lean -11.7; inc -1; rating +2.00; polls -6.5 (w 0.95); dossier P(D) 0.10 at weight 0.25: model mu -7.0 -> -6.5 (P(D) 0.05 -> 0.06)
+FL-SEN,Senate,Angie Nixon,DEM,0.060105,0.115,mu -6.5 sd 4.4; lean -11.7; inc -1; rating +2.00; polls -6.5 (w 0.95); dossier P(D) 0.10 at weight 0.25: model mu -7.0 -> -6.5 (P(D) 0.05 -> 0.06)
+GA-SEN,Senate,Mike Collins,REP,0.009277,0.0334,mu +11.1 sd 4.2; lean -0.7; inc +1; rating -2.00; polls +10.6 (w 0.90)
+GA-SEN,Senate,Jon Ossoff,DEM,0.990723,0.9666,mu +11.1 sd 4.2; lean -0.7; inc +1; rating -2.00; polls +10.6 (w 0.90)
+IA-SEN,Senate,Ashley Hinson,REP,0.497643,0.560606,mu +0.0 sd 4.4; lean -11.9; inc +0; rating +0.00; polls +0.4 (w 0.95); dossier P(D) 0.43 at weight 0.25: model mu +0.2 -> +0.0 (P(D) 0.52 -> 0.50)
+IA-SEN,Senate,Josh Turek,DEM,0.502357,0.439394,mu +0.0 sd 4.4; lean -11.9; inc +0; rating +0.00; polls +0.4 (w 0.95); dossier P(D) 0.43 at weight 0.25: model mu +0.2 -> +0.0 (P(D) 0.52 -> 0.50)
+ID-SEN,Senate,Jim Risch,REP,0.996609,0.944223,mu -15.8 sd 4.5; lean -36.0; inc -1; rating +3.00; polls -12.2 (w 0.66); D side = Achilles (I); dossier P(D) 0.05 at weight 0.25: model mu -18.8 -> -15.8 (P(D) 0.00 -> 0.00)
+ID-SEN,Senate,David Roth,DEM,0.000999,0.000996,mu -15.8 sd 4.5; lean -36.0; inc -1; rating +3.00; polls -12.2 (w 0.66); D side = Achilles (I); dossier P(D) 0.05 at weight 0.25: model mu -18.8 -> -15.8 (P(D) 0.00 -> 0.00)
+ID-SEN,Senate,Todd Achilles,IND,0.002392,0.054781,mu -15.8 sd 4.5; lean -36.0; inc -1; rating +3.00; polls -12.2 (w 0.66); D side = Achilles (I); dossier P(D) 0.05 at weight 0.25: model mu -18.8 -> -15.8 (P(D) 0.00 -> 0.00)
+IL-SEN,Senate,Don Tracy,REP,0.000813,0.023023,mu +16.9 sd 3.8; lean +12.6; inc +0; rating -3.00; polls +14.0 (w 0.73)
+IL-SEN,Senate,Juliana Stratton,DEM,0.999187,0.976977,mu +16.9 sd 3.8; lean +12.6; inc +0; rating -3.00; polls +14.0 (w 0.73)
+KS-SEN,Senate,Roger Marshall,REP,0.326182,0.495,mu +1.6 sd 4.3; lean -14.9; inc -1; rating +0.00; polls +2.7 (w 0.90); dossier P(D) 0.57 at weight 0.15: model mu +1.8 -> +1.6 (P(D) 0.69 -> 0.67)
+KS-SEN,Senate,Adam Hamilton,DEM,0.673818,0.505,mu +1.6 sd 4.3; lean -14.9; inc -1; rating +0.00; polls +2.7 (w 0.90); dossier P(D) 0.57 at weight 0.15: model mu +1.8 -> +1.6 (P(D) 0.69 -> 0.67)
+KY-SEN,Senate,Andy Barr,REP,0.999534,0.9675,mu -18.8 sd 3.8; lean -29.5; inc +0; rating +3.00; polls -11.1 (w 0.50)
+KY-SEN,Senate,Charles Booker,DEM,0.000466,0.0325,mu -18.8 sd 3.8; lean -29.5; inc +0; rating +3.00; polls -11.1 (w 0.50)
+LA-SEN,Senate,Jamie Davis,DEM,0.020251,0.105,mu -8.0 sd 3.8; lean -20.9; inc +0; rating +2.33; polls -1.6 (w 0.56); dossier P(D) 0.10 at weight 0.25: model mu -9.2 -> -8.0 (P(D) 0.01 -> 0.02)
+LA-SEN,Senate,Julia Letlow,REP,0.979749,0.895,mu -8.0 sd 3.8; lean -20.9; inc +0; rating +2.33; polls -1.6 (w 0.56); dossier P(D) 0.10 at weight 0.25: model mu -9.2 -> -8.0 (P(D) 0.01 -> 0.02)
+MA-SEN,Senate,John Deaton,REP,2.7e-05,0.016492,mu +32.7 sd 4.0; lean +27.4; inc +1; rating -3.00; polls +32.4 (w 0.80)
+MA-SEN,Senate,Ed Markey,DEM,0.999973,0.983508,mu +32.7 sd 4.0; lean +27.4; inc +1; rating -3.00; polls +32.4 (w 0.80)
+ME-SEN,Senate,Susan Collins,REP,0.249696,0.315,mu +2.6 sd 4.4; lean +8.6; inc -1; rating +0.00; polls +2.8 (w 0.95); dossier P(D) 0.68 at weight 0.25: model mu +2.9 -> +2.6 (P(D) 0.77 -> 0.75)
+ME-SEN,Senate,Troy Jackson,DEM,0.750304,0.685,mu +2.6 sd 4.4; lean +8.6; inc -1; rating +0.00; polls +2.8 (w 0.95); dossier P(D) 0.68 at weight 0.25: model mu +2.9 -> +2.6 (P(D) 0.77 -> 0.75)
+MI-SEN,Senate,Mike Rogers,REP,0.160871,0.245,mu +3.9 sd 4.5; lean +0.1; inc +0; rating -0.50; polls +4.4 (w 0.96); dossier P(D) 0.77 at weight 0.35: model mu +4.5 -> +3.9 (P(D) 0.87 -> 0.84)
+MI-SEN,Senate,Abdul El-Sayed,DEM,0.839129,0.755,mu +3.9 sd 4.5; lean +0.1; inc +0; rating -0.50; polls +4.4 (w 0.96); dossier P(D) 0.77 at weight 0.35: model mu +4.5 -> +3.9 (P(D) 0.87 -> 0.84)
+MN-SEN,Senate,Michele Tafoya,REP,0.057044,0.093859,mu +6.5 sd 4.3; lean +5.8; inc +0; rating -1.33; polls +6.3 (w 0.92); dossier P(D) 0.92 at weight 0.25: model mu +6.8 -> +6.5 (P(D) 0.95 -> 0.94)
+MN-SEN,Senate,Peggy Flanagan,DEM,0.942956,0.906141,mu +6.5 sd 4.3; lean +5.8; inc +0; rating -1.33; polls +6.3 (w 0.92); dossier P(D) 0.92 at weight 0.25: model mu +6.8 -> +6.5 (P(D) 0.95 -> 0.94)
+MS-SEN,Senate,Cindy Hyde-Smith,REP,0.98299,0.885,mu -8.4 sd 3.8; lean -21.6; inc -1; rating +2.00; polls -4.5 (w 0.66); dossier P(D) 0.11 at weight 0.25: model mu -9.8 -> -8.4 (P(D) 0.01 -> 0.02)
+MS-SEN,Senate,Scott Colom,DEM,0.01701,0.115,mu -8.4 sd 3.8; lean -21.6; inc -1; rating +2.00; polls -4.5 (w 0.66); dossier P(D) 0.11 at weight 0.25: model mu -9.8 -> -8.4 (P(D) 0.01 -> 0.02)
+MT-SEN,Senate,Kurt Alme,REP,0.990761,0.880159,mu -13.1 sd 4.9; lean -19.1; inc +0; rating +3.00; polls -14.9 (w 0.86); D side = Bodnar (I); dossier P(D) 0.13 at weight 0.25: model mu -15.8 -> -13.1 (P(D) 0.00 -> 0.01)
+MT-SEN,Senate,Alani Bankhead,DEM,0.000999,0.00547,mu -13.1 sd 4.9; lean -19.1; inc +0; rating +3.00; polls -14.9 (w 0.86); D side = Bodnar (I); dossier P(D) 0.13 at weight 0.25: model mu -15.8 -> -13.1 (P(D) 0.00 -> 0.01)
+MT-SEN,Senate,Seth Bodnar,IND,0.00824,0.114371,mu -13.1 sd 4.9; lean -19.1; inc +0; rating +3.00; polls -14.9 (w 0.86); D side = Bodnar (I); dossier P(D) 0.13 at weight 0.25: model mu -15.8 -> -13.1 (P(D) 0.00 -> 0.01)
+NC-SEN,Senate,Michael Whatley,REP,0.008532,0.032435,mu +11.7 sd 4.4; lean -1.8; inc +0; rating -1.67; polls +11.7 (w 0.94)
+NC-SEN,Senate,Roy Cooper,DEM,0.991468,0.967565,mu +11.7 sd 4.4; lean -1.8; inc +0; rating -1.67; polls +11.7 (w 0.94)
+NE-SEN,Senate,Pete Ricketts,REP,0.853283,0.743142,mu -4.7 sd 5.0; lean -19.3; inc -1; rating +0.83; polls -4.4 (w 0.89); D side = Osborn (I); dossier P(D) 0.26 at weight 0.25: model mu -5.3 -> -4.7 (P(D) 0.12 -> 0.15)
+NE-SEN,Senate,Cindy Burbank,DEM,0.000999,0.002494,mu -4.7 sd 5.0; lean -19.3; inc -1; rating +0.83; polls -4.4 (w 0.89); D side = Osborn (I); dossier P(D) 0.26 at weight 0.25: model mu -5.3 -> -4.7 (P(D) 0.12 -> 0.15)
+NE-SEN,Senate,Dan Osborn,IND,0.145718,0.254364,mu -4.7 sd 5.0; lean -19.3; inc -1; rating +0.83; polls -4.4 (w 0.89); D side = Osborn (I); dossier P(D) 0.26 at weight 0.25: model mu -5.3 -> -4.7 (P(D) 0.12 -> 0.15)
+NH-SEN,Senate,John E. Sununu,REP,0.045227,0.075312,mu +7.1 sd 4.3; lean +4.3; inc +0; rating -1.17; polls +7.3 (w 0.91); dossier P(D) 0.93 at weight 0.35: model mu +7.6 -> +7.1 (P(D) 0.96 -> 0.95)
+NH-SEN,Senate,Chris Pappas,DEM,0.954773,0.924688,mu +7.1 sd 4.3; lean +4.3; inc +0; rating -1.17; polls +7.3 (w 0.91); dossier P(D) 0.93 at weight 0.35: model mu +7.6 -> +7.1 (P(D) 0.96 -> 0.95)
+NJ-SEN,Senate,Justin Murphy,REP,0.000859,0.022977,mu +24.7 sd 5.6; lean +7.5; inc +1; rating -3.00
+NJ-SEN,Senate,Cory Booker,DEM,0.999141,0.977023,mu +24.7 sd 5.6; lean +7.5; inc +1; rating -3.00
+NM-SEN,Senate,Larry E. Marker,REP,0.000273,0.01596,mu +20.6 sd 3.8; lean +7.6; inc +1; rating -3.00; polls +18.5 (w 0.68)
+NM-SEN,Senate,Ben Ray Luján,DEM,0.999727,0.98404,mu +20.6 sd 3.8; lean +7.6; inc +1; rating -3.00; polls +18.5 (w 0.68)
+OH-SEN,Senate,Jon Husted,REP,0.230621,0.292079,mu +2.8 sd 4.4; lean -9.8; inc -1; rating -0.17; polls +3.6 (w 0.95); dossier P(D) 0.66 at weight 0.25: model mu +3.3 -> +2.8 (P(D) 0.80 -> 0.77)
+OH-SEN,Senate,Sherrod Brown,DEM,0.769379,0.707921,mu +2.8 sd 4.4; lean -9.8; inc -1; rating -0.17; polls +3.6 (w 0.95); dossier P(D) 0.66 at weight 0.25: model mu +3.3 -> +2.8 (P(D) 0.80 -> 0.77)
+OK-SEN,Senate,Kevin Hern,REP,0.999967,0.973566,mu -30.4 sd 3.8; lean -33.4; inc +0; rating +3.00; polls -32.4 (w 0.50)
+OK-SEN,Senate,N’Kiyla Thomas,DEM,3.3e-05,0.026434,mu -30.4 sd 3.8; lean -33.4; inc +0; rating +3.00; polls -32.4 (w 0.50)
+OR-SEN,Senate,David Brock Smith,REP,0.000393,0.012981,mu +28.8 sd 5.6; lean +16.4; inc +1; rating -3.00
+OR-SEN,Senate,Jeff Merkley,DEM,0.999607,0.987019,mu +28.8 sd 5.6; lean +16.4; inc +1; rating -3.00
+RI-SEN,Senate,Raymond McKay,REP,2.8e-05,0.012481,mu +31.4 sd 3.8; lean +15.7; inc +1; rating -3.00; polls +32.5 (w 0.72)
+RI-SEN,Senate,Jack Reed,DEM,0.999972,0.987519,mu +31.4 sd 3.8; lean +15.7; inc +1; rating -3.00; polls +32.5 (w 0.72)
+SC-SEN,Senate,Darline Graham,REP,0.730173,0.725,mu -2.3 sd 4.2; lean -16.6; inc -1; rating +0.83; polls -1.3 (w 0.90); dossier P(D) 0.30 at weight 0.25: model mu -2.4 -> -2.3 (P(D) 0.26 -> 0.27)
+SC-SEN,Senate,Annie Andrews,DEM,0.269827,0.275,mu -2.3 sd 4.2; lean -16.6; inc -1; rating +0.83; polls -1.3 (w 0.90); dossier P(D) 0.30 at weight 0.25: model mu -2.4 -> -2.3 (P(D) 0.26 -> 0.27)
+SD-SEN,Senate,Mike Rounds,REP,0.99336,0.931222,mu -14.6 sd 5.0; lean -28.4; inc -1; rating +3.00; polls -15.3 (w 0.88); D side = Bengs (I); dossier P(D) 0.05 at weight 0.25: model mu -16.8 -> -14.6 (P(D) 0.00 -> 0.01)
+SD-SEN,Senate,Julian Beaudion,DEM,0.000999,0.004453,mu -14.6 sd 5.0; lean -28.4; inc -1; rating +3.00; polls -15.3 (w 0.88); D side = Bengs (I); dossier P(D) 0.05 at weight 0.25: model mu -16.8 -> -14.6 (P(D) 0.00 -> 0.01)
+SD-SEN,Senate,Brian Bengs,IND,0.005641,0.064325,mu -14.6 sd 5.0; lean -28.4; inc -1; rating +3.00; polls -15.3 (w 0.88); D side = Bengs (I); dossier P(D) 0.05 at weight 0.25: model mu -16.8 -> -14.6 (P(D) 0.00 -> 0.01)
+TN-SEN,Senate,Bill Hagerty,REP,0.999926,0.973473,mu -26.4 sd 3.8; lean -28.6; inc -1; rating +3.00; polls -24.4 (w 0.50)
+TN-SEN,Senate,Marquita Bradshaw,DEM,7.4e-05,0.026527,mu -26.4 sd 3.8; lean -28.6; inc -1; rating +3.00; polls -24.4 (w 0.50)
+TX-SEN,Senate,Ken Paxton,REP,0.249217,0.311881,mu +2.6 sd 4.5; lean -12.4; inc +0; rating -0.17; polls +3.1 (w 0.97); dossier P(D) 0.68 at weight 0.25: model mu +2.9 -> +2.6 (P(D) 0.77 -> 0.75)
+TX-SEN,Senate,James Talarico,DEM,0.750783,0.688119,mu +2.6 sd 4.5; lean -12.4; inc +0; rating -0.17; polls +3.1 (w 0.97); dossier P(D) 0.68 at weight 0.25: model mu +2.9 -> +2.6 (P(D) 0.77 -> 0.75)
+VA-SEN,Senate,Bert Mizusawa,REP,0.00087,0.014558,mu +24.7 sd 5.6; lean +7.4; inc +1; rating -3.00
+VA-SEN,Senate,Mark Warner,DEM,0.99913,0.985442,mu +24.7 sd 5.6; lean +7.4; inc +1; rating -3.00
+WV-SEN,Senate,Shelley Moore Capito,REP,0.999843,0.982974,mu -34.1 sd 5.6; lean -41.2; inc -1; rating +3.00
+WV-SEN,Senate,Rachel Fetty Anderson,DEM,0.000157,0.017026,mu -34.1 sd 5.6; lean -41.2; inc -1; rating +3.00
+WY-SEN,Senate,Harriet Hageman,REP,0.999834,0.987506,mu -33.7 sd 5.6; lean -45.5; inc +0; rating +3.00
+WY-SEN,Senate,James Byrd,DEM,0.000166,0.012494,mu -33.7 sd 5.6; lean -45.5; inc +0; rating +3.00
+AK-AL,House,Eric Hafner,DEM,0.000999,0.010391,mu -7.1 sd 6.9; lean -12.2; inc -1; rating +1.33; polls -7.8 (w 0.74); D side = Hill (I); dossier P(D) 0.24 at weight 0.25: model mu -8.0 -> -7.1 (P(D) 0.10 -> 0.13)
+AK-AL,House,Nick Begich III,REP,0.871046,0.776843,mu -7.1 sd 6.9; lean -12.2; inc -1; rating +1.33; polls -7.8 (w 0.74); D side = Hill (I); dossier P(D) 0.24 at weight 0.25: model mu -8.0 -> -7.1 (P(D) 0.10 -> 0.13)
+AK-AL,House,Bill Hill,IND,0.127955,0.212766,mu -7.1 sd 6.9; lean -12.2; inc -1; rating +1.33; polls -7.8 (w 0.74); D side = Hill (I); dossier P(D) 0.24 at weight 0.25: model mu -8.0 -> -7.1 (P(D) 0.10 -> 0.13)
+AL-01,House,Clyde Jones,DEM,0.001322,0.016966,mu -27.8 sd 6.9; lean -34.8; inc +0; rating +3.00
+AL-01,House,Jerry Carl,REP,0.998678,0.983034,mu -27.8 sd 6.9; lean -34.8; inc +0; rating +3.00
+AL-02,House,Shomari Figures,DEM,0.353432,0.430693,mu -1.7 sd 5.3; lean -13.0; inc +1; rating +0.50; polls -2.1 (w 0.36); dossier P(D) 0.44 at weight 0.25: model mu -2.0 -> -1.7 (P(D) 0.33 -> 0.35)
+AL-02,House,Rhett Marques,REP,0.646568,0.569307,mu -1.7 sd 5.3; lean -13.0; inc +1; rating +0.50; polls -2.1 (w 0.36); dossier P(D) 0.44 at weight 0.25: model mu -2.0 -> -1.7 (P(D) 0.33 -> 0.35)
+AL-03,House,Lee McInnis,DEM,0.000338,0.012012,mu -36.3 sd 6.9; lean -45.6; inc -1; rating +3.00
+AL-03,House,Mike Rogers,REP,0.999662,0.987988,mu -36.3 sd 6.9; lean -45.6; inc -1; rating +3.00
+AL-04,House,Amanda Pusczek,DEM,0.000116,0.011061,mu -44.2 sd 6.9; lean -65.4; inc -1; rating +3.00
+AL-04,House,Robert Aderholt,REP,0.999884,0.988939,mu -44.2 sd 6.9; lean -65.4; inc -1; rating +3.00
+AL-05,House,Andrew Sneed,DEM,0.001964,0.043043,mu -25.7 sd 6.9; lean -28.0; inc -1; rating +3.00
+AL-05,House,Dale Strong,REP,0.998036,0.956957,mu -25.7 sd 6.9; lean -28.0; inc -1; rating +3.00
+AL-06,House,Maurice Mercer,DEM,0.001087,0.01302,mu -28.9 sd 6.9; lean -33.5; inc -1; rating +3.00
+AL-06,House,Gary Palmer,REP,0.998913,0.98698,mu -28.9 sd 6.9; lean -33.5; inc -1; rating +3.00
+AL-07,House,Terri Sewell,DEM,0.999423,0.982991,mu +32.8 sd 6.9; lean +19.4; inc +1; rating -3.00
+AL-07,House,Ammie Akin,REP,0.000577,0.017009,mu +32.8 sd 6.9; lean +19.4; inc +1; rating -3.00
+AR-01,House,Terri Yarbrough Green,DEM,0.000367,0.0125,mu -35.7 sd 6.9; lean -44.7; inc -1; rating +3.00
+AR-01,House,Rick Crawford,REP,0.999633,0.9875,mu -35.7 sd 6.9; lean -44.7; inc -1; rating +3.00
+AR-02,House,Chris Jones,DEM,0.041822,0.175,mu -8.9 sd 5.3; lean -14.4; inc -1; rating +2.00; polls -3.4 (w 0.37); dossier P(D) 0.22 at weight 0.15: model mu -9.9 -> -8.9 (P(D) 0.03 -> 0.04)
+AR-02,House,French Hill,REP,0.958178,0.825,mu -8.9 sd 5.3; lean -14.4; inc -1; rating +2.00; polls -3.4 (w 0.37); dossier P(D) 0.22 at weight 0.15: model mu -9.9 -> -8.9 (P(D) 0.03 -> 0.04)
+AR-03,House,Robb Ryerse,DEM,0.003067,0.016941,mu -23.3 sd 6.9; lean -24.1; inc -1; rating +3.00
+AR-03,House,Steve Womack,REP,0.996933,0.983059,mu -23.3 sd 6.9; lean -24.1; inc -1; rating +3.00
+AR-04,House,James Russell,DEM,0.000616,0.011535,mu -32.4 sd 6.9; lean -39.2; inc -1; rating +3.00
+AR-04,House,Bruce Westerman,REP,0.999384,0.988465,mu -32.4 sd 6.9; lean -39.2; inc -1; rating +3.00
+AZ-01,House,Amish Shah,DEM,0.890944,0.813131,mu +5.8 sd 5.2; lean -1.6; inc +0; rating -0.83; polls +3.9 (w 0.42); dossier P(D) 0.80 at weight 0.25: model mu +6.5 -> +5.8 (P(D) 0.91 -> 0.89)
+AZ-01,House,Jay Feely,REP,0.109056,0.186869,mu +5.8 sd 5.2; lean -1.6; inc +0; rating -0.83; polls +3.9 (w 0.42); dossier P(D) 0.80 at weight 0.25: model mu +6.5 -> +5.8 (P(D) 0.91 -> 0.89)
+AZ-02,House,Jonathan Nez,DEM,0.168768,0.405,mu -4.4 sd 5.2; lean -13.6; inc -1; rating +1.00; polls +0.8 (w 0.40); dossier P(D) 0.41 at weight 0.15: model mu -5.0 -> -4.4 (P(D) 0.14 -> 0.17)
+AZ-02,House,Eli Crane,REP,0.831232,0.595,mu -4.4 sd 5.2; lean -13.6; inc -1; rating +1.00; polls +0.8 (w 0.40); dossier P(D) 0.41 at weight 0.15: model mu -5.0 -> -4.4 (P(D) 0.14 -> 0.17)
+AZ-03,House,Yassamin Ansari,DEM,0.999889,0.985507,mu +44.5 sd 6.9; lean +41.8; inc +1; rating -3.00
+AZ-03,House,Republican party,REP,0.000111,0.014493,mu +44.5 sd 6.9; lean +41.8; inc +1; rating -3.00
+AZ-04,House,Greg Stanton,DEM,0.998123,0.961442,mu +25.9 sd 6.9; lean +8.3; inc +1; rating -3.00
+AZ-04,House,Zuhdi Jasser,REP,0.001877,0.038558,mu +25.9 sd 6.9; lean +8.3; inc +1; rating -3.00
+AZ-05,House,Elizabeth Lee,DEM,0.008845,0.125,mu -18.3 sd 6.9; lean -18.7; inc +0; rating +3.00
+AZ-05,House,Mark Lamb,REP,0.991155,0.875,mu -18.3 sd 6.9; lean -18.7; inc +0; rating +3.00
+AZ-06,House,JoAnna Mendoza,DEM,0.889568,0.895,mu +7.7 sd 6.9; lean +0.7; inc -1; rating -0.83
+AZ-06,House,Juan Ciscomani,REP,0.110432,0.105,mu +7.7 sd 6.9; lean +0.7; inc -1; rating -0.83
+AZ-07,House,Adelita Grijalva,DEM,0.999623,0.991,mu +35.5 sd 6.9; lean +23.9; inc +1; rating -3.00
+AZ-07,House,Daniel Francis Butierez Sr.,REP,0.000377,0.009,mu +35.5 sd 6.9; lean +23.9; inc +1; rating -3.00
+AZ-08,House,Bernadette Greene-Placentia,DEM,0.009524,0.135678,mu -18.0 sd 6.9; lean -15.0; inc -1; rating +3.00
+AZ-08,House,Abe Hamadeh,REP,0.990476,0.864322,mu -18.0 sd 6.9; lean -15.0; inc -1; rating +3.00
+AZ-09,House,Dani Sterbinsky,DEM,0.001603,0.019618,mu -26.8 sd 6.9; lean -29.8; inc -1; rating +3.00
+AZ-09,House,Paul Gosar,REP,0.998397,0.980382,mu -26.8 sd 6.9; lean -29.8; inc -1; rating +3.00
+CA-01,House,Mike McGuire,DEM,0.99893,0.962133,mu +22.5 sd 5.4; lean +14.1; inc -1; rating -3.00; polls +14.9 (w 0.33)
+CA-01,House,James Gallagher,REP,0.00107,0.037867,mu +22.5 sd 5.4; lean +14.1; inc -1; rating -3.00; polls +14.9 (w 0.33)
+CA-02,House,Jared Huffman,DEM,0.999716,0.9845,mu +37.5 sd 6.9; lean +26.9; inc +1; rating -3.00
+CA-02,House,Robin Littau,REP,0.000284,0.0155,mu +37.5 sd 6.9; lean +26.9; inc +1; rating -3.00
+CA-03,House,Ami Bera,DEM,0.998761,0.959358,mu +28.2 sd 6.9; lean +12.0; inc +1; rating -3.00
+CA-03,House,Robb Tucker,REP,0.001239,0.040642,mu +28.2 sd 6.9; lean +12.0; inc +1; rating -3.00
+CA-04,House,Mike Thompson,DEM,0.787404,0.535,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Mike Thompson: +4.20/+0.00, Eric Jones: +2.65/+0.00"
+CA-04,House,Eric Jones,DEM,0.212596,0.465,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Mike Thompson: +4.20/+0.00, Eric Jones: +2.65/+0.00"
+CA-05,House,Michael Masuda,DEM,0.005185,0.057373,mu -20.8 sd 6.9; lean -19.7; inc -1; rating +3.00
+CA-05,House,Tom McClintock,REP,0.994815,0.942627,mu -20.8 sd 6.9; lean -19.7; inc -1; rating +3.00
+CA-06,House,Kevin Kiley,IND,0.003622,0.054229,mu +17.4 sd 5.4; lean +10.2; inc -1; rating -2.33; polls +12.2 (w 0.34); R side = Kiley (I)
+CA-06,House,Richard Pan,DEM,0.995379,0.933333,mu +17.4 sd 5.4; lean +10.2; inc -1; rating -2.33; polls +12.2 (w 0.34); R side = Kiley (I)
+CA-06,House,Republican party,REP,0.000999,0.012438,mu +17.4 sd 5.4; lean +10.2; inc -1; rating -2.33; polls +12.2 (w 0.34); R side = Kiley (I)
+CA-07,House,Doris Matsui,DEM,0.536067,0.641414,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Doris Matsui: +3.31/+0.00, Mai Vang: +3.22/+0.00"
+CA-07,House,Mai Vang,DEM,0.463933,0.358586,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Doris Matsui: +3.31/+0.00, Mai Vang: +3.22/+0.00"
+CA-08,House,John Garamendi,DEM,0.999871,0.992972,mu +43.3 sd 6.9; lean +36.7; inc +1; rating -3.00
+CA-08,House,Rudy Recile,REP,0.000129,0.007028,mu +43.3 sd 6.9; lean +36.7; inc +1; rating -3.00
+CA-09,House,Josh Harder,DEM,0.998919,0.989919,mu +29.0 sd 6.9; lean +13.3; inc +1; rating -3.00
+CA-09,House,John McBride,REP,0.001081,0.010081,mu +29.0 sd 6.9; lean +13.3; inc +1; rating -3.00
+CA-10,House,Mark DeSaulnier,DEM,0.99987,0.982456,mu +43.2 sd 6.9; lean +36.2; inc +1; rating -3.00
+CA-10,House,Jeff Frese,REP,0.00013,0.017544,mu +43.2 sd 6.9; lean +36.2; inc +1; rating -3.00
+CA-11,House,Scott Wiener,DEM,0.91961,0.787129,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Scott Wiener: +4.64/+0.67, Connie Chan: +3.14/-0.67"
+CA-11,House,Connie Chan,DEM,0.08039,0.212871,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Scott Wiener: +4.64/+0.67, Connie Chan: +3.14/-0.67"
+CA-12,House,Lateefah Simon,DEM,0.999776,0.979899,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Lateefah Simon: +9.65/+0.00, Jamie Joyce: +1.25/+0.00"
+CA-12,House,Jamie Joyce,DEM,0.000224,0.020101,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Lateefah Simon: +9.65/+0.00, Jamie Joyce: +1.25/+0.00"
+CA-13,House,Adam Gray,DEM,0.980069,0.937406,mu +14.8 sd 6.9; lean +1.9; inc +1; rating -1.50
+CA-13,House,Kevin Lincoln,REP,0.019931,0.062594,mu +14.8 sd 6.9; lean +1.9; inc +1; rating -1.50
+CA-14,House,Melissa Hernandez,DEM,0.117206,0.085,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Melissa Hernandez: +1.99/+0.00, Aisha Wahab: +4.01/+0.00"
+CA-14,House,Aisha Wahab,DEM,0.882794,0.915,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Melissa Hernandez: +1.99/+0.00, Aisha Wahab: +4.01/+0.00"
+CA-15,House,Kevin Mullin,DEM,0.9999,0.993988,mu +45.3 sd 6.9; lean +51.1; inc +1; rating -3.00
+CA-15,House,Charles Hoelter,REP,0.0001,0.006012,mu +45.3 sd 6.9; lean +51.1; inc +1; rating -3.00
+CA-16,House,Sam Liccardo,DEM,0.9999,0.982966,mu +45.3 sd 6.9; lean +51.4; inc +1; rating -3.00
+CA-16,House,Peter Sundin Soulé,REP,0.0001,0.017034,mu +45.3 sd 6.9; lean +51.4; inc +1; rating -3.00
+CA-17,House,Ro Khanna,DEM,0.999891,0.983516,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+CA-17,House,Ritesh Tandon,REP,0.000109,0.016484,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+CA-18,House,Zoe Lofgren,DEM,0.999799,0.982509,mu +40.0 sd 6.9; lean +30.9; inc +1; rating -3.00
+CA-18,House,Shane Lewis,REP,0.000201,0.017491,mu +40.0 sd 6.9; lean +30.9; inc +1; rating -3.00
+CA-19,House,Jimmy Panetta,DEM,0.999873,0.991004,mu +43.4 sd 6.9; lean +37.2; inc +1; rating -3.00
+CA-19,House,Peter Verbica,REP,0.000127,0.008996,mu +43.4 sd 6.9; lean +37.2; inc +1; rating -3.00
+CA-20,House,Sandra Van Scotter,DEM,0.001345,0.021,mu -27.7 sd 6.9; lean -31.5; inc -1; rating +3.00
+CA-20,House,Vince Fong,REP,0.998655,0.979,mu -27.7 sd 6.9; lean -31.5; inc -1; rating +3.00
+CA-21,House,Jim Costa,DEM,0.997169,0.947709,mu +23.8 sd 6.9; lean +7.6; inc +1; rating -2.67
+CA-21,House,Kyle Kirkland,REP,0.002831,0.052291,mu +23.8 sd 6.9; lean +7.6; inc +1; rating -2.67
+CA-22,House,Randy Villegas,DEM,0.893009,0.910634,mu +6.1 sd 5.4; lean -0.4; inc -1; rating -0.33; polls +10.2 (w 0.33)
+CA-22,House,David Valadao,REP,0.106991,0.089366,mu +6.1 sd 5.4; lean -0.4; inc -1; rating -0.33; polls +10.2 (w 0.33)
+CA-23,House,Tessa Lynn Hodge,DEM,0.006117,0.043327,mu -20.0 sd 6.9; lean -18.4; inc -1; rating +3.00
+CA-23,House,Jay Obernolte,REP,0.993883,0.956673,mu -20.0 sd 6.9; lean -18.4; inc -1; rating +3.00
+CA-24,House,Salud Carbajal,DEM,0.999723,0.987988,mu +37.6 sd 6.9; lean +27.2; inc +1; rating -3.00
+CA-24,House,Bob Smith,REP,0.000277,0.012012,mu +37.6 sd 6.9; lean +27.2; inc +1; rating -3.00
+CA-25,House,Raul Ruiz,DEM,0.99794,0.984917,mu +25.4 sd 6.9; lean +7.4; inc +1; rating -3.00
+CA-25,House,Joe Males,REP,0.00206,0.015083,mu +25.4 sd 6.9; lean +7.4; inc +1; rating -3.00
+CA-26,House,Jacqui Irwin,DEM,0.998996,0.966967,mu +29.4 sd 6.9; lean +17.2; inc +0; rating -3.00
+CA-26,House,Sam Gallucci,REP,0.001004,0.033033,mu +29.4 sd 6.9; lean +17.2; inc +0; rating -3.00
+CA-27,House,George Whitesides,DEM,0.998693,0.983847,mu +27.9 sd 6.9; lean +11.5; inc +1; rating -3.00
+CA-27,House,Jason Gibbs,REP,0.001307,0.016153,mu +27.9 sd 6.9; lean +11.5; inc +1; rating -3.00
+CA-28,House,Judy Chu,DEM,0.999733,0.987469,mu +37.9 sd 6.9; lean +27.6; inc +1; rating -3.00
+CA-28,House,April Verlato,REP,0.000267,0.012531,mu +37.9 sd 6.9; lean +27.6; inc +1; rating -3.00
+CA-29,House,Luz Rivas,DEM,0.969845,0.960199,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Luz Rivas: +5.86/+0.00, Angélica María Dueñas: +2.39/+0.00"
+CA-29,House,Angélica María Dueñas,DEM,0.030155,0.039801,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Luz Rivas: +5.86/+0.00, Angélica María Dueñas: +2.39/+0.00"
+CA-30,House,Laura Friedman,DEM,0.999893,0.9875,mu +44.8 sd 6.9; lean +42.9; inc +1; rating -3.00
+CA-30,House,Scott Meyers,REP,0.000107,0.0125,mu +44.8 sd 6.9; lean +42.9; inc +1; rating -3.00
+CA-31,House,Gil Cisneros,DEM,0.999007,0.974013,mu +29.5 sd 6.9; lean +14.1; inc +1; rating -3.00
+CA-31,House,Eric Ching,REP,0.000993,0.025987,mu +29.5 sd 6.9; lean +14.1; inc +1; rating -3.00
+CA-32,House,Brad Sherman,DEM,0.999723,0.9955,mu +37.6 sd 6.9; lean +27.2; inc +1; rating -3.00
+CA-32,House,Larry Thompson,REP,0.000277,0.0045,mu +37.6 sd 6.9; lean +27.2; inc +1; rating -3.00
+CA-33,House,Pete Aguilar,DEM,0.998699,0.986928,mu +27.9 sd 6.9; lean +11.6; inc +1; rating -3.00
+CA-33,House,Stephanie Vargas,REP,0.001301,0.013072,mu +27.9 sd 6.9; lean +11.6; inc +1; rating -3.00
+CA-34,House,Jimmy Gomez,DEM,0.600349,0.178571,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Jimmy Gomez: +5.10/-0.45, Angela Gonzales-Torres: +3.24/+0.45"
+CA-34,House,Angela Gonzales-Torres,DEM,0.399651,0.821429,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Jimmy Gomez: +5.10/-0.45, Angela Gonzales-Torres: +3.24/+0.45"
+CA-35,House,Norma Torres,DEM,0.998375,0.986028,mu +26.7 sd 6.9; lean +9.5; inc +1; rating -3.00
+CA-35,House,Mike Cargile,REP,0.001625,0.013972,mu +26.7 sd 6.9; lean +9.5; inc +1; rating -3.00
+CA-36,House,Ted Lieu,DEM,0.99989,0.993484,mu +44.5 sd 6.9; lean +41.9; inc +1; rating -3.00
+CA-36,House,Houston Brignano,REP,0.00011,0.006516,mu +44.5 sd 6.9; lean +41.9; inc +1; rating -3.00
+CA-37,House,Sydney Kamlager-Dove,DEM,0.996408,0.975,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Sydney Kamlager-Dove: +6.44/+0.00, Samantha Mota: +0.81/+0.00"
+CA-37,House,Samantha Mota,DEM,0.003592,0.025,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Sydney Kamlager-Dove: +6.44/+0.00, Samantha Mota: +0.81/+0.00"
+CA-38,House,Hilda Solis,DEM,0.998621,0.98994,mu +27.6 sd 6.9; lean +14.2; inc +0; rating -3.00
+CA-38,House,Pedro Antonio Casas,REP,0.001379,0.01006,mu +27.6 sd 6.9; lean +14.2; inc +0; rating -3.00
+CA-39,House,Mark Takano,DEM,0.998657,0.979879,mu +27.7 sd 6.9; lean +11.3; inc +1; rating -3.00
+CA-39,House,Steve Manos,REP,0.001343,0.020121,mu +27.7 sd 6.9; lean +11.3; inc +1; rating -3.00
+CA-40,House,Ken Calvert,REP,0.67178,0.480583,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Ken Calvert: +3.66/-0.30, Young Kim: +2.20/+0.30"
+CA-40,House,Young Kim,REP,0.32822,0.519417,"same-party top-two: fitted within-party model (1.11 x primary lead/10 + -0.14 x inc + 0.32 x ln receipts ratio) + late poll lead x 0.15; scores Ken Calvert: +3.66/-0.30, Young Kim: +2.20/+0.30"
+CA-41,House,Linda Sánchez,DEM,0.999196,0.970913,mu +30.7 sd 6.9; lean +16.1; inc +1; rating -3.00
+CA-41,House,Mitch Clemmons,REP,0.000804,0.029087,mu +30.7 sd 6.9; lean +16.1; inc +1; rating -3.00
+CA-42,House,Robert Garcia,DEM,0.999101,0.98049,mu +30.1 sd 6.9; lean +15.1; inc +1; rating -3.00
+CA-42,House,Brian Burley,REP,0.000899,0.01951,mu +30.1 sd 6.9; lean +15.1; inc +1; rating -3.00
+CA-43,House,Maxine Waters,DEM,0.9999,0.981104,mu +45.3 sd 6.9; lean +52.1; inc +1; rating -3.00
+CA-43,House,Cristian Morales,REP,0.0001,0.018896,mu +45.3 sd 6.9; lean +52.1; inc +1; rating -3.00
+CA-44,House,Nanette Barragán,DEM,0.999876,0.9805,mu +43.6 sd 6.9; lean +37.8; inc +1; rating -3.00
+CA-44,House,Genevieve Angel,REP,0.000124,0.0195,mu +43.6 sd 6.9; lean +37.8; inc +1; rating -3.00
+CA-45,House,Derek Tran,DEM,0.994874,0.928036,mu +20.8 sd 6.9; lean +5.6; inc +1; rating -2.33
+CA-45,House,Chuong Vo,REP,0.005126,0.071964,mu +20.8 sd 6.9; lean +5.6; inc +1; rating -2.33
+CA-46,House,Lou Correa,DEM,0.999347,0.983483,mu +32.0 sd 6.9; lean +18.2; inc +1; rating -3.00
+CA-46,House,David Pan,REP,0.000653,0.016517,mu +32.0 sd 6.9; lean +18.2; inc +1; rating -3.00
+CA-47,House,Dave Min,DEM,0.998754,0.983325,mu +28.2 sd 6.9; lean +12.0; inc +1; rating -3.00
+CA-47,House,Jenny Le Roux,REP,0.001246,0.016675,mu +28.2 sd 6.9; lean +12.0; inc +1; rating -3.00
+CA-48,House,Marni von Wilpert,DEM,0.981229,0.9425,mu +11.3 sd 5.2; lean +5.0; inc +0; rating -1.17; polls +8.6 (w 0.44)
+CA-48,House,Jim Desmond,REP,0.018771,0.0575,mu +11.3 sd 5.2; lean +5.0; inc +0; rating -1.17; polls +8.6 (w 0.44)
+CA-49,House,Mike Levin,DEM,0.998993,0.987817,mu +29.4 sd 6.9; lean +14.0; inc +1; rating -3.00
+CA-49,House,Armen Kurdian,REP,0.001007,0.012183,mu +29.4 sd 6.9; lean +14.0; inc +1; rating -3.00
+CA-50,House,Scott Peters,DEM,0.999471,0.975988,mu +33.3 sd 6.9; lean +20.3; inc +1; rating -3.00
+CA-50,House,Stephen Cohen,REP,0.000529,0.024012,mu +33.3 sd 6.9; lean +20.3; inc +1; rating -3.00
+CA-51,House,Sara Jacobs,DEM,0.99947,0.981991,mu +33.3 sd 6.9; lean +20.3; inc +1; rating -3.00
+CA-51,House,Ricardo Cabrera,REP,0.00053,0.018009,mu +33.3 sd 6.9; lean +20.3; inc +1; rating -3.00
+CA-52,House,Juan Vargas,DEM,0.999429,0.984985,mu +32.8 sd 6.9; lean +19.5; inc +1; rating -3.00
+CA-52,House,Jeff Belle,REP,0.000571,0.015015,mu +32.8 sd 6.9; lean +19.5; inc +1; rating -3.00
+CO-01,House,Melat Kiros,DEM,0.9999,0.983516,mu +45.3 sd 6.9; lean +59.1; inc +0; rating -3.00
+CO-01,House,Christy Peterson,REP,0.0001,0.016484,mu +45.3 sd 6.9; lean +59.1; inc +0; rating -3.00
+CO-02,House,Joe Neguse,DEM,0.999891,0.986035,mu +44.7 sd 6.9; lean +42.4; inc +1; rating -3.00
+CO-02,House,Kelley Dennison,REP,0.000109,0.013965,mu +44.7 sd 6.9; lean +42.4; inc +1; rating -3.00
+CO-03,House,Dwayne Romero,DEM,0.111151,0.375,mu -5.9 sd 5.4; lean -8.5; inc -1; rating +2.00; polls +1.0 (w 0.34); dossier P(D) 0.32 at weight 0.15: model mu -6.6 -> -5.9 (P(D) 0.09 -> 0.11)
+CO-03,House,Jeff Hurd,REP,0.888849,0.625,mu -5.9 sd 5.4; lean -8.5; inc -1; rating +2.00; polls +1.0 (w 0.34); dossier P(D) 0.32 at weight 0.15: model mu -6.6 -> -5.9 (P(D) 0.09 -> 0.11)
+CO-04,House,Eileen Laubacher,DEM,0.047162,0.381188,mu -8.7 sd 5.4; lean -17.2; inc -1; rating +1.33; polls -6.9 (w 0.33); dossier P(D) 0.35 at weight 0.15: model mu -9.9 -> -8.7 (P(D) 0.03 -> 0.05)
+CO-04,House,Lauren Boebert,REP,0.952838,0.618812,mu -8.7 sd 5.4; lean -17.2; inc -1; rating +1.33; polls -6.9 (w 0.33); dossier P(D) 0.35 at weight 0.15: model mu -9.9 -> -8.7 (P(D) 0.03 -> 0.05)
+CO-05,House,Jessica Killin,DEM,0.50617,0.445,mu +0.1 sd 5.2; lean -7.8; inc -1; rating +0.00; polls +1.3 (w 0.49); dossier P(D) 0.45 at weight 0.15: model mu +0.2 -> +0.1 (P(D) 0.52 -> 0.51)
+CO-05,House,Jeff Crank,REP,0.49383,0.555,mu +0.1 sd 5.2; lean -7.8; inc -1; rating +0.00; polls +1.3 (w 0.49); dossier P(D) 0.45 at weight 0.15: model mu +0.2 -> +0.1 (P(D) 0.52 -> 0.51)
+CO-06,House,Jason Crow,DEM,0.999544,0.981991,mu +34.3 sd 6.9; lean +21.9; inc +1; rating -3.00
+CO-06,House,Jason Clark,REP,0.000456,0.018009,mu +34.3 sd 6.9; lean +21.9; inc +1; rating -3.00
+CO-07,House,Brittany Pettersen,DEM,0.999257,0.986412,mu +31.2 sd 6.9; lean +16.9; inc +1; rating -3.00
+CO-07,House,Tim Bennett,REP,0.000743,0.013588,mu +31.2 sd 6.9; lean +16.9; inc +1; rating -3.00
+CO-08,House,Manny Rutinel,DEM,0.83992,0.865,mu +4.7 sd 5.4; lean -0.4; inc -1; rating -0.83; polls -1.1 (w 0.33)
+CO-08,House,Gabe Evans,REP,0.16008,0.135,mu +4.7 sd 5.4; lean -0.4; inc -1; rating -0.83; polls -1.1 (w 0.33)
+CT-01,House,Luke Bronin,DEM,0.999528,0.992975,mu +34.1 sd 6.9; lean +24.8; inc +0; rating -3.00
+CT-01,House,Amy Chai,REP,0.000472,0.007025,mu +34.1 sd 6.9; lean +24.8; inc +0; rating -3.00
+CT-02,House,Joe Courtney,DEM,0.999436,0.982604,mu +25.5 sd 5.4; lean +9.4; inc +1; rating -3.00; polls +22.4 (w 0.33)
+CT-02,House,George Austin,REP,0.000564,0.017396,mu +25.5 sd 5.4; lean +9.4; inc +1; rating -3.00; polls +22.4 (w 0.33)
+CT-03,House,Rosa DeLauro,DEM,0.99917,0.979479,mu +30.5 sd 6.9; lean +15.8; inc +1; rating -3.00
+CT-03,House,Christopher Lancia,REP,0.00083,0.020521,mu +30.5 sd 6.9; lean +15.8; inc +1; rating -3.00
+CT-04,House,Jim Himes,DEM,0.999668,0.98099,mu +36.4 sd 6.9; lean +25.2; inc +1; rating -3.00
+CT-04,House,Michael Goldstein,REP,0.000332,0.01901,mu +36.4 sd 6.9; lean +25.2; inc +1; rating -3.00
+CT-05,House,Jahana Hayes,DEM,0.998106,0.974398,mu +20.0 sd 5.4; lean +7.2; inc +1; rating -3.00; polls +7.2 (w 0.33)
+CT-05,House,Chris Shea,REP,0.001894,0.025602,mu +20.0 sd 5.4; lean +7.2; inc +1; rating -3.00; polls +7.2 (w 0.33)
+DE-AL,House,Sarah McBride,DEM,0.999222,0.984909,mu +30.9 sd 6.9; lean +16.5; inc +1; rating -3.00
+DE-AL,House,Joseph Arminio,REP,0.000778,0.015091,mu +30.9 sd 6.9; lean +16.5; inc +1; rating -3.00
+FL-01,House,Gay Valimont,DEM,0.000834,0.028429,mu -30.5 sd 6.9; lean -36.1; inc -1; rating +3.00
+FL-01,House,Jimmy Patronis,REP,0.999166,0.971571,mu -30.5 sd 6.9; lean -36.1; inc -1; rating +3.00
+FL-02,House,Amanda Green,DEM,0.011535,0.086697,mu -17.1 sd 6.9; lean -16.7; inc +0; rating +3.00
+FL-02,House,Austin Rogers,REP,0.988465,0.913303,mu -17.1 sd 6.9; lean -16.7; inc +0; rating +3.00
+FL-03,House,Seth Harp,DEM,0.005134,0.0445,mu -20.8 sd 6.9; lean -19.8; inc -1; rating +3.00
+FL-03,House,Kat Cammack,REP,0.994866,0.9555,mu -20.8 sd 6.9; lean -19.8; inc -1; rating +3.00
+FL-04,House,LaShonda Holloway,DEM,0.028711,0.195,mu -13.3 sd 6.9; lean -10.5; inc -1; rating +3.00; dossier P(D) 0.13 at weight 0.25: model mu -15.3 -> -13.3 (P(D) 0.02 -> 0.03)
+FL-04,House,Aaron Bean,REP,0.971289,0.805,mu -13.3 sd 6.9; lean -10.5; inc -1; rating +3.00; dossier P(D) 0.13 at weight 0.25: model mu -15.3 -> -13.3 (P(D) 0.02 -> 0.03)
+FL-05,House,Rachel Grage,DEM,0.00491,0.054609,mu -21.0 sd 6.9; lean -20.2; inc -1; rating +3.00
+FL-05,House,John Rutherford,REP,0.99509,0.945391,mu -21.0 sd 6.9; lean -20.2; inc -1; rating +3.00
+FL-06,House,Eric Yonce,DEM,0.001794,0.028643,mu -26.1 sd 6.9; lean -28.8; inc -1; rating +3.00
+FL-06,House,Randy Fine,REP,0.998206,0.971357,mu -26.1 sd 6.9; lean -28.8; inc -1; rating +3.00
+FL-07,House,Bale Dalton,DEM,0.15615,0.345,mu -4.8 sd 5.4; lean -11.1; inc +0; rating +1.67; polls +0.0 (w 0.33); dossier P(D) 0.31 at weight 0.25: model mu -5.7 -> -4.8 (P(D) 0.12 -> 0.16)
+FL-07,House,Ryan Elijah,REP,0.84385,0.655,mu -4.8 sd 5.4; lean -11.1; inc +0; rating +1.67; polls +0.0 (w 0.33); dossier P(D) 0.31 at weight 0.25: model mu -5.7 -> -4.8 (P(D) 0.12 -> 0.16)
+FL-08,House,Jennifer Jenkins,DEM,0.005796,0.064436,mu -15.1 sd 5.2; lean -14.9; inc -1; rating +3.00; polls -10.1 (w 0.49)
+FL-08,House,Mike Haridopolos,REP,0.994204,0.935564,mu -15.1 sd 5.2; lean -14.9; inc -1; rating +3.00; polls -10.1 (w 0.49)
+FL-09,House,Darren Soto,DEM,0.113922,0.365,mu -5.8 sd 5.3; lean -16.4; inc +1; rating +1.67; polls -1.0 (w 0.37); dossier P(D) 0.37 at weight 0.15: model mu -6.5 -> -5.8 (P(D) 0.09 -> 0.11)
+FL-09,House,Dan Green,REP,0.886078,0.635,mu -5.8 sd 5.3; lean -16.4; inc +1; rating +1.67; polls -1.0 (w 0.37); dossier P(D) 0.37 at weight 0.15: model mu -6.5 -> -5.8 (P(D) 0.09 -> 0.11)
+FL-10,House,Maxwell Frost,DEM,0.999684,0.982,mu +36.7 sd 6.9; lean +25.8; inc +1; rating -3.00
+FL-10,House,Republican party,REP,0.000316,0.018,mu +36.7 sd 6.9; lean +25.8; inc +1; rating -3.00
+FL-11,House,James Pericola,DEM,0.019303,0.133663,mu -11.6 sd 5.4; lean -14.3; inc +0; rating +3.00; polls -1.0 (w 0.33)
+FL-11,House,Joe Strada,REP,0.980697,0.866337,mu -11.6 sd 5.4; lean -14.3; inc +0; rating +3.00; polls -1.0 (w 0.33)
+FL-12,House,Kimberly Overman,DEM,0.023834,0.155,mu -14.0 sd 6.9; lean -14.1; inc -1; rating +2.67; dossier P(D) 0.09 at weight 0.25: model mu -15.8 -> -14.0 (P(D) 0.02 -> 0.02)
+FL-12,House,Gus Bilirakis,REP,0.976166,0.845,mu -14.0 sd 6.9; lean -14.1; inc -1; rating +2.67; dossier P(D) 0.09 at weight 0.25: model mu -15.8 -> -14.0 (P(D) 0.02 -> 0.02)
+FL-13,House,Leela Gray,DEM,0.173527,0.375,mu -4.4 sd 5.2; lean -12.0; inc -1; rating +1.00; polls +0.1 (w 0.39); dossier P(D) 0.32 at weight 0.15: model mu -4.8 -> -4.4 (P(D) 0.15 -> 0.17)
+FL-13,House,Anna Paulina Luna,REP,0.826473,0.625,mu -4.4 sd 5.2; lean -12.0; inc -1; rating +1.00; polls +0.1 (w 0.39); dossier P(D) 0.32 at weight 0.15: model mu -4.8 -> -4.4 (P(D) 0.15 -> 0.17)
+FL-14,House,Kathy Castor,DEM,0.76068,0.742424,mu +3.3 sd 5.4; lean -9.1; inc +1; rating -0.17; polls +5.5 (w 0.34); dossier P(D) 0.70 at weight 0.15: model mu +3.5 -> +3.3 (P(D) 0.77 -> 0.76)
+FL-14,House,Mike Beltran,REP,0.23932,0.257576,mu +3.3 sd 5.4; lean -9.1; inc +1; rating -0.17; polls +5.5 (w 0.34); dossier P(D) 0.70 at weight 0.15: model mu +3.5 -> +3.3 (P(D) 0.77 -> 0.76)
+FL-15,House,Robert People,DEM,0.00598,0.064727,mu -20.1 sd 6.9; lean -18.6; inc -1; rating +3.00
+FL-15,House,Laurel Lee,REP,0.99402,0.935273,mu -20.1 sd 6.9; lean -18.6; inc -1; rating +3.00
+FL-16,House,Kelly Kirschner,DEM,0.074396,0.245,mu -7.1 sd 5.2; lean -12.3; inc +0; rating +2.00; polls -4.9 (w 0.40); dossier P(D) 0.23 at weight 0.25: model mu -8.3 -> -7.1 (P(D) 0.05 -> 0.07)
+FL-16,House,Sydney Gruters,REP,0.925604,0.755,mu -7.1 sd 5.2; lean -12.3; inc +0; rating +2.00; polls -4.9 (w 0.40); dossier P(D) 0.23 at weight 0.25: model mu -8.3 -> -7.1 (P(D) 0.05 -> 0.07)
+FL-17,House,Matthew Montavon,DEM,0.004581,0.0335,mu -21.4 sd 6.9; lean -20.7; inc -1; rating +3.00
+FL-17,House,Greg Steube,REP,0.995419,0.9665,mu -21.4 sd 6.9; lean -20.7; inc -1; rating +3.00
+FL-18,House,Curtis Gibson,DEM,0.008779,0.086198,mu -18.3 sd 6.9; lean -15.6; inc -1; rating +3.00
+FL-18,House,Scott Franklin,REP,0.991221,0.913802,mu -18.3 sd 6.9; lean -15.6; inc -1; rating +3.00
+FL-19,House,Victor Arias,DEM,0.002537,0.034414,mu -24.3 sd 6.9; lean -28.9; inc +0; rating +3.00
+FL-19,House,Jim Schwartzel,REP,0.997463,0.965586,mu -24.3 sd 6.9; lean -28.9; inc +0; rating +3.00
+FL-20,House,Debbie Wasserman Schultz,DEM,0.99988,0.983467,mu +43.9 sd 6.9; lean +39.0; inc +1; rating -3.00
+FL-20,House,Brent Andersen,REP,0.00012,0.016533,mu +43.9 sd 6.9; lean +39.0; inc +1; rating -3.00
+FL-21,House,James Martin,DEM,0.00451,0.110553,mu -16.6 sd 5.4; lean -14.9; inc -1; rating +3.00; polls -13.6 (w 0.33)
+FL-21,House,Brian Mast,REP,0.99549,0.889447,mu -16.6 sd 5.4; lean -14.9; inc -1; rating +3.00; polls -13.6 (w 0.33)
+FL-22,House,Pia Dandiya,DEM,0.554084,0.715,mu +0.6 sd 5.2; lean -8.9; inc +0; rating +0.00; polls +0.6 (w 0.46); dossier P(D) 0.56 at weight 0.25: model mu +0.6 -> +0.6 (P(D) 0.55 -> 0.55)
+FL-22,House,Casey Askar,REP,0.445916,0.285,mu +0.6 sd 5.2; lean -8.9; inc +0; rating +0.00; polls +0.6 (w 0.46); dossier P(D) 0.56 at weight 0.25: model mu +0.6 -> +0.6 (P(D) 0.55 -> 0.55)
+FL-23,House,Lois Frankel,DEM,0.999129,0.979889,mu +30.2 sd 6.9; lean +15.4; inc +1; rating -3.00
+FL-23,House,Deborah Adeimy,REP,0.000871,0.020111,mu +30.2 sd 6.9; lean +15.4; inc +1; rating -3.00
+FL-24,House,Oliver Gilbert,DEM,0.999871,0.985007,mu +43.3 sd 6.9; lean +40.6; inc +0; rating -3.00
+FL-24,House,Mayonna Te Brown,REP,0.000129,0.014993,mu +43.3 sd 6.9; lean +40.6; inc +0; rating -3.00
+FL-25,House,Jared Moskowitz,DEM,0.824709,0.816832,mu +4.4 sd 5.3; lean -7.7; inc +1; rating -0.83; polls +2.0 (w 0.59); dossier P(D) 0.78 at weight 0.25: model mu +4.6 -> +4.4 (P(D) 0.84 -> 0.82)
+FL-25,House,Scott Singer,REP,0.175291,0.183168,mu +4.4 sd 5.3; lean -7.7; inc +1; rating -0.83; polls +2.0 (w 0.59); dossier P(D) 0.78 at weight 0.25: model mu +4.6 -> +4.4 (P(D) 0.84 -> 0.82)
+FL-26,House,Nicole Locklin,DEM,0.007287,0.145,mu -19.2 sd 6.9; lean -17.0; inc -1; rating +3.00
+FL-26,House,Mario Díaz-Balart,REP,0.992713,0.855,mu -19.2 sd 6.9; lean -17.0; inc -1; rating +3.00
+FL-27,House,Eliott Rodriguez,DEM,0.165614,0.365,mu -4.5 sd 5.2; lean -13.2; inc -1; rating +1.00; polls -1.7 (w 0.47); dossier P(D) 0.35 at weight 0.25: model mu -5.4 -> -4.5 (P(D) 0.12 -> 0.17)
+FL-27,House,Maria Elvira Salazar,REP,0.834386,0.635,mu -4.5 sd 5.2; lean -13.2; inc -1; rating +1.00; polls -1.7 (w 0.47); dossier P(D) 0.35 at weight 0.25: model mu -5.4 -> -4.5 (P(D) 0.12 -> 0.17)
+FL-28,House,Phil Ehr,DEM,0.003055,0.073353,mu -23.4 sd 6.9; lean -24.1; inc -1; rating +3.00
+FL-28,House,Carlos Giménez,REP,0.996945,0.926647,mu -23.4 sd 6.9; lean -24.1; inc -1; rating +3.00
+GA-01,House,Amanda Hollowell,DEM,0.015688,0.08661,mu -15.8 sd 6.9; lean -14.4; inc +0; rating +3.00
+GA-01,House,Jim Kingston,REP,0.984312,0.91339,mu -15.8 sd 6.9; lean -14.4; inc +0; rating +3.00
+GA-02,House,Sanford Bishop,DEM,0.998301,0.978489,mu +26.4 sd 6.9; lean +9.2; inc +1; rating -3.00
+GA-02,House,Matt Day,REP,0.001699,0.021511,mu +26.4 sd 6.9; lean +9.2; inc +1; rating -3.00
+GA-03,House,Maura Keller,DEM,0.001851,0.047,mu -20.1 sd 5.4; lean -28.4; inc -1; rating +3.00; polls -6.3 (w 0.33)
+GA-03,House,Brian Jack,REP,0.998149,0.953,mu -20.1 sd 5.4; lean -28.4; inc -1; rating +3.00; polls -6.3 (w 0.33)
+GA-04,House,Hank Johnson,DEM,0.9999,0.989,mu +45.3 sd 6.9; lean +54.5; inc +1; rating -3.00
+GA-04,House,James Duffie,REP,0.0001,0.011,mu +45.3 sd 6.9; lean +54.5; inc +1; rating -3.00
+GA-05,House,Nikema Williams,DEM,0.9999,0.991984,mu +45.3 sd 6.9; lean +73.8; inc +1; rating -3.00
+GA-05,House,John Salvesen,REP,0.0001,0.008016,mu +45.3 sd 6.9; lean +73.8; inc +1; rating -3.00
+GA-06,House,Lucy McBath,DEM,0.9999,0.989016,mu +45.3 sd 6.9; lean +51.8; inc +1; rating -3.00
+GA-06,House,Kevin Martin,REP,0.0001,0.010984,mu +45.3 sd 6.9; lean +51.8; inc +1; rating -3.00
+GA-07,House,Anthony Kozycki,DEM,0.00795,0.071964,mu -14.3 sd 5.3; lean -20.8; inc -1; rating +3.00; polls +0.6 (w 0.38)
+GA-07,House,Rich McCormick,REP,0.99205,0.928036,mu -14.3 sd 5.3; lean -20.8; inc -1; rating +3.00; polls +0.6 (w 0.38)
+GA-08,House,Kelly Esti,DEM,0.001715,0.015952,mu -26.4 sd 6.9; lean -29.2; inc -1; rating +3.00
+GA-08,House,Austin Scott,REP,0.998285,0.984048,mu -26.4 sd 6.9; lean -29.2; inc -1; rating +3.00
+GA-09,House,Caitlyn Gegen,DEM,0.001165,0.020613,mu -28.5 sd 6.9; lean -32.8; inc -1; rating +3.00
+GA-09,House,Andrew Clyde,REP,0.998835,0.979387,mu -28.5 sd 6.9; lean -32.8; inc -1; rating +3.00
+GA-10,House,Pamela DeLancy,DEM,0.008055,0.021042,mu -18.7 sd 6.9; lean -19.4; inc +0; rating +3.00
+GA-10,House,Houston Gaines,REP,0.991945,0.978958,mu -18.7 sd 6.9; lean -19.4; inc +0; rating +3.00
+GA-11,House,Chris Harden,DEM,0.010084,0.036683,mu -13.7 sd 5.4; lean -22.1; inc +0; rating +3.00; polls +2.4 (w 0.33)
+GA-11,House,John Cowan,REP,0.989916,0.963317,mu -13.7 sd 5.4; lean -22.1; inc +0; rating +3.00; polls +2.4 (w 0.33)
+GA-12,House,Ceretta Smith,DEM,0.012845,0.145,mu -16.7 sd 6.9; lean -12.7; inc -1; rating +3.00
+GA-12,House,Rick Allen,REP,0.987155,0.855,mu -16.7 sd 6.9; lean -12.7; inc -1; rating +3.00
+GA-13,House,Jasmine Clark,DEM,0.999884,0.984531,mu +44.1 sd 6.9; lean +44.2; inc +0; rating -3.00
+GA-13,House,Jonathan Chavez,REP,0.000116,0.015469,mu +44.1 sd 6.9; lean +44.2; inc +0; rating -3.00
+GA-14,House,Shawn Harris,DEM,0.000884,0.02004,mu -30.2 sd 6.9; lean -35.5; inc -1; rating +3.00
+GA-14,House,Clay Fuller,REP,0.999116,0.97996,mu -30.2 sd 6.9; lean -35.5; inc -1; rating +3.00
+HI-01,House,Ed Case,DEM,0.999708,0.985471,mu +37.3 sd 6.9; lean +26.7; inc +1; rating -3.00
+HI-01,House,Adriel Lam,REP,0.000292,0.014529,mu +37.3 sd 6.9; lean +26.7; inc +1; rating -3.00
+HI-02,House,Jill Tokuda,DEM,0.999612,0.966983,mu +35.3 sd 6.9; lean +23.6; inc +1; rating -3.00
+HI-02,House,Brenton Awa,REP,0.000388,0.033017,mu +35.3 sd 6.9; lean +23.6; inc +1; rating -3.00
+IA-01,House,Christina Bohannan,DEM,0.94414,0.906528,mu +8.2 sd 5.3; lean -7.1; inc -1; rating -0.83; polls +21.2 (w 0.35)
+IA-01,House,Mariannette Miller-Meeks,REP,0.054861,0.083581,mu +8.2 sd 5.3; lean -7.1; inc -1; rating -0.83; polls +21.2 (w 0.35)
+IA-01,House,Michael Bridgford,IND,0.000999,0.009891,mu +8.2 sd 5.3; lean -7.1; inc -1; rating -0.83; polls +21.2 (w 0.35)
+IA-02,House,Lindsay James,DEM,0.692843,0.726368,mu +2.3 sd 5.3; lean -8.6; inc +0; rating -0.33; polls +3.0 (w 0.34); dossier P(D) 0.69 at weight 0.25: model mu +2.3 -> +2.3 (P(D) 0.69 -> 0.69)
+IA-02,House,Joe Mitchell,REP,0.307157,0.273632,mu +2.3 sd 5.3; lean -8.6; inc +0; rating -0.33; polls +3.0 (w 0.34); dossier P(D) 0.69 at weight 0.25: model mu +2.3 -> +2.3 (P(D) 0.69 -> 0.69)
+IA-03,House,Sarah Trone Garriott,DEM,0.8242,0.846535,mu +5.7 sd 6.9; lean -3.0; inc -1; rating -0.83; dossier P(D) 0.83 at weight 0.15: model mu +5.7 -> +5.7 (P(D) 0.82 -> 0.82)
+IA-03,House,Zach Nunn,REP,0.1758,0.153465,mu +5.7 sd 6.9; lean -3.0; inc -1; rating -0.83; dossier P(D) 0.83 at weight 0.15: model mu +5.7 -> +5.7 (P(D) 0.82 -> 0.82)
+IA-04,House,Dave Dawson,DEM,0.002144,0.016533,mu -25.2 sd 6.9; lean -30.4; inc +0; rating +3.00
+IA-04,House,Chris McGowan,REP,0.997856,0.983467,mu -25.2 sd 6.9; lean -30.4; inc +0; rating +3.00
+ID-01,House,Kaylee Peterson,DEM,0.000111,0.021457,mu -34.3 sd 5.3; lean -44.7; inc -1; rating +3.00; polls -32.9 (w 0.35)
+ID-01,House,Russ Fulcher,REP,0.999889,0.978543,mu -34.3 sd 5.3; lean -44.7; inc -1; rating +3.00; polls -32.9 (w 0.35)
+ID-02,House,Elinor Gilbreath,DEM,0.00096,0.02381,mu -23.0 sd 5.4; lean -26.1; inc -1; rating +3.00; polls -19.5 (w 0.33)
+ID-02,House,Mike Simpson,REP,0.99904,0.97619,mu -23.0 sd 5.4; lean -26.1; inc -1; rating +3.00; polls -19.5 (w 0.33)
+IL-01,House,Jonathan Jackson,DEM,0.999846,0.972986,mu +41.9 sd 6.9; lean +34.0; inc +1; rating -3.00
+IL-01,House,Christian Maxwell,REP,0.000154,0.027014,mu +41.9 sd 6.9; lean +34.0; inc +1; rating -3.00
+IL-02,House,Donna Miller,DEM,0.999815,0.988431,mu +40.5 sd 6.9; lean +35.1; inc +0; rating -3.00
+IL-02,House,Michael Noack,REP,0.000185,0.011569,mu +40.5 sd 6.9; lean +35.1; inc +0; rating -3.00
+IL-03,House,Delia Ramirez,DEM,0.999838,0.98001,mu +41.5 sd 6.9; lean +33.3; inc +1; rating -3.00
+IL-03,House,Angel Oakley,REP,0.000162,0.01999,mu +41.5 sd 6.9; lean +33.3; inc +1; rating -3.00
+IL-04,House,Patty Garcia,DEM,0.997904,0.937593,mu +33.9 sd 5.2; lean +30.3; inc +0; rating -3.00; polls +38.8 (w 0.50)
+IL-04,House,Lupe Castillo,REP,0.0001,0.002972,mu +33.9 sd 5.2; lean +30.3; inc +0; rating -3.00; polls +38.8 (w 0.50)
+IL-04,House,Mayra Macías,IND,0.000998,0.004953,mu +33.9 sd 5.2; lean +30.3; inc +0; rating -3.00; polls +38.8 (w 0.50)
+IL-04,House,Chris Getty,IND,0.000998,0.054482,mu +33.9 sd 5.2; lean +30.3; inc +0; rating -3.00; polls +38.8 (w 0.50)
+IL-05,House,Mike Quigley,DEM,0.99988,0.972541,mu +43.9 sd 6.9; lean +39.1; inc +1; rating -3.00
+IL-05,House,Tommy Hanson,REP,0.00012,0.027459,mu +43.9 sd 6.9; lean +39.1; inc +1; rating -3.00
+IL-06,House,Sean Casten,DEM,0.997851,0.986371,mu +25.2 sd 6.9; lean +7.1; inc +1; rating -3.00
+IL-06,House,Niki Conforti,REP,0.002149,0.013629,mu +25.2 sd 6.9; lean +7.1; inc +1; rating -3.00
+IL-07,House,La Shawn Ford,DEM,0.9999,0.98895,mu +45.3 sd 6.9; lean +67.7; inc +0; rating -3.00
+IL-07,House,Chad Koppie,REP,0.0001,0.01105,mu +45.3 sd 6.9; lean +67.7; inc +0; rating -3.00
+IL-08,House,Melissa Bean,DEM,0.997363,0.960101,mu +24.1 sd 6.9; lean +8.5; inc +0; rating -3.00
+IL-08,House,Jennifer Davis,REP,0.002637,0.039899,mu +24.1 sd 6.9; lean +8.5; inc +0; rating -3.00
+IL-09,House,Daniel Biss,DEM,0.999861,0.9825,mu +42.7 sd 6.9; lean +38.5; inc +0; rating -3.00
+IL-09,House,John Elleson,REP,0.000139,0.0175,mu +42.7 sd 6.9; lean +38.5; inc +0; rating -3.00
+IL-10,House,Brad Schneider,DEM,0.999622,0.973513,mu +35.5 sd 6.9; lean +23.8; inc +1; rating -3.00
+IL-10,House,Carl Lambrecht,REP,0.000378,0.026487,mu +35.5 sd 6.9; lean +23.8; inc +1; rating -3.00
+IL-11,House,Bill Foster,DEM,0.998897,0.986371,mu +28.9 sd 6.9; lean +13.1; inc +1; rating -3.00
+IL-11,House,Jeff Walter,REP,0.001103,0.013629,mu +28.9 sd 6.9; lean +13.1; inc +1; rating -3.00
+IL-12,House,Julie Fortier,DEM,0.000445,0.025615,mu -34.4 sd 6.9; lean -42.6; inc -1; rating +3.00
+IL-12,House,Mike Bost,REP,0.999555,0.974385,mu -34.4 sd 6.9; lean -42.6; inc -1; rating +3.00
+IL-13,House,Nikki Budzinski,DEM,0.998778,0.975402,mu +28.3 sd 6.9; lean +12.2; inc +1; rating -3.00
+IL-13,House,Jeff Wilson,REP,0.001222,0.024598,mu +28.3 sd 6.9; lean +12.2; inc +1; rating -3.00
+IL-14,House,Lauren Underwood,DEM,0.997772,0.98002,mu +25.0 sd 6.9; lean +6.8; inc +1; rating -3.00
+IL-14,House,James Marter,REP,0.002228,0.01998,mu +25.0 sd 6.9; lean +6.8; inc +1; rating -3.00
+IL-15,House,Jennifer Todd,DEM,0.00063,0.041417,mu -32.2 sd 6.9; lean -38.9; inc -1; rating +3.00
+IL-15,House,Mary Miller,REP,0.99937,0.958583,mu -32.2 sd 6.9; lean -38.9; inc -1; rating +3.00
+IL-16,House,Paul Nolley,DEM,0.004151,0.032533,mu -21.8 sd 6.9; lean -21.6; inc -1; rating +3.00
+IL-16,House,Darin LaHood,REP,0.995849,0.967467,mu -21.8 sd 6.9; lean -21.6; inc -1; rating +3.00
+IL-17,House,Eric Sorensen,DEM,0.997656,0.959337,mu +24.7 sd 6.9; lean +6.3; inc +1; rating -3.00
+IL-17,House,Dillan Vancil,REP,0.002344,0.040663,mu +24.7 sd 6.9; lean +6.3; inc +1; rating -3.00
+IN-01,House,Frank Mrvan,DEM,0.98843,0.976322,mu +17.1 sd 6.9; lean +1.9; inc +1; rating -2.00
+IN-01,House,Barb Regnitz,REP,0.01157,0.023678,mu +17.1 sd 6.9; lean +1.9; inc +1; rating -2.00
+IN-02,House,Jamee Decio,DEM,0.002628,0.029544,mu -24.1 sd 6.9; lean -25.4; inc -1; rating +3.00
+IN-02,House,Rudy Yakym,REP,0.997372,0.970456,mu -24.1 sd 6.9; lean -25.4; inc -1; rating +3.00
+IN-03,House,Kelly Thompson,DEM,0.001537,0.034431,mu -27.0 sd 6.9; lean -30.2; inc -1; rating +3.00
+IN-03,House,Marlin Stutzman,REP,0.998463,0.965569,mu -27.0 sd 6.9; lean -30.2; inc -1; rating +3.00
+IN-04,House,Drew Cox,DEM,0.001882,0.030424,mu -25.9 sd 6.9; lean -28.4; inc -1; rating +3.00
+IN-04,House,Jim Baird,REP,0.998118,0.969576,mu -25.9 sd 6.9; lean -28.4; inc -1; rating +3.00
+IN-05,House,J.D. Ford,DEM,0.070878,0.165,mu -7.1 sd 5.2; lean -15.6; inc -1; rating +1.67; polls -2.3 (w 0.46); dossier P(D) 0.22 at weight 0.25: model mu -8.4 -> -7.1 (P(D) 0.05 -> 0.07)
+IN-05,House,Victoria Spartz,REP,0.929122,0.835,mu -7.1 sd 5.2; lean -15.6; inc -1; rating +1.67; polls -2.3 (w 0.46); dossier P(D) 0.22 at weight 0.25: model mu -8.4 -> -7.1 (P(D) 0.05 -> 0.07)
+IN-06,House,Cynthia Wirth,DEM,0.001327,0.023606,mu -27.8 sd 6.9; lean -31.6; inc -1; rating +3.00
+IN-06,House,Jefferson Shreve,REP,0.998673,0.976394,mu -27.8 sd 6.9; lean -31.6; inc -1; rating +3.00
+IN-07,House,André Carson,DEM,0.999895,0.98497,mu +44.9 sd 6.9; lean +43.7; inc +1; rating -3.00
+IN-07,House,Patrick McAuley,REP,0.000105,0.01503,mu +44.9 sd 6.9; lean +43.7; inc +1; rating -3.00
+IN-08,House,Mary Allen,DEM,0.000932,0.036518,mu -29.8 sd 6.9; lean -35.0; inc -1; rating +3.00
+IN-08,House,Mark Messmer,REP,0.999068,0.963482,mu -29.8 sd 6.9; lean -35.0; inc -1; rating +3.00
+IN-09,House,Brad Meyer,DEM,0.001779,0.022077,mu -26.2 sd 6.9; lean -28.9; inc -1; rating +3.00
+IN-09,House,Erin Houchin,REP,0.998221,0.977923,mu -26.2 sd 6.9; lean -28.9; inc -1; rating +3.00
+KS-01,House,Lauren Reinhold,DEM,0.001517,0.0385,mu -27.1 sd 6.9; lean -30.3; inc -1; rating +3.00
+KS-01,House,Tracey Mann,REP,0.998483,0.9615,mu -27.1 sd 6.9; lean -30.3; inc -1; rating +3.00
+KS-02,House,Don Coover,DEM,0.032617,0.193069,mu -9.9 sd 5.4; lean -18.6; inc -1; rating +2.00; polls -3.2 (w 0.33); dossier P(D) 0.17 at weight 0.25: model mu -11.7 -> -9.9 (P(D) 0.02 -> 0.03)
+KS-02,House,Derek Schmidt,REP,0.967383,0.806931,mu -9.9 sd 5.4; lean -18.6; inc -1; rating +2.00; polls -3.2 (w 0.33); dossier P(D) 0.17 at weight 0.25: model mu -11.7 -> -9.9 (P(D) 0.02 -> 0.03)
+KS-03,House,Sharice Davids,DEM,0.99747,0.957648,mu +24.3 sd 6.9; lean +5.7; inc +1; rating -3.00
+KS-03,House,Eric Jenkins,REP,0.00253,0.042352,mu +24.3 sd 6.9; lean +5.7; inc +1; rating -3.00
+KS-04,House,Katy Tyndell,DEM,0.003838,0.040959,mu -22.2 sd 6.9; lean -22.2; inc -1; rating +3.00
+KS-04,House,Ron Estes,REP,0.996162,0.959041,mu -22.2 sd 6.9; lean -22.2; inc -1; rating +3.00
+KY-01,House,Drew Williams,DEM,0.000313,0.01655,mu -36.8 sd 6.9; lean -46.4; inc -1; rating +3.00
+KY-01,House,James Comer,REP,0.999687,0.98345,mu -36.8 sd 6.9; lean -46.4; inc -1; rating +3.00
+KY-02,House,Megan Wingfield,DEM,0.000545,0.0195,mu -33.1 sd 6.9; lean -40.4; inc -1; rating +3.00
+KY-02,House,Brett Guthrie,REP,0.999455,0.9805,mu -33.1 sd 6.9; lean -40.4; inc -1; rating +3.00
+KY-03,House,Morgan McGarvey,DEM,0.999493,0.974116,mu +33.6 sd 6.9; lean +20.8; inc +1; rating -3.00
+KY-03,House,Maria Rodriguez,REP,0.000507,0.025884,mu +33.6 sd 6.9; lean +20.8; inc +1; rating -3.00
+KY-04,House,Melissa Claire Strange,DEM,0.001348,0.0325,mu -27.7 sd 6.9; lean -34.7; inc +0; rating +3.00
+KY-04,House,Ed Gallrein,REP,0.998652,0.9675,mu -27.7 sd 6.9; lean -34.7; inc +0; rating +3.00
+KY-05,House,Ned Pillersdorf,DEM,0.000123,0.007996,mu -43.7 sd 6.9; lean -63.2; inc -1; rating +3.00
+KY-05,House,Hal Rogers,REP,0.999877,0.992004,mu -43.7 sd 6.9; lean -63.2; inc -1; rating +3.00
+KY-06,House,Zach Dembo,DEM,0.686964,0.549505,mu +2.3 sd 5.4; lean -13.8; inc +0; rating +0.00; polls +6.5 (w 0.66); dossier P(D) 0.56 at weight 0.15: model mu +2.6 -> +2.3 (P(D) 0.71 -> 0.69)
+KY-06,House,Ralph Alvarado,REP,0.313036,0.450495,mu +2.3 sd 5.4; lean -13.8; inc +0; rating +0.00; polls +6.5 (w 0.66); dossier P(D) 0.56 at weight 0.15: model mu +2.6 -> +2.3 (P(D) 0.71 -> 0.69)
+LA-01,House,Democratic party,DEM,0.000729,0.028127,mu -31.3 sd 6.9; lean -37.4; inc -1; rating +3.00
+LA-01,House,Republican party,REP,0.999271,0.971873,mu -31.3 sd 6.9; lean -37.4; inc -1; rating +3.00
+LA-02,House,Democratic party,DEM,0.9999,0.98497,mu +45.3 sd 6.9; lean +49.8; inc +1; rating -3.00
+LA-02,House,Republican party,REP,0.0001,0.01503,mu +45.3 sd 6.9; lean +49.8; inc +1; rating -3.00
+LA-03,House,Democratic party,DEM,0.000932,0.024451,mu -29.8 sd 6.9; lean -35.0; inc -1; rating +3.00
+LA-03,House,Republican party,REP,0.999068,0.975549,mu -29.8 sd 6.9; lean -35.0; inc -1; rating +3.00
+LA-04,House,Democratic party,DEM,0.001126,0.045432,mu -28.7 sd 6.9; lean -33.2; inc -1; rating +3.00
+LA-04,House,Republican party,REP,0.998874,0.954568,mu -28.7 sd 6.9; lean -33.2; inc -1; rating +3.00
+LA-05,House,Democratic party,DEM,0.002251,0.020408,mu -24.9 sd 6.9; lean -33.0; inc +0; rating +2.67
+LA-05,House,Republican party,REP,0.997749,0.979592,mu -24.9 sd 6.9; lean -33.0; inc +0; rating +2.67
+LA-06,House,Democratic party,DEM,0.007213,0.047548,mu -14.9 sd 5.4; lean -29.1; inc +0; rating +3.00; polls +8.6 (w 0.33)
+LA-06,House,Republican party,REP,0.992787,0.952452,mu -14.9 sd 5.4; lean -29.1; inc +0; rating +3.00; polls +8.6 (w 0.33)
+MA-01,House,Richard Neal,DEM,0.999134,0.991915,mu +30.3 sd 6.9; lean +15.4; inc +1; rating -3.00
+MA-01,House,Republican party,REP,0.000866,0.008085,mu +30.3 sd 6.9; lean +15.4; inc +1; rating -3.00
+MA-02,House,Jim McGovern,DEM,0.999684,0.988012,mu +36.7 sd 6.9; lean +25.8; inc +1; rating -3.00
+MA-02,House,Republican party,REP,0.000316,0.011988,mu +36.7 sd 6.9; lean +25.8; inc +1; rating -3.00
+MA-03,House,Lori Trahan,DEM,0.999499,0.978033,mu +33.7 sd 6.9; lean +20.9; inc +1; rating -3.00
+MA-03,House,Gary Grossi,REP,0.000501,0.021967,mu +33.7 sd 6.9; lean +20.9; inc +1; rating -3.00
+MA-04,House,Jake Auchincloss,DEM,0.999534,0.983425,mu +34.1 sd 6.9; lean +21.6; inc +1; rating -3.00
+MA-04,House,Tom Stalcup,REP,0.000466,0.016575,mu +34.1 sd 6.9; lean +21.6; inc +1; rating -3.00
+MA-05,House,Katherine Clark,DEM,0.9999,0.989437,mu +45.3 sd 6.9; lean +47.8; inc +1; rating -3.00
+MA-05,House,Republican party,REP,0.0001,0.010563,mu +45.3 sd 6.9; lean +47.8; inc +1; rating -3.00
+MA-06,House,Dan Koh,DEM,0.999418,0.963783,mu +32.7 sd 6.9; lean +22.6; inc +0; rating -3.00
+MA-06,House,Micah Jones,REP,0.000582,0.036217,mu +32.7 sd 6.9; lean +22.6; inc +0; rating -3.00
+MA-07,House,Ayanna Pressley,DEM,0.9999,0.987506,mu +45.3 sd 6.9; lean +66.6; inc +1; rating -3.00
+MA-07,House,Republican party,REP,0.0001,0.012494,mu +45.3 sd 6.9; lean +66.6; inc +1; rating -3.00
+MA-08,House,Stephen Lynch,DEM,0.999753,0.979115,mu +38.4 sd 6.9; lean +28.5; inc +1; rating -3.00
+MA-08,House,Robert Burke,REP,0.000247,0.020885,mu +38.4 sd 6.9; lean +28.5; inc +1; rating -3.00
+MA-09,House,Bill Keating,DEM,0.998816,0.9815,mu +28.5 sd 6.9; lean +12.4; inc +1; rating -3.00
+MA-09,House,Tyler MacAllister,REP,0.001184,0.0185,mu +28.5 sd 6.9; lean +12.4; inc +1; rating -3.00
+MD-01,House,Dan Schwartz,DEM,0.005026,0.136364,mu -16.2 sd 5.4; lean -15.8; inc -1; rating +2.67; polls -15.3 (w 0.33)
+MD-01,House,Andy Harris,REP,0.994974,0.863636,mu -16.2 sd 5.4; lean -15.8; inc -1; rating +2.67; polls -15.3 (w 0.33)
+MD-02,House,Johnny Olszewski,DEM,0.999477,0.991948,mu +33.4 sd 6.9; lean +20.4; inc +1; rating -3.00
+MD-02,House,Dave Wallace,REP,0.000523,0.008052,mu +33.4 sd 6.9; lean +20.4; inc +1; rating -3.00
+MD-03,House,Sarah Elfreth,DEM,0.99969,0.974576,mu +36.9 sd 6.9; lean +26.0; inc +1; rating -3.00
+MD-03,House,Berney Flowers,REP,0.00031,0.025424,mu +36.9 sd 6.9; lean +26.0; inc +1; rating -3.00
+MD-04,House,Glenn Ivey,DEM,0.9999,0.991496,mu +45.3 sd 6.9; lean +77.2; inc +1; rating -3.00
+MD-04,House,George McDermott,REP,0.0001,0.008504,mu +45.3 sd 6.9; lean +77.2; inc +1; rating -3.00
+MD-05,House,Adrian Boafo,DEM,0.999822,0.983533,mu +40.8 sd 6.9; lean +35.6; inc +0; rating -3.00
+MD-05,House,Chris Chaffee,REP,0.000178,0.016467,mu +40.8 sd 6.9; lean +35.6; inc +0; rating -3.00
+MD-06,House,April McClain Delaney,DEM,0.997935,0.978446,mu +25.4 sd 6.9; lean +7.4; inc +1; rating -3.00
+MD-06,House,Robin Ficker,REP,0.002065,0.021554,mu +25.4 sd 6.9; lean +7.4; inc +1; rating -3.00
+MD-07,House,Kweisi Mfume,DEM,0.9999,0.994464,mu +45.3 sd 6.9; lean +62.0; inc +1; rating -3.00
+MD-07,House,Scott Collier,REP,0.0001,0.005536,mu +45.3 sd 6.9; lean +62.0; inc +1; rating -3.00
+MD-08,House,Jamie Raskin,DEM,0.9999,0.986042,mu +45.3 sd 6.9; lean +59.6; inc +1; rating -3.00
+MD-08,House,Cheryl Riley,REP,0.0001,0.013958,mu +45.3 sd 6.9; lean +59.6; inc +1; rating -3.00
+ME-01,House,Chellie Pingree,DEM,0.999845,0.97951,mu +32.5 sd 5.4; lean +23.6; inc +1; rating -3.00; polls +23.9 (w 0.33)
+ME-01,House,Ronald Russell,REP,0.000155,0.02049,mu +32.5 sd 5.4; lean +23.6; inc +1; rating -3.00; polls +23.9 (w 0.33)
+ME-02,House,Matt Dunlap,DEM,0.459007,0.439394,mu -0.5 sd 5.4; lean -7.7; inc +0; rating +1.00; polls +2.7 (w 0.65); dossier P(D) 0.47 at weight 0.15: model mu -0.5 -> -0.5 (P(D) 0.46 -> 0.46)
+ME-02,House,Paul LePage,REP,0.540993,0.560606,mu -0.5 sd 5.4; lean -7.7; inc +0; rating +1.00; polls +2.7 (w 0.65); dossier P(D) 0.47 at weight 0.15: model mu -0.5 -> -0.5 (P(D) 0.46 -> 0.46)
+MI-01,House,Callie Barr,DEM,0.005006,0.133663,mu -20.9 sd 6.9; lean -20.0; inc -1; rating +3.00
+MI-01,House,Jack Bergman,REP,0.994994,0.866337,mu -20.9 sd 6.9; lean -20.0; inc -1; rating +3.00
+MI-02,House,Benjamin Ambrose,DEM,0.001749,0.011011,mu -26.3 sd 6.9; lean -29.0; inc -1; rating +3.00
+MI-02,House,John Moolenaar,REP,0.998251,0.988989,mu -26.3 sd 6.9; lean -29.0; inc -1; rating +3.00
+MI-03,House,Hillary Scholten,DEM,0.997709,0.963372,mu +24.8 sd 6.9; lean +9.5; inc +1; rating -2.67
+MI-03,House,Terri DeBoer,REP,0.002291,0.036628,mu +24.8 sd 6.9; lean +9.5; inc +1; rating -2.67
+MI-04,House,Sean McCann,DEM,0.496491,0.615,mu -0.0 sd 5.3; lean -4.1; inc -1; rating +0.00; polls -3.8 (w 0.38); dossier P(D) 0.56 at weight 0.15: model mu -0.2 -> -0.0 (P(D) 0.48 -> 0.50)
+MI-04,House,Bill Huizenga,REP,0.503509,0.385,mu -0.0 sd 5.3; lean -4.1; inc -1; rating +0.00; polls -3.8 (w 0.38); dossier P(D) 0.56 at weight 0.15: model mu -0.2 -> -0.0 (P(D) 0.48 -> 0.50)
+MI-05,House,Christian Vukasovich,DEM,0.002484,0.060787,mu -24.4 sd 6.9; lean -25.9; inc -1; rating +3.00
+MI-05,House,Tim Walberg,REP,0.997516,0.939213,mu -24.4 sd 6.9; lean -25.9; inc -1; rating +3.00
+MI-06,House,Debbie Dingell,DEM,0.999673,0.982983,mu +36.5 sd 6.9; lean +25.4; inc +1; rating -3.00
+MI-06,House,Heather Smiley,REP,0.000327,0.017017,mu +36.5 sd 6.9; lean +25.4; inc +1; rating -3.00
+MI-07,House,William Lawrence,DEM,0.830002,0.782828,mu +4.5 sd 5.3; lean +0.2; inc -1; rating +0.00; polls +7.8 (w 0.36); dossier P(D) 0.79 at weight 0.25: model mu +4.7 -> +4.5 (P(D) 0.84 -> 0.83)
+MI-07,House,Tom Barrett,REP,0.169998,0.217172,mu +4.5 sd 5.3; lean +0.2; inc -1; rating +0.00; polls +7.8 (w 0.36); dossier P(D) 0.79 at weight 0.25: model mu +4.7 -> +4.5 (P(D) 0.84 -> 0.83)
+MI-08,House,Kristen McDonald Rivet,DEM,0.988947,0.973764,mu +17.3 sd 6.9; lean -0.5; inc +1; rating -2.33
+MI-08,House,Thomas J. Smith,REP,0.011053,0.026236,mu +17.3 sd 6.9; lean -0.5; inc +1; rating -2.33
+MI-09,House,Ray Pooley,DEM,0.001373,0.023618,mu -27.6 sd 6.9; lean -31.3; inc -1; rating +3.00
+MI-09,House,Lisa McClain,REP,0.998627,0.976382,mu -27.6 sd 6.9; lean -31.3; inc -1; rating +3.00
+MI-10,House,Christina Hines,DEM,0.484268,0.757426,mu -0.2 sd 5.3; lean -5.2; inc +0; rating +0.17; polls -6.5 (w 0.34); dossier P(D) 0.62 at weight 0.15: model mu -0.5 -> -0.2 (P(D) 0.46 -> 0.48)
+MI-10,House,Michael Bouchard Jr.,REP,0.515732,0.242574,mu -0.2 sd 5.3; lean -5.2; inc +0; rating +0.17; polls -6.5 (w 0.34); dossier P(D) 0.62 at weight 0.15: model mu -0.5 -> -0.2 (P(D) 0.46 -> 0.48)
+MI-11,House,Jeremy Moss,DEM,0.999068,0.987361,mu +29.8 sd 6.9; lean +17.9; inc +0; rating -3.00
+MI-11,House,Ethan Baker,REP,0.000932,0.012639,mu +29.8 sd 6.9; lean +17.9; inc +0; rating -3.00
+MI-12,House,Rashida Tlaib,DEM,0.999888,0.983025,mu +44.4 sd 6.9; lean +41.4; inc +1; rating -3.00
+MI-12,House,James Hooper,REP,0.000112,0.016975,mu +44.4 sd 6.9; lean +41.4; inc +1; rating -3.00
+MI-13,House,Donavan McKinney,DEM,0.999881,0.977945,mu +44.0 sd 6.9; lean +43.5; inc +0; rating -3.00
+MI-13,House,T.P. Nykoriak,REP,0.000119,0.022055,mu +44.0 sd 6.9; lean +43.5; inc +0; rating -3.00
+MN-01,House,Jake Johnson,DEM,0.247013,0.391089,mu -3.1 sd 5.2; lean -10.7; inc -1; rating +1.00; polls +0.4 (w 0.56); dossier P(D) 0.44 at weight 0.15: model mu -3.5 -> -3.1 (P(D) 0.22 -> 0.25)
+MN-01,House,Brad Finstad,REP,0.752987,0.608911,mu -3.1 sd 5.2; lean -10.7; inc -1; rating +1.00; polls +0.4 (w 0.56); dossier P(D) 0.44 at weight 0.15: model mu -3.5 -> -3.1 (P(D) 0.22 -> 0.25)
+MN-02,House,Matt Little,DEM,0.99516,0.94697,mu +16.4 sd 5.4; lean +7.5; inc +0; rating -2.00; polls +12.0 (w 0.33)
+MN-02,House,Eric Pratt,REP,0.00484,0.05303,mu +16.4 sd 5.4; lean +7.5; inc +0; rating -2.00; polls +12.0 (w 0.33)
+MN-03,House,Kelly Morrison,DEM,0.999599,0.97261,mu +35.1 sd 6.9; lean +23.2; inc +1; rating -3.00
+MN-03,House,Tyler Bass,REP,0.000401,0.02739,mu +35.1 sd 6.9; lean +23.2; inc +1; rating -3.00
+MN-04,House,Betty McCollum,DEM,0.999876,0.973843,mu +43.6 sd 6.9; lean +38.0; inc +1; rating -3.00
+MN-04,House,Paul Wikstrom,REP,0.000124,0.026157,mu +43.6 sd 6.9; lean +38.0; inc +1; rating -3.00
+MN-05,House,Ilhan Omar,DEM,0.998901,0.964659,mu +45.3 sd 6.9; lean +65.0; inc +1; rating -3.00
+MN-05,House,John Nagel,REP,0.0001,0.030363,mu +45.3 sd 6.9; lean +65.0; inc +1; rating -3.00
+MN-05,House,DeVelle Jackson,IND,0.000999,0.004978,mu +45.3 sd 6.9; lean +65.0; inc +1; rating -3.00
+MN-06,House,Doug Chapin,DEM,0.006002,0.067231,mu -20.1 sd 6.9; lean -18.6; inc -1; rating +3.00
+MN-06,House,Tom Emmer,REP,0.993998,0.932769,mu -20.1 sd 6.9; lean -18.6; inc -1; rating +3.00
+MN-07,House,Erik Osberg,DEM,0.000877,0.03998,mu -30.2 sd 6.9; lean -35.6; inc -1; rating +3.00
+MN-07,House,Michelle Fischbach,REP,0.999123,0.96002,mu -30.2 sd 6.9; lean -35.6; inc -1; rating +3.00
+MN-08,House,Trina Swanson,DEM,0.016935,0.153465,mu -12.0 sd 5.4; lean -13.0; inc -1; rating +3.00; polls -7.5 (w 0.33); dossier P(D) 0.12 at weight 0.25: model mu -14.1 -> -12.0 (P(D) 0.01 -> 0.02)
+MN-08,House,Pete Stauber,REP,0.983065,0.846535,mu -12.0 sd 5.4; lean -13.0; inc -1; rating +3.00; polls -7.5 (w 0.33); dossier P(D) 0.12 at weight 0.25: model mu -14.1 -> -12.0 (P(D) 0.01 -> 0.02)
+MO-01,House,Wesley Bell,DEM,0.9999,0.99049,mu +45.3 sd 6.9; lean +59.7; inc +1; rating -3.00
+MO-01,House,Paul Berry,REP,0.0001,0.00951,mu +45.3 sd 6.9; lean +59.7; inc +1; rating -3.00
+MO-02,House,Fred Wellman,DEM,0.238657,0.368687,mu -3.2 sd 5.2; lean -6.5; inc -1; rating +1.67; polls +1.8 (w 0.53); dossier P(D) 0.43 at weight 0.15: model mu -3.6 -> -3.2 (P(D) 0.21 -> 0.24)
+MO-02,House,Ann Wagner,REP,0.761343,0.631313,mu -3.2 sd 5.2; lean -6.5; inc -1; rating +1.67; polls +1.8 (w 0.53); dossier P(D) 0.43 at weight 0.15: model mu -3.6 -> -3.2 (P(D) 0.21 -> 0.24)
+MO-03,House,Bethany Mann,DEM,0.002575,0.028443,mu -24.2 sd 6.9; lean -25.6; inc -1; rating +3.00
+MO-03,House,Bob Onder,REP,0.997425,0.971557,mu -24.2 sd 6.9; lean -25.6; inc -1; rating +3.00
+MO-04,House,Jordan Herrera,DEM,0.000501,0.0315,mu -33.7 sd 6.9; lean -41.3; inc -1; rating +3.00
+MO-04,House,Mark Alford,REP,0.999499,0.9685,mu -33.7 sd 6.9; lean -41.3; inc -1; rating +3.00
+MO-05,House,Emanuel Cleaver,DEM,0.999661,0.967435,mu +36.2 sd 6.9; lean +25.0; inc +1; rating -3.00
+MO-05,House,Rick Brattin,REP,0.000339,0.032565,mu +36.2 sd 6.9; lean +25.0; inc +1; rating -3.00
+MO-06,House,Josh Smead,DEM,0.000971,0.024685,mu -29.6 sd 6.9; lean -37.8; inc +0; rating +3.00
+MO-06,House,Chris Stigall,REP,0.999029,0.975315,mu -29.6 sd 6.9; lean -37.8; inc +0; rating +3.00
+MO-07,House,Missi Hesketh,DEM,0.000487,0.030515,mu -33.8 sd 6.9; lean -41.6; inc -1; rating +3.00
+MO-07,House,Eric Burlison,REP,0.999513,0.969485,mu -33.8 sd 6.9; lean -41.6; inc -1; rating +3.00
+MO-08,House,Chris Reichard,DEM,0.000175,0.011017,mu -41.0 sd 6.9; lean -53.1; inc -1; rating +3.00
+MO-08,House,Jason Smith,REP,0.999825,0.988983,mu -41.0 sd 6.9; lean -53.1; inc -1; rating +3.00
+MS-01,House,Cliff Johnson,DEM,0.000839,0.022055,mu -30.5 sd 6.9; lean -36.0; inc -1; rating +3.00
+MS-01,House,Trent Kelly,REP,0.999161,0.977945,mu -30.5 sd 6.9; lean -36.0; inc -1; rating +3.00
+MS-02,House,Bennie Thompson,DEM,0.999553,0.985507,mu +34.4 sd 6.9; lean +22.1; inc +1; rating -3.00
+MS-02,House,Ron Eller,REP,0.000447,0.014493,mu +34.4 sd 6.9; lean +22.1; inc +1; rating -3.00
+MS-03,House,Michael Chiaradio,DEM,0.00197,0.0165,mu -25.6 sd 6.9; lean -28.0; inc -1; rating +3.00
+MS-03,House,Michael Guest,REP,0.99803,0.9835,mu -25.6 sd 6.9; lean -28.0; inc -1; rating +3.00
+MS-04,House,Jeffrey Hulum III,DEM,0.000493,0.0285,mu -33.8 sd 6.9; lean -41.5; inc -1; rating +3.00
+MS-04,House,Mike Ezell,REP,0.999507,0.9715,mu -33.8 sd 6.9; lean -41.5; inc -1; rating +3.00
+MT-01,House,Sam Forstag,DEM,0.685439,0.579208,mu +2.3 sd 5.6; lean -10.4; inc +0; rating +0.00; polls +5.0 (w 0.70); dossier P(D) 0.57 at weight 0.25: model mu +2.8 -> +2.3 (P(D) 0.72 -> 0.69)
+MT-01,House,Aaron Flint,REP,0.314561,0.420792,mu +2.3 sd 5.6; lean -10.4; inc +0; rating +0.00; polls +5.0 (w 0.70); dossier P(D) 0.57 at weight 0.25: model mu +2.8 -> +2.3 (P(D) 0.72 -> 0.69)
+MT-02,House,Brian Miller,DEM,0.000494,0.008052,mu -25.7 sd 5.3; lean -29.0; inc -1; rating +3.00; polls -24.0 (w 0.38)
+MT-02,House,Troy Downing,REP,0.999506,0.991948,mu -25.7 sd 5.3; lean -29.0; inc -1; rating +3.00; polls -24.0 (w 0.38)
+NC-01,House,Don Davis,DEM,0.771683,0.845,mu +3.4 sd 5.2; lean -10.1; inc +1; rating -0.50; polls +2.6 (w 0.58); dossier P(D) 0.79 at weight 0.15: model mu +3.4 -> +3.4 (P(D) 0.77 -> 0.77)
+NC-01,House,Laurie Buckhout,REP,0.228317,0.155,mu +3.4 sd 5.2; lean -10.1; inc +1; rating -0.50; polls +2.6 (w 0.58); dossier P(D) 0.79 at weight 0.15: model mu +3.4 -> +3.4 (P(D) 0.77 -> 0.77)
+NC-02,House,Deborah Ross,DEM,0.999869,0.985478,mu +43.2 sd 6.9; lean +35.9; inc +1; rating -3.00
+NC-02,House,Gene Douglass,REP,0.000131,0.014522,mu +43.2 sd 6.9; lean +35.9; inc +1; rating -3.00
+NC-03,House,Raymond Smith Jr.,DEM,0.066338,0.445,mu -7.6 sd 5.4; lean -12.3; inc -1; rating +2.00; polls -4.5 (w 0.33); dossier P(D) 0.35 at weight 0.25: model mu -9.6 -> -7.6 (P(D) 0.04 -> 0.07)
+NC-03,House,Greg Murphy,REP,0.933662,0.555,mu -7.6 sd 5.4; lean -12.3; inc -1; rating +2.00; polls -4.5 (w 0.33); dossier P(D) 0.35 at weight 0.25: model mu -9.6 -> -7.6 (P(D) 0.04 -> 0.07)
+NC-04,House,Valerie Foushee,DEM,0.9999,0.977978,mu +45.3 sd 6.9; lean +47.6; inc +1; rating -3.00
+NC-04,House,Max Ganorkar,REP,0.0001,0.022022,mu +45.3 sd 6.9; lean +47.6; inc +1; rating -3.00
+NC-05,House,Chuck Hubbard,DEM,0.016302,0.185,mu -15.6 sd 6.9; lean -16.5; inc -1; rating +2.67; dossier P(D) 0.15 at weight 0.15: model mu -17.2 -> -15.6 (P(D) 0.01 -> 0.02)
+NC-05,House,Virginia Foxx,REP,0.983698,0.815,mu -15.6 sd 6.9; lean -16.5; inc -1; rating +2.67; dossier P(D) 0.15 at weight 0.15: model mu -17.2 -> -15.6 (P(D) 0.01 -> 0.02)
+NC-06,House,Cyril Jefferson,DEM,0.008475,0.125,mu -18.5 sd 6.9; lean -15.9; inc -1; rating +3.00
+NC-06,House,Addison McDowell,REP,0.991525,0.875,mu -18.5 sd 6.9; lean -15.9; inc -1; rating +3.00
+NC-07,House,Kim Hardy,DEM,0.017011,0.235,mu -12.0 sd 5.4; lean -12.4; inc -1; rating +3.00; polls -8.1 (w 0.33); dossier P(D) 0.12 at weight 0.25: model mu -14.1 -> -12.0 (P(D) 0.01 -> 0.02)
+NC-07,House,David Rouzer,REP,0.982989,0.765,mu -12.0 sd 5.4; lean -12.4; inc -1; rating +3.00; polls -8.1 (w 0.33); dossier P(D) 0.12 at weight 0.25: model mu -14.1 -> -12.0 (P(D) 0.01 -> 0.02)
+NC-08,House,Colby Watson,DEM,0.006377,0.052474,mu -19.8 sd 6.9; lean -18.1; inc -1; rating +3.00
+NC-08,House,Mark Harris,REP,0.993623,0.947526,mu -19.8 sd 6.9; lean -18.1; inc -1; rating +3.00
+NC-09,House,Richard Ojeda,DEM,0.035772,0.335,mu -9.4 sd 5.3; lean -14.5; inc -1; rating +2.33; polls -5.5 (w 0.37); dossier P(D) 0.27 at weight 0.25: model mu -11.6 -> -9.4 (P(D) 0.02 -> 0.04)
+NC-09,House,Richard Hudson,REP,0.964228,0.665,mu -9.4 sd 5.3; lean -14.5; inc -1; rating +2.33; polls -5.5 (w 0.37); dossier P(D) 0.27 at weight 0.25: model mu -11.6 -> -9.4 (P(D) 0.02 -> 0.04)
+NC-10,House,Ashley Bell,DEM,0.00791,0.060259,mu -18.8 sd 6.9; lean -16.4; inc -1; rating +3.00
+NC-10,House,Pat Harrigan,REP,0.99209,0.939741,mu -18.8 sd 6.9; lean -16.4; inc -1; rating +3.00
+NC-11,House,Jamie Ager,DEM,0.882695,0.845,mu +5.6 sd 5.2; lean -8.1; inc +0; rating -0.83; polls +7.4 (w 0.49); dossier P(D) 0.87 at weight 0.25: model mu +5.7 -> +5.6 (P(D) 0.89 -> 0.88)
+NC-11,House,Jennifer Balkcom,REP,0.117305,0.155,mu +5.6 sd 5.2; lean -8.1; inc +0; rating -0.83; polls +7.4 (w 0.49); dossier P(D) 0.87 at weight 0.25: model mu +5.7 -> +5.6 (P(D) 0.89 -> 0.88)
+NC-12,House,Alma Adams,DEM,0.9999,0.980471,mu +45.3 sd 6.9; lean +48.6; inc +1; rating -3.00
+NC-12,House,Jack Codiga,REP,0.0001,0.019529,mu +45.3 sd 6.9; lean +48.6; inc +1; rating -3.00
+NC-13,House,Paul Barringer,DEM,0.030222,0.405,mu -13.0 sd 6.9; lean -15.1; inc -1; rating +2.33; dossier P(D) 0.34 at weight 0.15: model mu -14.9 -> -13.0 (P(D) 0.02 -> 0.03)
+NC-13,House,Brad Knott,REP,0.969778,0.595,mu -13.0 sd 6.9; lean -15.1; inc -1; rating +2.33; dossier P(D) 0.34 at weight 0.15: model mu -14.9 -> -13.0 (P(D) 0.02 -> 0.03)
+NC-14,House,LaKesha Womack,DEM,0.020742,0.227273,mu -14.6 sd 6.9; lean -13.7; inc -1; rating +3.00; dossier P(D) 0.14 at weight 0.25: model mu -17.2 -> -14.6 (P(D) 0.01 -> 0.02)
+NC-14,House,Tim Moore,REP,0.979258,0.772727,mu -14.6 sd 6.9; lean -13.7; inc -1; rating +3.00; dossier P(D) 0.14 at weight 0.25: model mu -17.2 -> -14.6 (P(D) 0.01 -> 0.02)
+ND-AL,House,Trygve Hammer,DEM,0.000851,0.018081,mu -30.4 sd 6.9; lean -35.9; inc -1; rating +3.00
+ND-AL,House,Julie Fedorchak,REP,0.999149,0.981919,mu -30.4 sd 6.9; lean -35.9; inc -1; rating +3.00
+NE-01,House,Chris Backemeyer,DEM,0.076962,0.226131,mu -7.0 sd 5.3; lean -11.7; inc -1; rating +2.00; polls -1.9 (w 0.38); dossier P(D) 0.27 at weight 0.25: model mu -8.4 -> -7.0 (P(D) 0.05 -> 0.08)
+NE-01,House,Mike Flood,REP,0.922039,0.768844,mu -7.0 sd 5.3; lean -11.7; inc -1; rating +2.00; polls -1.9 (w 0.38); dossier P(D) 0.27 at weight 0.25: model mu -8.4 -> -7.0 (P(D) 0.05 -> 0.08)
+NE-01,House,Austin Ahlman,IND,0.000999,0.005025,mu -7.0 sd 5.3; lean -11.7; inc -1; rating +2.00; polls -1.9 (w 0.38); dossier P(D) 0.27 at weight 0.25: model mu -8.4 -> -7.0 (P(D) 0.05 -> 0.08)
+NE-02,House,Denise Powell,DEM,0.992918,0.918,mu +14.6 sd 5.2; lean +6.2; inc +0; rating -1.67; polls +12.4 (w 0.40)
+NE-02,House,Brinker Harding,REP,0.007082,0.082,mu +14.6 sd 5.2; lean +6.2; inc +0; rating -1.67; polls +12.4 (w 0.40)
+NE-03,House,Becky Stille,DEM,0.000178,0.009023,mu -40.8 sd 6.9; lean -52.9; inc -1; rating +3.00
+NE-03,House,Adrian Smith,REP,0.999822,0.990977,mu -40.8 sd 6.9; lean -52.9; inc -1; rating +3.00
+NH-01,House,Stefany Shaheen,DEM,0.979619,0.946766,mu +11.1 sd 5.2; lean +3.5; inc +0; rating -1.67; polls +4.5 (w 0.41)
+NH-01,House,Anthony DiLorenzo,REP,0.020381,0.053234,mu +11.1 sd 5.2; lean +3.5; inc +0; rating -1.67; polls +4.5 (w 0.41)
+NH-02,House,Maggie Goodlander,DEM,0.998806,0.943556,mu +21.2 sd 5.2; lean +5.1; inc +1; rating -2.67; polls +18.7 (w 0.45)
+NH-02,House,Lily Tang Williams,REP,0.001194,0.056444,mu +21.2 sd 5.2; lean +5.1; inc +1; rating -2.67; polls +18.7 (w 0.45)
+NJ-01,House,Donald Norcross,DEM,0.999481,0.978894,mu +33.4 sd 6.9; lean +20.5; inc +1; rating -3.00
+NJ-01,House,Damon Galdo,REP,0.000519,0.021106,mu +33.4 sd 6.9; lean +20.5; inc +1; rating -3.00
+NJ-02,House,Zack Mullock,DEM,0.038072,0.30198,mu -9.4 sd 5.4; lean -11.2; inc -1; rating +2.00; polls -12.1 (w 0.33); dossier P(D) 0.21 at weight 0.25: model mu -11.2 -> -9.4 (P(D) 0.02 -> 0.04)
+NJ-02,House,Jeff Van Drew,REP,0.961928,0.69802,mu -9.4 sd 5.4; lean -11.2; inc -1; rating +2.00; polls -12.1 (w 0.33); dossier P(D) 0.21 at weight 0.25: model mu -11.2 -> -9.4 (P(D) 0.02 -> 0.04)
+NJ-03,House,Herb Conaway,DEM,0.998454,0.982341,mu +27.0 sd 6.9; lean +10.0; inc +1; rating -3.00
+NJ-03,House,Michael McGuire,REP,0.001546,0.017659,mu +27.0 sd 6.9; lean +10.0; inc +1; rating -3.00
+NJ-04,House,Rachel Peace,DEM,0.00175,0.049352,mu -26.3 sd 6.9; lean -29.0; inc -1; rating +3.00
+NJ-04,House,Chris Smith,REP,0.99825,0.950648,mu -26.3 sd 6.9; lean -29.0; inc -1; rating +3.00
+NJ-05,House,Josh Gottheimer,DEM,0.996538,0.982949,mu +22.7 sd 6.9; lean +3.0; inc +1; rating -3.00
+NJ-05,House,Sean Kirrane,REP,0.003462,0.017051,mu +22.7 sd 6.9; lean +3.0; inc +1; rating -3.00
+NJ-06,House,Frank Pallone,DEM,0.998086,0.98745,mu +25.8 sd 6.9; lean +8.1; inc +1; rating -3.00
+NJ-06,House,Hillary Herzig,REP,0.001914,0.01255,mu +25.8 sd 6.9; lean +8.1; inc +1; rating -3.00
+NJ-07,House,Rebecca Bennett,DEM,0.912918,0.9334,mu +6.8 sd 5.4; lean +0.3; inc -1; rating -0.83; polls +5.6 (w 0.33)
+NJ-07,House,Thomas Kean Jr.,REP,0.087082,0.0666,mu +6.8 sd 5.4; lean +0.3; inc -1; rating -0.83; polls +5.6 (w 0.33)
+NJ-08,House,Rob Menendez,DEM,0.999699,0.983558,mu +37.1 sd 6.9; lean +26.3; inc +1; rating -3.00
+NJ-08,House,Republican party,REP,0.000301,0.016442,mu +37.1 sd 6.9; lean +26.3; inc +1; rating -3.00
+NJ-09,House,Nellie Pou,DEM,0.990096,0.969834,mu +17.8 sd 6.9; lean +0.3; inc +1; rating -2.33
+NJ-09,House,Rosie Pino,REP,0.009904,0.030166,mu +17.8 sd 6.9; lean +0.3; inc +1; rating -2.33
+NJ-10,House,LaMonica McIver,DEM,0.9999,0.98652,mu +45.3 sd 6.9; lean +53.2; inc +1; rating -3.00
+NJ-10,House,Carmen Bucco,REP,0.0001,0.01348,mu +45.3 sd 6.9; lean +53.2; inc +1; rating -3.00
+NJ-11,House,Analilia Mejia,DEM,0.998521,0.988878,mu +27.2 sd 6.9; lean +10.4; inc +1; rating -3.00
+NJ-11,House,Joe Hathaway,REP,0.001479,0.011122,mu +27.2 sd 6.9; lean +10.4; inc +1; rating -3.00
+NJ-12,House,Adam Hamawy,DEM,0.999582,0.981973,mu +34.8 sd 6.9; lean +26.0; inc +0; rating -3.00
+NJ-12,House,Gregg Mele,REP,0.000418,0.018027,mu +34.8 sd 6.9; lean +26.0; inc +0; rating -3.00
+NM-01,House,Melanie Stansbury,DEM,0.9996,0.972348,mu +27.2 sd 5.4; lean +14.5; inc +1; rating -3.00; polls +20.5 (w 0.33)
+NM-01,House,Didi Okpareke,REP,0.0004,0.027652,mu +27.2 sd 5.4; lean +14.5; inc +1; rating -3.00; polls +20.5 (w 0.33)
+NM-02,House,Gabe Vasquez,DEM,0.948311,0.914628,mu +8.2 sd 5.2; lean -0.3; inc +1; rating -0.83; polls +4.2 (w 0.41)
+NM-02,House,Greg Cunningham,REP,0.051689,0.085372,mu +8.2 sd 5.2; lean -0.3; inc +1; rating -0.83; polls +4.2 (w 0.41)
+NM-03,House,Teresa Leger Fernández,DEM,0.998866,0.961326,mu +22.3 sd 5.4; lean +6.8; inc +1; rating -3.00; polls +15.2 (w 0.33)
+NM-03,House,Martin Zamora,REP,0.001134,0.038674,mu +22.3 sd 5.4; lean +6.8; inc +1; rating -3.00; polls +15.2 (w 0.33)
+NV-01,House,Dina Titus,DEM,0.987045,0.955321,mu +16.6 sd 6.9; lean +3.8; inc +1; rating -1.67
+NV-01,House,Carrie Buck,REP,0.012955,0.044679,mu +16.6 sd 6.9; lean +3.8; inc +1; rating -1.67
+NV-02,House,Teresa Benitez-Thompson,DEM,0.202992,0.395,mu -3.8 sd 5.2; lean -12.8; inc +0; rating +0.83; polls -2.9 (w 0.42); dossier P(D) 0.41 at weight 0.15: model mu -4.3 -> -3.8 (P(D) 0.18 -> 0.20)
+NV-02,House,David Flippo,REP,0.797008,0.605,mu -3.8 sd 5.2; lean -12.8; inc +0; rating +0.83; polls -2.9 (w 0.42); dossier P(D) 0.41 at weight 0.15: model mu -4.3 -> -3.8 (P(D) 0.18 -> 0.20)
+NV-03,House,Susie Lee,DEM,0.984843,0.957852,mu +12.4 sd 5.4; lean +0.8; inc +1; rating -1.67; polls +6.7 (w 0.33)
+NV-03,House,Martin O'Donnell,REP,0.015157,0.042148,mu +12.4 sd 5.4; lean +0.8; inc +1; rating -1.67; polls +6.7 (w 0.33)
+NV-04,House,Steven Horsford,DEM,0.991,0.967287,mu +18.2 sd 6.9; lean +3.9; inc +1; rating -2.00
+NV-04,House,Cody Whipple,REP,0.009,0.032713,mu +18.2 sd 6.9; lean +3.9; inc +1; rating -2.00
+NY-01,House,Chris Gallant,DEM,0.048151,0.166667,mu -11.1 sd 6.9; lean -8.7; inc -1; rating +2.67; dossier P(D) 0.15 at weight 0.25: model mu -12.8 -> -11.1 (P(D) 0.03 -> 0.05)
+NY-01,House,Nick LaLota,REP,0.951849,0.833333,mu -11.1 sd 6.9; lean -8.7; inc -1; rating +2.67; dossier P(D) 0.15 at weight 0.25: model mu -12.8 -> -11.1 (P(D) 0.03 -> 0.05)
+NY-02,House,Patrick Halpin,DEM,0.018415,0.175,mu -15.1 sd 6.9; lean -12.6; inc -1; rating +3.00; dossier P(D) 0.14 at weight 0.15: model mu -16.6 -> -15.1 (P(D) 0.01 -> 0.02)
+NY-02,House,Andrew Garbarino,REP,0.981585,0.825,mu -15.1 sd 6.9; lean -12.6; inc -1; rating +3.00; dossier P(D) 0.14 at weight 0.15: model mu -16.6 -> -15.1 (P(D) 0.01 -> 0.02)
+NY-03,House,Tom Suozzi,DEM,0.954742,0.903596,mu +11.4 sd 6.9; lean -2.8; inc +1; rating -1.33
+NY-03,House,Mike LiPetri,REP,0.045258,0.096404,mu +11.4 sd 6.9; lean -2.8; inc +1; rating -1.33
+NY-04,House,Laura Gillen,DEM,0.982316,0.9045,mu +15.3 sd 6.9; lean +2.8; inc +1; rating -1.50
+NY-04,House,Jeanine Driscoll,REP,0.017684,0.0955,mu +15.3 sd 6.9; lean +2.8; inc +1; rating -1.50
+NY-05,House,Gregory Meeks,DEM,0.999897,0.987958,mu +45.1 sd 6.9; lean +44.3; inc +1; rating -3.00
+NY-05,House,George Marsh,REP,0.000103,0.012042,mu +45.1 sd 6.9; lean +44.3; inc +1; rating -3.00
+NY-06,House,Grace Meng,DEM,0.998072,0.987469,mu +25.8 sd 6.9; lean +8.0; inc +1; rating -3.00
+NY-06,House,Joseph Chou,REP,0.001928,0.012531,mu +25.8 sd 6.9; lean +8.0; inc +1; rating -3.00
+NY-07,House,Claire Valdez,DEM,0.999898,0.984016,mu +45.2 sd 6.9; lean +48.7; inc +0; rating -3.00
+NY-07,House,Melvin Rivera,REP,0.000102,0.015984,mu +45.2 sd 6.9; lean +48.7; inc +0; rating -3.00
+NY-08,House,Hakeem Jeffries,DEM,0.9999,0.98698,mu +45.3 sd 6.9; lean +46.2; inc +1; rating -3.00
+NY-08,House,Lewis Mizrahi,REP,0.0001,0.01302,mu +45.3 sd 6.9; lean +46.2; inc +1; rating -3.00
+NY-09,House,Yvette Clarke,DEM,0.999893,0.978532,mu +44.8 sd 6.9; lean +43.0; inc +1; rating -3.00
+NY-09,House,Joel Anabilah-Azumah,REP,0.000107,0.021468,mu +44.8 sd 6.9; lean +43.0; inc +1; rating -3.00
+NY-10,House,Brad Lander,DEM,0.9999,0.9885,mu +45.3 sd 6.9; lean +63.4; inc +0; rating -3.00
+NY-10,House,Jennifer Moore,REP,0.0001,0.0115,mu +45.3 sd 6.9; lean +63.4; inc +0; rating -3.00
+NY-11,House,Michael DeCillis,DEM,0.003356,0.072718,mu -22.9 sd 6.9; lean -23.3; inc -1; rating +3.00
+NY-11,House,Nicole Malliotakis,REP,0.996644,0.927282,mu -22.9 sd 6.9; lean -23.3; inc -1; rating +3.00
+NY-12,House,Micah Lasher,DEM,0.9999,0.975488,mu +45.3 sd 6.9; lean +66.4; inc +0; rating -3.00
+NY-12,House,Caroline Shinkle,REP,0.0001,0.024512,mu +45.3 sd 6.9; lean +66.4; inc +0; rating -3.00
+NY-13,House,Darializa Avila Chevalier,DEM,0.9999,0.9865,mu +45.3 sd 6.9; lean +61.8; inc +0; rating -3.00
+NY-13,House,"Manual ""Jomo"" Williams",REP,0.0001,0.0135,mu +45.3 sd 6.9; lean +61.8; inc +0; rating -3.00
+NY-14,House,Alexandria Ocasio-Cortez,DEM,0.999845,0.987982,mu +41.9 sd 6.9; lean +33.9; inc +1; rating -3.00
+NY-14,House,Diamant Hysenaj,REP,0.000155,0.012018,mu +41.9 sd 6.9; lean +33.9; inc +1; rating -3.00
+NY-15,House,Ritchie Torres,DEM,0.9999,0.977023,mu +45.3 sd 6.9; lean +50.3; inc +1; rating -3.00
+NY-15,House,Stylo Sapaskis,REP,0.0001,0.022977,mu +45.3 sd 6.9; lean +50.3; inc +1; rating -3.00
+NY-16,House,George Latimer,DEM,0.999857,0.990973,mu +42.5 sd 6.9; lean +34.8; inc +1; rating -3.00
+NY-16,House,Joseph Cinquemani,REP,0.000143,0.009027,mu +42.5 sd 6.9; lean +34.8; inc +1; rating -3.00
+NY-17,House,Cait Conley,DEM,0.718832,0.622549,mu +2.6 sd 5.2; lean +2.1; inc -1; rating +0.00; polls +0.7 (w 0.50); dossier P(D) 0.62 at weight 0.25: model mu +3.0 -> +2.6 (P(D) 0.75 -> 0.72)
+NY-17,House,Mike Lawler,REP,0.281168,0.377451,mu +2.6 sd 5.2; lean +2.1; inc -1; rating +0.00; polls +0.7 (w 0.50); dossier P(D) 0.62 at weight 0.25: model mu +3.0 -> +2.6 (P(D) 0.75 -> 0.72)
+NY-18,House,Pat Ryan,DEM,0.998921,0.974862,mu +22.3 sd 5.3; lean +4.9; inc +1; rating -3.00; polls +18.4 (w 0.35)
+NY-18,House,Jacqueline Auringer,REP,0.001079,0.025138,mu +22.3 sd 5.3; lean +4.9; inc +1; rating -3.00; polls +18.4 (w 0.35)
+NY-19,House,Josh Riley,DEM,0.993225,0.962833,mu +19.5 sd 6.9; lean +3.3; inc +1; rating -2.33
+NY-19,House,Peter Oberacker,REP,0.006775,0.037167,mu +19.5 sd 6.9; lean +3.3; inc +1; rating -2.33
+NY-20,House,Paul Tonko,DEM,0.999169,0.979571,mu +30.5 sd 6.9; lean +15.8; inc +1; rating -3.00
+NY-20,House,Ralph Ambrosio,REP,0.000831,0.020429,mu +30.5 sd 6.9; lean +15.8; inc +1; rating -3.00
+NY-21,House,Blake Gendebien,DEM,0.162119,0.325,mu -4.8 sd 5.4; lean -19.3; inc +0; rating +1.00; polls -1.3 (w 0.66); dossier P(D) 0.35 at weight 0.15: model mu -5.3 -> -4.8 (P(D) 0.14 -> 0.16)
+NY-21,House,Anthony Constantino,REP,0.837881,0.675,mu -4.8 sd 5.4; lean -19.3; inc +0; rating +1.00; polls -1.3 (w 0.66); dossier P(D) 0.35 at weight 0.15: model mu -5.3 -> -4.8 (P(D) 0.14 -> 0.16)
+NY-22,House,John Mannion,DEM,0.99831,0.973764,mu +26.5 sd 6.9; lean +9.2; inc +1; rating -3.00
+NY-22,House,Kailee Buller,REP,0.00169,0.026236,mu +26.5 sd 6.9; lean +9.2; inc +1; rating -3.00
+NY-23,House,Aaron Gies,DEM,0.001071,0.026593,mu -21.7 sd 5.2; lean -19.7; inc -1; rating +3.00; polls -21.6 (w 0.49)
+NY-23,House,Nick Langworthy,REP,0.998929,0.973407,mu -21.7 sd 5.2; lean -19.7; inc -1; rating +3.00; polls -21.6 (w 0.49)
+NY-24,House,Alissa Ellman,DEM,0.004058,0.029738,mu -22.0 sd 6.9; lean -21.7; inc -1; rating +3.00
+NY-24,House,Claudia Tenney,REP,0.995942,0.970262,mu -22.0 sd 6.9; lean -21.7; inc -1; rating +3.00
+NY-25,House,Joseph Morelle,DEM,0.999462,0.989924,mu +33.2 sd 6.9; lean +20.2; inc +1; rating -3.00
+NY-25,House,Virginia McIntyre,REP,0.000538,0.010076,mu +33.2 sd 6.9; lean +20.2; inc +1; rating -3.00
+NY-26,House,Tim Kennedy,DEM,0.999507,0.988431,mu +33.8 sd 6.9; lean +21.1; inc +1; rating -3.00
+NY-26,House,Dennis Hannon,REP,0.000493,0.011569,mu +33.8 sd 6.9; lean +21.1; inc +1; rating -3.00
+OH-01,House,Greg Landsman,DEM,0.980216,0.946446,mu +11.1 sd 5.2; lean -1.1; inc +1; rating -1.67; polls +7.3 (w 0.55)
+OH-01,House,Eric Conroy,REP,0.019784,0.053554,mu +11.1 sd 5.2; lean -1.1; inc +1; rating -1.67; polls +7.3 (w 0.55)
+OH-02,House,Jennifer Mazzuckelli,DEM,0.000517,0.01949,mu -33.5 sd 6.9; lean -41.0; inc -1; rating +3.00
+OH-02,House,David Taylor,REP,0.999483,0.98051,mu -33.5 sd 6.9; lean -41.0; inc -1; rating +3.00
+OH-03,House,Joyce Beatty,DEM,0.99989,0.97997,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+OH-03,House,Cleophus Dulaney,REP,0.00011,0.02003,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+OH-04,House,Joshua Kolasinski,DEM,0.000492,0.031936,mu -33.8 sd 6.9; lean -41.5; inc -1; rating +3.00
+OH-04,House,Jim Jordan,REP,0.999508,0.968064,mu -33.8 sd 6.9; lean -41.5; inc -1; rating +3.00
+OH-05,House,Brian Shaver,DEM,0.003715,0.033433,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+OH-05,House,Bob Latta,REP,0.996285,0.966567,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+OH-06,House,Elizabeth Kirtley,DEM,0.001099,0.017579,mu -28.9 sd 6.9; lean -33.4; inc -1; rating +3.00
+OH-06,House,Michael Rulli,REP,0.998901,0.982421,mu -28.9 sd 6.9; lean -33.4; inc -1; rating +3.00
+OH-07,House,Brian Poindexter,DEM,0.59142,0.846535,mu +1.0 sd 5.3; lean -9.7; inc -1; rating -0.17; polls +3.9 (w 0.36); dossier P(D) 0.79 at weight 0.15: model mu +0.6 -> +1.0 (P(D) 0.55 -> 0.59)
+OH-07,House,Max Miller,REP,0.40858,0.153465,mu +1.0 sd 5.3; lean -9.7; inc -1; rating -0.17; polls +3.9 (w 0.36); dossier P(D) 0.79 at weight 0.15: model mu +0.6 -> +1.0 (P(D) 0.55 -> 0.59)
+OH-08,House,Vanessa Enoch,DEM,0.010454,0.072917,mu -17.6 sd 6.9; lean -14.3; inc -1; rating +3.00
+OH-08,House,Warren Davidson,REP,0.989546,0.927083,mu -17.6 sd 6.9; lean -14.3; inc -1; rating +3.00
+OH-09,House,Marcy Kaptur,DEM,0.818184,0.815,mu +4.2 sd 5.2; lean -9.2; inc +1; rating -0.50; polls +4.7 (w 0.40); dossier P(D) 0.80 at weight 0.25: model mu +4.3 -> +4.2 (P(D) 0.82 -> 0.82)
+OH-09,House,Derek Merrin,REP,0.181816,0.185,mu +4.2 sd 5.2; lean -9.2; inc +1; rating -0.50; polls +4.7 (w 0.40); dossier P(D) 0.80 at weight 0.25: model mu +4.3 -> +4.2 (P(D) 0.82 -> 0.82)
+OH-10,House,Kristina Knickerbocker,DEM,0.306814,0.315,mu -2.3 sd 5.3; lean -6.4; inc -1; rating +1.00; polls +2.0 (w 0.35); dossier P(D) 0.34 at weight 0.15: model mu -2.4 -> -2.3 (P(D) 0.30 -> 0.31)
+OH-10,House,Mike Turner,REP,0.693186,0.685,mu -2.3 sd 5.3; lean -6.4; inc -1; rating +1.00; polls +2.0 (w 0.35); dossier P(D) 0.34 at weight 0.15: model mu -2.4 -> -2.3 (P(D) 0.30 -> 0.31)
+OH-11,House,Shontel Brown,DEM,0.9999,0.983051,mu +45.3 sd 6.9; lean +57.0; inc +1; rating -3.00
+OH-11,House,Mike Kirchner,REP,0.0001,0.016949,mu +45.3 sd 6.9; lean +57.0; inc +1; rating -3.00
+OH-12,House,Jerrad Christian,DEM,0.001785,0.028846,mu -26.2 sd 6.9; lean -28.9; inc -1; rating +3.00
+OH-12,House,Troy Balderson,REP,0.998215,0.971154,mu -26.2 sd 6.9; lean -28.9; inc -1; rating +3.00
+OH-13,House,Emilia Sykes,DEM,0.994393,0.971617,mu +20.4 sd 6.9; lean +4.8; inc +1; rating -2.33
+OH-13,House,Carey Coleman,REP,0.005607,0.028383,mu +20.4 sd 6.9; lean +4.8; inc +1; rating -2.33
+OH-14,House,Maria Jukic,DEM,0.005661,0.035,mu -20.4 sd 6.9; lean -19.0; inc -1; rating +3.00
+OH-14,House,David Joyce,REP,0.994339,0.965,mu -20.4 sd 6.9; lean -19.0; inc -1; rating +3.00
+OH-15,House,Don Leonard,DEM,0.274528,0.375,mu -2.7 sd 5.2; lean -8.6; inc -1; rating +1.00; polls +1.4 (w 0.47); dossier P(D) 0.34 at weight 0.15: model mu -2.8 -> -2.7 (P(D) 0.26 -> 0.27)
+OH-15,House,Mike Carey,REP,0.725472,0.625,mu -2.7 sd 5.2; lean -8.6; inc -1; rating +1.00; polls +1.4 (w 0.47); dossier P(D) 0.34 at weight 0.15: model mu -2.8 -> -2.7 (P(D) 0.26 -> 0.27)
+OK-01,House,John Croisant,DEM,0.007009,0.0645,mu -19.4 sd 6.9; lean -20.5; inc +0; rating +3.00
+OK-01,House,Mark Tedford,REP,0.992991,0.9355,mu -19.4 sd 6.9; lean -20.5; inc +0; rating +3.00
+OK-02,House,Brandon Wade,DEM,0.000156,0.018519,mu -41.8 sd 6.9; lean -55.0; inc -1; rating +3.00
+OK-02,House,Josh Brecheen,REP,0.999844,0.981481,mu -41.8 sd 6.9; lean -55.0; inc -1; rating +3.00
+OK-03,House,Suzie Byrd,DEM,0.000359,0.01005,mu -35.9 sd 6.9; lean -44.9; inc -1; rating +3.00
+OK-03,House,Frank Lucas,REP,0.999641,0.98995,mu -35.9 sd 6.9; lean -44.9; inc -1; rating +3.00
+OK-04,House,Mitchell Jacob,DEM,0.001221,0.034691,mu -28.3 sd 6.9; lean -32.4; inc -1; rating +3.00
+OK-04,House,Tom Cole,REP,0.998779,0.965309,mu -28.3 sd 6.9; lean -32.4; inc -1; rating +3.00
+OK-05,House,Jena Nelson,DEM,0.009043,0.115,mu -14.1 sd 5.4; lean -16.6; inc -1; rating +2.67; polls -6.5 (w 0.33)
+OK-05,House,Stephanie Bice,REP,0.990957,0.885,mu -14.1 sd 5.4; lean -16.6; inc -1; rating +2.67; polls -6.5 (w 0.33)
+OR-01,House,Suzanne Bonamici,DEM,0.999885,0.988006,mu +44.2 sd 6.9; lean +40.6; inc +1; rating -3.00
+OR-01,House,Barbara Kahl,REP,0.000115,0.011994,mu +44.2 sd 6.9; lean +40.6; inc +1; rating -3.00
+OR-02,House,Chris Beck,DEM,0.002355,0.033033,mu -24.7 sd 6.9; lean -26.4; inc -1; rating +3.00
+OR-02,House,Cliff Bentz,REP,0.997645,0.966967,mu -24.7 sd 6.9; lean -26.4; inc -1; rating +3.00
+OR-03,House,Maxine Dexter,DEM,0.9999,0.992507,mu +45.3 sd 6.9; lean +49.1; inc +1; rating -3.00
+OR-03,House,Loran Ayles,REP,0.0001,0.007493,mu +45.3 sd 6.9; lean +49.1; inc +1; rating -3.00
+OR-04,House,Val Hoyle,DEM,0.99899,0.966135,mu +29.4 sd 6.9; lean +13.9; inc +1; rating -3.00
+OR-04,House,Monique DeSpain,REP,0.00101,0.033865,mu +29.4 sd 6.9; lean +13.9; inc +1; rating -3.00
+OR-05,House,Janelle Bynum,DEM,0.998506,0.962833,mu +27.1 sd 6.9; lean +10.3; inc +1; rating -3.00
+OR-05,House,Patti Adair,REP,0.001494,0.037167,mu +27.1 sd 6.9; lean +10.3; inc +1; rating -3.00
+OR-06,House,Andrea Salinas,DEM,0.998913,0.978489,mu +28.9 sd 6.9; lean +13.2; inc +1; rating -3.00
+OR-06,House,David Russ,REP,0.001087,0.021511,mu +28.9 sd 6.9; lean +13.2; inc +1; rating -3.00
+PA-01,House,Bob Harvie,DEM,0.639831,0.535,mu +1.6 sd 5.3; lean +1.8; inc -1; rating +0.00; polls -0.5 (w 0.61); dossier P(D) 0.53 at weight 0.25: model mu +2.0 -> +1.6 (P(D) 0.67 -> 0.64)
+PA-01,House,Brian Fitzpatrick,REP,0.360169,0.465,mu +1.6 sd 5.3; lean +1.8; inc -1; rating +0.00; polls -0.5 (w 0.61); dossier P(D) 0.53 at weight 0.25: model mu +2.0 -> +1.6 (P(D) 0.67 -> 0.64)
+PA-02,House,Brendan Boyle,DEM,0.999875,0.98995,mu +43.6 sd 6.9; lean +37.7; inc +1; rating -3.00
+PA-02,House,Jessica Arriaga,REP,0.000125,0.01005,mu +43.6 sd 6.9; lean +37.7; inc +1; rating -3.00
+PA-03,House,Chris Rabb,DEM,0.9999,0.97012,mu +45.3 sd 6.9; lean +79.8; inc +0; rating -3.00
+PA-03,House,Republican party,REP,0.0001,0.02988,mu +45.3 sd 6.9; lean +79.8; inc +0; rating -3.00
+PA-04,House,Madeleine Dean,DEM,0.999298,0.974975,mu +31.5 sd 6.9; lean +17.5; inc +1; rating -3.00
+PA-04,House,Aurora Stuski,REP,0.000702,0.025025,mu +31.5 sd 6.9; lean +17.5; inc +1; rating -3.00
+PA-05,House,Mary Gay Scanlon,DEM,0.999792,0.985493,mu +39.7 sd 6.9; lean +30.4; inc +1; rating -3.00
+PA-05,House,Nicholas Manganaro,REP,0.000208,0.014507,mu +39.7 sd 6.9; lean +30.4; inc +1; rating -3.00
+PA-06,House,Chrissy Houlahan,DEM,0.998887,0.989489,mu +28.8 sd 6.9; lean +13.0; inc +1; rating -3.00
+PA-06,House,Marty Young,REP,0.001113,0.010511,mu +28.8 sd 6.9; lean +13.0; inc +1; rating -3.00
+PA-07,House,Bob Brooks,DEM,0.891422,0.865,mu +6.0 sd 5.3; lean -1.7; inc -1; rating -0.83; polls +5.3 (w 0.62)
+PA-07,House,Ryan Mackenzie,REP,0.108578,0.135,mu +6.0 sd 5.3; lean -1.7; inc -1; rating -0.83; polls +5.3 (w 0.62)
+PA-08,House,Paige Cognetti,DEM,0.791157,0.876238,mu +3.7 sd 5.2; lean -7.1; inc -1; rating -0.83; polls +3.5 (w 0.58)
+PA-08,House,Rob Bresnahan,REP,0.208843,0.123762,mu +3.7 sd 5.2; lean -7.1; inc -1; rating -0.83; polls +3.5 (w 0.58)
+PA-09,House,Rachel Wallace,DEM,0.000778,0.022256,mu -30.9 sd 6.9; lean -36.8; inc -1; rating +3.00
+PA-09,House,Dan Meuser,REP,0.999222,0.977744,mu -30.9 sd 6.9; lean -36.8; inc -1; rating +3.00
+PA-10,House,Janelle Stelson,DEM,0.793955,0.815,mu +3.8 sd 5.2; lean -3.8; inc -1; rating -0.83; polls +1.9 (w 0.58); dossier P(D) 0.76 at weight 0.15: model mu +3.9 -> +3.8 (P(D) 0.80 -> 0.79)
+PA-10,House,Scott Perry,REP,0.206045,0.185,mu +3.8 sd 5.2; lean -3.8; inc -1; rating -0.83; polls +1.9 (w 0.58); dossier P(D) 0.76 at weight 0.15: model mu +3.9 -> +3.8 (P(D) 0.80 -> 0.79)
+PA-11,House,Nancy Mannion,DEM,0.004973,0.048139,mu -21.0 sd 6.9; lean -20.1; inc -1; rating +3.00
+PA-11,House,Lloyd Smucker,REP,0.995027,0.951861,mu -21.0 sd 6.9; lean -20.1; inc -1; rating +3.00
+PA-12,House,Summer Lee,DEM,0.999498,0.984446,mu +33.6 sd 6.9; lean +20.9; inc +1; rating -3.00
+PA-12,House,James Hayes,REP,0.000502,0.015554,mu +33.6 sd 6.9; lean +20.9; inc +1; rating -3.00
+PA-13,House,Beth Farnham,DEM,0.000376,0.015508,mu -35.5 sd 6.9; lean -44.4; inc -1; rating +3.00
+PA-13,House,John Joyce,REP,0.999624,0.984492,mu -35.5 sd 6.9; lean -44.4; inc -1; rating +3.00
+PA-14,House,Alan Bradstock,DEM,0.001259,0.031754,mu -28.1 sd 6.9; lean -32.1; inc -1; rating +3.00
+PA-14,House,Guy Reschenthaler,REP,0.998741,0.968246,mu -28.1 sd 6.9; lean -32.1; inc -1; rating +3.00
+PA-15,House,Ray Bilger,DEM,0.000778,0.042331,mu -30.9 sd 6.9; lean -36.8; inc -1; rating +3.00
+PA-15,House,Glenn Thompson,REP,0.999222,0.957669,mu -30.9 sd 6.9; lean -36.8; inc -1; rating +3.00
+PA-16,House,Justin Wagner,DEM,0.004197,0.063777,mu -21.8 sd 6.9; lean -21.5; inc -1; rating +3.00
+PA-16,House,Mike Kelly,REP,0.995803,0.936223,mu -21.8 sd 6.9; lean -21.5; inc -1; rating +3.00
+PA-17,House,Chris Deluzio,DEM,0.997846,0.962907,mu +25.2 sd 6.9; lean +7.1; inc +1; rating -3.00
+PA-17,House,Tony Guy,REP,0.002154,0.037093,mu +25.2 sd 6.9; lean +7.1; inc +1; rating -3.00
+RI-01,House,Gabe Amo,DEM,0.999891,0.981491,mu +33.4 sd 5.2; lean +24.2; inc +1; rating -3.00; polls +29.3 (w 0.50)
+RI-01,House,Kellie Keenan,REP,0.000109,0.018509,mu +33.4 sd 5.2; lean +24.2; inc +1; rating -3.00; polls +29.3 (w 0.50)
+RI-02,House,Seth Magaziner,DEM,0.999111,0.944945,mu +22.5 sd 5.2; lean +8.4; inc +1; rating -3.00; polls +15.7 (w 0.50)
+RI-02,House,Victor Mellor,REP,0.000889,0.055055,mu +22.5 sd 5.2; lean +8.4; inc +1; rating -3.00; polls +15.7 (w 0.50)
+SC-01,House,Nancy S. Lacore,DEM,0.348119,0.489899,mu -1.8 sd 5.2; lean -11.7; inc +0; rating +0.50; polls -0.8 (w 0.58); dossier P(D) 0.50 at weight 0.15: model mu -2.1 -> -1.8 (P(D) 0.32 -> 0.35)
+SC-01,House,Jenny Costa Honeycutt,REP,0.651881,0.510101,mu -1.8 sd 5.2; lean -11.7; inc +0; rating +0.50; polls -0.8 (w 0.58); dossier P(D) 0.50 at weight 0.15: model mu -2.1 -> -1.8 (P(D) 0.32 -> 0.35)
+SC-02,House,Zyon Khalifa,DEM,0.013034,0.123762,mu -16.6 sd 6.9; lean -12.6; inc -1; rating +3.00
+SC-02,House,Joe Wilson,REP,0.986966,0.876238,mu -16.6 sd 6.9; lean -12.6; inc -1; rating +3.00
+SC-03,House,Eunice Lehmacher,DEM,0.000465,0.020469,mu -34.1 sd 6.9; lean -42.1; inc -1; rating +3.00
+SC-03,House,Sheri Biggs,REP,0.999535,0.979531,mu -34.1 sd 6.9; lean -42.1; inc -1; rating +3.00
+SC-04,House,Courtney McClain,DEM,0.003719,0.036464,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+SC-04,House,William Timmons,REP,0.996281,0.963536,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+SC-05,House,Mallory Dittmer,DEM,0.006106,0.063587,mu -20.0 sd 6.9; lean -21.6; inc +0; rating +3.00
+SC-05,House,Wes Climer,REP,0.993894,0.936413,mu -20.0 sd 6.9; lean -21.6; inc +0; rating +3.00
+SC-06,House,Jim Clyburn,DEM,0.999646,0.988494,mu +35.9 sd 6.9; lean +24.5; inc +1; rating -3.00
+SC-06,House,John Peterson,REP,0.000354,0.011506,mu +35.9 sd 6.9; lean +24.5; inc +1; rating -3.00
+SC-07,House,John Vincent,DEM,0.00261,0.037037,mu -18.7 sd 5.4; lean -25.1; inc -1; rating +3.00; polls -6.1 (w 0.33)
+SC-07,House,Russell Fry,REP,0.99739,0.962963,mu -18.7 sd 5.4; lean -25.1; inc -1; rating +3.00; polls -6.1 (w 0.33)
+SD-AL,House,Nicole Gronli,DEM,0.000525,0.025088,mu -25.4 sd 5.3; lean -28.4; inc +0; rating +3.00; polls -28.0 (w 0.38)
+SD-AL,House,Marty Jackley,REP,0.999475,0.974912,mu -25.4 sd 5.3; lean -28.4; inc +0; rating +3.00; polls -28.0 (w 0.38)
+TN-01,House,Kristi Burke,DEM,0.000147,0.022466,mu -42.3 sd 6.9; lean -56.9; inc -1; rating +3.00
+TN-01,House,Diana Harshbarger,REP,0.999853,0.977534,mu -42.3 sd 6.9; lean -56.9; inc -1; rating +3.00
+TN-02,House,Michaela Barnett,DEM,0.001166,0.037351,mu -28.5 sd 6.9; lean -32.8; inc -1; rating +3.00
+TN-02,House,Tim Burchett,REP,0.998834,0.962649,mu -28.5 sd 6.9; lean -32.8; inc -1; rating +3.00
+TN-03,House,Anna Golladay,DEM,0.00096,0.012152,mu -29.7 sd 6.9; lean -34.7; inc -1; rating +3.00
+TN-03,House,Chuck Fleischmann,REP,0.99904,0.987848,mu -29.7 sd 6.9; lean -34.7; inc -1; rating +3.00
+TN-04,House,Victoria Broderick,DEM,0.003582,0.029222,mu -22.6 sd 6.9; lean -22.8; inc -1; rating +3.00
+TN-04,House,Scott DesJarlais,REP,0.996418,0.970778,mu -22.6 sd 6.9; lean -22.8; inc -1; rating +3.00
+TN-05,House,Chaz Molder,DEM,0.005021,0.110553,mu -15.9 sd 5.2; lean -21.9; inc +0; rating +3.00; polls -7.2 (w 0.39)
+TN-05,House,Charlie Hatcher,REP,0.994979,0.889447,mu -15.9 sd 5.2; lean -21.9; inc +0; rating +3.00; polls -7.2 (w 0.39)
+TN-06,House,Mike Croley,DEM,0.003837,0.041459,mu -22.2 sd 6.9; lean -25.4; inc +0; rating +3.00
+TN-06,House,Johnny Garrett,REP,0.996163,0.958541,mu -22.2 sd 6.9; lean -25.4; inc +0; rating +3.00
+TN-07,House,Darden Copeland,DEM,0.004318,0.046743,mu -21.7 sd 6.9; lean -21.2; inc -1; rating +3.00
+TN-07,House,Matt Van Epps,REP,0.995682,0.953257,mu -21.7 sd 6.9; lean -21.2; inc -1; rating +3.00
+TN-08,House,Heidi Kuhn,DEM,0.005732,0.046454,mu -20.3 sd 6.9; lean -18.9; inc -1; rating +3.00
+TN-08,House,David Kustoff,REP,0.994268,0.953546,mu -20.3 sd 6.9; lean -18.9; inc -1; rating +3.00
+TN-09,House,Justin J. Pearson,DEM,0.017665,0.153465,mu -11.9 sd 5.4; lean -19.9; inc +0; rating +2.67; polls -5.3 (w 0.33); dossier P(D) 0.11 at weight 0.25: model mu -13.9 -> -11.9 (P(D) 0.01 -> 0.02)
+TN-09,House,Brent Taylor,REP,0.982335,0.846535,mu -11.9 sd 5.4; lean -19.9; inc +0; rating +2.67; polls -5.3 (w 0.33); dossier P(D) 0.11 at weight 0.25: model mu -13.9 -> -11.9 (P(D) 0.01 -> 0.02)
+TX-01,House,Yolanda R. Prince ,DEM,0.000263,0.015992,mu -38.0 sd 6.9; lean -48.4; inc -1; rating +3.00
+TX-01,House,Nathaniel Moran,REP,0.999737,0.984008,mu -38.0 sd 6.9; lean -48.4; inc -1; rating +3.00
+TX-02,House,Shaun Finnie,DEM,0.003511,0.071429,mu -17.6 sd 5.4; lean -21.6; inc +0; rating +3.00; polls -11.8 (w 0.33)
+TX-02,House,Steve Toth,REP,0.996489,0.928571,mu -17.6 sd 5.4; lean -21.6; inc +0; rating +3.00; polls -11.8 (w 0.33)
+TX-03,House,Evan Hunt,DEM,0.00371,0.064565,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+TX-03,House,Keith Self,REP,0.99629,0.935435,mu -22.4 sd 6.9; lean -22.5; inc -1; rating +3.00
+TX-04,House,Jason Pearce,DEM,0.003227,0.026714,mu -23.1 sd 6.9; lean -23.7; inc -1; rating +3.00
+TX-04,House,Pat Fallon,REP,0.996773,0.973286,mu -23.1 sd 6.9; lean -23.7; inc -1; rating +3.00
+TX-05,House,Chelsey Hockett,DEM,0.00481,0.048476,mu -21.1 sd 6.9; lean -20.3; inc -1; rating +3.00
+TX-05,House,Lance Gooden,REP,0.99519,0.951524,mu -21.1 sd 6.9; lean -20.3; inc -1; rating +3.00
+TX-06,House,Danny Minton,DEM,0.00404,0.021084,mu -22.0 sd 6.9; lean -21.8; inc -1; rating +3.00
+TX-06,House,Jake Ellzey,REP,0.99596,0.978916,mu -22.0 sd 6.9; lean -21.8; inc -1; rating +3.00
+TX-07,House,Lizzie Fletcher,DEM,0.999678,0.974423,mu +36.6 sd 6.9; lean +25.6; inc +1; rating -3.00
+TX-07,House,Alexander Hale,REP,0.000322,0.025577,mu +36.6 sd 6.9; lean +25.6; inc +1; rating -3.00
+TX-08,House,Laura Jones,DEM,0.00336,0.026196,mu -22.9 sd 6.9; lean -26.5; inc +0; rating +3.00
+TX-08,House,Jessica Steinmann,REP,0.99664,0.973804,mu -22.9 sd 6.9; lean -26.5; inc +0; rating +3.00
+TX-09,House,Leticia Gutierrez,DEM,0.071558,0.242574,mu -7.1 sd 5.2; lean -18.5; inc +0; rating +1.67; polls -3.6 (w 0.53); dossier P(D) 0.23 at weight 0.25: model mu -8.4 -> -7.1 (P(D) 0.05 -> 0.07)
+TX-09,House,Alex Mealer,REP,0.928442,0.757426,mu -7.1 sd 5.2; lean -18.5; inc +0; rating +1.67; polls -3.6 (w 0.53); dossier P(D) 0.23 at weight 0.25: model mu -8.4 -> -7.1 (P(D) 0.05 -> 0.07)
+TX-10,House,Caitlin Rourk,DEM,0.004831,0.081633,mu -16.4 sd 5.4; lean -21.4; inc +0; rating +3.00; polls -7.9 (w 0.33)
+TX-10,House,Chris Gober,REP,0.995169,0.918367,mu -16.4 sd 5.4; lean -21.4; inc +0; rating +3.00; polls -7.9 (w 0.33)
+TX-11,House,Claire Reynolds,DEM,0.001112,0.028802,mu -28.8 sd 6.9; lean -33.3; inc -1; rating +3.00
+TX-11,House,August Pfluger,REP,0.998888,0.971198,mu -28.8 sd 6.9; lean -33.3; inc -1; rating +3.00
+TX-12,House,Angela Rodriguez Prilliman,DEM,0.003636,0.038539,mu -22.5 sd 6.9; lean -22.7; inc -1; rating +3.00
+TX-12,House,Craig Goldman,REP,0.996364,0.961461,mu -22.5 sd 6.9; lean -22.7; inc -1; rating +3.00
+TX-13,House,Mark Nair,DEM,0.000351,0.011,mu -36.0 sd 6.9; lean -45.2; inc -1; rating +3.00
+TX-13,House,Ronny Jackson,REP,0.999649,0.989,mu -36.0 sd 6.9; lean -45.2; inc -1; rating +3.00
+TX-14,House,Thurman Bartie,DEM,0.003456,0.038289,mu -22.8 sd 6.9; lean -23.1; inc -1; rating +3.00
+TX-14,House,Randy Weber,REP,0.996544,0.961711,mu -22.8 sd 6.9; lean -23.1; inc -1; rating +3.00
+TX-15,House,Bobby Pulido,DEM,0.616042,0.886139,mu +1.3 sd 5.2; lean -16.5; inc -1; rating -0.50; polls +8.2 (w 0.47)
+TX-15,House,Monica De La Cruz,REP,0.383958,0.113861,mu +1.3 sd 5.2; lean -16.5; inc -1; rating -0.50; polls +8.2 (w 0.47)
+TX-16,House,Veronica Escobar,DEM,0.999343,0.976965,mu +32.0 sd 6.9; lean +18.1; inc +1; rating -3.00
+TX-16,House,Adam Bauman,REP,0.000657,0.023035,mu +32.0 sd 6.9; lean +18.1; inc +1; rating -3.00
+TX-17,House,Casey Shepard,DEM,0.004748,0.034363,mu -21.2 sd 6.9; lean -20.5; inc -1; rating +3.00
+TX-17,House,Pete Sessions,REP,0.995252,0.965637,mu -21.2 sd 6.9; lean -20.5; inc -1; rating +3.00
+TX-18,House,Christian Menefee,DEM,0.9999,0.986028,mu +45.3 sd 6.9; lean +57.2; inc +1; rating -3.00
+TX-18,House,Ronald Whitfield,REP,0.0001,0.013972,mu +45.3 sd 6.9; lean +57.2; inc +1; rating -3.00
+TX-19,House,Kyle Rable,DEM,0.000287,0.026091,mu -37.4 sd 6.9; lean -50.7; inc +0; rating +3.00
+TX-19,House,Tom Sell,REP,0.999713,0.973909,mu -37.4 sd 6.9; lean -50.7; inc +0; rating +3.00
+TX-20,House,Joaquin Castro,DEM,0.999791,0.974423,mu +39.6 sd 6.9; lean +30.4; inc +1; rating -3.00
+TX-20,House,Edgardo Baez,REP,0.000209,0.025577,mu +39.6 sd 6.9; lean +30.4; inc +1; rating -3.00
+TX-21,House,Kristin Hook,DEM,0.006933,0.022943,mu -19.4 sd 6.9; lean -20.6; inc +0; rating +3.00
+TX-21,House,Mark Teixeira,REP,0.993067,0.977057,mu -19.4 sd 6.9; lean -20.6; inc +0; rating +3.00
+TX-22,House,Marquette Greene-Scott,DEM,0.00639,0.051526,mu -19.8 sd 6.9; lean -21.2; inc +0; rating +3.00
+TX-22,House,Trever Nehls,REP,0.99361,0.948474,mu -19.8 sd 6.9; lean -21.2; inc +0; rating +3.00
+TX-23,House,Katy Padilla Stout,DEM,0.147144,0.459596,mu -5.0 sd 5.4; lean -13.5; inc +0; rating +1.33; polls -1.0 (w 0.33); dossier P(D) 0.43 at weight 0.15: model mu -5.8 -> -5.0 (P(D) 0.12 -> 0.15)
+TX-23,House,Brandon Herrera,REP,0.852856,0.540404,mu -5.0 sd 5.4; lean -13.5; inc +0; rating +1.33; polls -1.0 (w 0.33); dossier P(D) 0.43 at weight 0.15: model mu -5.8 -> -5.0 (P(D) 0.12 -> 0.15)
+TX-24,House,Kevin Burge,DEM,0.009642,0.051922,mu -17.9 sd 6.9; lean -14.9; inc -1; rating +3.00
+TX-24,House,Beth Van Duyne,REP,0.990358,0.948078,mu -17.9 sd 6.9; lean -14.9; inc -1; rating +3.00
+TX-25,House,Dione Sims,DEM,0.003556,0.046407,mu -22.6 sd 6.9; lean -22.8; inc -1; rating +3.00
+TX-25,House,Roger Williams,REP,0.996444,0.953593,mu -22.6 sd 6.9; lean -22.8; inc -1; rating +3.00
+TX-26,House,Steven Shook,DEM,0.003639,0.023928,mu -22.5 sd 6.9; lean -22.6; inc -1; rating +3.00
+TX-26,House,Brandon Gill,REP,0.996361,0.976072,mu -22.5 sd 6.9; lean -22.6; inc -1; rating +3.00
+TX-27,House,Tanya Lloyd,DEM,0.005045,0.017111,mu -20.9 sd 6.9; lean -20.0; inc -1; rating +3.00
+TX-27,House,Michael Cloud,REP,0.994955,0.982889,mu -20.9 sd 6.9; lean -20.0; inc -1; rating +3.00
+TX-28,House,Henry Cuellar,DEM,0.98422,0.921,mu +12.0 sd 5.3; lean -9.0; inc +1; rating -1.33; polls +21.9 (w 0.38)
+TX-28,House,Tano Tijerina,REP,0.01578,0.079,mu +12.0 sd 5.3; lean -9.0; inc +1; rating -1.33; polls +21.9 (w 0.38)
+TX-29,House,Sylvia Garcia,DEM,0.999823,0.966466,mu +40.9 sd 6.9; lean +32.3; inc +1; rating -3.00
+TX-29,House,Martha Fierro,REP,0.000177,0.033534,mu +40.9 sd 6.9; lean +32.3; inc +1; rating -3.00
+TX-30,House,Frederick Haynes III,DEM,0.999899,0.979612,mu +45.3 sd 6.9; lean +49.3; inc +0; rating -3.00
+TX-30,House,Everett Jackson,REP,0.000101,0.020388,mu +45.3 sd 6.9; lean +49.3; inc +0; rating -3.00
+TX-31,House,Justin Early,DEM,0.004635,0.065444,mu -21.3 sd 6.9; lean -20.6; inc -1; rating +3.00
+TX-31,House,John Carter,REP,0.995365,0.934556,mu -21.3 sd 6.9; lean -20.6; inc -1; rating +3.00
+TX-32,House,Dan Barrios,DEM,0.019811,0.155779,mu -14.8 sd 6.9; lean -16.6; inc +0; rating +3.00; dossier P(D) 0.10 at weight 0.25: model mu -17.1 -> -14.8 (P(D) 0.01 -> 0.02)
+TX-32,House,Jace Yarbrough,REP,0.980189,0.844221,mu -14.8 sd 6.9; lean -16.6; inc +0; rating +3.00; dossier P(D) 0.10 at weight 0.25: model mu -17.1 -> -14.8 (P(D) 0.01 -> 0.02)
+TX-33,House,Colin Allred,DEM,0.999811,0.976263,mu +40.4 sd 6.9; lean +34.8; inc +0; rating -3.00
+TX-33,House,Patrick David Gillespie,REP,0.000189,0.023737,mu +40.4 sd 6.9; lean +34.8; inc +0; rating -3.00
+TX-34,House,Vicente Gonzalez,DEM,0.881454,0.893939,mu +5.7 sd 5.3; lean -8.7; inc +1; rating -0.67; polls +7.2 (w 0.37)
+TX-34,House,Eric Flores,REP,0.118546,0.106061,mu +5.7 sd 5.3; lean -8.7; inc +1; rating -0.67; polls +7.2 (w 0.37)
+TX-35,House,Johnny C. Garcia,DEM,0.56249,0.75,mu +0.7 sd 5.3; lean -9.1; inc +0; rating +0.00; polls +0.3 (w 0.59); dossier P(D) 0.69 at weight 0.15: model mu +0.4 -> +0.7 (P(D) 0.54 -> 0.56)
+TX-35,House,Carlos De La Cruz,REP,0.43751,0.25,mu +0.7 sd 5.3; lean -9.1; inc +0; rating +0.00; polls +0.3 (w 0.59); dossier P(D) 0.69 at weight 0.15: model mu +0.4 -> +0.7 (P(D) 0.54 -> 0.56)
+TX-36,House,Rhonda Hart,DEM,0.003169,0.034656,mu -23.2 sd 6.9; lean -23.8; inc -1; rating +3.00
+TX-36,House,Brian Babin,REP,0.996831,0.965344,mu -23.2 sd 6.9; lean -23.8; inc -1; rating +3.00
+TX-37,House,Greg Casar,DEM,0.9999,0.985908,mu +45.3 sd 6.9; lean +59.2; inc +1; rating -3.00
+TX-37,House,Lauren B. Peña,REP,0.0001,0.014092,mu +45.3 sd 6.9; lean +59.2; inc +1; rating -3.00
+TX-38,House,Melissa McDonough,DEM,0.007668,0.027,mu -19.0 sd 6.9; lean -19.8; inc +0; rating +3.00
+TX-38,House,Jon Bonck,REP,0.992332,0.973,mu -19.0 sd 6.9; lean -19.8; inc +0; rating +3.00
+UT-01,House,Ben McAdams,DEM,0.999892,0.977967,mu +34.7 sd 5.4; lean +25.8; inc +0; rating -3.00; polls +50.0 (w 0.33)
+UT-01,House,Riley Owen,REP,0.000108,0.022033,mu +34.7 sd 5.4; lean +25.8; inc +0; rating -3.00; polls +50.0 (w 0.33)
+UT-02,House,Blake Moore,REP,0.994224,0.937469,mu -15.3 sd 5.2; lean -28.4; inc -1; rating +3.00; polls -2.4 (w 0.58)
+UT-02,House,Peter Crosby,DEM,0.005776,0.062531,mu -15.3 sd 5.2; lean -28.4; inc -1; rating +3.00; polls -2.4 (w 0.58)
+UT-03,House,Celeste Maloy,REP,0.999825,0.975561,mu -31.8 sd 5.4; lean -40.9; inc -1; rating +3.00; polls -26.8 (w 0.33)
+UT-03,House,Kent Udell,DEM,0.000175,0.024439,mu -31.8 sd 5.4; lean -40.9; inc -1; rating +3.00; polls -26.8 (w 0.33)
+UT-04,House,Jonny Larsen,DEM,0.000894,0.034257,mu -23.3 sd 5.4; lean -31.9; inc -1; rating +3.00; polls -12.0 (w 0.33)
+UT-04,House,Mike Kennedy,REP,0.999106,0.965743,mu -23.3 sd 5.4; lean -31.9; inc -1; rating +3.00; polls -12.0 (w 0.33)
+VA-01,House,Shannon Taylor,DEM,0.568324,0.628713,mu +0.8 sd 5.3; lean -3.5; inc -1; rating +0.17; polls +0.5 (w 0.59); dossier P(D) 0.59 at weight 0.15: model mu +0.7 -> +0.8 (P(D) 0.56 -> 0.57)
+VA-01,House,Rob Wittman,REP,0.431676,0.371287,mu +0.8 sd 5.3; lean -3.5; inc -1; rating +0.17; polls +0.5 (w 0.59); dossier P(D) 0.59 at weight 0.15: model mu +0.7 -> +0.8 (P(D) 0.56 -> 0.57)
+VA-02,House,Elaine Luria,DEM,0.906146,0.908179,mu +6.5 sd 5.4; lean +1.2; inc -1; rating -0.83; polls +3.3 (w 0.34)
+VA-02,House,Jen Kiggans,REP,0.093854,0.091821,mu +6.5 sd 5.4; lean +1.2; inc -1; rating -0.83; polls +3.3 (w 0.34)
+VA-03,House,Bobby Scott,DEM,0.999871,0.983992,mu +43.3 sd 6.9; lean +36.7; inc +1; rating -3.00
+VA-03,House,Edwin Rivera,REP,0.000129,0.016008,mu +43.3 sd 6.9; lean +36.7; inc +1; rating -3.00
+VA-04,House,Jennifer McClellan,DEM,0.999855,0.984422,mu +42.4 sd 6.9; lean +34.7; inc +1; rating -3.00
+VA-04,House,Robert Murray,REP,0.000145,0.015578,mu +42.4 sd 6.9; lean +34.7; inc +1; rating -3.00
+VA-05,House,Tom Perriello,DEM,0.146995,0.348485,mu -4.9 sd 5.2; lean -10.9; inc -1; rating +1.00; polls -4.9 (w 0.48); dossier P(D) 0.34 at weight 0.25: model mu -5.8 -> -4.9 (P(D) 0.11 -> 0.15)
+VA-05,House,John McGuire,REP,0.853005,0.651515,mu -4.9 sd 5.2; lean -10.9; inc -1; rating +1.00; polls -4.9 (w 0.48); dossier P(D) 0.34 at weight 0.25: model mu -5.8 -> -4.9 (P(D) 0.11 -> 0.15)
+VA-06,House,Beth Macy,DEM,0.000594,0.064468,mu -25.3 sd 5.4; lean -22.7; inc -1; rating +3.00; polls -33.1 (w 0.33)
+VA-06,House,Ben Cline,REP,0.999406,0.935532,mu -25.3 sd 5.4; lean -22.7; inc -1; rating +3.00; polls -33.1 (w 0.33)
+VA-07,House,Eugene Vindman,DEM,0.995848,0.966733,mu +21.8 sd 6.9; lean +4.4; inc +1; rating -2.67
+VA-07,House,Doug Ollivant,REP,0.004152,0.033267,mu +21.8 sd 6.9; lean +4.4; inc +1; rating -2.67
+VA-08,House,Don Beyer,DEM,0.9999,0.978947,mu +45.3 sd 6.9; lean +52.4; inc +1; rating -3.00
+VA-08,House,Tony Sabio,REP,0.0001,0.021053,mu +45.3 sd 6.9; lean +52.4; inc +1; rating -3.00
+VA-09,House,Joy Powers,DEM,0.000431,0.025487,mu -34.6 sd 6.9; lean -42.9; inc -1; rating +3.00
+VA-09,House,Morgan Griffith,REP,0.999569,0.974513,mu -34.6 sd 6.9; lean -42.9; inc -1; rating +3.00
+VA-10,House,Suhas Subramanyam,DEM,0.998468,0.983928,mu +27.0 sd 6.9; lean +10.1; inc +1; rating -3.00
+VA-10,House,Dave Beckwith,REP,0.001532,0.016072,mu +27.0 sd 6.9; lean +10.1; inc +1; rating -3.00
+VA-11,House,James Walkinshaw,DEM,0.999872,0.984461,mu +43.4 sd 6.9; lean +36.8; inc +1; rating -3.00
+VA-11,House,Arthur Purves,REP,0.000128,0.015539,mu +43.4 sd 6.9; lean +36.8; inc +1; rating -3.00
+VT-AL,House,Becca Balint,DEM,0.9999,0.982474,mu +33.9 sd 5.2; lean +34.3; inc +1; rating -3.00; polls +28.2 (w 0.50)
+VT-AL,House,Gerald Malloy,REP,0.0001,0.017526,mu +33.9 sd 5.2; lean +34.3; inc +1; rating -3.00; polls +28.2 (w 0.50)
+WA-01,House,Suzan DelBene,DEM,0.999805,0.983952,mu +40.2 sd 6.9; lean +31.2; inc +1; rating -3.00
+WA-01,House,Mary Silva,REP,0.000195,0.016048,mu +40.2 sd 6.9; lean +31.2; inc +1; rating -3.00
+WA-02,House,Rick Larsen,DEM,0.999689,0.978099,mu +36.8 sd 6.9; lean +25.9; inc +1; rating -3.00
+WA-02,House,Edwin H. Feller,REP,0.000311,0.021901,mu +36.8 sd 6.9; lean +25.9; inc +1; rating -3.00
+WA-03,House,Marie Gluesenkamp Perez,DEM,0.886821,0.895,mu +5.7 sd 5.2; lean -1.9; inc +1; rating -0.67; polls -0.1 (w 0.42)
+WA-03,House,John Braun,REP,0.113179,0.105,mu +5.7 sd 5.2; lean -1.9; inc +1; rating -0.67; polls -0.1 (w 0.42)
+WA-04,House,John Duresky,DEM,0.007728,0.081582,mu -18.9 sd 6.9; lean -19.7; inc +0; rating +3.00
+WA-04,House,Amanda McKinney,REP,0.992272,0.918418,mu -18.9 sd 6.9; lean -19.7; inc +0; rating +3.00
+WA-05,House,Carmela Conroy,DEM,0.069592,0.156566,mu -9.6 sd 6.9; lean -9.6; inc -1; rating +2.00; dossier P(D) 0.17 at weight 0.15: model mu -10.3 -> -9.6 (P(D) 0.06 -> 0.07)
+WA-05,House,Michael Baumgartner,REP,0.930408,0.843434,mu -9.6 sd 6.9; lean -9.6; inc -1; rating +2.00; dossier P(D) 0.17 at weight 0.15: model mu -10.3 -> -9.6 (P(D) 0.06 -> 0.07)
+WA-06,House,Emily Randall,DEM,0.999523,0.9825,mu +34.0 sd 6.9; lean +21.4; inc +1; rating -3.00
+WA-06,House,Teresa Fox,REP,0.000477,0.0175,mu +34.0 sd 6.9; lean +21.4; inc +1; rating -3.00
+WA-07,House,Pramila Jayapal,DEM,0.9999,0.98846,mu +45.3 sd 6.9; lean +79.1; inc +1; rating -3.00
+WA-07,House,Nirav Sheth,REP,0.0001,0.01154,mu +45.3 sd 6.9; lean +79.1; inc +1; rating -3.00
+WA-08,House,Kim Schrier,DEM,0.997945,0.970588,mu +25.4 sd 6.9; lean +7.5; inc +1; rating -3.00
+WA-08,House,Spencer Meline,REP,0.002055,0.029412,mu +25.4 sd 6.9; lean +7.5; inc +1; rating -3.00
+WA-09,House,Adam Smith,DEM,0.999897,0.983968,mu +45.1 sd 6.9; lean +44.2; inc +1; rating -3.00
+WA-09,House,Doug Basler,REP,0.000103,0.016032,mu +45.1 sd 6.9; lean +44.2; inc +1; rating -3.00
+WA-10,House,Marilyn Strickland,DEM,0.999459,0.982983,mu +33.2 sd 6.9; lean +20.1; inc +1; rating -3.00
+WA-10,House,Chris D. Chung,REP,0.000541,0.017017,mu +33.2 sd 6.9; lean +20.1; inc +1; rating -3.00
+WI-01,House,Mitchell Berman,DEM,0.374512,0.5,mu -1.4 sd 5.2; lean -3.1; inc -1; rating +1.00; polls -0.0 (w 0.52); dossier P(D) 0.46 at weight 0.15: model mu -1.6 -> -1.4 (P(D) 0.36 -> 0.37)
+WI-01,House,Bryan Steil,REP,0.625488,0.5,mu -1.4 sd 5.2; lean -3.1; inc -1; rating +1.00; polls -0.0 (w 0.52); dossier P(D) 0.46 at weight 0.15: model mu -1.6 -> -1.4 (P(D) 0.36 -> 0.37)
+WI-02,House,Mark Pocan,DEM,0.999891,0.989945,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+WI-02,House,Republican party,REP,0.000109,0.010055,mu +44.6 sd 6.9; lean +42.2; inc +1; rating -3.00
+WI-03,House,Rebecca Cooke,DEM,0.747231,0.885,mu +4.0 sd 6.9; lean -6.0; inc -1; rating -0.83
+WI-03,House,Derrick Van Orden,REP,0.252769,0.115,mu +4.0 sd 6.9; lean -6.0; inc -1; rating -0.83
+WI-04,House,Gwen Moore,DEM,0.9999,0.976965,mu +45.3 sd 6.9; lean +54.0; inc +1; rating -3.00
+WI-04,House,Tim Rogers,REP,0.0001,0.023035,mu +45.3 sd 6.9; lean +54.0; inc +1; rating -3.00
+WI-05,House,Andrew Beck,DEM,0.004463,0.016608,mu -21.5 sd 6.9; lean -21.0; inc -1; rating +3.00
+WI-05,House,Scott Fitzgerald,REP,0.995537,0.983392,mu -21.5 sd 6.9; lean -21.0; inc -1; rating +3.00
+WI-06,House,Brad Smith,DEM,0.009258,0.087798,mu -18.1 sd 6.9; lean -15.2; inc -1; rating +3.00
+WI-06,House,Glenn Grothman,REP,0.990742,0.912202,mu -18.1 sd 6.9; lean -15.2; inc -1; rating +3.00
+WI-07,House,Fred Clark,DEM,0.006298,0.062189,mu -19.9 sd 6.9; lean -21.3; inc +0; rating +3.00
+WI-07,House,Michael Alfonso,REP,0.993702,0.937811,mu -19.9 sd 6.9; lean -21.3; inc +0; rating +3.00
+WI-08,House,Rick Crosson,DEM,0.009544,0.115,mu -18.0 sd 6.9; lean -15.0; inc -1; rating +3.00
+WI-08,House,Tony Wied,REP,0.990456,0.885,mu -18.0 sd 6.9; lean -15.0; inc -1; rating +3.00
+WV-01,House,Vince George,DEM,0.000401,0.018045,mu -35.1 sd 6.9; lean -43.7; inc -1; rating +3.00
+WV-01,House,Carol Miller,REP,0.999599,0.981955,mu -35.1 sd 6.9; lean -43.7; inc -1; rating +3.00
+WV-02,House,Ace Parsi,DEM,0.000633,0.02005,mu -32.2 sd 6.9; lean -38.9; inc -1; rating +3.00
+WV-02,House,Riley Moore,REP,0.999367,0.97995,mu -32.2 sd 6.9; lean -38.9; inc -1; rating +3.00
+WY-AL,House,Lisa Kinney,DEM,0.000627,0.038942,mu -32.2 sd 6.9; lean -45.5; inc +0; rating +2.67
+WY-AL,House,Chuck Gray,REP,0.999373,0.961058,mu -32.2 sd 6.9; lean -45.5; inc +0; rating +2.67

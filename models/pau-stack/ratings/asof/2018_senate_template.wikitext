@@ -1,0 +1,617 @@
+<noinclude>__NOTOC__
+[[United States Senate elections, 2018|← United States Senate elections, 2018]]
+
+</noinclude><includeonly><span style="font-size: 75%;" class="editlink noprint plainlinks nourlexpansion">[ [https://en.wikipedia.org/w/index.php?title=Template:United_States_Senate_elections,_2018_election_predictions&action=edit edit this section here] ]</span><br/></includeonly>
+Most election predictors use:
+* "<u>tossup</u>": no advantage
+* "<u>tilt</u>" (used sometimes): advantage that is not quite as strong as "lean"
+* "<u>lean</u>": slight advantage
+* "<u>likely" or "favored</u>": significant, but surmountable, advantage (highest ranking given from Fox News)
+* "<u>safe" or "solid</u>": near-certain chance of victory
+
+<!-- Colors and sorting:
+style="background:#f66" data-sort-value=4 | Safe R
+style="background:#f66" data-sort-value=3.9 | Safe R {{Small|(flip)}}
+style="background:#f99" data-sort-value=3 | Likely R
+style="background:#f99" data-sort-value=2.9 | Likely R {{Small|(flip)}}
+style="background:#fcc" data-sort-value=2 | Lean R
+style="background:#fcc" data-sort-value=1.9 | Lean R {{Small|(flip)}}
+style="background:#fdd" data-sort-value=1 | Tilt R
+style="background:#fdd" data-sort-value=0.9 | Tilt R {{Small|(flip)}}
+data-sort-value=0 | Tossup
+style="background:#ddf" data-sort-value=-0.9 | Tilt D {{Small|(flip)}}
+style="background:#ddf" data-sort-value=-1 | Tilt D
+style="background:#ccf" data-sort-value=-1.9 | Lean D {{Small|(flip)}}
+style="background:#ccf" data-sort-value=-2 | Lean D
+style="background:#99f" data-sort-value=-2.9 | Likely D {{Small|(flip)}}
+style="background:#99f" data-sort-value=-3 | Likely D
+style="background:#66f" data-sort-value=-3.9 | Safe D {{Small|(flip)}}
+style="background:#66f" data-sort-value=-4 | Safe D
+-->
+{| class="wikitable sortable" style="text-align:center"
+
+|- style="vertical-align:bottom"
+! State
+! [[Cook Partisan Voting Index|PVI]]<ref>{{cite web | url=http://decisiondeskhq.com/news/2016-state-pvi-changes | title=2016 State PVI Changes – Decision Desk HQ | website=decisiondeskhq.com | date=December 15, 2017}}</ref>
+! Incumbent
+! data-sort-type="number"| Most<br/>recent<br/>result
+! [[Cook Political Report|Cook]]<br/>{{Small|October 26,<br/>2018}}<ref name="cook1">{{cite web | title=2018 Senate Race Ratings | url=http://cookpolitical.com/ratings/senate-race-ratings | publisher=Cook Political Report | date=October 26, 2018}}</ref>
+! [[Inside Elections|I.E.]]<br/>{{Small|November 1,<br/>2018}}<ref>{{cite web | title=Senate Ratings | url=https://insideelections.com/ratings/senate | publisher=Inside Elections | date=October 26, 2018}}</ref>
+! [[Sabato's Crystal Ball|Sabato]]<br/>{{Small|November 5,<br/>2018}}<ref>{{cite web | title=2017-2018 Crystal Ball Senate race ratings map | url=http://www.centerforpolitics.org/crystalball/2018-senate | publisher=University of Virginia Center for Politics | date=November 5, 2018}}</ref>
+! [[The New York Times|NYT]]<br/>{{small|October 27,<br/>2018}}<ref>{{cite news | title=2018 Election Calendar and Results | url=https://www.nytimes.com/interactive/2018/us/elections/calendar-primary-results.html | publisher=The New York Times | accessdate=January 24, 2018}}</ref>
+! [[CNN]]<br/>{{small|November 2,<br/>2018}}<ref>{{cite web | title=CNN Key Race Alert: This is the narrow path to a Democratic Senate | url=https://us.cnn.com/2018/09/09/politics/cnn-key-races-senate-update-early-september/index.html | website=CNN | accessdate=September 9, 2018}}</ref>
+! [[Real Clear Politics|RCP]]<br/>{{small|November 2,<br/>2018}}<ref>{{cite news | title=Battle for the Senate 2018 | url=https://www.realclearpolitics.com/epolls/2018/senate/2018_elections_senate_map.html | publisher=RCP| accessdate=March 28, 2018}}</ref>
+! [[Fox News]]<br/>{{small|October 30,<br/>2018}}<ref>{{cite news | title=Fox News Midterms 2018 America's Election HQ | url=http://www.foxnews.com/politics/midterms-2018.html | publisher=Fox News | accessdate=June 12, 2018}}</ref>
+! [[Daily Kos]]<br/>{{small|October 5,<br/>2018}}<ref>{{cite news | title=Daily Kos Elections 2018 race ratings | url=https://www.dailykos.com/stories/2018/6/4/1769407/-Daily-Kos-Elections-2018-race-ratings#Senate | publisher=Daily Kos | date=October 5, 2018}}</ref>
+! [[Politico]]<br/>{{small|October 12,<br/>2018}}<ref>{{cite web | title=Who wins 2018? Predictions for Every House & Senate Election | url=https://www.politico.com/election-results/2018/house-senate-race-ratings-and-predictions | website=POLITICO | accessdate=September 8, 2018}}</ref>
+! [[FiveThirtyEight|538]]{{efn|Reflects the "classic" version of the forecast model.}}<br/>{{small|November 5,<br/>2018}}<ref>{{cite web | last1=Silver | first1=Nate | title=Forecasting the race for the Senate | url=https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate | website=[[FiveThirtyEight]] | accessdate=October 25, 2018 | date=September 12, 2018}}</ref>
+
+|-
+! [[#Arizona|Arizona]]
+| {{party shading/Republican}} data-sort-value="105" | R+5
+| {{party shading/Republican}} data-sort-value="Flake, Jeff" | [[Jeff Flake]] (R)<br/>{{Small|(Retiring)}}
+<!--'12-->| {{party shading/Republican}} data-sort-value="49" | 49% R
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tilt|D|flip}}
+<!--SCB-->| {{USRaceRating|Lean|D|flip}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Tossup}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Tossup}}
+<!--538-->| {{USRaceRating|Lean|D|flip}}
+
+|-
+! [[#California|California]]
+| {{Party shading/Democratic}} data-sort-value="-12" | D+12
+| {{Party shading/Democratic}} data-sort-value="Feinstein, Dianne" | [[Dianne Feinstein]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-63" | 63% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Connecticut|Connecticut]]
+| {{Party shading/Democratic}} data-sort-value="-6" | D+6
+| {{Party shading/Democratic}} data-sort-value="Murphy, Chris" | [[Chris Murphy]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-55" | 55% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Delaware|Delaware]]
+| {{Party shading/Democratic}} data-sort-value="-6" | D+6
+| {{Party shading/Democratic}} data-sort-value="Carper, Tom" | [[Tom Carper]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-66" | 66% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Florida|Florida]]
+| {{party shading/Republican}} data-sort-value="102" | R+2
+| {{party shading/Democratic}} data-sort-value="Nelson, Bill" | [[Bill Nelson]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-55" | 55% D
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tilt|D}}
+<!--SCB-->| {{USRaceRating|Lean|D}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Tossup}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Tossup}}
+<!--538-->| {{USRaceRating|Lean|D}}
+
+|-
+! [[#Hawaii|Hawaii]]
+| {{Party shading/Democratic}} data-sort-value="-18" | D+18
+| {{Party shading/Democratic}} data-sort-value="Hirono, Mazie" | [[Mazie Hirono]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-63" | 63% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Indiana|Indiana]]
+| {{party shading/Republican}} data-sort-value="109" | R+9 
+| {{party shading/Democratic}} data-sort-value="Donnelly, Joe" | [[Joe Donnelly]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-50" | 50% D
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tossup}}
+<!--SCB-->| {{USRaceRating|Lean|R|flip}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Tossup}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Tossup}}
+<!--538-->| {{USRaceRating|Lean|D}}
+
+|-
+! [[#Maine|Maine]]
+| {{party shading/Democratic}} data-sort-value="-3" | D+3
+| {{party shading/Independent (United States)}} data-sort-value="King, Angus" | [[Angus King]] (I)
+<!--'12-->| {{party shading/Independent (United States)}} data-sort-value="-53" | 53% I
+<!--Coo-->| {{USRaceRating|Safe|D/I}}
+<!--Rot-->| {{USRaceRating|Safe|D/I}}
+<!--SCB-->| {{USRaceRating|Safe|D/I}}
+<!--NYT-->| {{USRaceRating|Safe|D/I}}
+<!--CNN-->| {{USRaceRating|Safe|D/I}}
+<!--RCP-->| {{USRaceRating|Safe|D/I}}
+<!--Fox-->| {{USRaceRating|Likely|D/I}}
+<!--DKE-->| {{USRaceRating|Safe|D/I}}
+<!--POL-->| {{USRaceRating|Safe|D/I}}
+<!--538-->| {{USRaceRating|Safe|D/I}}
+
+|-
+! [[#Maryland|Maryland]]
+| {{Party shading/Democratic}} data-sort-value="-12" | D+12
+| {{Party shading/Democratic}} data-sort-value="Cardin, Ben" | [[Ben Cardin]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-55" | 55% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Massachusetts|Massachusetts]]
+| {{Party shading/Democratic}} data-sort-value="-12" | D+12
+| {{Party shading/Democratic}} data-sort-value="Warren, Elizabeth" | [[Elizabeth Warren]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-54" | 54% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Michigan|Michigan]]
+| {{party shading/Democratic}} data-sort-value="-1" | D+1
+| {{party shading/Democratic}} data-sort-value="Stabenow, Debbie" | [[Debbie Stabenow]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-59" | 59% D
+<!--Coo-->| {{USRaceRating|Likely|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Likely|D}}
+<!--CNN-->| {{USRaceRating|Likely|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Likely|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Minnesota|Minnesota]]
+| {{Party shading/Democratic}} data-sort-value="-1" | D+1
+| {{Party shading/Democratic}} data-sort-value="Klobuchar, Amy" | [[Amy Klobuchar]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-65" | 65% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Minnesota (Special)|Minnesota]]<br/>{{Small|(Special)}}
+| {{Party shading/Democratic}} data-sort-value="-1" | D+1
+| {{Party shading/Democratic}} data-sort-value="Smith, Tina" | [[Tina Smith]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-53" | 53% D
+<!--Coo-->| {{USRaceRating|Lean|D}}
+<!--Rot-->| {{USRaceRating|Likely|D}}
+<!--SCB-->| {{USRaceRating|Likely|D}}
+<!--NYT-->| {{USRaceRating|Lean|D}}
+<!--CNN-->| {{USRaceRating|Likely|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Likely|D}}
+<!--POL-->| {{USRaceRating|Likely|D}}
+<!--538-->| {{USRaceRating|Likely|D}}
+
+|-
+! [[#Mississippi|Mississippi]]
+| {{Party shading/Republican}} data-sort-value="109" | R+9
+| {{Party shading/Republican}} data-sort-value="Wicker, Roger" | [[Roger Wicker]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value="57" | 57% R
+<!--Coo-->| {{USRaceRating|Safe|R}}
+<!--Rot-->| {{USRaceRating|Safe|R}}
+<!--SCB-->| {{USRaceRating|Safe|R}}
+<!--NYT-->| {{USRaceRating|Safe|R}}
+<!--CNN-->| {{USRaceRating|Safe|R}}
+<!--RCP-->| {{USRaceRating|Safe|R}}
+<!--Fox-->| {{USRaceRating|Likely|R}}
+<!--DKE-->| {{USRaceRating|Safe|R}}
+<!--POL-->| {{USRaceRating|Safe|R}}
+<!--538-->| {{USRaceRating|Safe|R}}
+
+|-
+! [[#Mississippi (Special)|Mississippi]]<br/>{{Small|(Special)}}{{efn | name="MSnonpartisan" | Special elections in Mississippi are nonpartisan. Party affiliation is not listed on the ballot.}}
+| {{Party shading/Republican}} data-sort-value="109" | R+9
+| {{Party shading/Republican}} data-sort-value="Hyde-Smith, Cindy" | [[Cindy Hyde-Smith]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value="60" | 60% R
+<!--Coo-->| {{USRaceRating|Lean|R}}
+<!--Rot-->| {{USRaceRating|Safe|R}}
+<!--SCB-->| {{USRaceRating|Likely|R}}
+<!--NYT-->| {{USRaceRating|Lean|R}}
+<!--CNN-->| {{USRaceRating|Safe|R}}
+<!--RCO-->| {{USRaceRating|Likely|R}}
+<!--Fox-->| {{USRaceRating|Lean|R}}
+<!--DKE-->| {{USRaceRating|Likely|R}}
+<!--POL-->| {{USRaceRating|Likely|R}}
+<!--538-->| {{USRaceRating|Likely|R}}
+
+|-
+! [[#Missouri|Missouri]]
+| {{party shading/Republican}} data-sort-value=109 | R+9
+| {{party shading/Democratic}} data-sort-value="McCaskill, Claire" | [[Claire McCaskill]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-55 | 55% D
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tilt|R|flip}}
+<!--SCB-->| {{USRaceRating|Lean|R|flip}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Tossup}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Tossup}}
+<!--538-->| {{USRaceRating|Tossup}}
+
+|-
+! [[#Montana|Montana]]
+| {{party shading/Republican}} data-sort-value=111 | R+11
+| {{party shading/Democratic}} data-sort-value="Tester, Jon" | [[Jon Tester]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-49 | 49% D
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tilt|D}}
+<!--SCB-->| {{USRaceRating|Lean|D}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Lean|D}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Lean|D}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Lean|D}}
+<!--538-->| {{USRaceRating|Likely|D}}
+
+|-
+! [[#Nebraska|Nebraska]]
+| {{Party shading/Republican}} data-sort-value=114 | R+14
+| {{Party shading/Republican}} data-sort-value="Fischer, Deb" | [[Deb Fischer]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value=56 | 56% R
+<!--Coo-->| {{USRaceRating|Safe|R}}
+<!--Rot-->| {{USRaceRating|Safe|R}}
+<!--SCB-->| {{USRaceRating|Safe|R}}
+<!--NYT-->| {{USRaceRating|Safe|R}}
+<!--CNN-->| {{USRaceRating|Safe|R}}
+<!--RCP-->| {{USRaceRating|Safe|R}}
+<!--Fox-->| {{USRaceRating|Likely|R}}
+<!--DKE-->| {{USRaceRating|Safe|R}}
+<!--POL-->| {{USRaceRating|Safe|R}}
+<!--538-->| {{USRaceRating|Safe|R}}
+
+|-
+! [[#Nevada|Nevada]]
+| {{party shading/Democratic}} data-sort-value=-1 | D+1
+| {{party shading/Republican}} data-sort-value="Heller, Dean" | [[Dean Heller]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value=46 | 46% R
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Tilt|D|flip}}
+<!--SCB-->| {{USRaceRating|Lean|D|flip}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Tossup}}
+<!--Fox-->| {{USRaceRating|Tossup}}
+<!--DKE-->| {{USRaceRating|Tossup}}
+<!--POL-->| {{USRaceRating|Tossup}}
+<!--538-->| {{USRaceRating|Tossup}}
+
+|-
+! [[#New Jersey|New Jersey]]
+| {{party shading/Democratic}} data-sort-value=-7 | D+7
+| {{party shading/Democratic}} data-sort-value="Menendez, Bob" | [[Bob Menendez]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-59 | 59% D
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Likely|D}}
+<!--SCB-->| {{USRaceRating|Likely|D}}
+<!--NYT-->| {{USRaceRating|Lean|D}}
+<!--CNN-->| {{USRaceRating|Lean|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Lean|D}}
+<!--DKE-->| {{USRaceRating|Lean|D}}
+<!--POL-->| {{USRaceRating|Lean|D}}
+<!--538-->| {{USRaceRating|Likely|D}}
+
+|-
+! [[#New Mexico|New Mexico]]
+| {{Party shading/Democratic}} data-sort-value=-3 | D+3
+| {{Party shading/Democratic}} data-sort-value="Heinrich, Martin" | [[Martin Heinrich]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-51 | 51% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#New York|New York]]
+| {{Party shading/Democratic}} data-sort-value=-11 | D+11
+| {{Party shading/Democratic}} data-sort-value="Gillibrand, Kirsten" | [[Kirsten Gillibrand]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-72 | 72% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#North Dakota|North Dakota]]
+| {{party shading/Republican}} data-sort-value=116 | R+16
+| {{party shading/Democratic}} data-sort-value="Heitkamp, Heidi" | [[Heidi Heitkamp]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-50 | 50% D
+<!--Coo-->| {{USRaceRating|Lean|R|Flip}}
+<!--Rot-->| {{USRaceRating|Lean|R|Flip}}
+<!--SCB-->| {{USRaceRating|Lean|R|Flip}}
+<!--NYT-->| {{USRaceRating|Lean|R|Flip}}
+<!--CNN-->| {{USRaceRating|Lean|R|Flip}}
+<!--RCP-->| {{USRaceRating|Likely|R|Flip}}
+<!--Fox-->| {{USRaceRating|Likely|R|Flip}}
+<!--DKE-->| {{USRaceRating|Lean|R|Flip}}
+<!--POL-->| {{USRaceRating|Lean|R|Flip}}
+<!--538-->| {{USRaceRating|Likely|R|Flip}}
+
+|-
+! [[#Ohio|Ohio]]
+| {{party shading/Republican}} data-sort-value=103 | R+3
+| {{party shading/Democratic}} data-sort-value="Brown, Sherrod" | [[Sherrod Brown]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-51 | 51% D
+<!--Coo-->| {{USRaceRating|Likely|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Likely|D}}
+<!--NYT-->| {{USRaceRating|Likely|D}}
+<!--CNN-->| {{USRaceRating|Likely|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Likely|D}}
+<!--POL-->| {{USRaceRating|Likely|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Pennsylvania|Pennsylvania]]
+| data-sort-value=0 | EVEN
+| {{party shading/Democratic}} data-sort-vaue="Casey, Bob" | [[Bob Casey Jr.]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-54 | 54% D
+<!--Coo-->| {{USRaceRating|Likely|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Likely|D}}
+<!--CNN-->| {{USRaceRating|Likely|D}}
+<!--RCP-->| {{USRaceRating|Likely|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Likely|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Rhode Island|Rhode Island]]
+| {{Party shading/Democratic}} data-sort-value=-10 | D+10
+| {{Party shading/Democratic}} data-sort-value="Whitehouse, Sheldon" | [[Sheldon Whitehouse]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-64 | 64% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Tennessee|Tennessee]]
+| {{Party shading/Republican}} data-sort-value=114 | R+14
+| {{Party shading/Republican}} data-sort-value="Corker, Bob" | [[Bob Corker]] (R)<br/>{{Small|(Retiring)}}
+<!--'12-->| {{party shading/Republican}} data-sort-value=65 | 65% R
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Lean|R}}
+<!--SCB-->| {{USRaceRating|Lean|R}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Tossup}}
+<!--RCP-->| {{USRaceRating|Lean|R}}
+<!--Fox-->| {{USRaceRating|Lean|R}}
+<!--DKE-->| {{USRaceRating|Lean|R}}
+<!--POL-->| {{USRaceRating|Lean|R}}
+<!--538-->| {{USRaceRating|Likely|R}}
+
+|-
+! [[#Texas|Texas]]
+| {{Party shading/Republican}} data-sort-value=108 | R+8
+| {{Party shading/Republican}} data-sort-value="Cruz, Ted" | [[Ted Cruz]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value=57 | 57% R
+<!--Coo-->| {{USRaceRating|Tossup}}
+<!--Rot-->| {{USRaceRating|Likely|R}}
+<!--SCB-->| {{USRaceRating|Lean|R}}
+<!--NYT-->| {{USRaceRating|Tossup}}
+<!--CNN-->| {{USRaceRating|Lean|R}}
+<!--RCP-->| {{USRaceRating|Lean|R}}
+<!--Fox-->| {{USRaceRating|Lean|R}}
+<!--DKE-->| {{USRaceRating|Lean|R}}
+<!--POL-->| {{USRaceRating|Lean|R}}
+<!--538-->| {{USRaceRating|Likely|R}}
+
+|-
+! [[#Utah|Utah]]
+| {{Party shading/Republican}} data-sort-value=120 | R+20
+| {{Party shading/Republican}} data-sort-value="Hatch, Orrin" | [[Orrin Hatch]] (R)<br/>{{Small|(Retiring)}}
+<!--'12-->| {{party shading/Republican}} data-sort-value=65 | 65% R
+<!--Coo-->| {{USRaceRating|Safe|R}}
+<!--Rot-->| {{USRaceRating|Safe|R}}
+<!--SCB-->| {{USRaceRating|Safe|R}}
+<!--NYT-->| {{USRaceRating|Safe|R}}
+<!--CNN-->| {{USRaceRating|Safe|R}}
+<!--RCP-->| {{USRaceRating|Safe|R}}
+<!--Fox-->| {{USRaceRating|Likely|R}}
+<!--DKE-->| {{USRaceRating|Safe|R}}
+<!--POL-->| {{USRaceRating|Safe|R}}
+<!--538-->| {{USRaceRating|Safe|R}}
+
+|-
+! [[#Vermont|Vermont]]
+| {{Party shading/Democratic}} data-sort-value=-15 | D+15
+| {{Party shading/Independent (United States)}} data-sort-value="Sanders, Bernie" | [[Bernie Sanders]] (I)
+<!--'12-->| {{party shading/Independent (United States)}} data-sort-value=-71 | 71% I
+<!--Coo-->| {{USRaceRating|Safe|D/I}}
+<!--Rot-->| {{USRaceRating|Safe|D/I}}
+<!--SCB-->| {{USRaceRating|Safe|D/I}}
+<!--NYT-->| {{USRaceRating|Safe|D/I}}
+<!--CNN-->| {{USRaceRating|Safe|D/I}}
+<!--RCP-->| {{USRaceRating|Safe|D/I}}
+<!--Fox-->| {{USRaceRating|Likely|D/I}}
+<!--DKE-->| {{USRaceRating|Safe|D/I}}
+<!--POL-->| {{USRaceRating|Safe|D/I}}
+<!--538-->| {{USRaceRating|Safe|D/I}}
+
+|-
+! [[#Virginia|Virginia]]
+| {{Party shading/Democratic}} data-sort-value=-1 | D+1
+| {{party shading/Democratic}} data-sort-value="Kaine, Tim" | [[Tim Kaine]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value=-53 | 53% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Washington|Washington]]
+| {{Party shading/Democratic}} data-sort-value="-7" | D+7
+| {{Party shading/Democratic}} data-sort-value="Cantwell, Maria" | [[Maria Cantwell]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-61" | 61% D
+<!--Coo-->| {{USRaceRating|Safe|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Safe|D}}
+<!--NYT-->| {{USRaceRating|Safe|D}}
+<!--CNN-->| {{USRaceRating|Safe|D}}
+<!--RCP-->| {{USRaceRating|Safe|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Safe|D}}
+<!--POL-->| {{USRaceRating|Safe|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#West Virginia|West Virginia]]
+| {{party shading/Republican}} data-sort-value="120" | R+20
+| {{party shading/Democratic}} data-sort-value="Manchin, Joe" | [[Joe Manchin]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-61" | 61% D
+<!--Coo-->| {{USRaceRating|Lean|D}}
+<!--Rot-->| {{USRaceRating|Tilt|D}}
+<!--SCB-->| {{USRaceRating|Lean|D}}
+<!--NYT-->| {{USRaceRating|Lean|D}}
+<!--CNN-->| {{USRaceRating|Lean|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Lean|D}}
+<!--DKE-->| {{USRaceRating|Lean|D}}
+<!--POL-->| {{USRaceRating|Lean|D}}
+<!--538-->| {{USRaceRating|Likely|D}}
+
+|-
+! [[#Wisconsin|Wisconsin]]
+| data-sort-value=0 | EVEN
+| {{party shading/Democratic}} data-sort-value="Baldwin, Tammy" | [[Tammy Baldwin]] (D)
+<!--'12-->| {{party shading/Democratic}} data-sort-value="-51" | 51% D
+<!--Coo-->| {{USRaceRating|Likely|D}}
+<!--Rot-->| {{USRaceRating|Safe|D}}
+<!--SCB-->| {{USRaceRating|Likely|D}}
+<!--NYT-->| {{USRaceRating|Likely|D}}
+<!--CNN-->| {{USRaceRating|Likely|D}}
+<!--RCP-->| {{USRaceRating|Lean|D}}
+<!--Fox-->| {{USRaceRating|Likely|D}}
+<!--DKE-->| {{USRaceRating|Likely|D}}
+<!--POL-->| {{USRaceRating|Lean|D}}
+<!--538-->| {{USRaceRating|Safe|D}}
+
+|-
+! [[#Wyoming|Wyoming]]
+| {{Party shading/Republican}} data-sort-value="125" | R+25
+| {{Party shading/Republican}} data-sort-value="Barrasso, John" | [[John Barrasso]] (R)
+<!--'12-->| {{party shading/Republican}} data-sort-value="76" | 76% R
+<!--Coo-->| {{USRaceRating|Safe|R}}
+<!--Rot-->| {{USRaceRating|Safe|R}}
+<!--SCB-->| {{USRaceRating|Safe|R}}
+<!--NYT-->| {{USRaceRating|Safe|R}}
+<!--CNN-->| {{USRaceRating|Safe|R}}
+<!--RCP-->| {{USRaceRating|Safe|R}}
+<!--Fox-->| {{USRaceRating|Likely|R}}
+<!--DKE-->| {{USRaceRating|Safe|R}}
+<!--POL-->| {{USRaceRating|Safe|R}}
+<!--538-->| {{USRaceRating|Safe|R}}
+
+|}
+<noinclude>
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+[[Category:United States Senate elections, 2018|Template]]
+</noinclude>

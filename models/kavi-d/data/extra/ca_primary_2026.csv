@@ -1,0 +1,298 @@
+race_id,candidate,party,votes,pct
+CA-01,James Gallagher,Republican,92975,42.15
+CA-01,Mike McGuire,Democratic,92121,41.76
+CA-01,Audrey Denney,Democratic,31378,14.22
+CA-01,Janice Karman,Democratic,1697,0.77
+CA-01,Timothy Sean Kelly,No party preference,1640,0.74
+CA-01,Richard Minner,No party preference,784,0.36
+CA-02,Jared Huffman,Democratic,139662,56.48
+CA-02,Robin Littau,Republican,28222,11.41
+CA-02,Rose Yee,Democratic,18898,7.64
+CA-02,Angelita Valles,Republican,16307,6.59
+CA-02,Tim Geist,Republican,16160,6.53
+CA-02,Paul Saulsbury,Republican,14399,5.82
+CA-02,Nicolette Niman,No party preference,11886,4.81
+CA-02,Gregory Burgess,No party preference,1759,0.71
+CA-03,Ami Bera,Democratic,76653,34.26
+CA-03,Robb Tucker,Republican,66808,29.86
+CA-03,Heidi Hall,Democratic,28647,12.81
+CA-03,Christine Bish,Republican,26626,11.9
+CA-03,Chris Bennett,Democratic,16710,7.47
+CA-03,Laura Koscki,Republican,3219,1.44
+CA-03,"Lyndon ""Pacey"" Cervantes",Democratic,2696,1.21
+CA-03,Chris Richardson,Green,2352,1.05
+CA-04,Mike Thompson,Democratic,84753,40.97
+CA-04,Eric Jones,Democratic,45992,22.23
+CA-04,Ray Riehle,Republican,42883,20.73
+CA-04,Sharon Brown,Republican,9818,4.75
+CA-04,John Mackenzie,Republican,9691,4.68
+CA-04,Chuck Uribe,Republican,7235,3.5
+CA-04,Jimih Jones,Republican,3001,1.45
+CA-04,Mandy Ghusar,Republican,1987,0.96
+CA-04,Thomas Roach,No party preference,1527,0.74
+CA-05,Tom McClintock,Republican,129653,61.29
+CA-05,Michael Masuda,Democratic,51418,24.31
+CA-05,Michael Barkley,Democratic,19349,9.15
+CA-05,Dan Stroud,Democratic,11122,5.26
+CA-06,Kevin Kiley,No party preference,47165,24.28
+CA-06,Richard Pan,Democratic,45008,23.17
+CA-06,Michael Stansfield,Republican,39118,20.14
+CA-06,Lauren Babb Tomlinson,Democratic,23857,12.28
+CA-06,Thien Ho,Democratic,20715,10.67
+CA-06,Martha Guerrero,Democratic,15296,7.88
+CA-06,Tyler Vandenberg,Democratic,3058,1.57
+CA-07,Mai Vang,Democratic,65617,31.23
+CA-07,Doris Matsui,Democratic,61114,29.09
+CA-07,Zachariah Wooden,Republican,45994,21.89
+CA-07,Ralph Nwobi,Republican,31670,15.07
+CA-07,Robby Morin,Democratic,4107,1.95
+CA-07,Enayat Nazhat,Democratic,1613,0.77
+CA-08,John Garamendi,Democratic,97155,54.41
+CA-08,Rudy Recile,Republican,49599,27.78
+CA-08,Nicolas Carjuzaa,Democratic,22587,12.65
+CA-08,Aaron Rowden,Democratic,9220,5.16
+CA-09,Josh Harder,Democratic,79946,60.78
+CA-09,John McBride,Republican,30625,23.28
+CA-09,"Martin ""Vmann"" Veprauskas",Republican,9813,7.46
+CA-09,Khalid Jeffrey Jafri,Republican,8900,6.77
+CA-09,"Parminder ""Happy"" Singh",Republican,2247,1.71
+CA-10,Mark DeSaulnier,Democratic,132246,59.68
+CA-10,Jeff Frese,Republican,28671,12.94
+CA-10,Katherine Piccinini,Republican,25487,11.5
+CA-10,Angela Griffiths,Republican,14767,6.66
+CA-10,Joshua Hamilton,Democratic,8797,3.97
+CA-10,Mitchell Maisler,Democratic,7746,3.5
+CA-10,Bob Rowland,Democratic,3867,1.75
+CA-11,Scott Wiener,Democratic,95816,40.71
+CA-11,Connie Chan,Democratic,69899,29.7
+CA-11,Saikat Chakrabarti,Democratic,42060,17.87
+CA-11,Marie Hurabiell,Democratic,9410,4.0
+CA-11,David Ganezer,Republican,9299,3.95
+CA-11,Jingchao Xiong,Republican,4238,1.8
+CA-11,Gregory Haynes,Democratic,2025,0.86
+CA-11,"John ""Gus"" Buffler",Democratic,942,0.4
+CA-11,Nathan Deer,No party preference,649,0.28
+CA-11,Keith Freedman,Democratic,591,0.25
+CA-11,Omed Hamid,Democratic,401,0.17
+CA-11,Michael A. Petrelis ( write-in ),Green,7,0.0
+CA-12,Lateefah Simon,Democratic,153190,84.24
+CA-12,Jamie Joyce,Democratic,28372,15.6
+CA-12,Steve Slauson ( write-in ),Green,279,0.15
+CA-13,Adam Gray,Democratic,41086,41.97
+CA-13,Kevin Lincoln,Republican,27157,27.74
+CA-13,Vin Kruttiventi,Republican,14867,15.19
+CA-13,Daniel Garibay Rodriguez,Democratic,14787,15.1
+CA-14,Aisha Wahab,Democratic,59238,38.28
+CA-14,Melissa Hernandez,Democratic,26579,17.18
+CA-14,Wendy Huang,Republican,20354,13.15
+CA-14,Rakhi Israni Singh,Democratic,20041,12.95
+CA-14,Dena Maldonado (withdrawn),Republican,18788,12.14
+CA-14,Victor Aguilar Jr.,Democratic,3276,2.12
+CA-14,Matt Ortega,Democratic,2612,1.69
+CA-14,Carin Elam,Democratic,2160,1.4
+CA-14,Suzanne Chenault,No party preference,1699,1.1
+CA-15,Kevin Mullin,Democratic,107496,65.03
+CA-15,Charles Hoelter,Republican,30476,18.44
+CA-15,Anthony Van Dang,Democratic,13226,8.0
+CA-15,Mantosh Kumar,Democratic,7981,4.83
+CA-15,Jim Garrity,No party preference,6126,3.71
+CA-16,Sam Liccardo,Democratic,139399,75.61
+CA-16,Peter Sundin Soulé,Republican,19841,10.76
+CA-16,Kevin Johnson,Republican,18807,10.2
+CA-16,Jotham Stein,No party preference,6319,3.43
+CA-17,Ro Khanna,Democratic,83051,62.3
+CA-17,Ritesh Tandon,Republican,19793,14.85
+CA-17,Jennie Ha Phan,Republican,14282,10.71
+CA-17,Ethan Agarwal,Democratic,8658,6.49
+CA-17,Mike Katz,Democratic,6382,4.79
+CA-17,Joe Dehn,Libertarian,1152,0.86
+CA-18,Zoe Lofgren,Democratic,65291,54.86
+CA-18,Shane Lewis,Republican,34883,29.31
+CA-18,Luis Arreguín,Democratic,15384,12.93
+CA-18,Chris Demers,No party preference,3447,2.9
+CA-19,Jimmy Panetta,Democratic,127294,58.43
+CA-19,Peter Coe Verbica,Republican,44590,20.47
+CA-19,Sean Dougherty,Democratic,25052,11.5
+CA-19,Tuka Gafari,Republican,13715,6.3
+CA-19,Ana Luz Acevedo-Cabrera,No party preference,3496,1.6
+CA-19,Lars Mapstead,Libertarian,2615,1.2
+CA-19,Thomas Coxe,No party preference,1078,0.49
+CA-20,Vince Fong,Republican,115035,68.16
+CA-20,Sandra Van Scotter,Democratic,48611,28.8
+CA-20,Ben Dewell,No party preference,3080,1.82
+CA-20,Jeremy Fox,No party preference,2042,1.21
+CA-21,Jim Costa,Democratic,43461,42.23
+CA-21,Kyle Kirkland,Republican,27076,26.31
+CA-21,Lorenzo Rios,Republican,15362,14.93
+CA-21,Lourin Hubbard,Democratic,10577,10.28
+CA-21,Eric Garcia,Democratic,5232,5.08
+CA-21,Lance Kruse,No party preference,1213,1.18
+CA-22,David Valadao,Republican,32491,40.74
+CA-22,Randy Villegas,Democratic,25808,32.36
+CA-22,Jasmeet Bains,Democratic,21458,26.9
+CA-23,Jay Obernolte,Republican,81346,57.08
+CA-23,Tessa Lynn Hodge,Democratic,30292,21.25
+CA-23,Pat Wallis,Democratic,18945,13.29
+CA-23,Karen Leigh Matthews,No party preference,6501,4.56
+CA-23,Karsten Scott Nicholson,Democratic,4409,3.09
+CA-23,Eli C. Owens,No party preference,986,0.69
+CA-23,Renee Longshore ( write-in ),Democratic,36,0.03
+CA-23,Robert Matthew Riter ( write-in ),Republican,9,0.01
+CA-24,Salud Carbajal,Democratic,113716,54.36
+CA-24,Bob Smith,Republican,75085,35.89
+CA-24,Sarah Bacon,Democratic,15636,7.47
+CA-24,Helena Pasquarella,Peace and Freedom,4759,2.27
+CA-25,Raul Ruiz,Democratic,88699,60.01
+CA-25,Joe Males,Republican,27927,18.89
+CA-25,Ronald Huffman,Republican,18221,12.33
+CA-25,Ceci Andrade Truman,Republican,12959,8.77
+CA-26,Jacqui Irwin,Democratic,79790,41.29
+CA-26,Sam Gallucci,Republican,40334,20.87
+CA-26,Chris Espinosa,Democratic,19902,10.3
+CA-26,Michael S. Koslow,Republican,18454,9.55
+CA-26,"William ""Bill"" Scott",Republican,16204,8.39
+CA-26,Sonia Kacker,Democratic,8940,4.63
+CA-26,Liam Andres O'Neill Hernandez,Democratic,3305,1.71
+CA-26,Daniel Miller,Republican,3179,1.65
+CA-26,Susan Samadzadeh,Democratic,3122,1.62
+CA-27,Jason Gibbs,Republican,62758,40.98
+CA-27,George Whitesides,Democratic,62214,40.63
+CA-27,Roberto Ramos,Democratic,14868,9.71
+CA-27,Caleb Norwood,Democratic,13293,8.68
+CA-28,Judy Chu,Democratic,116321,62.23
+CA-28,April Verlato,Republican,60020,32.11
+CA-28,Peter Roybal,Democratic,10584,5.66
+CA-29,Luz Maria Rivas,Democratic,62385,51.04
+CA-29,Angélica María Dueñas,Democratic,30469,24.93
+CA-29,Rudy Melendez,Republican,29362,24.02
+CA-30,Laura Friedman,Democratic,102384,52.68
+CA-30,Scott Alan Meyers,Republican,32216,16.58
+CA-30,Cameron Tennyson,Democratic,26756,13.77
+CA-30,John Armenian,No party preference,10341,5.32
+CA-30,Dennis Feitosa,Republican,9084,4.67
+CA-30,Joel Lava,Democratic,8210,4.22
+CA-30,Pini Herman,Democratic,5360,2.76
+CA-31,Gil Cisneros,Democratic,94805,61.06
+CA-31,Eric Ching,Republican,36999,23.83
+CA-31,Erskine Levi,Republican,23449,15.1
+CA-32,Brad Sherman,Democratic,76755,36.77
+CA-32,Larry Thompson,Republican,68295,32.72
+CA-32,Jake Levine,Democratic,31688,15.18
+CA-32,Marena Lin,Democratic,13215,6.33
+CA-32,Chris Ahuja,Democratic,8718,4.18
+CA-32,Anna Wilding,Democratic,4288,2.05
+CA-32,Dory Benami,Democratic,2283,1.09
+CA-32,Josh Sautter,Democratic,2017,0.97
+CA-32,Doug Smith,No party preference,1458,0.7
+CA-33,Pete Aguilar,Democratic,64068,53.54
+CA-33,Stephanie M. Vargas,Republican,20952,17.51
+CA-33,Tom Herman,Republican,13623,11.38
+CA-33,Antonis P. Christodoulou,Democratic,9013,7.53
+CA-33,Eugene Weems,Republican,5491,4.59
+CA-33,"Ernest ""Ernie"" Richter",Republican,5368,4.49
+CA-33,Ling Ling Shi,No party preference,1152,0.96
+CA-34,Jimmy Gomez,Democratic,54993,45.99
+CA-34,Angela Gonzales-Torres,Democratic,36708,30.7
+CA-34,Calvin Lee,Republican,16321,13.65
+CA-34,Robert George Lucero Jr.,Democratic,6144,5.14
+CA-34,Arthur Dixon,Democratic,4103,3.43
+CA-34,Loren Colin,No party preference,1316,1.1
+CA-35,Norma J. Torres,Democratic,76029,59.54
+CA-35,Mike Cargile,Republican,51641,40.44
+CA-35,Deborah Kristianto ( write-in ),No party preference,27,0.02
+CA-36,Ted W. Lieu,Democratic,142982,60.94
+CA-36,Houston Brignano,Republican,35851,15.28
+CA-36,Melissa Toomim,Republican,30653,13.06
+CA-36,Marianne Shamma,Democratic,17000,7.24
+CA-36,Rustin Knudtson,Democratic,3001,1.28
+CA-36,Frederick Reardon,Democratic,2688,1.15
+CA-36,Claire Anderson,No party preference,2470,1.11
+CA-37,Sydney Kamlager-Dove,Democratic,70990,55.18
+CA-37,Samantha Mota,Democratic,15019,11.67
+CA-37,Baltazar Fedalizo,Republican,13773,10.7
+CA-37,Ryan Duckett,Democratic,8410,6.54
+CA-37,Elizabeth Fenner,Democratic,7238,5.63
+CA-37,Todd Lombardo,Democratic,4696,3.65
+CA-37,John Thompson Parker,Peace and Freedom,4005,3.11
+CA-37,Juan Rey,No party preference,2470,1.92
+CA-37,Steve Hill,No party preference,2059,1.6
+CA-38,Hilda Solis,Democratic,65369,47.62
+CA-38,Pedro Antonio Casas,Republican,49196,35.84
+CA-38,Monica M. Sanchez,Democratic,18268,13.31
+CA-38,Erik Lutz,Democratic,4443,3.24
+CA-39,Mark Takano,Democratic,75467,61.04
+CA-39,Steve Manos,Republican,48177,38.96
+CA-40,Ken Calvert,Republican,75811,34.89
+CA-40,Young Kim,Republican,44818,20.63
+CA-40,Esther Kim-Varet,Democratic,36072,16.6
+CA-40,Lisa Ramirez,Democratic,30495,14.03
+CA-40,Joe Kerr,Democratic,18483,8.58
+CA-40,Claude M. Keissieh,Democratic,4832,2.22
+CA-40,Francis Xavier Hoffman,Democratic,3313,1.52
+CA-40,Nina Linh,No party preference,3311,1.52
+CA-41,Linda Sánchez,Democratic,61651,37.51
+CA-41,Mitch Clemmons,Republican,58785,35.77
+CA-41,Hector De La Torre,Democratic,22797,13.87
+CA-41,Shonique Williams,Democratic,21112,12.85
+CA-42,Robert Garcia,Democratic,114942,56.47
+CA-42,Brian Burley,Republican,41919,20.6
+CA-42,Noah Von Blom,Republican,34124,16.77
+CA-42,Long Pham,Republican,10036,4.93
+CA-42,Larisa Vermaulen,No party preference,2518,1.24
+CA-43,Maxine Waters,Democratic,75693,63.79
+CA-43,Cristian Morales,Republican,20009,16.86
+CA-43,Myla Rahman,Democratic,17847,15.04
+CA-43,David Sedlik,Democratic,5102,4.3
+CA-44,Nanette Barragán,Democratic,84690,77.01
+CA-44,Genevieve Angel,Republican,25276,22.98
+CA-44,Mark Stewart Greenstein ( write-in ),Democratic,5,0.0
+CA-45,Derek Tran,Democratic,86184,53.76
+CA-45,Chuong V. Vo,Republican,24591,15.34
+CA-45,"Chi ""Charlie"" Nguyen",Republican,18846,11.76
+CA-45,Tom Vo,Republican,13643,8.51
+CA-45,Mark Leonard,Republican,9516,5.94
+CA-45,Amy Phan West,Republican,7526,4.69
+CA-46,Lou Correa,Democratic,61587,51.94
+CA-46,David Pan,Republican,38993,32.88
+CA-46,Christian Mendez,Democratic,9263,7.81
+CA-46,"Armando ""Mando"" Perez-Serrato",Democratic,5763,4.86
+CA-46,Frank Bahena,Democratic,2929,2.47
+CA-46,Tony S. Castro ( write-in ),Democratic,49,0.04
+CA-47,Dave Min,Democratic,89515,45.45
+CA-47,Jenny Rae Le Roux,Republican,49231,25.0
+CA-47,Hunter Garcia Miranda,Democratic,16858,8.56
+CA-47,Michael Maxsenti,Republican,13763,6.99
+CA-47,Bill Brough,Republican,11773,5.98
+CA-47,Christopher J. Gonzales,Republican,9813,4.98
+CA-47,Eric Troutman,No party preference,3948,2.0
+CA-47,Derrick Michael Reid,Libertarian,1291,0.66
+CA-47,Jesus Patino,No party preference,761,0.39
+CA-48,Jim Desmond,Republican,73508,38.9
+CA-48,Marni von Wilpert,Democratic,39327,20.81
+CA-48,Ammar Campa-Najjar,Democratic,20095,10.64
+CA-48,Kevin Patrick O'Neil,Republican,13132,6.95
+CA-48,Brandon Riker,Democratic,11892,6.29
+CA-48,Abel Chavez,Democratic,10339,5.47
+CA-48,Corinna Contreras,Democratic,10056,5.32
+CA-48,Mike Schaefer,Democratic,4770,2.52
+CA-48,Luis F. Reyna,No party preference,1690,0.89
+CA-48,Stephen Clemons,Democratic,1542,0.82
+CA-48,Ferguson Porter,Democratic,1301,0.69
+CA-48,Eric Shaw,Democratic,1299,0.69
+CA-49,Mike Levin,Democratic,125869,55.85
+CA-49,Armen Kurdian,Republican,58822,26.1
+CA-49,Star Parker,Republican,40661,18.04
+CA-50,Scott Peters,Democratic,102057,48.15
+CA-50,Steve Cohen,Republican,84340,39.79
+CA-50,"Aishwarya ""Sparky"" Mitra",Democratic,16982,8.01
+CA-50,Tim Arnous,Democratic,3793,1.79
+CA-50,"Joseph ""Joe"" Shea",Libertarian,3667,1.73
+CA-50,Lucinda KWH Jahn,No party preference,1125,0.53
+CA-51,Sara Jacobs,Democratic,111765,57.74
+CA-51,Ricardo Cabrera,Republican,71692,37.04
+CA-51,David W. Engel,Democratic,6173,3.19
+CA-51,Stan Caplan,Democratic,3943,2.04
+CA-52,Juan Vargas,Democratic,71608,56.48
+CA-52,Jeff Belle,Republican,42090,33.2
+CA-52,Deborah Calhoun Rhodes,Democratic,12070,9.52
+CA-52,Frances Yasmeen Motiwalla ( write-in ),Democratic,1010,0.8

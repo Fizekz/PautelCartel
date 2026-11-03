@@ -1,0 +1,11 @@
+target_year,state,election_year,dem_pct,rep_pct,pres_year,pres_dem_pct,pres_rep_pct,nat_pres_margin,source
+2010,VA,2009,41.3,58.6,2008,52.6,46.3,7.3,"Wikipedia 2009 Virginia gubernatorial election (McDonnell v Deeds); 2008 pres VA"
+2010,NJ,2009,44.9,48.5,2008,57.3,41.7,7.3,"Wikipedia 2009 New Jersey gubernatorial election (Christie v Corzine); 2008 pres NJ"
+2014,VA,2013,47.8,45.2,2012,51.2,47.3,3.9,"Wikipedia 2013 Virginia gubernatorial election (McAuliffe v Cuccinelli); 2012 pres VA"
+2014,NJ,2013,38.2,60.3,2012,58.4,40.6,3.9,"Wikipedia 2013 New Jersey gubernatorial election (Christie v Buono); 2012 pres NJ"
+2018,VA,2017,53.9,45.0,2016,49.8,44.4,2.1,"Wikipedia 2017 Virginia gubernatorial election (Northam v Gillespie); 2016 pres VA"
+2018,NJ,2017,56.0,41.9,2016,55.5,41.4,2.1,"Wikipedia 2017 New Jersey gubernatorial election (Murphy v Guadagno); 2016 pres NJ"
+2022,VA,2021,48.6,50.6,2020,54.1,44.0,4.5,"Wikipedia 2021 Virginia gubernatorial election (Youngkin v McAuliffe); 2020 pres VA"
+2022,NJ,2021,51.2,48.0,2020,57.3,41.4,4.5,"Wikipedia 2021 New Jersey gubernatorial election (Murphy v Ciattarelli); 2020 pres NJ"
+2026,VA,2025,57.4,42.4,2024,51.8,46.1,-1.5,"Spanberger v Earle-Sears, near-final count (MasonVotes/NBC, Nov 2025); 2024 pres VA"
+2026,NJ,2025,56.2,43.2,2024,52.0,46.1,-1.5,"Sherrill v Ciattarelli, near-final count (270toWin/NBC, Nov 2025); 2024 pres NJ"

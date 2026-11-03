@@ -1,0 +1,1507 @@
+{{Use mdy dates|date=September 2016}}
+{{Infobox election
+| election_name      = United States Senate elections, 2016
+| country            = United States Senate
+| type               = legislative
+| ongoing            = yes
+| previous_election  = United States Senate elections, 2014
+| previous_year      = 2014
+| next_election      = United States Senate elections, 2018
+| next_year          = 2018
+| seats_for_election = Class 3 (34 of the 100) seats in the [[United States Senate]]
+| majority_seats     = 51<!--The VPOTUS would be the "51st" vote for either party-->
+| election_date      = November 8, 2016
+| 1blank             = Seats up
+
+| party1             = Republican Party (United States)
+| image1             = [[File:Sen Mitch McConnell official.jpg|160px]]
+| leader1            = [[Mitch McConnell]]
+| leaders_seat1      = [[List of United States Senators from Kentucky|Kentucky]]
+| seats_before1      = '''54'''
+| seats_needed1      = {{Steady}}
+| seats1             = 
+| seats_after1       = 
+| seat_change1       = 
+| popular_vote1      = 
+| percentage1        = 
+| swing1             = 
+| 1data1             = '''24'''
+
+| party2             = Democratic Party (United States)
+| image2             = [[File:Harry Reid official portrait 2009.jpg|160px]]
+| leader2            = [[Harry Reid]]<small><br/>''(Retiring)''</small>
+| leaders_seat2      = [[List of United States Senators from Nevada|Nevada]]
+| seats_before2      = 44
+| seats_needed2      = {{Increase}} 5<ref group="Note">This assumes Angus King (I-ME) and Bernie Sanders (I-VT) continue to caucus with the Democrats. In picking up four seats, they would hold the majority from January 3 to 20, 2017, based on the [[List of tie-breaking votes cast by vice presidents of the United States|tie-breaking vote]] of [[Vice President of the United States|Vice President]] [[Joe Biden]]. The majority party for the remainder of the 115th Congress would be determined by the outcome of the [[United States presidential election, 2016|2016 presidential election]].</ref>
+| seats2             = 
+| seats_after2       = 
+| seat_change2       = 
+| popular_vote2      = 
+| percentage2        = 
+| swing2             = 
+| 1data2             = 10
+
+| party4             = Independent politician
+| color4             = FFFF00
+| seats_before4      = 2
+| seat_change4       = 
+| seats_4            = 
+| seats_after4       = 
+| 1data4             = 0
+
+| map_image          = 2016 Senate election map.svg <!-- PLEASE DO NOT REPLACE this Human‐editable vector image with a raster image. Rasters suffer generational‐loss if/when we have to change a race. The vector file is editable in any text editor.-->
+| map_size           = 320px
+| map_caption = {{legend0|#3072af|7 incumbent democrats running}} {{legend0|#99cfec|3 incumbent democrats retiring}}<br/>
+{{legend0|#d53034|22 incumbent republicans running}} {{legend0|#f99|2 incumbent republicans retiring}}<br/>{{legend0|#d5d3d5|16 states with no election}}<hr/>{{reflist | group="Note"}}
+| title              = [[Majority leader of the United States Senate|Majority Leader]]
+| before_election    = [[Mitch McConnell]]
+| before_party       = Republican Party (United States)
+| after_election     = TBD
+| after_party        = TBD
+}}
+Elections for the [[United States Senate]] will be held on November 8, 2016, with 34 of the 100 seats in the [[United States Senate|Senate]] being contested in regular elections whose winners will serve six-year terms in the [[United States Congress]] until  January 3, 2023. All [[Classes of United States Senators|class 3 Senators]] are up for election; class 3 was last up for election in [[United States Senate elections, 2010|2010]], when Republicans won a net gain of six seats. Currently, Democrats are expected to have 10 seats up for election, and Republicans are expected to have 24 seats up for election. However, as of June 7, only 9 Democratic held seats are in contention, as the Democrats have already secured California, with the top two finishers in the California Senate [[Nonpartisan blanket primary|jungle primary]] both being Democrats. Republicans, having taken control of the Senate in the [[United States Senate elections, 2014|2014 election]], currently hold the Senate majority with 54 seats.
+
+The [[United States presidential election, 2016|2016 presidential election]], [[United States House of Representatives elections, 2016|2016 House elections]], [[United States gubernatorial elections, 2016|2016 gubernatorial elections]], and many [[United States elections, 2016|state and local elections]] will also be held on this date.
+
+==Partisan composition==
+All 34 [[Classes of United States Senators|Class 3 Senators]] are up for election in 2016; Class 3 currently consists of 10 Democrats and 24 Republicans. Of the Senators not up for election, 35 Senators are Democrats, 30 Senators are Republicans and one Senator is an independent who caucuses with the Senate Democrats. If vacancies occur in Class 1 or Class 2 Senate seats, the state might require a [[special election]] to take place during the [[114th Congress]], possibly concurrently with the other 2016 Senate elections.
+
+{| class=wikitable style=text-align:center
+
+|-
+! colspan=2 rowspan=2 | Parties
+| style="background-color:{{Democratic Party (United States)/meta/color}}" |
+| style="background-color:{{Republican Party (United States)/meta/color}}" |
+| style="background-color:{{#DDDDDD/meta/color}}" |
+! rowspan=2 | Total
+
+|-
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+! Independent
+
+|-
+! colspan=2 | Before these elections
+| 44
+| {{party shading/Republican}} | 54
+| 2<!-- ME, VT -->
+! 100
+
+|-
+! colspan=2 style="background:#ccc" | Up
+| 10
+| {{party shading/Republican}} | 24
+| 0
+! 34
+
+|-
+! rowspan=2 | <!-- Gap for "Up" -->
+! style="background:#ddd" | <small>Class 3 ([[United States Senate elections, 2010|2010]]→2016)</small>
+| 10
+| {{party shading/Republican}} | 24
+| 0
+! 34
+
+|-
+! style="background:#ddd" | <small>Special: All classes</small><!--Subject to change if vacancies occur in Class 1 or Class 2 Senate seats.-->
+| 0
+| 0
+| 0
+! 0
+
+|-
+! colspan=2 style="background:#ccc" | Not up
+| {{party shading/Democratic}} | 34
+| 30
+| 2
+! 66
+
+|-
+! rowspan=2 | <!-- Gap for "Not up" -->
+! style="background:#ddd" | <small>Class 1 ([[United States Senate elections, 2012|2012]]→[[United States Senate elections, 2018|2018]])</small>
+| {{party shading/Democratic}} | 23
+| 8
+| 2
+! 33
+
+|-
+! style="background:#ddd" | <small>Class 2 ([[United States Senate elections, 2014|2014]]→[[United States Senate elections, 2020|2020]])</small>
+| 11
+| {{party shading/Republican}} | 22
+| 0
+! 33
+
+|-
+| colspan=99 |
+
+|-
+! colspan=7 style="background:#bbb" | General election
+
+|-
+! colspan=2 style="background:#ccc" | Incumbent retiring
+| {{party shading/Democratic}} | 3 <!--CA, MD, NV-->
+| 2 <!--IN, LA-->
+| —
+! 5
+
+|-
+! colspan=2 style="background:#ccc" | Incumbent running
+| 7
+| {{party shading/Republican}} | 22
+| —
+! 29
+
+|}
+
+== Change in composition ==
+
+=== Before the elections ===
+{| class="wikitable"  style="text-align:center; width:750px;"
+
+|-
+| {{party shading/Independent}} | I<sub>1</sub><!--ME-->
+| {{party shading/Independent}} | I<sub>2</sub><!--VT-->
+| {{party shading/Democratic}} | D<sub>1</sub>
+| {{party shading/Democratic}} | D<sub>2</sub>
+| {{party shading/Democratic}} | D<sub>3</sub>
+| {{party shading/Democratic}} | D<sub>4</sub>
+| {{party shading/Democratic}} | D<sub>5</sub>
+| {{party shading/Democratic}} | D<sub>6</sub>
+| {{party shading/Democratic}} | D<sub>7</sub>
+| {{party shading/Democratic}} | D<sub>8</sub>
+
+|-
+| {{party shading/Democratic}} | D<sub>18</sub>
+| {{party shading/Democratic}} | D<sub>17</sub>
+| {{party shading/Democratic}} | D<sub>16</sub>
+| {{party shading/Democratic}} | D<sub>15</sub>
+| {{party shading/Democratic}} | D<sub>14</sub>
+| {{party shading/Democratic}} | D<sub>13</sub>
+| {{party shading/Democratic}} | D<sub>12</sub>
+| {{party shading/Democratic}} | D<sub>11</sub>
+| {{party shading/Democratic}} | D<sub>10</sub>
+| {{party shading/Democratic}} | D<sub>9</sub>
+
+|-
+| {{party shading/Democratic}} | D<sub>19</sub>
+| {{party shading/Democratic}} | D<sub>20</sub>
+| {{party shading/Democratic}} | D<sub>21</sub>
+| {{party shading/Democratic}} | D<sub>22</sub>
+| {{party shading/Democratic}} | D<sub>23</sub>
+| {{party shading/Democratic}} | D<sub>24</sub>
+| {{party shading/Democratic}} | D<sub>25</sub>
+| {{party shading/Democratic}} | D<sub>26</sub>
+| {{party shading/Democratic}} | D<sub>27</sub>
+| {{party shading/Democratic}} | D<sub>28</sub>
+
+|-
+! {{party shading/Democratic active}} | D<sub>38</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>37</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>36</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>35</sub><br/><small>Running</small>
+| {{party shading/Democratic}} | D<sub>34</sub>
+| {{party shading/Democratic}} | D<sub>33</sub>
+| {{party shading/Democratic}} | D<sub>32</sub>
+| {{party shading/Democratic}} | D<sub>31</sub>
+| {{party shading/Democratic}} | D<sub>30</sub>
+| {{party shading/Democratic}} | D<sub>29</sub>
+
+|-
+! {{party shading/Democratic active}} | D<sub>39</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>40</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>41</sub><br/><small>Running</small>
+! {{party shading/Democratic active}} | D<sub>42</sub><br/><small>Retiring</small>
+! {{party shading/Democratic active}} | D<sub>43</sub><br/><small>Retiring</small>
+! {{party shading/Democratic active}} | D<sub>44</sub><br/><small>Retiring</small>
+! {{party shading/Republican active}} | R<sub>54</sub><br/><small>Retiring</small>
+! {{party shading/Republican active}} | R<sub>53</sub><br/><small>Retiring</small>
+! {{party shading/Republican active}} | R<sub>52</sub><br/><small>Running</small>
+! rowspan=2 {{party shading/Republican active}} | R<sub>51</sub><br/><small>Running</small>
+
+|-
+| colspan=9 style="text-align:right" | '''Majority →'''
+
+|-
+! {{party shading/Republican active}} | R<sub>41</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>42</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>43</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>44</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>45</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>46</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>47</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>48</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>49</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>50</sub><br/><small>Running</small>
+
+|-
+! {{party shading/Republican active}} | R<sub>40</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>39</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>38</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>37</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>36</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>35</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>34</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>33</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>32</sub><br/><small>Running</small>
+! {{party shading/Republican active}} | R<sub>31</sub><br/><small>Running</small>
+
+|-
+| {{party shading/Republican}} | R<sub>21</sub>
+| {{party shading/Republican}} | R<sub>22</sub>
+| {{party shading/Republican}} | R<sub>23</sub>
+| {{party shading/Republican}} | R<sub>24</sub>
+| {{party shading/Republican}} | R<sub>25</sub>
+| {{party shading/Republican}} | R<sub>26</sub>
+| {{party shading/Republican}} | R<sub>27</sub>
+| {{party shading/Republican}} | R<sub>28</sub>
+| {{party shading/Republican}} | R<sub>29</sub>
+| {{party shading/Republican}} | R<sub>30</sub>
+
+|-
+| {{party shading/Republican}} | R<sub>20</sub>
+| {{party shading/Republican}} | R<sub>19</sub>
+| {{party shading/Republican}} | R<sub>18</sub>
+| {{party shading/Republican}} | R<sub>17</sub>
+| {{party shading/Republican}} | R<sub>16</sub>
+| {{party shading/Republican}} | R<sub>15</sub>
+| {{party shading/Republican}} | R<sub>14</sub>
+| {{party shading/Republican}} | R<sub>13</sub>
+| {{party shading/Republican}} | R<sub>12</sub>
+| {{party shading/Republican}} | R<sub>11</sub>
+
+|-
+| {{party shading/Republican}} | R<sub>1</sub>
+| {{party shading/Republican}} | R<sub>2</sub>
+| {{party shading/Republican}} | R<sub>3</sub>
+| {{party shading/Republican}} | R<sub>4</sub>
+| {{party shading/Republican}} | R<sub>5</sub>
+| {{party shading/Republican}} | R<sub>6</sub>
+| {{party shading/Republican}} | R<sub>7</sub>
+| {{party shading/Republican}} | R<sub>8</sub>
+| {{party shading/Republican}} | R<sub>9</sub>
+| {{party shading/Republican}} | R<sub>10</sub>
+
+|}
+
+=== After the elections===
+{| class="wikitable"  style="text-align:center; width:750px;"
+
+|-
+| {{party shading/Independent}} | I<sub>1</sub><!--VT-->
+| {{party shading/Independent}} | I<sub>2</sub><!--ME-->
+| {{party shading/Democratic}} | D<sub>1</sub>
+| {{party shading/Democratic}} | D<sub>2</sub>
+| {{party shading/Democratic}} | D<sub>3</sub>
+| {{party shading/Democratic}} | D<sub>4</sub>
+| {{party shading/Democratic}} | D<sub>5</sub>
+| {{party shading/Democratic}} | D<sub>6</sub>
+| {{party shading/Democratic}} | D<sub>7</sub>
+| {{party shading/Democratic}} | D<sub>8</sub>
+
+|-
+| {{party shading/Democratic}} | D<sub>18</sub>
+| {{party shading/Democratic}} | D<sub>17</sub>
+| {{party shading/Democratic}} | D<sub>16</sub>
+| {{party shading/Democratic}} | D<sub>15</sub>
+| {{party shading/Democratic}} | D<sub>14</sub>
+| {{party shading/Democratic}} | D<sub>13</sub>
+| {{party shading/Democratic}} | D<sub>12</sub>
+| {{party shading/Democratic}} | D<sub>11</sub>
+| {{party shading/Democratic}} | D<sub>10</sub>
+| {{party shading/Democratic}} | D<sub>9</sub>
+
+|-
+| {{party shading/Democratic}} | D<sub>19</sub>
+| {{party shading/Democratic}} | D<sub>20</sub>
+| {{party shading/Democratic}} | D<sub>21</sub>
+| {{party shading/Democratic}} | D<sub>22</sub>
+| {{party shading/Democratic}} | D<sub>23</sub>
+| {{party shading/Democratic}} | D<sub>24</sub>
+| {{party shading/Democratic}} | D<sub>25</sub>
+| {{party shading/Democratic}} | D<sub>26</sub>
+| {{party shading/Democratic}} | D<sub>27</sub>
+| {{party shading/Democratic}} | D<sub>28</sub>
+
+|-
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Democratic active}} | D<sub>35</sub><br/><small>Hold</small><ref>The [[#California|California seat]] is guaranteed to be a Democratic hold, as there are only Democrats on the ballot and write-ins will not be counted.{{cite web |url=http://www.sos.ca.gov/elections/primary-elections-california/ |title=Primary Elections in California |publisher=[[California Secretary of State]] |accessdate=2016-10-21 |quote=Write-in candidates for voter-nominated offices can still run in the primary election. However, a write-in candidate can only move on to the general election if the candidate is one of the top two vote-getters in the primary election.}}</ref>
+| {{party shading/Democratic}} | D<sub>34</sub>
+| {{party shading/Democratic}} | D<sub>33</sub>
+| {{party shading/Democratic}} | D<sub>32</sub>
+| {{party shading/Democratic}} | D<sub>31</sub>
+| {{party shading/Democratic}} | D<sub>30</sub>
+| {{party shading/Democratic}} | D<sub>29</sub>
+
+|-
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! rowspan=2 {{party shading/Vacant active}} | TBD
+
+|- style="height:2em"
+| rowspan=2 colspan=9 style="text-align:right" | '''Majority →'''
+
+|- style="height:2em"
+! rowspan=2 {{party shading/Vacant active}} | TBD
+
+|- style="height:2em"
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+
+|-
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+! {{party shading/Vacant active}} | TBD
+
+|-
+| {{party shading/Republican}} | R<sub>21</sub>
+| {{party shading/Republican}} | R<sub>22</sub>
+| {{party shading/Republican}} | R<sub>23</sub>
+| {{party shading/Republican}} | R<sub>24</sub>
+| {{party shading/Republican}} | R<sub>25</sub>
+| {{party shading/Republican}} | R<sub>26</sub>
+| {{party shading/Republican}} | R<sub>27</sub>
+| {{party shading/Republican}} | R<sub>28</sub>
+| {{party shading/Republican}} | R<sub>29</sub>
+| {{party shading/Republican}} | R<sub>30</sub>
+
+|-
+| {{party shading/Republican}} | R<sub>20</sub>
+| {{party shading/Republican}} | R<sub>19</sub>
+| {{party shading/Republican}} | R<sub>18</sub>
+| {{party shading/Republican}} | R<sub>17</sub>
+| {{party shading/Republican}} | R<sub>16</sub>
+| {{party shading/Republican}} | R<sub>15</sub>
+| {{party shading/Republican}} | R<sub>14</sub>
+| {{party shading/Republican}} | R<sub>13</sub>
+| {{party shading/Republican}} | R<sub>12</sub>
+| {{party shading/Republican}} | R<sub>11</sub>
+
+|-
+| {{party shading/Republican}} | R<sub>1</sub>
+| {{party shading/Republican}} | R<sub>2</sub>
+| {{party shading/Republican}} | R<sub>3</sub>
+| {{party shading/Republican}} | R<sub>4</sub>
+| {{party shading/Republican}} | R<sub>5</sub>
+| {{party shading/Republican}} | R<sub>6</sub>
+| {{party shading/Republican}} | R<sub>7</sub>
+| {{party shading/Republican}} | R<sub>8</sub>
+| {{party shading/Republican}} | R<sub>9</sub>
+| {{party shading/Republican}} | R<sub>10</sub>
+
+|}
+{|
+|- style="vertical-align:top"
+! Key:
+|
+{| class=wikitable
+| align=center width=35px {{party shading/Democratic}} | D<sub>#</sub>
+| [[Democratic Party (United States)|Democratic]]
+|-
+| align=center width=35px {{party shading/Republican}} | R<sub>#</sub>
+| [[Republican Party (United States)|Republican]]
+|-
+| align=center width=35px {{party shading/Independent}} | I<sub>#</sub>
+| [[Independent (politics)|Independent]], caucusing with Democrats<ref name="king to caucus with dems">{{cite news | last1=Bobic | first1=Igor | title=Independent Angus King Will Continue To Caucus With Senate Democrats | url=http://www.huffingtonpost.com/2014/11/05/angus-king-caucus-democrats_n_6109774.html | accessdate=November 6, 2014 | publisher=Huffington Post | date=November 5, 2014}}</ref><ref name="sanders to caucus with dems">{{cite news | last1=Gaudiano | first1=Nicole | title=Bernie Sanders to caucus with GOP? Fat chance, he says | url=http://onpolitics.usatoday.com/2014/10/23/bernie-sanders-to-caucus-with-gop-indie-senator-says-no-way | accessdate=November 6, 2014 | publisher=USA Today | date=October 23, 2014}}</ref>
+|}
+|}
+
+==Latest predictions of competitive seats==
+Several sites and individuals publish predictions of competitive seats. These predictions look at factors such as the strength of the [[incumbent]] (if the incumbent is running for re-election), the strength of the candidates, and the partisan leanings of the state (reflected in part by the state's [[Cook Partisan Voting Index]] rating). The predictions assign ratings to each seat, with the rating indicating the predicted advantage that a party has in winning that seat. Most election predictors use "<u>tossup</u>" to indicate that neither party has an advantage, "<u>lean</u>" to indicate that one party has a slight advantage, "<u>likely" or "favored</u>" to indicate that one party has a significant but not insurmountable advantage, and "<u>safe" or "solid</u>" to indicate that one party has a near-certain chance of victory. Some predictions also include a "<u>tilt</u>" rating that indicates that one party has an advantage that is not quite as strong as the "lean" rating would indicate.
+
+Where a site gives a percentage probability as its primary indicator of expected outcome, the chart below classifies a race as follows:
+* Tossup: 50-55%
+* Tilt: 56-60%
+* Lean: 61-75%
+* Likely: 76-93%
+* Safe: 94-100%
+
+The New York Times' Upshot gave the Democrats a 60% chance of winning the Senate on August 24, 2016;<ref>{{cite news |last=Katz |first=Josh |date=August 24, 2016 |title=Democrats Have a 60 Percent Chance to Retake the Senate |url=http://www.nytimes.com/2016/08/24/upshot/democrats-have-a-60-percent-chance-to-retake-the-senate.html |newspaper=NYT |location= |access-date=August 25, 2016}}</ref> on September 23, their model gave Republicans a 58% chance to maintain control.<ref>{{cite web |title=2016 Senate Election Forecast |url=http://www.nytimes.com/interactive/2016/upshot/senate-election-forecast.html |date=September 23, 2016 |accessdate=September 23, 2016}}</ref>
+
+All seats classified with at least one rating of anything other than "safe" or "solid" are listed below.
+
+{| class="wikitable sortable" style="text-align:center"
+<!-- Colors:
+style="background:#f66" | {{sort|104|Safe R}}
+style="background:#f99" | {{sort|103|Likely R}}
+style="background:#fcc" | {{sort|102|Lean R}}
+style="background:#fdd" | {{sort|101|Tilt R}}
+{{sort|100|Tossup}}
+style="background:#ddf" | {{sort|099|Tilt D}}
+style="background:#ccf" | {{sort|098|Lean D}}
+style="background:#99f" | {{sort|097|Likely D}}
+style="background:#66f" | {{sort|096|Safe D}}
+-->
+
+|- style="vertical-align:bottom;"
+! State
+! [[Cook Partisan Voting Index|PVI]]
+! Incumbent
+! [[United States Senate elections, 2010|2010]]<br/>result
+! [[Cook Political Report|Cook]]<br/><small>Nov. 2<br/>2016</small><ref name="cookpolitical.com">{{cite web | url=http://cookpolitical.com/senate/charts/race-ratings | title=2016 Senate Race Ratings | date=November 2, 2016 | accessdate=November 3, 2016}}</ref>
+! [[Sabato's Crystal Ball|Sabato]]<br/><small>Nov. 7<br/>2016</small><ref>{{cite news | title=2016 Senate | url=http://www.centerforpolitics.org/crystalball/2016-senate | accessdate=November 7, 2016 | publisher=University of Virginia Center for Politics | date=November 7, 2016}}</ref>
+! [[Stuart Rothenberg|Roth.]]<br/><small>Nov. 3<br/>2016</small><ref>{{cite web | title=2016 Senate Ratings (November 3, 2016) | url=http://rothenberggonzales.com/ratings/senate | work=Senate Ratings | publisher=The Rothenberg Political Report | accessdate=November 3, 2016}}</ref>
+! [[Daily Kos|Kos]]<br/><small>Oct. 28<br/>2016</small><ref>{{cite web | title=Daily Kos: Election Outlook: 2016 Race Ratings | url=http://www.dailykos.com/pages/election-outlook/2016-race-ratings| website=Daily Kos | publisher=Daily Kos | accessdate=October 28, 2016}}</ref>
+! [[Real Clear Politics|RCP]]<br/><small>Nov. 2<br/>2016</small><ref>{{cite web | title=Battle for the Senate 2016 | url=http://www.realclearpolitics.com/epolls/2016/senate/2016_elections_senate_map.html| publisher=Real Clear Politics | accessdate=November 3, 2016}}</ref>
+! [[FiveThirtyEight|538]]<br/><small>Nov. 7<br/>2016</small><ref>{{cite web | title=2016 Senate Forecast | url=http://projects.fivethirtyeight.com/2016-election-forecast/senate/| publisher=FiveThirtyEight | accessdate=November 7, 2016}}</ref>
+! [[The New York Times|NYT]]<br/><small>Nov. 7<br/>2016</small><ref>{{cite web | title=2016 Senate Forecast | url=http://www.nytimes.com/interactive/2016/upshot/senate-election-forecast.html| publisher=The New York Times | accessdate=November 7, 2016}}</ref>
+! [[Talking Points Memo|TPM]]<br/><small>Nov. 5<br/>2016</small><ref>{{cite web | title=2016 Senate Forecast | url=http://talkingpointsmemo.com/election/2016/us-senate| publisher=Talking Points Memo | accessdate=November 5, 2016}}</ref>
+|-
+! [[#Alaska|Alaska]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|112|R+12}}
+| {{party shading/Republican}} | {{sortname|Lisa|Murkowski}} (R)
+| {{party shading/Republican}} | 39.5%<ref>In the [[United States Senate election in Alaska, 2010|2010 election]], Republican nominee [[Joe Miller (Alaska politician)|Joe Miller]] won 35.5% of the vote. Murkowski won as a [[write-in]] candidate with 39.5% of the vote.</ref>
+<!--Coo-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Sab-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Rot-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--538-->| style="background:#f66" | {{sort|104|98% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|99+% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Arizona|Arizona]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|107|R+7}}
+| {{party shading/Republican}} | {{sortname|John|McCain}} (R)
+| {{party shading/Republican}} | 59.2%
+<!--Coo-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Sab-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Rot-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Kos-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--RCP-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--538-->| style="background:#f66" | {{sort|104|97% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|99% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Colorado|Colorado]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|099|D+1}}
+| {{party shading/Democratic}} | {{sortname|Michael|Bennet}} (D)
+| {{party shading/Democratic}} | {{sort|3|47.7%}}
+<!--Coo-->| style="background:#99f" | {{sort|097|Likely D}}
+<!--Sab-->| style="background:#66f" | {{sort|096|Safe D}}
+<!--Rot-->| style="background:#66f" | {{sort|096|Safe D}}
+<!--Kos-->| style="background:#66f" | {{sort|096|Safe D}}
+<!--RCP-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--538-->| style="background:#66f" | {{sort|096|95% D}}
+<!--NYT-->| style="background:#66f" | {{sort|096|96% D}}
+<!--TPM-->| style="background:#99f" | {{sort|097|Likely D}}
+|-
+! [[#Florida|Florida]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|102|R+2}}
+| {{party shading/Republican}} | {{sortname|Marco|Rubio}} (R)
+| {{party shading/Republican}} | 48.9%
+<!--Coo-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Sab-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Rot-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Kos-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#f99" | {{sort|103|87% R}}
+<!--NYT-->| style="background:#f99" | {{sort|103|85% R}}
+<!--TPM-->| style="background:#fcc" | {{sort|102|Lean R}}
+|-
+! [[#Georgia|Georgia]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|106|R+6}}
+| {{party shading/Republican}} | {{sortname|Johnny|Isakson}} (R)
+| {{party shading/Republican}} | 58.1%
+<!--Coo-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Sab-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Rot-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--538-->| style="background:#f66" | {{sort|104|97% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|99% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Illinois|Illinois]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|092|D+8}}
+| {{party shading/Republican}} | {{sortname|Mark|Kirk}} (R)
+| {{party shading/Republican}} | 48.2%
+<!--Coo-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--Sab-->| style="background:#99f"| {{sort|097|Likely D}}
+<!--Rot-->| style="background:#ccf"| {{sort|098|Lean D}}
+<!--Kos-->| style="background:#66f" | {{sort|096|Safe D}}
+<!--RCP-->| style="background:#99f"| {{sort|097|Likely D}}
+<!--538-->| style="background:#66f"| {{sort|096|97% D}}
+<!--NYT-->| style="background:#66f"| {{sort|096|98% D}}
+<!--TPM-->| style="background:#66f" | {{sort|096|Safe D}}
+|-
+! [[#Indiana|Indiana]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|105|R+5}}
+| {{party shading/Republican}} | {{sortname|Dan|Coats}} (R)<br/><small>(Retiring)</small>
+| {{party shading/Republican}} | 56.4%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| {{sort|100|Tossup}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#fcc" | {{sort|102|61% R}}
+<!--NYT-->| {{sort|100|53% D}}
+<!--TPM-->| style="background:#fcc" | {{sort|102|Lean R}}
+|-
+! [[#Iowa|Iowa]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|099|D+1}}
+| {{party shading/Republican}} | {{sortname|Chuck|Grassley}} (R)
+| {{party shading/Republican}} | 64.5%
+<!--Coo-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Sab-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Rot-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--538-->| style="background:#f66" | {{sort|104|99+% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|99+% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Kentucky|Kentucky]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|113|R+13}}
+| {{party shading/Republican}} | {{sortname|Rand|Paul}} (R)
+| {{party shading/Republican}} | 55.7%
+<!--Coo-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Sab-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Rot-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--538-->| style="background:#f99" | {{sort|103|93% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|97% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Louisiana|Louisiana]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|112|R+12}}
+| {{party shading/Republican}} | {{sortname|David|Vitter}} (R)<br/><small>(Retiring)</small>
+| {{party shading/Republican}} | 56.6%
+<!--Coo-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Sab-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Rot-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--538-->| style="background:#f99" | {{sort|103|86% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|96% R}}
+<!--TPM-->| style="background:#f99" | {{sort|103|Likely R}}
+|-
+! [[#Missouri|Missouri]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|105|R+5}}
+| {{party shading/Republican}} | {{sortname|Roy|Blunt}} (R)
+| {{party shading/Republican}} | 54.3%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| {{sort|100|Tossup}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| {{sort|102|55% R}}
+<!--NYT-->| style="background:#fcc" | {{sort|102|65% R}}
+<!--TPM-->| {{sort|100|Tossup}}
+|-
+! [[#Nevada|Nevada]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|098|D+2}}
+| {{party shading/Democratic}} | {{sortname|Harry|Reid}} (D)<br/><small>(Retiring)</small>
+| {{party shading/Democratic}} | {{sort|2|50.2%}}
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#ddf" | {{sort|099|57% D}}
+<!--NYT-->| style="background:#ddf" | {{sort|099|60% D}}
+<!--TPM-->| {{sort|100|Tossup}}
+|-
+! [[#New Hampshire|New Hampshire]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|099|D+1}}
+| {{party shading/Republican}} | {{sortname|Kelly|Ayotte}} (R)
+| {{party shading/Republican}} | 60.2%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| {{sort|100|Tossup}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| {{sort|100|53% D}}
+<!--NYT-->| {{sort|100|55% R}}
+<!--TPM-->| {{sort|100|Tossup}}
+|-
+! [[#North Carolina|North Carolina]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|103|R+3}}
+| {{party shading/Republican}} | {{sortname|Richard|Burr}} (R)
+| {{party shading/Republican}} | 55.0%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| {{sort|100|Tossup}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#fcc" | {{sort|102|69% R}}
+<!--NYT-->| style="background:#fcc" | {{sort|102|67% R}}
+<!--TPM-->| {{sort|100|Tossup}}
+|-
+! [[#Ohio|Ohio]]
+<!--CPVI-->| {{party shading/Republican}} | {{sort|101|R+1}}
+| {{party shading/Republican}} | {{sortname|Rob|Portman}} (R)
+| {{party shading/Republican}} | 57.3%
+<!--Coo-->| style="background:#fcc" | {{sort|102|Lean R}}
+<!--Sab-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--Rot-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--Kos-->| style="background:#f66" | {{sort|104|Safe R}}
+<!--RCP-->| style="background:#f99" | {{sort|103|Likely R}}
+<!--538-->| style="background:#f66" | {{sort|104|98% R}}
+<!--NYT-->| style="background:#f66" | {{sort|104|97% R}}
+<!--TPM-->| style="background:#f66" | {{sort|104|Safe R}}
+|-
+! [[#Pennsylvania|Pennsylvania]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|099|D+1}}
+| {{party shading/Republican}} | {{sortname|Pat|Toomey}} (R)
+| {{party shading/Republican}} | 51.0%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--Rot-->| {{sort|100|Tossup}}
+<!--Kos-->| {{sort|100|Tossup}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#ccf" | {{sort|098|68% D}}
+<!--NYT-->| style="background:#ccf" | {{sort|098|66% D}}
+<!--TPM-->| style="background:#ccf" | {{sort|098|Lean D}}
+|-
+! [[#Wisconsin|Wisconsin]]
+<!--CPVI-->| {{party shading/Democratic}} | {{sort|098|D+2}}
+| {{party shading/Republican}} | {{sortname|Ron|Johnson|Ron Johnson (U.S. politician)}} (R)
+| {{party shading/Republican}} | 51.9%
+<!--Coo-->| {{sort|100|Tossup}}
+<!--Sab-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--Rot-->| style="background:#ddf" | {{sort|097|Tilt D}}
+<!--Kos-->| style="background:#ccf" | {{sort|098|Lean D}}
+<!--RCP-->| {{sort|100|Tossup}}
+<!--538-->| style="background:#99f" | {{sort|097|87% D}}
+<!--NYT-->| style="background:#ccf" | {{sort|098|72% D}}
+<!--TPM-->| style="background:#ccf" | {{sort|098|Lean D}}
+|}
+
+Cook, Sabato, Rothenberg, Daily Kos Elections, FiveThirtyEight, Real Clear Politics, Talking Points Memo, and the New York Times consider the states listed below to be safe seats for the party currently holding the seat.
+
+{| class="wikitable sortable" style="text-align:center"
+|- style="vertical-align:bottom;"
+! style="background:#f66" | Safe Republican
+! style="background:#66f" | Safe Democratic
+
+|-
+| [[#Alabama|Alabama]]
+| [[#California|California]]<sup>O</sup>
+
+|-
+| [[#Arkansas|Arkansas]]
+| [[#Connecticut|Connecticut]]
+
+|- 
+| [[#Idaho|Idaho]]
+| [[#Hawaii|Hawaii]]
+
+|-
+| [[#Kansas|Kansas]]
+| [[#Maryland|Maryland]]<sup>O</sup>
+
+|-
+| [[#North Dakota|North Dakota]]
+| [[#New York|New York]]
+
+|-
+| [[#Oklahoma|Oklahoma]]
+| [[#Oregon|Oregon]]
+
+|-
+| [[#South Carolina|South Carolina]]
+| [[#Vermont|Vermont]]
+
+|-
+| [[#South Dakota|South Dakota]]
+| [[#Washington|Washington]]
+
+|-
+| [[#Utah|Utah]]
+|
+|}
+
+<sup>O</sup> indicates an open seat
+
+==Primary dates==
+This table shows the primary dates for regularly-scheduled elections. It also shows the [[Primary elections in the United States|type of primary]].
+* "Open" primary: any registered voter can vote in any party's primary
+* "Closed" primary, only voters registered with a specific party can vote in that party's primary.
+* "[[Nonpartisan blanket primary|Top-two]]" primary, all candidates run against each other regardless of party affiliation, and the top two candidates advance to the second round of voting. (In Louisiana, a candidate can win the election by winning a majority of the vote in the first round.)
+* All of the various other primary types are classified as "hybrid." Alaska in 2008 provides one example of a hybrid primary: The Democratic Party allowed unaffiliated voters to vote in its primary, while the Republican Party only allowed party members to vote in its primary.<ref name="primarytypes"/>
+
+{| class="wikitable"
+! State
+! Date<ref name="FEC">{{cite web | title=2016 PRESIDENTIAL PRIMARY DATES AND CANDIDATE FILING DEADLINES FOR BALLOT ACCESS | url=http://www.fec.gov/pubrec/fe2016/2016pdates.pdf | website=FEC | accessdate=April 26, 2016}}</ref>
+! Type<ref name="primarytypes">{{cite web | title=STATE PRIMARY ELECTION TYPES | url=http://www.ncsl.org/research/elections-and-campaigns/primary-types.aspx | accessdate=May 19, 2016 | publisher=National Conference of State Legislatures | date=June 24, 2014}}</ref>
+
+|-
+! [[#Alabama|Alabama]]
+| Mar. 1<sup>R</sup>
+| Open
+
+|-
+! [[#Arkansas|Arkansas]]
+| Mar. 1<sup>R</sup>
+| Open
+
+|-
+! [[#Illinois|Illinois]]
+| Mar 15
+| Hybrid
+
+|-
+! [[#North Carolina|North Carolina]]
+| Mar 15
+| Hybrid
+
+|-
+! [[#Ohio|Ohio]]
+| Mar 15
+| Hybrid
+
+|-
+! [[#Maryland|Maryland]]
+| April 26
+| Hybrid
+
+|-
+! [[#Pennsylvania|Pennsylvania]]
+| April 26
+| Closed
+
+|-
+! [[#Indiana|Indiana]]
+| May 3
+| Open
+
+|-
+! [[#Idaho|Idaho]]
+| May 17
+| Hybrid
+
+|-
+! [[#Kentucky|Kentucky]]
+| May 17
+| Closed
+
+|-
+! [[#Oregon|Oregon]]
+| May 17
+| Hybrid
+
+|-
+! [[#Georgia|Georgia]]
+| May 24<sup>R</sup>
+| Open
+
+|-
+! [[#California|California]]
+| June 7
+| Top-two
+
+|-
+! [[#Iowa|Iowa]]
+| June 7
+| Hybrid
+
+|-
+! [[#South Dakota|South Dakota]]
+| June 7<sup>R</sup>
+| Hybrid
+
+|-
+! [[#Nevada|Nevada]]
+| June 14
+| Closed
+
+|-
+! [[#North Dakota|North Dakota]]
+| June 14
+| Open
+
+|-
+! [[#South Carolina|South Carolina]]
+| June 14<sup>R</sup>
+| Hybrid
+
+|-
+! [[#Colorado|Colorado]]
+| June 28
+| Hybrid
+
+|-
+! [[#New York|New York]]
+| June 28
+| Closed
+
+|-
+! [[#Oklahoma|Oklahoma]]
+| June 28<sup>R</sup>
+| Hybrid
+
+|-
+! [[#Utah|Utah]]
+| June 28
+| Hybrid
+
+|-
+! [[#Kansas|Kansas]]
+| Aug 2
+| Closed
+
+|-
+! [[#Missouri|Missouri]]
+| Aug 2
+| Open
+
+|-
+! [[#Washington|Washington]]
+| Aug 2
+| Top-two
+
+|-
+! [[#Connecticut|Connecticut]]
+| Aug 9
+| Hybrid
+
+|-
+! [[#Vermont|Vermont]]
+| Aug 9
+| Open
+
+|-
+! [[#Wisconsin|Wisconsin]]
+| Aug 9
+| Open
+
+|-
+! [[#Hawaii|Hawaii]]
+| Aug 13
+| Open
+
+|-
+! [[#Alaska|Alaska]]
+| Aug 16
+| Hybrid
+
+|-
+! [[#Arizona|Arizona]]
+| Aug 30
+| Hybrid
+
+|-
+! [[#Florida|Florida]]
+| Aug 30
+| Closed
+
+|-
+! [[#New Hampshire|New Hampshire]]
+| Sep 13
+| Hybrid
+
+|-
+! [[#Louisiana|Louisiana]]
+| Nov 8
+| Top-two
+
+|}
+
+<sup>R</sup>Indicates a state that requires primary [[run-off election]]s under certain conditions.
+
+==Race summary==
+{| class="wikitable sortable"
+
+|- valign=bottom
+! rowspan=2 | State<br/><small>(linked to<br/>summaries below)</small>
+! colspan=3 | Incumbent
+! rowspan=2 | Status
+! rowspan=2 class="unsortable" | Candidates
+
+|-
+! Senator
+! Party
+! Electoral<br/>history
+
+|-
+! [[#Alabama|Alabama]]
+| {{sortname|Richard|Shelby}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Alabama, 1986|1986]]<br/>[[United States Senate election in Alabama, 1992|1992]]<br/>[[United States Senate election in Alabama, 1998|1998]]<br/>[[United States Senate election in Alabama, 2004|2004]]<br/>[[United States Senate election in Alabama, 2010|2010]]
+| Incumbent running.
+| [[Richard Shelby]] (Republican)<ref name="Dean">{{cite web | url=http://www.al.com/news/index.ssf/2014/06/could_the_tea_party_challenge.html#incart_river | title=Could the Tea Party challenge Sen. Richard Shelby? Sure, but there are $17 million reasons not to | work=AL.com | date=June 30, 2014 | accessdate=July 1, 2014 | first=Charles | last= Dean}}</ref><br/>[[Ron Crumpton]] (Democratic)<ref name="Crumpton">{{cite news | url=http://blog.al.com/press-release/2015/04/ron_crumpton_to_run_for_united.html | title=Ron Crumpton to run for United States Senate | work=AL.com | date=April 16, 2015 | accessdate=May 15, 2015}}</ref>
+
+|-
+! [[#Alaska|Alaska]]
+| {{sortname|Lisa|Murkowski}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | {{sort|2002|2002 (Appointed)}}<br/>[[United States Senate election in Alaska, 2004|2004]]<br/>[[United States Senate election in Alaska, 2010|2010]]
+| Incumbent running.
+| [[Lisa Murkowski]] (Republican)<ref name=lisaannounces>{{cite news | url=http://amandacoyne.com/politics/lisa-murkowski-announces-that-shes-running-in-2016 | title=Lisa Murkowski announces that she's running in 2016 | publisher=AmandaCoyne.com | date=October 19, 2013| accessdate=October 25, 2014}}</ref><br/>[[Ray Metcalfe]] (Democratic)<ref name="Alaska Elections">{{cite news | url=http://politico.com/2016-election/results/map/senate/alaska | title=Alaska Primary Election Results 2016 | publisher=Politico.com | date=August 16, 2016 | accessdate=August 17, 2016}}</ref><br />[[Joe Miller (Alaska politician)|Joe Miller]] (Libertarian)<ref>http://www.ktva.com/previous-adversary-joe-miller-files-to-run-against-murkowski-for-senate-seat-670/</ref><br/>[[Margaret Stock]] (Independent)<ref>{{cite web|url=http://www.adn.com/article/20160217/anchorage-attorney-margaret-stock-challenging-lisa-murkowski-senate|title=Anchorage attorney Margaret Stock challenging Lisa Murkowski for Senate|work=[[Alaska Dispatch News]]|last=Kelly|first=Devin|date=February 17, 2016|accessdate=February 17, 2016}}</ref><ref name=generallist>{{cite news|url=http://www.elections.alaska.gov/election/2016/General/candidate_info_gen_2016.php|title=November 8, 2016 General Election Candidate List|work=State of Alaska Division of Elections|accessdate=September 7, 2016}}</ref>
+
+|-
+! [[#Arizona|Arizona]]
+| {{sortname|John|McCain}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Arizona, 1986|1986]]<br/>[[United States Senate election in Arizona, 1992|1992]]<br/>[[United States Senate election in Arizona, 1998|1998]]<br/>[[United States Senate election in Arizona, 2004|2004]]<br/>[[United States Senate election in Arizona, 2010|2010]]
+| Incumbent running.
+| [[John McCain]] (Republican)<ref name="movingparts">{{cite web | last=Levinson | first=Alexis | url=http://atr.rollcall.com/moving-parts-complicate-john-mccain-challenge | title=Moving Parts Complicate Democratic Challenge to McCain )(Updated) | date=April 9, 2015 | publisher=[[Roll Call]] | accessdate=May 27, 2015}}</ref><br/>[[Ann Kirkpatrick]] (Democratic)<ref name=kirkpatrickin>{{cite news | last1=Cahn | first1=Emily | title=Kirkpatrick to Challenge McCain in Arizona | url=http://atr.rollcall.com/ann-kirkpatrick-to-challenge-john-mccain-in-arizona-senate/?dcz= | accessdate=May 27, 2015 | publisher=[[Roll Call]] | date=May 26, 2015}}</ref><br/>Pat Quinn (independent/Write-in)<ref>http://VotePatQuinn.com/</ref><ref>http://apps.azsos.gov/election/2016/General/home.htm</ref><br/>Gary Swing (Green/Write-in)<ref>http://boilingfrogparty.ruck.us/</ref>
+
+|-
+! [[#Arkansas|Arkansas]]
+| {{sortname|John|Boozman}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Arkansas, 2010|2010]]
+| Incumbent running.
+| [[John Boozman]] (Republican)<ref name="DeMillo">{{cite news | last=DeMillo | first=Andrew | url=http://bigstory.ap.org/article/boozman-back-work-post-surgery-run-16 | title=Boozman, back at work post-surgery, to run in '16 | work=Associated Press | date=June 9, 2014 | accessdate=June 9, 2014}}</ref><br/>[[Conner Eldridge]] (Democratic)<ref>{{cite news | last=Yokley | first=Eli | title=Former U.S. Attorney Will Challenge Boozman in Arkansas | url=http://atr.rollcall.com/former-u-s-attorney-will-challenge-boozman-arkansas/?dcz= | accessdate=September 9, 2015 | publisher=[[Roll Call]] | date=September 9, 2015}}</ref><br />Frank Gilbert (Libertarian)<ref>http://www.arkansasnews.com/news/20160831/boozman-to-hold-telephone-town-hall</ref>
+
+|-
+! [[#California|California]]
+| {{sortname|Barbara|Boxer}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in California, 1992|1992]]<br/>[[United States Senate election in California, 1998|1998]]<br/>[[United States Senate election in California, 2004|2004]]<br/>[[United States Senate election in California, 2010|2010]]
+| {{party shading/Hold}}| Incumbent retiring.<br>Democratic hold.
+| [[Kamala Harris]] (Democratic)<ref name=Kamala>{{cite news | last=Sullivan | first=Sean | url=http://www.washingtonpost.com/blogs/post-politics/wp/2015/01/12/kamala-harris-to-run-for-boxers-senate-seat | title=Kamala Harris to run for Boxer's Senate seat | work=[[The Washington Post]] | date=January 12, 2015}}</ref><br/>[[Loretta Sanchez]] (Democratic)<ref name=LSanchez>{{cite news| url=http://www.latimes.com/local/political/la-me-pc-loretta-sanchez-senate-campaign-20150414-story.html | title=Rep. Loretta Sanchez enters race for Barbara Boxer's Senate seat | work=Los Angeles Times | location=Los Angeles | date=May 14, 2015 | accessdate=May 15, 2015}}</ref>
+
+|-
+! [[#Colorado|Colorado]]
+| {{sortname|Michael|Bennet}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | {{sort|2009|2009 (Appointed)}}<br/>[[United States Senate election in Colorado, 2010|2010]]
+| Incumbent running.
+| [[Michael Bennet]] (Democratic)<ref name=glennearlyann>{{cite news | url=http://gazette.com/glenn-early-announcement-for-u.s.-senate-run-shows-he-is-very-serious/article/1544655 | title=Glenn: Early announcement for U.S. Senate run shows he is 'very serious' | work=The Gazette | first=Stephen | last= Hobbs | date=January 16, 2015 | accessdate=January 19, 2015}}</ref><br/>[[Darryl Glenn]] (Republican)<ref name="DarrylGlenn">{{cite news | url=http://www.csindy.com/IndyBlog/archives/2015/01/15/darryl-glenn-will-run-against-sen-bennet | title=Darryl Glenn will run against Sen. Bennet | work=Colorado Springs Independent | date=January 15, 2015 | accessdate=May 15, 2015}}</ref><br/>Lily Tang Williams (Libertarian)<ref>http://www.denverpost.com/2016/09/06/lily-tang-williams-libertarian-candidate-colorados-us-senate-debate/</ref><br>Arn Menconi (Green)<ref>http://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html</ref>
+
+|-
+! [[#Connecticut|Connecticut]]
+| {{sortname|Richard|Blumenthal}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in Connecticut, 2010|2010]]
+| Incumbent running. 
+|[[Richard Blumenthal]] (Democratic)<ref name=RCRG>{{cite web | url=http://atr.rollcall.com/senate-races-2016-retirement-guide| title=Senators Confirm Re-Election Bids for 2016 | work=[[Roll Call]] | date=January 28, 2015 | accessdate=January 29, 2015 | author1=Emily Cahn| author2=Alexis Levinson}}</ref><br/>[[Dan Carter (politician)|Dan Carter]] (Republican)<ref name=DCarter>{{cite news | last=Pazniokas| first=Mark | date=April 4, 2016| url=http://ctmirror.org/2016/04/04/gops-dan-carter-announces-for-u-s-senate-nomination | title=GOP's Dan Carter announces for U.S. Senate nomination | work=the CT Mirror | accessdate=April 16, 2016}}</ref><br/>Richard Lion (Libertarian)<ref>https://ballotpedia.org/Richard_Lion</ref><br>Jeff Russell (Green)<ref>http://www.thegreenpapers.com/G16/CT</ref>
+
+|-
+! [[#Florida|Florida]]
+| {{sortname|Marco|Rubio}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Florida, 2010|2010]]
+| Incumbent running.
+| [[Marco Rubio]] (Republican)<ref name=Rubio>{{cite news|last1=DeBonis|first1=Mike|last2=O'Keefe|first2=Ed|last3=Sullivan|first3=Sean|date=June 22, 2016| url=https://www.washingtonpost.com/news/powerpost/wp/2016/06/22/marco-rubio-will-seek-senate-re-election-reversing-pledge-not-to-run| title=Marco Rubio will seek Senate reelection, reversing pledge not to run|work=[[The Washington Post]]|accessdate=June 22, 2016}}</ref><br/>[[Patrick Murphy (Florida politician)|Patrick Murphy]] (Democratic)<ref name="Marc Caputo">{{cite news|last=Caputo|first=Marc |date=March 23, 2015|url=http://www.politico.com/story/2015/03/patrick-murphy-marco-rubio-florida-senate-election-116297.html|title=Florida's Patrick Murphy running for Marco Rubio's Senate seat|publisher=[[Politico]]|accessdate=March 23, 2015}}</ref><br>Paul Stanton (Libertarian)<ref>http://independentpoliticalreport.com/2016/05/paul-stanton-announces-campaign-for-florida-u-s-senate-seat/</ref>
+
+|-
+! [[#Georgia|Georgia]]
+| {{sortname|Johnny|Isakson}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Georgia, 2004|2004]]<br/>[[United States Senate election in Georgia, 2010|2010]]
+| Incumbent running.
+| [[Johnny Isakson]] (Republican)<ref name=isaksonthird>{{cite web | url=http://politics.blog.ajc.com/2014/11/11/johnny-isakson-to-announce-he-will-seek-a-third-term | title=Johnny Isakson to announce he will seek a third term | publisher=[[The Atlanta Journal-Constitution]] | date=November 11, 2014 | accessdate=November 11, 2014}}</ref><br/>[[Jim Barksdale]] (Democratic)<ref name=Barksdale>{{cite news | last=Bluestein | first=Greg | date=March 10, 2016 | work=[[The Atlanta Journal-Constitution]] | url=http://politics.blog.ajc.com/2016/03/10/party-backed-georgia-democrat-qualifies-for-u-s-senate-seat | title=Party-backed Georgia Democrat qualifies for U.S. Senate seat | accessdate=March 11, 2016}}</ref><br/>[[Allen Buckley]] (Libertarian)<ref>http://politics.blog.ajc.com/2016/08/24/georgia-senate-candidates-to-meet-in-only-one-head-to-head-debate-before-election-day/</ref>
+
+|-
+! [[#Hawaii|Hawaii]]
+| {{sortname|Brian|Schatz}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | {{sort|2012|2012 (Appointed)}}<br/>[[United States Senate special election in Hawaii, 2014|2014 (Special)]]
+| Incumbent running.
+| [[Brian Schatz]] (Democratic)<ref name=HawaiiPrimary>{{cite news|last1=Jones|first1=Caleb|title=Incumbent US Sen. Brian Schatz wins Hawaii primary|url=http://bigstory.ap.org/article/3fa45e211eb14631b683348ae5091473/schatz-seeks-first-full-term-his-own-us-senate|accessdate=August 14, 2016|work=[[Associated Press]]|date=August 14, 2016}}</ref><br/>John Carroll (Republican)<ref name=HawaiiPrimary/><br/>Michael Kokoski (Libertarian)<ref>http://www.bizjournals.com/pacific/news/2016/08/15/schatz-gabbard-win-hawaii-primaries-honolulu.html</ref>
+|-
+! [[#Idaho|Idaho]]
+| {{sortname|Mike|Crapo}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Idaho, 1998|1998]]<br/>[[United States Senate election in Georgia, 2004|2004]]<br/>[[United States Senate election in Idaho, 2010|2010]]
+| Incumbent running.
+| [[Mike Crapo]] (Republican)<ref name="kboi">{{cite news | url=http://www.kboi2.com/news/local/Sen-Mike-Crapo-will-seek-re-election-in-2016-for-4th-term-news-271598001.html | title=Sen. Mike Crapo will seek re-election in 2016 for 4th term | publisher=[[KBOI-TV|KBOI]]| agency=Associated Press | date=August 17, 2014 | accessdate=August 29, 2014}}</ref><br/>[[Jerry Sturgill]] (Democratic)<ref name=Sturgill>{{cite web | url=http://www.sos.idaho.gov/elect/candidat/2016/2016_May_Primary_Candidate_List.pdf | title=Declaration for 2016 | accessdate=March 13, 2016}}</ref>
+Ray Writz (Constitution)
+|-
+! [[#Illinois|Illinois]]
+| {{sortname|Mark|Kirk}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Illinois, 2010|2010]]
+| Incumbent running.
+| [[Mark Kirk]] (Republican)<ref name="nbcchil">{{cite web | last=McClelland | first=Edward | url=http://www.nbcchicago.com/blogs/ward-room/Kirk-Running-For-Re-election-Says-Pat-Brady-207234691.html | title=Kirk Running for Re-Election, Says Pat Brady | publisher=nbcchicago.com | accessdate=October 22, 2013}}</ref><br/>[[Tammy Duckworth]] (Democratic)<ref>{{cite news | url=http://www.politico.com/story/2015/03/tammy-duckworth-2016-illinois-senate-bid-116507.html | title=Tammy Duckworth running for Senate | work=[[Politico]] | date=March 30, 2015 | accessdate=May 15, 2015}}</ref><br/>Kent McMillen (Libertarian)<ref>http://www.sj-r.com/news/20160627/libertarians-seeking-illinois-posts-including-us-senate-state-comptroller</ref><br>Scott Summers (Green)<ref>https://www.elections.il.gov/ElectionInformation/CandNameList.aspx?SearchType=KuFLPqFc1XdO5hgmQwVblw%3d%3d&ListType=%2fi0Fav758xtMAqfvePodGSITmYQDeqtAjRkY65W%2bqecOl0c1RQNRNSk5HgGxSJw9cfB6WyYhDxQ%3d&ElectionID=R3xVuMQjulI%3d&ElectionType=FbvOmLRSmzM%3d&ElectionDate=bbwuASkfxAvcTTtS9wEAmSQIgSb4KgJr&StatusSearchType=J5X6lTqB21xaQKye34MKow%3d%3d&Status=&CanLastNameSearchType=1d95A%2fh4dpVjwfOZI1rDTQ8GhuG80yy3&CanLastName=BV5dAF5Fnvo8QU%2b2y0JZiw%3d%3d&OrderBy=ZIZ%2f5OrZiRWUUj8P7aozwdQenBr9BX9z7XjJvJFcBz%2bh5x4L4ViK%2bjCvJH9Ih0Mk</ref>
+
+|-
+! [[#Indiana|Indiana]]
+| {{sortname|Dan|Coats}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | 1989 (Appointed)<br/>[[United States Senate special election in Indiana, 1990|1990 (Special)]]<br/>[[United States Senate election in Indiana, 1992|1992]]<br/>[[United States Senate election in Indiana, 2010|2010]]
+| Incumbent retiring.
+| [[Todd Young]] (Republican)<ref name=ToddYoung>{{cite web | url=https://www.youtube.com/watch?v=1cQye7CZpmw&feature=youtu.be | title=Life Story | accessdate=July 15, 2015}}</ref><br/>[[Evan Bayh]] (Democratic)<ref name="EvanBayh">{{cite news | url=http://www.foxnews.com/politics/2016/07/11/democrat-evan-bayh-may-get-into-indiana-senate-race.html | title=Democrat Evan Bayh may get into Indiana Senate race | work=Fox News | date=July 11, 2016 | accessdate=July 11, 2016}}</ref><br/>Lucy Brenton (Libertarian)<ref>http://www.wthr.com/article/exclusive-wthrhpi-poll-bayh-young-locked-in-close-senate-race</ref>
+
+|-
+! [[#Iowa|Iowa]]
+| {{sortname|Chuck|Grassley}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Iowa, 1980|1980]]<br/>[[United States Senate election in Iowa, 1986|1986]]<br/>[[United States Senate election in Iowa, 1992|1992]]<br/>[[United States Senate election in Iowa, 1998|1998]]<br/>[[United States Senate election in Iowa, 2004|2004]]<br/>[[United States Senate election in Iowa, 2010|2010]]
+| Incumbent running.
+| [[Chuck Grassley]] (Republican)<ref>{{cite news | url=http://blogs.desmoinesregister.com/dmr/index.php/2013/09/20/breaking-iowas-chuck-grassley-i-am-running-for-re-election/article?nclick_check=1 | title=Iowa's Chuck Grassley: I am running for re-election | date=September 20, 2013 | work=[[The Des Moines Register]]}}</ref><br/>[[Patty Judge]] (Democratic)<ref name=PattyJudge>{{cite news | date=March 4, 2016| url=http://www.desmoinesregister.com/story/news/politics/2016/03/04/patty-judge-makes-official-shes-running-senate/81311838 | title=It's official: Patty Judge challenges Chuck Grassley}}</ref><br />Chuck Aldrich (Libertarian)<ref>http://iowapublicradio.org/post/trump-and-clinton-tied-grassley-far-ahead-latest-quinnipiac-poll#stream/0</ref>
+
+|-
+! [[#Kansas|Kansas]]
+| {{sortname|Jerry|Moran}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Kansas, 2010|2010]]
+| Incumbent running.
+| [[Jerry Moran]] (Republican)<ref name=timopen>{{cite web | last=Levinson | first=Alexis | date=November 19, 2014 | work=[[Roll Call]]| url=http://atr.rollcall.com/elections-2016-tim-huelskamp-jerry-moran-kansas-senate-primary | title=Huelskamp Open to Moran Primary Challenge | accessdate=November 19, 2014}}</ref><br/>[[Patrick Wiesner]] (Democratic)<ref name=Wiesner>{{cite web | last=Clarkin | first=Mary | date=February 4, 2016 | work=[[The Hutchinson News]]| url=http://www.hutchnews.com/news/local_state_news/democrat-patrick-wiesner-files-for-jerry-moran-s-senate-seat/article_32f36fd7-310f-55fb-8c00-6873daf219f1.html | title=Democrat Patrick Wiesner files for Jerry Moran's Senate seat | accessdate=February 11, 2016}}</ref><br/>Robert Garrard (Libertarian)<ref>http://www.kansascity.com/latest-news/article99958072.html</ref>
+
+|-
+! [[#Kentucky|Kentucky]]
+| {{sortname|Rand|Paul}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Kentucky, 2010|2010]]
+| Incumbent running.
+| [[Rand Paul]] (Republican)<ref name=Paul>{{cite web | title = Rand Paul files for reelection race five years away | url=http://www.politico.com/news/stories/0411/53404.html | publisher = [[Politico]] | date = April 19, 2011 | author=Jennifer Epstein}}</ref><br/>[[Jim Gray (American politician)|Jim Gray]] (Democratic)<ref name=JGray>{{cite news | url=http://www.kentucky.com/news/politics-government/article56605288.html | title=Lexington Mayor Jim Gray running against U.S. Sen. Rand Paul | work=Lexington Herald-Leader | date=January 26, 2016 | accessdate=January 26, 2016}}</ref>
+
+|-
+! [[#Louisiana|Louisiana]]
+| {{sortname|David|Vitter}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Louisiana, 2004|2004]]<br/>[[United States Senate election in Louisiana, 2010|2010]]
+| Incumbent retiring.
+| {{party shading/Nonpartisan}} | [[Charles Boustany]] (Republican)<ref name=Boustany>{{cite news | last=Berry | first=Deborah | date=November 25, 2015 | url=http://www.theadvertiser.com/story/news/local/louisiana/2015/11/23/rep-charles-boustany-run-senate/76257716 | title=Rep. Charles Boustany will run for Senate | work=The Advertiser | accessdate=December 9, 2015}}</ref><br/>[[Foster Campbell]] (Democratic)<ref name=Campbell>{{cite news | last=Crisp | first=Elizabeth | url=http://theadvocate.com/news/15007482-123/public-service-commissioner-foster-campbell-running-for-the-us-senate | title=Public Service Commissioner Foster Campbell running for U.S. Senate | date=February 26, 2016 | work=[[The Advocate (Louisiana)|The Advocate]] | accessdate=March 4, 2016}}</ref><br/>[[Joseph Cao]] (Republican)<ref name=Cao>{{cite news | author=Richard Rainey | date=December 16, 2015 | work=[[The Times-Picayune]] | accessdate=January 14, 2016| url=http://www.nola.com/politics/index.ssf/2015/12/joseph_cao_enters_senate_race.html | title=Joseph Cao enters Senate race for Vitter's seat, tells supporters by email}}</ref><br/>Donald "Crawdaddy" Crawford (Republican)<ref name="auto">{{cite news |url=http://www.theadvocate.com/baton_rouge/news/article_74f07224-4f4f-11e6-90cb-372276641167.html |title=Some colorful nicknames appear on Louisiana ballots this November |work=The Advocate |date=July 22, 2016 |accessdate=July 24, 2016 }}</ref><br>[[David Duke]] (Republican)<ref>{{cite news |url=http://www.cnn.com/2016/07/22/politics/david-duke-senate-race/ |title=Former Ku Klux Klan Grand Wizard David Duke running for Senate seat in Louisiana |work=CNN |date=July 22, 2016 |accessdate=July 24, 2016 }}</ref><br>Derrick Edwards (Democratic)<ref name=DEdwards>{{cite news | last= Alford | first=Jeremy | url=http://theind.com/article-22906-new-names-still-hover-over-senate-race.html | title=New names still hover over Senate race | date=March 23, 2016 | work=[[The Independent]] | accessdate=April 20, 2016}}</ref><br/>[[Caroline Fayard]] (Democratic)<ref name=Fayard>{{cite news | last=Crisp | first=Elizabeth | date=February 4, 2016 | work=[[The Advocate (Louisiana)|The Advocate]] | url=http://theadvocate.com/news/14779292-123/caroline-fayard-launches-us-senate-bid | title=Democrat Caroline Fayard launches U.S. Senate bid | accessdate=February 5, 2016}}</ref><br/>[[John Fleming (U.S. politician)|John Fleming]] (Republican)<ref name=Fleming>{{cite news | last=O'Donoghue | first=Julia | date=December 7, 2015 | url=http://www.nola.com/politics/index.ssf/2015/12/louisiana_congressman_john_fle.html | title=Louisiana Congressman John Fleming launches bid for David Vitter's Senate seat | work=[[The Times-Picayune]] | accessdate=December 9, 2015}}</ref><br/>[[John Neely Kennedy|John Kennedy]] (Republican)<ref name=Neely>{{cite news | url=http://www.wdsu.com/news/local-news/new-orleans/treasurer-kennedy-joins-fray-to-succeed-vitter/37641288 | title=Treasurer Kennedy joins fray to succeed Vitter | work=WDSU News | date=January 26, 2016 | accessdate=January 26, 2016}}</ref><br/>Gary Landrieu (Democratic)<ref name="auto"/><br>[[Rob Maness]] (Republican)<ref name=Maness>{{cite news | url=http://www.wwl.com/Maness-officially-joins-Senate-race/22415681 | title=Maness officially joins Senate race | work=WWL AM870 | date=January 29, 2016 | accessdate=January 29, 2016}}</ref><br/>Charles Marsala (Republican)<ref name="auto"/><br>Vinny Mendoza (Democratic)<ref name="auto"/><br>Abhay Patel (Republican)<ref>{{cite news | url=http://www.knoe.com/home/headlines/Patel-to-announce-candidacy-for-United-States-Senate-382501941.html?link_id=16&can_id=8c4c59aaca9cda0e0715706b23178adf | title=Patel to announce candidacy for United States Senate | work=KNOE 12 | date=June 10, 2016 | accessdate=June 14, 2016 }}</ref><br>Josh Pellerin (Democratic)<ref name=Pellerin>{{cite web | last=Stickney | first=Ken | url=http://www.theadvertiser.com/story/news/2016/03/28/pellerin-announcement-comes-april-5/82362142 | title=Pellerin announcement comes April 5 | date=March 28, 2016 | work=[[The Daily Advertiser (Lafayette)|The Daily Advertiser]] | accessdate=April 20, 2016}}</ref><br/>Peter Williams (Democratic)<ref name="auto"/> <br/> Thomas Clements (Libertarian)<ref name="myarklamiss.com">http://www.myarklamiss.com/news/local-news/us-senate-candidates-speak-to-monroe-chamber-of-commerce</ref> <br/> LeRoy Gilliam (Libertarian)<ref name="myarklamiss.com"/>
+
+|-
+! [[#Maryland|Maryland]]
+| {{sortname|Barbara|Mikulski}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in Maryland, 1986|1986]]<br/>[[United States Senate election in Maryland, 1992|1992]]<br/>[[United States Senate election in Maryland, 1998|1998]]<br/>[[United States Senate election in Maryland, 2004|2004]]<br/>[[United States Senate election in Maryland, 2010|2010]]
+| Incumbent retiring.
+| [[Chris Van Hollen]] (Democratic)<ref name=vanhollen>{{cite news | url=http://www.huffingtonpost.com/2015/03/04/chris-van-hollen-senate_n_6803296.html | title=Chris Van Hollen To Run For Senate | work=Huffington Post | date=March 4, 2015 | accessdate=May 16, 2015}}</ref><br/>[[Kathy Szeliga]] (Republican)<ref name=Szeliga>{{cite news | url=http://www.baltimoresun.com/news/maryland/politics/bs-md-szeliga-senate-20151110-story.html | title=Kathy Szeliga joins Senate race, seeking Mikulski's seat | work=Baltimore Sun | date=November 10, 2015 | accessdate=November 11, 2015}}</ref><br>Margaret Flowers (Green)<ref>http://www.elections.state.md.us/elections/2016/general_candidates/gen_cand_lists_2016_4_007-.html</ref>
+
+|-
+! [[#Missouri|Missouri]]
+| {{sortname|Roy|Blunt}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Missouri, 2010|2010]]
+| Incumbent running.
+| [[Roy Blunt]] (Republican)<ref name=bluntcurve>{{cite news | url=http://www.washingtonexaminer.com/ahead-of-the-2016-curve-roy-blunt-has-a-fundraiser-on-election-night-2014/article/2555676 | title=Ahead of the 2016 curve: Roy Blunt has a fundraiser on election night 2014| publisher=The Washington Examiner | date=November 4, 2014 | accessdate=November 13, 2014}}</ref><br/>[[Jason Kander]] (Democratic)<ref name=Kander>{{cite news | url=http://www.stltoday.com/news/local/govt-and-politics/secretary-of-state-jason-kander-announces-he-ll-seek-senate/article_7b9aec6c-cf36-5198-96a4-ee3a68bddba0.html | title=Secretary of State Jason Kander announces he'll seek Senate seat held by Roy Blunt | work=St. Louis Today | date=February 19, 2015 | accessdate=May 16, 2015}}</ref><br/>Jonathan Dine (Libertarian)<ref>http://www.kansascity.com/news/local/news-columns-blogs/the-buzz/article100174757.html</ref>
+
+|-
+! [[#Nevada|Nevada]]
+| {{sortname|Harry|Reid}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in Nevada, 1986|1986]]<br/>[[United States Senate election in Nevada, 1992|1992]]<br/>[[United States Senate election in Nevada, 1998|1998]]<br/>[[United States Senate election in Nevada, 2004|2004]]<br/>[[United States Senate election in Nevada, 2010|2010]]
+| Incumbent retiring.
+| [[Catherine Cortez Masto]] (Democratic)<ref name=CortezMasto>{{cite news | last=DelReal | first=Jose | url=https://www.washingtonpost.com/news/post-politics/wp/2015/04/08/catherine-cortez-masto-announces-bid-to-succeed-harry-reid-in-the-senate | title=Catherine Cortez Masto announces bid to succeed Harry Reid in the Senate | work=[[The Washington Post]] | date=April 8, 2015 | accessdate=April 8, 2015}}</ref><br/>[[Joe Heck]] (Republican)<ref name=JoeHeck>{{cite news | url=http://www.washingtonpost.com/blogs/post-politics/wp/2015/07/06/rep-joe-heck-announces-nevada-senate-run | title=Rep. Joe Heck announces Nevada Senate run | work=[[The Washington Post]] | location=Las Vegas | date=July 6, 2015 | accessdate=July 7, 2015}}</ref>
+Tom Jones (Independent American)<br />
+Tony Gumina (unaffiliated)<br />
+Tom Sawyer (unaffiliated)<br />
+Jarrod Michael Williams (unaffiliated)<br />
+''(None of these candidates)''<br />
+|-
+! [[#New Hampshire|New Hampshire]]
+| {{sortname|Kelly|Ayotte}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in New Hampshire, 2010|2010]]
+| Incumbent running.
+| [[Kelly Ayotte]] (Republican)<ref name=seekre>{{cite news | url=http://nhjournal.com/ayotte-hoping-senate-finally-gets-things-done | title=Ayotte, hoping Senate finally ‘gets things done,’ says she’ll seek reelection | publisher=NH Journal | date=November 7, 2014| accessdate=December 4, 2014 | first=John | last= DiStaso}}</ref><br/>[[Maggie Hassan]] (Democratic)<ref name=Hassan>{{cite news | last=LoBioanco | first=Tom | url=http://www.cnn.com/2015/10/05/politics/maggie-hassan-kelly-ayotte-senate-race-new-hampshire | title=Gov. Maggie Hassan announces challenge against Sen. Kelly Ayotte | work=CNN politics | date=October 5, 2015}}</ref><br/>Brian Chabot (Libertarian)<ref>http://www.ledgertranscript.com/Candidates-file-for-state-offices-2907943</ref>
+
+|-
+! [[#New York|New York]]
+| {{sortname|Chuck|Schumer}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in New York, 1998|1998]]<br/>[[United States Senate election in New York, 2004|2004]]<br/>[[United States Senate election in New York, 2010|2010]]
+| Incumbent running.
+| [[Chuck Schumer]] (Democratic)<ref name=RCRG/><br/>[[Wendy Long]] (Republican)<ref name=WLong>{{cite web | last=Simpson | first=Amy| url=http://www.mytwintiers.com/news/local-news/wendy-long-announces-candidacy-for-us-senate | title=Wendy Long Announces For U.S. Senate| date=March 3, 2016 | work=My Twin Tiers | accessdate=March 4, 2016}}</ref><br/>[[Alex Merced]] (Libertarian)<ref>http://waer.org/post/libertarian-merced-ready-challenge-schumer-us-senate-seat</ref><br>Robin Wilson (Green)<ref>http://www.elections.ny.gov/</ref>
+
+|-
+! [[#North Carolina|North Carolina]]
+| {{sortname|Richard|Burr}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in North Carolina, 2004|2004]]<br/>[[United States Senate election in North Carolina, 2010|2010]]
+| Incumbent running.
+| [[Richard Burr]] (Republican)<ref name=rumorsaside>{{cite news | title=Rumors Aside, Burr Says He'll Run Again | url=http://www.nationaljournal.com/politics/rumors-aside-burr-says-he-ll-run-again-20140915 | accessdate=September 22, 2014 | publisher=National Journal | date=September 15, 2014}}</ref><br/>[[Deborah K. Ross|Deborah Ross]] (Democratic)<ref name=ross1>{{cite news | last=Burns | first=Matthew | url=http://www.wral.com/ex-wake-lawmaker-ross-enters-us-senate-race/14967485 | title=Ex-Wake lawmaker Ross enters US Senate race | work=WRAL.com | location=Raleigh, North Carolina | date=October 14, 2015 | accessdate=October 14, 2015}}</ref><br/>Sean Haugh (Libertarian)<ref>http://www.newsobserver.com/news/politics-government/election/article100605697.html</ref>
+
+|-
+! [[#North Dakota|North Dakota]]
+| {{sortname|John|Hoeven}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in North Dakota, 2010|2010]]
+| Incumbent running.
+| [[John Hoeven]] (Republican)<ref name=heitkampeyeing>{{cite news | url=http://thehill.com/blogs/ballot-box/228344-is-heitkamp-eyeing-a-run-for-governor | title=Is Heitkamp eyeing a run for governor? | date=December 31, 2014 | accessdate=January 6, 2015 | publisher=[[The Hill (newspaper)|The Hill]] | first=Jonathan | last= Easley}}</ref><br/>[[Eliot Glassheim]] (Democratic)<ref>{{cite news | url=http://www.inforum.com/news/3986527-north-dakota-rep-marvin-nelson-join-race-governor?can_id=8c4c59aaca9cda0e0715706b23178adf&source=email-morning-digest-its-duckworth-vs-kirk-in-illinois&email_referrer=morning-digest-its-duckworth-vs-kirk-in-illinois&email_subject=morning-digest-its-duckworth-vs-kirk-in-illinois&link_id=20 | title=North Dakota Rep. Marvin Nelson to join race for governor | work=Inforum | date=March 15, 2016 | accessdate=March 16, 2016}}</ref><br/>Robert Marquette (Libertarian)<ref>http://bismarcktribune.com/news/local/govt-and-politics/libertarian-u-s-senate-candidate-launches-campaign/article_b4e23d80-29fb-5490-afe2-a7ac018748b0.html</ref>
+
+|-
+! [[#Ohio|Ohio]]
+| {{sortname|Rob|Portman}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Ohio, 2010|2010]]
+| Incumbent running.
+| [[Rob Portman]] (Republican)<ref name=wontpotus>{{cite web | url=http://www.politico.com/story/2014/12/rob-portman-2016-113253.html | title=Rob Portman won’t run for president in 2016 | work=[[Politico]] | date=December 2, 2014 | accessdate=December 2, 2014 | first=Maggie | last= Haberman}}</ref><br/>[[Ted Strickland]] (Democratic)<ref>{{cite news | url=http://www.nytimes.com/politics/first-draft/2015/02/17/ted-strickland-ex-ohio-governor-weighs-a-senate-run | first= Nick | last=Corasaniti | title=Ted Strickland, Former Ohio Governor, Weighs a Senate Run | date=February 17, 2015 | work=[[The New York Times]]}}</ref><br>Joseph DeMare (Green)<ref>http://www.sos.state.oh.us/sos/mediaCenter/2015/2015-12-31.aspx</ref>
+
+|-
+! [[#Oklahoma|Oklahoma]]
+| {{sortname|James|Lankford}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate special election in Oklahoma, 2014|2014 (Special)]]
+| Incumbent running.
+| [[James Lankford]] (Republican)<ref name=RCRG/><br>[[Mike Workman]] (Democratic)<ref>{{cite news |url=http://examiner-enterprise.com/news/local-news/workman-says-trump-nomination-good-dems |title=Workman says Trump nomination good for Dems |work=Bartlesville Examiner-Enterprise |date=May 1, 2016 |accessdate=June 29, 2016 }}</ref><br/>Robert Murphy (Libertarian)<ref>https://ballotpedia.org/Robert_Murphy_(Oklahoma)</ref>
+
+|-
+! [[#Oregon|Oregon]]
+| {{sortname|Ron|Wyden}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate special election in Oregon, 1996|1996 (Special)]]<br/>[[United States Senate election in Oregon, 1998|1998]]<br/>[[United States Senate election in Oregon, 2004|2004]]<br/>[[United States Senate election in Oregon, 2010|2010]]
+| Incumbent running.
+| [[Ron Wyden]] (Democratic)<ref name=RCRG/><br/>Mark Callahan (Republican)<ref name=callahan>{{cite web | last=Mapes | first=Jeff | date=September 10, 2015 | work=[[The Oregonian]]| url=http://www.oregonlive.com/mapes/index.ssf/2015/09/republican_mark_callahan_of_bl.html | title=Republican Mark Callahan of 'blah, blah, blah' fame runs again for U.S. Senate | accessdate=September 11, 2015}}</ref><br>Jim Lindsay (Libertarian)<ref name="ballotpedia.org">https://ballotpedia.org/United_States_Senate_election_in_Oregon,_2016</ref><br>Eric Navickas (Green)<ref name="ballotpedia.org"/>
+
+|-
+! [[#Pennsylvania|Pennsylvania]]
+| {{sortname|Pat|Toomey}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Pennsylvania, 2010|2010]]
+| Incumbent running.
+| [[Pat Toomey]] (Republican)<ref name=tsr>{{cite news | last1=Cahn | first1=Emily | title=10 Races to Watch in 2016: Pennsylvania Senate | url=http://atr.rollcall.com/races-to-watch-2016-pat-toomey-pennsylvania-senate | accessdate=January 22, 2015 | publisher=[[Roll Call]] | date=December 22, 2014}}</ref><br/>[[Kathleen McGinty]] (Democratic)<ref name=KatieMcginty>{{cite news | last=Field | first=Nick | url=http://www.politicspa.com/breaking-pa-sen-mcginty-announces-senate-campaign-video/68136 | title=McGinty Announces Senate Campaign | work=Politics PA | date=August 4, 2015}}</ref><br/>Edward Clifford (Libertarian)<ref>http://talkingpointsmemo.com/polltracker/dem-senate-challenger-ahead-pa-poll</ref>
+
+|-
+! [[#South Carolina|South Carolina]]
+| {{sortname|Tim|Scott}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | {{sort|2013|2013 (Appointed)}}<br/>[[United States Senate special election in South Carolina, 2014|2014 (Special)]]
+| Incumbent running.
+| [[Tim Scott]] (Republican)<ref name=RCRG/><br/>[[Thomas Dixon]] (Democratic)<ref name=dixonsc>{{cite news | url=http://www.postandcourier.com/article/20160222/PC16/160229815 | title=Thomas Dixon to challenge U.S. Sen. Tim Scott | work=[[The Post and Courier]] | last=Rindge | first=Brenda | date=February 22, 2016 | accessdate=February 23, 2016}}</ref><br/>Bill Bledsoe (Libertarian)<ref>http://www.free-times.com/news/third-party-candidate-to-stage-gun-rallies-in-every-sc-county-080716</ref>
+
+|-
+! [[#South Dakota|South Dakota]]
+| {{sortname|John|Thune}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in South Dakota, 2004|2004]]<br/>[[United States Senate election in South Dakota, 2010|2010]]
+| Incumbent running.
+| [[John Thune]] (Republican)<ref name=thunerunning>{{cite news | last=Everett | first=Burgess | title=John Thune: No ‘opening’ for a White House run | url=http://www.politico.com/story/2015/01/john-thune-114244.html | accessdate=January 15, 2015}}</ref><br/>[[Jay Williams (South Dakota politician)|Jay Williams]] (Democratic)<ref name=siebold>{{cite news | last=Siebold | first=Jack | date=February 19, 2016 | title=Yankton businessman to challenge Thune| url=http://www.kotatv.com/news/south-dakota-news/Yankton-businessman-to-challenge-Thune/38084046 | work=[[KHME|KOTA-TV]]| accessdate=February 20, 2016}}</ref>
+
+|-
+! [[#Utah|Utah]]
+| {{sortname|Mike|Lee|Mike Lee (U.S. politician)}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Utah, 2010|2010]]
+| Incumbent running.
+| [[Mike Lee (U.S. politician)|Mike Lee]] (Republican)<ref name=rousing>{{cite web | url=http://utahpolicy.com/index.php/features/today-at-utah-policy/2387-gop-delegates-give-rousing-reception-to-sen-mike-lee | title=GOP Delegates Give Rousing Reception to Sen. Mike Lee | first=Bob | last= Bernick | publisher=''Utah Policy'' | date=April 26, 2014 | accessdate=December 12, 2014}}</ref><br/>[[Misty K. Snow]] (Democratic)<ref name=Utah>{{cite web | url=http://elections.utah.gov/election-resources/2016-candidate-filings | title=2016 Candidate Filings | accessdate=March 17, 2016}}</ref><br />
+Stoney Fonua (Independent American)<br />
+Bill Barron (unaffiliated)
+
+|-
+! [[#Vermont|Vermont]]
+| {{sortname|Patrick|Leahy}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in Vermont, 1974|1974]]<br/>[[United States Senate election in Vermont, 1980|1980]]<br/>[[United States Senate election in Vermont, 1986|1986]]<br/>[[United States Senate election in Vermont, 1992|1992]]<br/>[[United States Senate election in Vermont, 1998|1998]]<br/>[[United States Senate election in Vermont, 2004|2004]]<br/>[[United States Senate election in Vermont, 2010|2010]]
+| Incumbent running.
+| [[Patrick Leahy]] (Democratic)<ref name="McGilvery">{{cite news | last=McGilvery | first=Keith | title=Sen. Patrick Leahy to run for re-election | url=http://www.wcax.com/story/20028973/sen-patrick-leahy-to-run-for-re-election | accessdate=September 10, 2014 | publisher=[[WCAX-TV]] | date=November 7, 2012}}</ref><br/>[[Scott Milne]] (Republican)<ref name="necn">{{cite news | url=http://www.necn.com/news/new-england/Former-Red-Sox-Pitcher-Running-for-Vermont-Governer-380720741.html | title=Former Red Sox Pitcher Running for Vermont Governor | work=necn | date=May 24, 2016 | accessdate=June 1, 2016 }}</ref><br />
+Pete Diamondstone (Liberty Union)<br />
+Cris Ericson (Marijuana)<br />
+Jerry Trudell (unaffiliated)<br />
+|-
+! [[#Washington|Washington]]
+| {{sortname|Patty|Murray}}
+| {{party shading/Democratic}} | Democratic
+| align=center nowrap | [[United States Senate election in Washington, 1992|1992]]<br/>[[United States Senate election in Washington, 1998|1998]]<br/>[[United States Senate election in Washington, 2004|2004]]<br/>[[United States Senate election in Washington, 2010|2010]]
+| Incumbent running.
+| [[Patty Murray]] (Democratic)<ref name=murrayseek>{{cite web | last=Shabad | first=Rebecca | url=http://thehill.com/blogs/ballot-box/senate-races/197904-sen-murray-to-seek-fifth-term-in-2016 | title=Sen. Murray to seek her fifth term in 2016 | publisher=[[The Hill (newspaper)|The Hill]] | accessdate=February 10, 2014}}</ref><br/>[[Chris Vance (politician)|Chris Vance]] (Republican)<ref name="Pathe">{{cite news | last=Pathe | first=Simone | url=http://atr.rollcall.com/former-washington-state-gop-chairman-challenge-patty-murray | title=Former Washington GOP Chairman to Challenge Patty Murray | work=[[Roll Call]] | date=September 8, 2015}}</ref>
+
+|-
+! [[#Wisconsin|Wisconsin]]
+| {{sortname|Ron|Johnson|Ron Johnson (Wisconsin politician)}}
+| {{party shading/Republican}} | Republican
+| align=center nowrap | [[United States Senate election in Wisconsin, 2010|2010]]
+| Incumbent running.
+| [[Ron Johnson (Wisconsin politician)|Ron Johnson]] (Republican)<ref name=RJohnson>{{cite web | last=Bolton | first=Alexander | url=http://thehill.com/homenews/senate/287181-johnson-citizen-legislator-tells-kitchen-cabinet-he-will-run-for-reelection-in-2016 | title=Sen. Johnson tells 'kitchen cabinet' he will run for reelection in 2016 | publisher=[[The Hill (newspaper)|The Hill]] | accessdate=October 22, 2013}}</ref><br/>[[Russ Feingold]] (Democratic)<ref name=Feingold>{{cite news | url=http://www.nbcnews.com/politics/congress/russ-feingold-announces-senate-run-setting-rematch-n358801 | title=Russ Feingold Announces Senate Run, Setting Up Rematch | work=NBC News | date=May 14, 2015 | accessdate=May 14, 2015}}</ref><br/>Phil Anderson (Libertarian)<ref>http://www.1410wizm.com/index.php/item/28475-a-libertarian-wants-into-senate-race-between-johnson-feingold</ref>
+
+|}
+
+{{reflist | group=A}}
+
+A grey shading indicates that the primaries have yet to take place for that race.
+
+== Complete list of races ==
+Thirty-four seats are up for election in 2016:
+* 7 Democrats and 21 Republicans are seeking re-election.
+* 5 Senators (3 Democrats, 2 Republicans) are retiring.
+
+=== Alabama ===
+{{main article|United States Senate election in Alabama, 2016}}
+Five-term Senator [[Richard Shelby]] (Republican) was re-elected with 65% of the vote in 2010. He will be 82 years old in 2016. He served in the Senate as a Democrat until switching parties in 1994. Shelby is running for re-election and faced four challengers in the Republican primary: ex-state Senator Shadrack McGill, former Marine and Birmingham businessman Jonathan McConnell, Marcus Bowman, and John Martin.<ref name="al.com">{{cite web | url=http://www.al.com/news/index.ssf/2015/11/alabama_primary_2016_who_quali.html| title=Alabama Primary 2016: Who qualified for the ballot? | date=November 6, 2015 | work=AL.com}}</ref> On March 1, Shelby won the primary with 65% of the vote.<ref name=NYTimes>{{cite news | url=http://www.nytimes.com/elections/results/alabama | title=Alabama Primary Results | work=[[The New York Times]] | accessdate=March 4, 2016}}</ref>
+
+There were two Democratic candidates: Ron Crumpton, patient rights advocate,<ref name="Crumpton"/><ref>{{cite web| url=http://www.crumptonforalabama.com | title=Crumpton for United States Senate}}</ref> and Charles Nana.<ref name="al.com"/> Crumpton won the primary with 56% of the vote.<ref name=NYTimes/>
+
+=== Alaska ===
+{{main article|United States Senate election in Alaska, 2016}}
+Two-term Senator [[Lisa Murkowski]] (Republican) was appointed in 2002 and elected to a full term in 2004. She was defeated in the Republican primary in 2010 by [[Joe Miller (Alaska politician)|Joe Miller]]. She later ran as a write-in candidate in the 2010 general election and was re-elected to a second full term with 40% of the vote, making her one of two senators in US history to win election via write-in votes. She will be 59 years old in 2016 and is running for re-election.<ref name=lisaannounces/>
+
+Thomas Lamb, a candidate for the State House in [[Alaska state elections, 2006|2006]], and Bob Lochner filed to run against Murkowski.<ref name=TLamb>{{cite web | title=August 16, 2016 Primary Candidate List | url=http://www.elections.alaska.gov/election/2016/Primary/candidate_info_prm_2016.php | publisher=State of Alaska Division of Elections| accessdate=March 6, 2016}}</ref> Other potential Republican primary challengers included 2010 nominee and 2014 candidate [[Joe Miller (Alaska politician)|Joe Miller]], State Senator [[Mike J. Dunleavy]], former Lieutenant Governor [[Mead Treadwell]], and former Mayor of [[Anchorage, Alaska|Anchorage]] [[Dan Sullivan (Mayor of Anchorage)|Dan Sullivan]].<ref>{{cite news | last=Pathe | first=Simone | date=May 15, 2015 | title=Murkowski Facing a Primary Puzzle | url=http://atr.rollcall.com/lisa-murkowski-primary-joe-miller-mike-dunleavy | work=[[Roll Call]]}}</ref>
+
+The only person to file for the Democratic primary as of May 20 was writer and satirist [[Richard Grayson (writer)|Richard Grayson]], who previously sought election to Wyoming's House seat in 2014.<ref>{{cite news|last1=Neary|first1=Ben | title=The Only Democrat Running For Congress In Wyoming Might Host A 'Campaign Rave' | url=http://trib.com/news/state-and-regional/govt-and-politics/arizona-man-the-only-democratic-challenger-to-wyoming-rep-cynthia/article_8de2bdff-f5d1-5104-9206-220016a37619.html | accessdate=May 20, 2016 | agency=Associated Press | date=June 13, 2013}}</ref><ref>{{cite news|last1=Lawrence|first1=Tom | title=EDITORIAL: Lessons we learned from Election Day | url=http://www.powelltribune.com/opinion/editorials/item/13047-editorial-lessons-we-learned-from-election-day | accessdate=May 20, 2016 | publisher=Powell Tribune | date=November 6, 2014}}</ref><ref>{{cite news|last1=John|first1=Arit | title=Wyoming's Democratic 'Hip Hop Candidate' Just Launched the PPLZ 4 GRAYSON CREW | url=http://www.thewire.com/politics/2014/06/wyomings-democratic-hip-hop-candidate-just-launched-the-pplz-4-grayson-crew/372767 | accessdate=May 20, 2016 | agency=The Wire | date=June 13, 2014}}</ref><ref name=TLamb/> Potential Democratic candidates included State Senator [[Dennis Egan]], State Representative [[Andy Josephson]], State Senator [[Bill Wielechowski]], State Senator [[Hollis French]] and State Senate Minority Leader [[Johnny Ellis]].<ref name="Alaska Farm Team">{{cite news | last=Trygstad | first=Kyle | url=http://www.rollcall.com/news/farm_team_absence_of_opportunity_means_long_alaska_pipeline-222421-1.html?pg=2 | title=Farm Team: Absence of Opportunity Means Long Alaska Pipeline | accessdate=December 12, 2013 | publisher=[[Roll Call]] | date=February 13, 2013}}</ref> Former Senator [[Mark Begich]] was mentioned as a possible candidate,<ref>{{cite news | last=Sullivan | first=Sean| date=February 2, 2015 | work=[[The Washington Post]] | url=https://www.washingtonpost.com/news/post-politics/wp/2015/02/02/why-mark-begich-could-run-for-the-senate-again | title=Why Mark Begich could run for the Senate again| accessdate=February 16, 2015}}</ref> but he declined to run.<ref>{{cite news | url=http://www.adn.com/article/20160216/former-sen-begich-says-he-wont-run-any-office-year | last=Bohrer| first=Becky | date=February 16, 2016 | title=Begich says he won't run for any office this year | work=[[Alaska Dispatch News]]| accessdate=February 18, 2016}}</ref>
+
+Murkowski won her primary on August 16, 2016 with 72 percent of the vote.
+
+Joe Miller received the Libertarian nomination and will run against Murkowski in the general election.
+
+Anchorage attorney and veteran [[Margaret Stock]] is running as an Independent candidate.<ref name=Stock>{{cite news | last=Kelly | first=Devin | date=February 17, 2016 | title=Anchorage attorney Margaret Stock challenging Lisa Murkowski for Senate | url=http://www.adn.com/article/20160217/anchorage-attorney-margaret-stock-challenging-lisa-murkowski-senate | publisher=Alaska Dispatch News | accessdate=February 19, 2016}}</ref>
+
+=== Arizona ===
+{{main article|United States Senate election in Arizona, 2016}}
+Five-term Senator and Republican presidential candidate in 2008 [[John McCain]] was re-elected with 59% of the vote in 2010. He will be 80 years old in 2016. Despite speculation that he might retire,<ref name="McCain hint">{{cite news | last=Trujillo | first=Mario | title=McCain hints at retirement in 2016 | url=http://thehill.com/blogs/blog-briefing-room/news/322141-mccain-hints-at-retirement-in-2016 | accessdate=September 14, 2013 | publisher=[[The Hill (newspaper)|The Hill]] | date=September 13, 2013}}</ref> McCain is running for re-election.<ref name="movingparts"/>
+
+McCain faced primary challenges from [[Fair Tax]] activist Alex Meluskey,<ref name=Meluskey>{{cite news | last=Rose | first=Shannon | url=http://newsblaze.com/story/20150221031924shro.nb/topstory.html | title=Alex Meluskey Runs for US Senate in Arizona | date=February 21, 2015}}</ref> businessman David Pizer,<ref name="Pizer">{{cite news | url=http://tucson.com/news/local/govt-and-politics/elections/pizer-known-for-upholstery-cryonics-is-latest-mccain-foe/article_5c84d37c-613f-54d9-8e17-807ef632ac40.html | title=Pizer, known for upholstery, cryonics, is latest McCain foe | work=Arizona Daily Star | date=November 9, 2015 | accessdate=November 9, 2015}}</ref> talk radio host Clair Van Steenwyk,<ref name=VanSteenwyk>{{cite news | url=http://www.prescottenews.com/news/current-news/item/20079-letter-to-the-editor-why-im-running-for-us-senate | title=Letters to the Editor: Why I'm Running for US Senate | date=June 10, 2015 | accessdate=December 5, 2015}}</ref> and State Senator [[Kelli Ward]].<ref name="KelliWard">{{cite news | url=http://www.havasunews.com/news/kelli-ward-running-for-u-s-senate/article_188ea0b0-29cf-11e5-9953-d7c9d8bb6344.html | title=Havasu's Kelli Ward confirms Senate challenge against John McCain | work=Havasu News | date=July 14, 2015 | accessdate=July 15, 2015}}</ref> David Pizer later dropped out of the race. Representatives [[Matt Salmon]] and [[David Schweikert]] were both mentioned as possible candidates,<ref>{{cite news | last1=Wong | first1=Scott | last2=Joseph | first2=Cameron | date=January 28, 2015 | url=http://thehill.com/homenews/house/230952-tea-party-lawmakers-we-may-take-on-mccain | title=Tea Party lawmakers may take on McCain | work=[[The Hill (newspaper)|The Hill]]}}</ref> but both chose not to run.<ref>{{cite news | last=Wong | first=Scott | date=January 29, 2015| url=http://thehill.com/homenews/campaign/255311-salmon-tells-mccain-i-wont-primary-you | title=Salmon tells McCain: I won't primary you | work=[[The Hill (newspaper)|The Hill]]}}</ref><ref>{{cite news | last=Nowicki | first=Dan | date=January 16, 2016 | work=[[The Arizona Republic]]| url=http://www.azcentral.com/story/news/arizona/politics/2016/01/16/maricopa-county-gop-slams-mccain-again-but-schweikert-wont-run/78914274 | title=Maricopa County GOP slams McCain again, but Schweikert won't run}}</ref> Other potential Republican candidates included former [[Governor of Arizona|Governor]] [[Jan Brewer]],<ref>{{cite news | last=Mataconis | first=Doug | date=March 12, 2014 | url=http://www.outsidethebeltway.com/arizona-governor-jan-brewer-will-not-run-for-re-election | title=Arizona Governor Jan Brewer Will Not Run For Re-election | work=Outside the Beltway}}</ref> businesswoman and [[Arizona gubernatorial election, 2014|2014]] gubernatorial candidate [[Christine Jones (businesswoman)|Christine Jones]],<ref>{{cite web | url=http://www.azcentral.com/story/azdc/2014/11/29/david-schweikert-christine-jones-john-mccain-2016-senate-primary/19562273 | title=Schweikert, Jones possible McCain primary foes in 2016? | publisher=AZ Central | date=November 29, 2014 | accessdate=December 3, 2014}}</ref> former [[Governor of Alaska]] and [[Vice presidential candidacy of Sarah Palin|2008 vice presidential candidate]] [[Sarah Palin]],<ref>{{cite news | url=http://www.nytimes.com/2014/11/26/us/obamas-immigration-action-reinvigorates-tea-party.html | title=After Obama's Immigration Action, a Blast of Energy for the Tea Party | publisher=[[The New York Times]] | date=November 25, 2014 | accessdate=December 3, 2014}}</ref> former U.S. Representative [[John Shadegg]],<ref name="Last term">{{cite news | last=Nowicki | first=Dan | title=Is this Sen. McCain's last term? | url=http://www.azcentral.com/news/politics/articles/20130211mccain-is-this-last-term.html | accessdate=September 21, 2013 | publisher=The Arizona Republic | date=February 16, 2013}}</ref> and former Arizona Attorney General [[Grant Woods]].<ref name="Last term"/>
+
+Congresswoman [[Ann Kirkpatrick]]<ref name=kirkpatrickin/> and teacher Lennie Clark<ref name="dailykos.com">{{cite web | url=http://www.dailykos.com/story/2015/09/21/1423360/-Pro-Bernie-Candidate-for-Senate-in-Arizona | title=Pro-Bernie Candidate for Senate… in Arizona | author=millansingh | date=September 21, 2015}}</ref> ran for the Democratic nomination. Lennie Clark dropped out and Ann Kirkpatrick became the Democratic nominee. Other potential Democratic candidates included U.S. Representative [[Ruben Gallego]], former [[Surgeon General]] and 2012 nominee [[Richard Carmona]], 2014 gubernatorial nominee [[Fred DuVal]], Phoenix Mayor [[Greg Stanton]], and retired astronaut [[Mark Kelly]], who is the husband of ex-Congresswoman [[Gabrielle Giffords]].<ref name=16in16>{{cite web | url=http://www.politico.com/story/2014/12/2016-senate-races-113837_Page2.html | title=16 in '16: The new battle for the Senate | date=December 29, 2014 | accessdate=January 1, 2015 | work=[[Politico]] | last=Cheney | first=Kyle}}</ref><ref>{{cite web | url=http://www.azcentral.com/story/news/arizona/politics/2015/03/21/gosar-challenge-mccain/25170257 | title=Gosar won't challenge McCain | work=[[The Arizona Republic]] | last=Sanders | first=Rebekah L. | date=March 21, 2015 | accessdate=March 24, 2015}}</ref>
+
+=== Arkansas ===
+{{main article|United States Senate election in Arkansas, 2016}}
+One-term Senator [[John Boozman]] (Republican) defeated two-term Senator [[Blanche Lincoln]] with 58% of the vote in 2010. He will be 65 years old in 2016. Despite speculation that he might retire following health problems,<ref>{{cite news | title=Arkansas US Sen. John Boozman Having Surgery | url=http://abcnews.go.com/US/wireStory/arkansas-us-sen-john-boozman-surgery-23423150 | accessdate=April 22, 2014 | work=ABC News | date=April 22, 2014}}</ref><ref>{{cite news | url=http://thehill.com/blogs/ballot-box/201883-senate-dems-see-uphill-fight-look-to-next-elections | title=Senate Democrats look to next elections | publisher=[[The Hill (newspaper)|The Hill]] | date=March 27, 2014 | accessdate=October 25, 2014}}</ref> Boozman is running for re-election.<ref name="DeMillo"/> Fellow Republican Curtis Coleman, who ran against Boozman in 2010 but came in fifth place, is running again.<ref name="CurtisColeman">{{cite news | url=http://www.arktimes.com/ArkansasBlog/archives/2015/11/09/curtis-coleman-indicates-hell-take-on-incumbent-sen-john-boozman | title=Curtis Coleman indicates he'll take on incumbent Sen. John Boozman | work=Arkansas Times | date=November 9, 2015 | accessdate=November 10, 2015}}</ref>
+
+[[Conner Eldridge]], the former U.S. Attorney for the [[United States District Court for the Western District of Arkansas|Western District of Arkansas]], is the only Democrat who met the filing deadline.<ref>{{cite news | last1=Brantley | first1=Max | title=Conner Eldridge announces plans to run for U.S. Senate | url=http://www.arktimes.com/ArkansasBlog/archives/2015/09/09/conner-eldridge-announces-plans-to-run-for-us-senate | accessdate=September 21, 2015 | publisher=Arkansas Times | date=September 9, 2015}}</ref>
+
+Frank Gilbert is the candidate for the Libertarian Party,<ref name=FGilbert>{{cite news | url=http://www.independentpoliticalreport.com/2015/10/arkansas-libertarians-nominate-twenty-three-candidates-including-frank-gilbert-for-u-s-senate | title=Arkansas Libertarians nominate twenty-three candidates, including Frank Gilbert for U.S. Senate | work=Independent Political Report | date=October 25, 2015 | accessdate=November 10, 2015}}</ref><ref>{{cite web | publisher=Arkansas Secretary of State| url=http://www.sos.arkansas.gov/electionresults/index.php?ac:show:cand_search=1&candid=201 | title=Candidate Information| accessdate=February 4, 2016}}</ref><ref>{{cite web | url=http://lpar.org/elections/2016-candidates/2916-2 | title=Frank Gilbert, U.S. Senate | publisher=[[Libertarian Party of Arkansas]] | accessdate=February 4, 2016}}</ref> and Jason Tate is running a write-in campaign.<ref>{{cite web | url=http://www.sos.arkansas.gov/electionresults/index.php?ac:show:cand_search=1&candid=254 | title=Candidate Information| publisher=Arkansas Secretary of State | accessdate=February 4, 2016}}</ref>
+
+=== California ===
+{{main article|United States Senate election in California, 2016}}
+Four-term Senator [[Barbara Boxer]] (Democrat) was re-elected with 52% of the vote in 2010. Boxer declined to run for re-election.<ref name=boxerwontrun>{{cite web | url=http://www.politico.com/story/2015/01/barbara-boxer-retires-114076.html | title=Barbara Boxer: Won't run again in 2016 | publisher=[[Politico]] | first=Burgess | last= Everett | date=January 8, 2015 | accessdate=January 8, 2015}}</ref> [[California Attorney General]] [[Kamala Harris]] and U.S. Representative [[Loretta Sanchez]], both Democrats, finished first and second, respectively,<ref name=CAPrimaryResults>{{cite web | url=http://vote.sos.ca.gov/returns/us-senate | title=U.S. Senate - Statewide Results | publisher=California Secretary of State | accessdate=June 9, 2016}}</ref> in [[California Proposition 14 (2010)|California's nonpartisan blanket primary]], and will contest the general election. As such, Boxer's successor is guaranteed to be a Democrat.<ref>{{cite news | last1=Nagourney | first1=Adam | first2= Jennifer | last2= Medina | url=http://www.nytimes.com/2016/06/09/us/just-how-bad-an-election-night-was-it-for-california-republicans.html | title=Just How Bad an Election Night Was It for California Republicans? | publisher=[[The New York Times]] | date= June 8, 2016 | accessdate= June 9, 2016}}</ref> This marks a historic first such occasion in California, ever since the Senate elections began in 1914.
+
+Other Democrats on the primary ballot included "President" Cristina Grappo, Massie Munroe, Herbert Peters, Emory Rogers, and Steve Stokes.<ref name=CASoS>{{cite web | url=http://elections.cdn.sos.ca.gov//statewide-elections/2016-primary/june-2016-voter-nominated-candidates.pdf | title=Certified List of Candidates for Voter-Nominated Offices | date=April 1, 2016 | publisher=Secretary of State of California | accessdate=April 5, 2016}}</ref> Among the potential candidates who declined to run were [[Governor of California|Governor]] [[Jerry Brown]], [[Lieutenant Governor of California|Lieutenant Governor]] [[Gavin Newsom]], U.S. Representatives [[Xavier Becerra]] and [[Adam Schiff]], and [[Mayor of Los Angeles|Los Angeles Mayor]] [[Eric Garcetti]].
+
+Former state Republican Party chairs [[Tom Del Beccaro]]<ref name="Beccaro">{{cite news| url=http://www.sacbee.com/news/politics-government/capitol-alert/article19436328.html | title=Republican Tom Del Beccaro announces U.S. Senate run | first=Christopher | last=Cadelago | date=April 26, 2015 | work=The Sacramento Bee}}</ref> and [[George Sundheim|Duf Sundheim]],<ref name="Sundheim">{{cite news | url=http://www.latimes.com/local/political/la-me-pc-sundheim-senate-campaign-boxer-20150520-story.html | title=Duf Sundheim enters race for Barbara Boxer's Senate seat | work=Los Angeles Times | date=September 9, 2015}}</ref> and former State Senator [[Phil Wyman]]<ref name="PWyman">{{cite news | last=Hrabe | first=John | url=http://www.calnewsroom.com/2015/01/25/us-senate-2016-phil-wyman-joins-list-of-gop-longshot-candidates | title=US Senate 2016: Wyman joins list of GOP longshot candidates | date=January 25, 2015 | work=CalNewsroom.com| accessdate=March 4, 2016}}</ref><ref>{{cite web | url=http://www.philwymanforsenate.org | title= Phil Wyman for United States Senate | accessdate=March 4, 2016}}</ref> ran, along with Don Krampe,<ref>{{cite news | first=Jeff| last=Horseman | url=http://www.pe.com/articles/krampe-758618-murrieta-don.html | title=U.S. SENATE: Done Krampe of Murrieta to seek Barbara Boxer's seat | date=January 21, 2015 | work=The Press Enterprise}}</ref> Tom Palzer,<ref>{{cite news | last=Provost | first=Lee| url=http://www.daily-journal.com/news/local/palzer-former-kankakeean-makes-run-for-us-senate-in-his/article_11b6abea-8ad8-50c2-844e-59eabad5f5c4.html| title=Palzer, former Kankakeean, makes run for US Senate in his new home of Calif. | date=April 14, 2015}}</ref> Karen Roseberry,<ref>{{cite web | last=Roseberry | first=Karen | date=October 28, 2015| url=http://karenroseberryforsenate.com | title=Karen Roseberry for U.S. Senate 2016}}</ref> Greg Conlon, Von Huogo, Jerry Laws, Ron Unz, Jarrell Williamson, and George Yang.<ref name=CASoS/> State Assemblymen [[Rocky Chavez]] was running as well,<ref>{{cite news | last=Cadelago | first=Christopher | date=March 5, 2015 | accessdate=March 15, 2015| url=http://www.sacbee.com/news/politics-government/capitol-alert/article12602606.html | title=Republican Rocky Chavez launches bid for U.S. Senate seat | work=Sacramento Bee}}</ref> but withdrew from the race.<ref>{{cite news | last=Cadelago | first=Christopher| url=http://www.sacbee.com/news/politics-government/capitol-alert/article59229823.html | title=Chaves withdraws from U.S. Senate race, will seek re-election to Assembly | date=February 8, 2016 | work=Sacramento Bee | accessdate=February 11, 2016}}</ref> Republicans who were once considered potential candidates but ruled out runs included [[Mayor of San Diego|San Diego Mayor]] [[Kevin Faulconer]], former [[Assistant Secretary of the Treasury for Financial Stability]] and [[California gubernatorial election, 2014|2014 gubernatorial nominee]] [[Neel Kashkari]], U.S. Representative [[Darrell Issa]], and businesswoman and nominee for the U.S. Senate [[United States Senate election in California, 2010|in 2010]] [[Carly Fiorina]].<ref>{{cite web | last=Marinucci | first=Carla| url=http://www.sfgate.com/politics/article/Carly-Fiorina-won-t-rule-out-run-for-White-House-5775910.php | title=Carly Fiorina won’t rule out run for White House | date=September 24, 2014 | accessdate=September 26, 2014 | work=SF Gate}}</ref>
+
+Independent Mike Beitiks ran on a single-issue [[climate change]] platform.<ref>{{cite news | last1=Smith | first1=Heather | title=California Senate candidate: "We’re all going to die" | url=http://grist.org/politics/california-senate-candidate-were-all-going-to-die | accessdate=June 4, 2015 | publisher=Grist | date=May 29, 2015}}</ref>
+
+Polling conducted by the SurveyUSA from March 30, 2016 to April 3, 2016 indicated that Harris was ahead with 26%, compared to Rep. Sánchez with 22%, Del Beccaro with 8%, Wyman with 8%, and Sundheim with 3%; 7% of those polled were supporting other candidates, and 24% were undecided.<ref>{{cite news | date=April 4, 2016 | url=http://www.surveyusa.com/client/PollReport.aspx?g=4114a2c6-213f-4447-8c7b-eb137d8c3312 | title=Results of SurveyUSA Election Poll #22817 | work=SurveyUSA | accessdate=April 5, 2016}}</ref>
+
+=== Colorado ===
+{{main article|United States Senate election in Colorado, 2016}}
+One-term Senator [[Michael Bennet]] (Democrat) was appointed in 2009 and elected to a full term with 48% of the vote in 2010. He will be 51 years old in 2016. He is running for re-election.<ref name=glennearlyann/>
+
+Businessman Robert Blaha,<ref name=Blaha>{{cite news | url=http://blogs.denverpost.com/thespot/2016/01/14/robert-blaha-announces-us-senate-bid-makes-campaign-pledge/124487 | title=Robert Blaha announces U.S. Senate bid, makes campaign pledge | last=Frank | first=John | date=January 14, 2016 | work=[[The Denver Post]] | accessdate=January 21, 2016}}</ref> former [[Aurora, Colorado|Aurora]] councilman [[Ryan Frazier]],<ref name="RyanFrazier">{{cite news| url=http://www.aurorasentinel.com/news/former-aurora-councilman-ryan-frazier-joins-gop-senate-race-in-colorado | title=Former Aurora councilman Ryan Frazier joins GOP Senate race in Colorado | work=Aurora Sentinel | date=November 12, 2015 | accessdate=November 13, 2015}}</ref> [[El Paso County, Colorado|El Paso County]] [[County commission|Commissioners]] [[Darryl Glenn]],<ref name="DarrylGlenn"/> and [[Peggy Littleton]],<ref name="PLittleton">{{cite news | last=Matthews | first=Mark | url=http://www.denverpost.com/election/ci_29407378/el-paso-countys-peg-littleton-joins-u-s | title=El Paso County's Peg Littleton joins U.S. Senate race | date=January 20, 2016 | work=[[The Denver Post]] | accessdate=January 21, 2016}}</ref> former [[Colorado State University]] Athletic Director Jack Graham,<ref name=JackGraham>{{cite news | last=Lyell | first=Kelly | url=http://www.coloradoan.com/story/news/politics/elections/2016/01/29/former-csu-ad-jack-graham-enters-senate-race/79526786 | title=Former CSU AD Jack Graham enters U.S. Senate race | work=[[Fort Collins Coloradoan]] | date=January 29, 2016 | accessdate=February 1, 2016}}</ref> [[Colorado House of Representatives|State Representative]] [[Jon Keyser]],<ref name="JKeyser">{{cite news | url=http://www.denverpost.com/election/ci_29370305/jon-keyser-announces-2016-senate-bid-amid-crowded | title=Jon Keyser announces 2016 Senate bid amid crowded Colorado field | work=[[The Denver Post]] | date=January 11, 2016 | accessdate=January 11, 2016}}</ref> former [[Small Business Administration|SBA]] director Greg Lopez,<ref name="GregLopez">{{cite news | last=Bartels | first=Lynn| url=http://blogs.denverpost.com/thespot/2015/07/06/greg-lopez-former-sba-director-u-s-senate/121794 | title=Republican Greg Lopez, former SBA director, to run for U.S. Senate | work=[[The Denver Post]] | date=July 6, 2015| accessdate=October 14, 2015}}</ref> [[Colorado Senate|State Senator]] [[Tim Neville]],<ref name="Neville">{{cite news | last=Frank| first=John | url=http://www.denverpost.com/election/ci_28891304/tim-neville-announce-u-s-senate-bid-gop | title=Tim Neville to announce U.S. Senate bid as GOP race heats up | work=[[The Denver Post]] | date=September 28, 2015 | accessdate=September 29, 2015}}</ref> and [[Jefferson County, Colorado|Jefferson County]] [[County Commission|Commissioner]] Donald Rosier<ref name=Rosier>{{cite news | last=Bunch | first=Joey| url=http://www.denverpost.com/election/ci_29225364/jefferson-county-commissioner-join-race-u-s-senate | title=Jefferson County commissioner to join race for U.S. Senate Thursday | work=[[The Denver Post]] | date=December 9, 2015 | accessdate=December 17, 2015}}</ref><ref>{{cite news| url=https://www.facebook.com/donrosier/photos/a.10152977145945063.1073741829.485233530062/10156208240340063/?type=3&theater | title= Donald Rosier - Timeline Photos | date=December 7, 2015}}</ref> ran for the Republican nomination. Glenn, Graham, Blaha, Keyser, and Frazier actually competed in the primary.<ref name=DarrylGlennWinsPrimary />
+
+Darryl Glenn won the Republican nomination with 37% of the vote against four other opponents.<ref name=DarrylGlennWinsPrimary>{{cite news | url=https://www.denverpost.com/2016/06/28/colorado-senate-primary/ | title=Darryl Glenn takes Colorado Republican nomination for U.S. Senate | last=Frank | first=John | work= [[The Denver Post]] | date=June 28, 2016 | accessdate=June 29, 2016}}</ref>
+
+=== Connecticut ===
+{{main article|United States Senate election in Connecticut, 2016}}
+One-term Senator [[Richard Blumenthal]] (Democrat) was elected with 55% of the vote in 2010. He will be 70 years old in 2016. He is running for re-election.<ref name=RCRG/>
+
+State Representative [[Dan Carter (politician)|Dan Carter]],<ref name=DCarter/> apparel company CEO and [[United States Senate election in Connecticut, 2004|2004]] Senate nominee [[Jack Orchulli]],<ref name=Orchulli>{{cite news | title=Darien fashion label founder Orchulli to run for Senate | url=http://www.ctpost.com/local/article/Darien-fashion-label-founder-Orchulli-to-run-for-7244196.php | last=Vigdor | first=Neil| date=April 12, 2016 | work=The Connecticut Post | accessdate=April 16, 2016}}</ref> and former Olympic athlete [[August Wolf]]<ref name=AWolf>{{cite news | last=Radelat | first=Ana| url=http://ctmirror.org/2015/05/04/blumenthal-draws-gop-challenger | title=Stamford Republican steps up to challenge Blumenthal| work=the CT Mirror | date=May 4, 2015 | accessdate=May 15, 2015}}</ref> ran for the Republican nomination. Another potential candidate was former [[West Hartford, Connecticut|West Hartford]] Town Councilor Joe Visconti, who ran for [[Connecticut's 1st congressional district|CT-01]] in [[United States House of Representatives elections in Connecticut, 2008|2008]] and ran as an Independent for Governor in [[Connecticut gubernatorial election, 2014|2014]].<ref>{{cite news | last=Vigdor | first=Neil | date=May 1, 2015 | work=[[Connecticut Post]]| url=http://blog.ctnews.com/politics/2015/05/01/visconti-exploring-2016-senate-run | title=Visconti exploring 2016 Senate run}}</ref> Former [[Comptroller General of the United States|U.S. Comptroller General]] and 2014 candidate for [[Lieutenant Governor of Connecticut|Lieutenant Governor]] [[David M. Walker (politician)|David M. Walker]],<ref name=demseats>{{cite web | url=http://usconservatives.about.com/od/campaignselections/fl/Democratic-Seats-up-for-Re-Election-in-2016.htm | title=Democratic Seats up for Re-Election in 2016 | date=September 30, 2014 | accessdate=October 3, 2014 | last=Hawkins | first=Dustin | work=[[About.com|About News]]}}</ref><ref>{{cite news | url=http://www.ctpost.com/local/article/Walker-won-t-challenge-Blumenthal-for-Senate-6153442.php | title=Walker won't challenge Blumenthal for Senate | publisher=[[Connecticut Post]] | last=Vigdor | first=Neil | date=March 23, 2015| accessdate=March 25, 2015}}</ref> former U.S. Representative and 2010 candidate [[Rob Simmons]],<ref>{{cite news | last=Vigdor | first=Neil | url=http://blog.ctnews.com/politics/2015/04/08/simmons-rules-out-2016-challenge-of-blumenthal | title=Simmons rules out 2016 challenge of Blumenthal | publisher=[[Connecticut Post]] | date=April 8, 2015 | accessdate=April 9, 2015}}</ref> and economist and former [[CNBC]] television host [[Lawrence Kudlow]] declined to run.<ref>{{cite news | last=Everett | first=Burgess | date=January 14, 2016| url=http://www.politico.com/story/2016/01/larry-kudlow-interested-senate-run-217765 | title=Kudlow said to be 'very interested' in Senate run | work=[[Politico]] | accessdate=January 26, 2016}}</ref><ref>{{cite news | last=Byers | first=Dylan | date=February 16, 2016 | work=[[CNNMoney]]| url=http://money.cnn.com/2016/02/16/media/larry-kudlow-senate-cnbc/index.html | title=CNBC's Larry Kudlow will not run for Senate| accessdate=February 18, 2016}}</ref>
+
+=== Florida ===
+{{main article|United States Senate election in Florida, 2016}}
+One-term Senator [[Marco Rubio]] (Republican) was elected in a three-way race with 49% of the vote in 2010. In April 2014, Rubio stated that he would not run for both the Senate and President in 2016, as Florida law prohibits a candidate from appearing twice on a ballot.<ref name=Berman>{{cite news | last=Berman | first=Matt | title=Marco Rubio Won't Run for Senate in 2016 if He Runs for President | url=http://www.nationaljournal.com/politics/marco-rubio-won-t-run-for-senate-in-2016-if-he-runs-for-president-20140402 | date=April 2, 2014 | accessdate=April 2, 2014 | publisher=National Journal}}</ref> In April 2015, he announced that he would run for President and would not seek re-election.<ref name=rubiotells>{{cite news | url=http://www.cbsnews.com/news/marco-rubio-tells-donors-hes-running-for-president-in-2016 | title=Marco Rubio tells donors he's running for president in 2016 | work=CBS News | date=April 13, 2015 | accessdate=April 13, 2015}}</ref> After suspending his campaign on March 15, 2016, Rubio announced on June 22, 2016 that he changed his mind and will run for re-election.<ref name=Rubio/>
+
+U.S. Representative [[Ron DeSantis]], combat veteran Todd Wilcox,<ref>{{cite web | url=http://www.saintpetersblog.com/archives/235021 | title=Entrepreneur and combat veteran Todd Wilcox enters Florida's U.S. Senate race | first= Mitch | last=Perry | date=July 8, 2015| publisher=Saint Peters Blog}}</ref> real estate developer Carlos Beruff,<ref>{{cite news | last=Wallace | first=Jeremy | date=February 24, 2016 | work=[[Miami Herald]] | url=http://www.miamiherald.com/news/politics-government/state-politics/article62332362.html | title=Cuban-American developer Carlos Beruff launching campaign for U.S. Senate in Miami | accessdate=February 26, 2016}}</ref> retired college lecturer Ilya Katz,<ref name=Katz>{{cite web | accessdate=March 1, 2016 | url= http://www.katz4uscongress.com | title=Katz for US Congress}}</ref> and Donald J. DeRenzo are running for the Republican nomination.<ref name=USElections>{{cite web| url=http://www.uselections.com/fl/fl.htm | title=US Elections -- Florida | accessdate=March 1, 2016}}</ref><ref name="auto2">{{cite web | url=http://florida.state-election.info | title=2016 Florida Elections | accessdate=March 1, 2016}}</ref>
+[[Ben Carson]], retired neurosurgeon and candidate for [[President of the United States|President]] in [[Ben Carson presidential campaign, 2016|2016]] is also mentioned as a potential candidate.<ref>{{cite web | url=http://edition.cnn.com/2016/03/01/politics/ben-carson-answered-prayers/index.html | title=GOP operatives to pitch Ben Carson on Florida Senate run | work=[[CNN]] | last=Bash | first=Dana | date=March 2, 2016 | accessdate=March 2, 2016}}</ref> On June 17, 2016, U.S. Representative [[David Jolly]] withdrew from the race to run for re-election to his House seat, four days after Rubio began openly considering reversing his decision to not run for re-election.<ref>{{cite web | last=Kopan | first=Tal | url=http://www.cnn.com/2016/06/17/politics/david-jolly-marco-rubio-senate-race/ | title=David Jolly drops out of Florida Senate race, possibly clearing way for Marco Rubio | work=[[CNN]] | date=June 17, 2016 | accessdate=June 18, 2016}}</ref>
+
+U.S. Representative [[Patrick Murphy (Florida politician)|Patrick Murphy]]<ref name="Marc Caputo"/> defeated fellow representative [[Alan Grayson]], as well as Pam Keith, Lateresa Jones, Richard Coleman, Sam Brian Gibbons, and Josh Larose, for the Democratic nomination. Murphy will face [[Marco Rubio]] in the November general election.<ref name="WJNO">{{cite web|url=http://www.wjno.com/onair/local-news-wire-55666/listen-first-democratic-cnadidate-has-jumped-13288729|title=LISTEN: First Democratic Candidates has Jumped into Florida Senate Race|publisher=[[WJNO]]|date=February 25, 2015|accessdate=February 26, 2015}}</ref><ref name=USElections/><ref name="auto2"/>
+
+=== Georgia ===
+{{main article|United States Senate election in Georgia, 2016}}
+Two-term Senator [[Johnny Isakson]] (Republican) was re-elected with 58% of the vote in 2010. He will be 71 years old in 2016. He is running for re-election.<ref name=isaksonthird/> In 2015, Isakson announced he was being treated for [[Parkinson's disease]], but stated that his treatment would not interfere with his re-election campaign or his ability to serve another term.<ref name=arappeport>{{cite news | last1=Rappeport | first1=Alan | title=Johnny Isakson, Georgia Senator, Says He Has Parkinson's | url=http://www.nytimes.com/politics/first-draft/2015/06/10/johnny-isakson-georgia-senator-says-he-has-parkinsons | accessdate=June 12, 2015 | publisher=[[The New York Times]] | date=June 10, 2015}}</ref>
+
+Mary Kay Bacallao, college professor, former [[Fayette County School System (Georgia)|Fayette County Board of Education]] member, and candidate for [[Georgia Department of Education|State Superintendent of Schools]] in [[Georgia elections, 2014|2014]]<ref name=Bacallao>{{cite web | last=Foody | first=Kathleen | url=http://www.wsbtv.com/news/georgia/qualifying-for-georgias-may-primaries-ends/156636356 | title=Qualifying for Georgia's May primaries ends | date=March 11, 2016 | work=WSB TV | accessdate=April 19, 2016}}</ref> and Derrick Grayson, candidate for the state's other Senate seat in 2014,<ref name=DGrayson>{{cite news | last=Malloy | first=Daniel| url=http://politics.blog.ajc.com/2015/01/09/it-looks-like-johnny-isakson-has-his-first-challenger | title=It looks like Johnny Isakson has his first challenger | work=[[The Atlanta Journal-Constitution]] | date=January 9, 2015 | accessdate=May 15, 2015}}</ref> challenged Isakson for the Republican nomination. Isakson won the Republican nomination with more than three quarters of the vote.<ref name="AJC results">{{cite news | url=http://politics.blog.ajc.com/2016/05/24/johnny-isakson-trounces-rivals-to-win-georgia-gop-senate-nod | last=Bluestein | first=Greg | title=Johnny Isakson trounces rivals to win Georgia GOP Senate nod | publisher=The Atlanta Journal Constitution | date=May 24, 2016 | accessdate=June 16, 2016}}</ref>
+
+Investment firm executive [[James F. Barksdale|Jim Barksdale]],<ref name=Barksdale/> project manager Cheryl Copeland,<ref name=Copeland>{{cite news | date=March 8, 2016 | work=[[The Albany Herald]] | url=http://www.albanyherald.com/news/local/government/southwest-georgia-s-congressional-delegation-qualifies-for-re-election/article_f2d69688-e9c3-5ab0-b2e7-f92794ba3f5c.html | title=Southwest Georgia's congressional delegation qualifies for re-election| accessdate=March 10, 2016}}</ref> and businessman John Coyne<ref name=Coyne>{{cite news | last=Bluestein | first=Greg | url=http://politics.blog.ajc.com/2016/03/06/more-democrats-come-out-of-woodwork-in-georgia-senate-race| title=More Democrats come out of woodwork for Georgia Senate race | date=March 6, 2016 | work=[[The Atlanta Journal-Constitution]]| accessdate=April 19, 2016}}</ref> ran for the Democratic nomination. USAF veteran Jim Knox was running but dropped out of the race.<ref>{{cite news | last=Hankerson | first=Jazmyne | date=April 8, 2016 | accessdate=April 20, 2016 | url=http://wfxl.com/news/local/candidate-changes-affects-may-primary-ballot | title=Candidate changes affects May primary ballot | work=[[WXFL]]}}</ref> Barksdale defeated Copeland in a close race to win the Democratic nomination.<ref name="AJC results"/>
+
+=== Hawaii ===
+{{main article|United States Senate election in Hawaii, 2016}}
+In 2012, Hawaii Governor [[Neil Abercrombie]] appointed Lieutenant Governor [[Brian Schatz]] (Democrat) to take the place of deceased nine-term Senator [[Daniel Inouye]]. Schatz won a [[United States Senate special election in Hawaii, 2014|2014 special election]] to serve the remainder of Inouye's term. Schatz is running for re-election.<ref name=RCRG/>
+
+Former U.S. Representative and [[United States Senate election in Hawaii, 2014|2014 Senate candidate]] [[Colleen Hanabusa]] may challenge Schatz in the primary again,<ref>{{cite web |title = Dan Inouye and Brian Schatz: A Lesson in Hawaii Politics | url = http://www.civilbeat.com/2014/08/dan-inouye-and-brian-schatz-a-lesson-in-hawaii-politics | publisher = Honolulu Civil Beat | date = August 18, 2014 | author = Stephen O'Harrow}}</ref> while U.S. Representative [[Tulsi Gabbard]] declined to seek the Democratic nomination for the seat.<ref>{{cite web | url=http://www.civilbeat.com/2015/03/tulsi-gabbard-looks-to-be-running-for-re-election | title=Tulsi Gabbard Looks to Be Running for Re-election | publisher=Honolulu Civil Beat | date=March 14, 2015 | first=Chad | last= Blair}}</ref>
+
+Charles Collins, a Republican who ran for the Senate in [[United States Senate election in Hawaii, 2012|2012]] and for Governor in [[Hawaii gubernatorial election, 2014|2014]], was seeking the nomination again,<ref>{{cite web | url=http://charlescollinsussenatehi.yolasite.com | title=Charles Collins for US Senate | date=January 22, 2016}}</ref> but withdrew from the race.<ref>{{cite news | url=https://ballotpedia.org/Charles_Collins | title=Charles Collins | date=January 25, 2016}}</ref>
+
+=== Idaho ===
+{{main article|United States Senate election in Idaho, 2016}}
+Three-term Senator [[Mike Crapo]] (Republican) was re-elected with 71% of the vote in 2010. Crapo will be 65 years old in 2016. He is seeking re-election to a fourth term.<ref name="kboi"/> U.S Representative [[Raul Labrador]] declined to challenge Crapo in the Republican primary.<ref>{{cite news | title=Crapo's Message To Labrador | url=http://www.spokesman.com/blogs/hbo/2014/aug/20/crapos-message-labrador | accessdate=September 3, 2014 | publisher=[[The Spokesman-Review]] | date=August 20, 2014}}</ref><ref>{{cite news | url=http://thehill.com/blogs/ballot-box/senate-races/232772-labrador-i-dont-intend-to-primary-crapo | title=Labrador won't run for Senate | work=[[The Hill (newspaper)|The Hill]] | last=Easley | first=Jonathan | date=February 13, 2015 | accessdate=February 16, 2015}}</ref>
+
+Jerry Sturgill is running for the Democratic nomination.<ref name=Sturgill/>
+
+Perennial candidate [[Pro-Life (politician)|Pro-Life]] is running as an independent.<ref name=ProLife>{{cite web | last=Brown | first=Nathan | url=http://magicvalley.com/news/local/govt-and-politics/federal-lands-refugees-and-regulations-drive-crapo-town-hall-in/article_15cf766d-e0a3-5374-9f55-e4d122e2fe98.html | title=Federal Land, Refugees, and Regulations Drive Crapo Town Hall in Castleford | date=August 12, 2015 | work=[[Times-News (Idaho)|Twin Falls Times-News]] | accessdate=March 4, 2016}}</ref><ref>{{cite web | url=http://prolifeidaho.com | title=Pro-Life For Governor of Idaho – 2014, also US Senate – 2016 | accessdate=March 4, 2016}}</ref> He was defeated in the [[Constitution Party (United States)|Constitution Party]] primary on May 17, 2016 to Ray J. Writz.<ref>{{cite web|url=http://www.sos.idaho.gov/elect/results/2016/Primary/statewide_totals.html |title=Official Primary Election Statewide Totals|publisher=Idaho Secretary of State |accessdate=July 20, 2016}}</ref>
+
+=== Illinois ===
+{{main article|United States Senate election in Illinois, 2016}}
+One-term Senator [[Mark Kirk]] (Republican) was elected with 48% of the vote in 2010. He will be 57 years old in 2016. Kirk suffered a stroke in January 2012 that kept him away from the Senate until January 2013.<ref>{{cite news | first=Ed | last= O'Keefe | title=Mark Kirk makes dramatic return to the Senate | url=http://www.washingtonpost.com/blogs/post-politics/wp/2013/01/03/mark-kirk-makes-dramatic-return-to-the-senate | accessdate=July 17, 2014 | publisher=[[The Washington Post]] | date=January 3, 2013}}</ref> In June 2013, he confirmed that he was planning to run for re-election,<ref>{{cite news|first=Matthew |last=Cooper |title=Mark Kirk Survived a Stroke – Now He's Picking Fights in Congress |url=http://www.nationaljournal.com/politics/mark-kirk-survived-a-stroke-now-he-s-picking-fights-in-congress-20130628 |accessdate=July 17, 2014 |publisher=National Journal |date=June 28, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130701014650/http://www.nationaljournal.com/politics/mark-kirk-survived-a-stroke-now-he-s-picking-fights-in-congress-20130628 |archivedate=July 1, 2013 }}</ref> but speculation he might retire persisted.<ref name=farmteamil>{{cite news | last=Cahn | first=Emily | title=Illinois Options Depend on Chicago Turnover Farm Team | url=http://www.rollcall.com/news/illinois_options_depend_on_chicago_turnover_farm_team-225575-1.html?pg=2 | accessdate=August 14, 2013 | publisher=[[Roll Call]] | date=June 12, 2013}}</ref> In November 2014, Kirk reiterated that he was going to run for re-election, saying: "No frickin' way am I retiring."<ref name=frickin>{{cite web | url=http://atr.rollcall.com/elections-2016-mark-kirk-illinois-senate-race | title=Mark Kirk: ‘No Frickin’ Way Am I Retiring’ | publisher=[[Roll Call]] | last=Cahn | first=Emily | date=November 14, 2014| accessdate=January 1, 2015}}</ref>
+
+[[Joe Walsh (Illinois politician)|Joe Walsh]], a former U.S. Representative and conservative talk radio host, declined to challenge Kirk in the Republican primary.<ref>{{cite news | url=http://www.dailyherald.com/article/20151130/news/151139890 | author=Mike Riopell | title=Who's in, who's out in congressional primaries | date=November 30, 2015 | accessdate=December 1, 2015 | work=Daily Herald}}</ref> Two others filed for the right to challenge Senator Kirk in the primary: businessman James Marter,<ref>{{cite web | author=Greg Hinz | url=http://www.chicagobusiness.com/article/20151005/BLOGS02/151009924/kirk-picks-up-primary-challenger-from-the-right | title=Kirk picks up primary challenger from the right | date=October 5, 2015 | work=[[Crain's Chicago Business]]}}</ref> and Elizabeth Pahlke,<ref>{{cite news | author=Rick Pearson; Hal Dardick | date=December 1, 2015 | accessdate=December 1, 2015 | title=U.S. Senate, state's attorney races take shape on the last day of filing | url=http://www.chicagotribune.com/news/local/politics/ct-illinois-primary-march-2016-candidate-filing-met-1201-20151130-story.html | work=[[Chicago Tribune]]}}</ref> but Pahlke was disqualified, so only Marter was on the ballot running against Kirk.<ref>{{cite news | url=http://fox2now.com/2016/01/08/1-of-sen-kirks-gop-primary-opponents-doesnt-make-ballot | title=1 of Sen. Kirk's GOP primary opponents doesn't make ballot | date=January 8, 2016 | accessdate=January 17, 2016 | work=[[KTVI]]}}</ref> On March 15, Kirk won the primary with 71% of the vote.<ref name=WBEZ>{{cite news | date=March 15, 2016 | work=WBEZ 91.5 Chicago| url=https://www.wbez.org/shows/-/-/e50cb21d-26b1-47ef-9097-9357121c9061 | title=2016 Illinois Primary Election Results | accessdate=March 18, 2016}}</ref>
+
+U.S. Representative [[Tammy Duckworth]],<ref>{{cite news | last=Skiba | first=Katherine | date=March 30, 2015 | work=[[Chicago Tribune]] | url=http://www.chicagotribune.com/news/local/politics/ct-tammy-duckworth-senate-mark-kirk-20150330-story.html#page=1 | title=Duckworth to Challenge Kirk for U.S. Senate | accessdate=March 30, 2015}}</ref> President and CEO of the Chicago Urban League Andrea Zopp,<ref>{{cite news | last=Sneed | first=Michael | url=http://chicago.suntimes.com/news/7/71/607839/sneed-zopp-senate-race | title=Andrea Zopp is all in for Senate race | date=May 14, 2015}}</ref> and State Senator [[Napoleon Harris]] ran for the Democratic nomination.<ref>{{cite news | last=Hinz | first=Greg | url=http://www.chicagobusiness.com/article/20151027/BLOGS02/151029840/state-sen-napoleon-harris-to-enter-race-against-mark-kirk | title=State Sen. Napoleon Harris to enter race against Mark Kirk | date=October 27, 2015}}</ref><ref>{{cite news| url=http://www.uselections.com/il/il.htm | title=2016 Illinois Election, Primary, Candidates, Races, and Voting | work=USElections| date=December 2, 2015 | accessdate=December 3, 2015}}</ref> On March 15, Duckworth won the primary with 64% of the vote.<ref name=WBEZ/>
+
+In December 2015, Jim Brown, a teacher and former businessman, announced he is running as an independent.<ref>{{cite news | url=http://jimbrownforussenate.com | title=Jim Brown Independent for U.S. Senate | accessdate=December 3, 2015}}</ref>
+
+Chris Aguayo, an Iraq/Afghan war Veteran and Veterans Party State Chair, announced he is running representing the Veterans Party.<ref>{{cite web | url=http://www.chrisaguayo2016.com | title=Chris Aguayo for United States Senate | accessdate=June 15, 2016}}</ref>
+
+=== Indiana ===
+{{main article|United States Senate election in Indiana, 2016}}
+Three-term Senator [[Dan Coats]] (Republican) was elected with 55% of the vote in 2010; Coats served in the Senate from 1989 to 1999 and then returned to serve another term from 2011 to 2017. Coats is not running for re-election.<ref name=Cheney2>{{cite news | last1=Cheney | first1=Kyle | title=Democrats see glimmer of hope in Dan Coats’ retirement | url=http://www.politico.com/story/2015/03/dan-coats-retirement-democrats-hopeful-116358.html | accessdate=March 28, 2015 | publisher=[[Politico]] | date=March 24, 2015}}</ref> Republican candidates include U.S. Representatives [[Marlin Stutzman]]<ref name=Stutzman>{{cite news | date=May 13, 2015| url=http://www.realclearpolitics.com/2015/05/13/rep_marlin_stutzman_declares_senate_bid_356965.html | title=Rep. Marlin Stutzman declares Senate bid | work=Real Clear Politics | accessdate=May 16, 2015}}</ref> and [[Todd Young]].<ref name=ToddYoung/> Coats's chief of Staff [[Eric Holcomb]] was a candidate, but withdrew from the race.<ref>{{cite news | last=Joseph | first=Cameron | date=March 26, 2015| url=http://thehill.com/blogs/ballot-box/237076-indiana-senators-chief-of-staff-launches-campaign-for-his-seat | title=Chief of staff launches Senate bid for Coats's seat | work=[[The Hill (newspaper)|The Hill]]}}</ref><ref>{{cite news | title=Eric Holcomb drops out of Senate race | url=http://www.theindychannel.com/news/local-news/eric-holcomb-drops-out-of-indiana-senate-race | work=[[WRTV]] | date=February 8, 2016 | accessdate=February 11, 2016}}</ref>
+
+Former U.S. Representative [[Baron Hill]] won the Democratic nomination on May 3, but withdrew in July 2016 in favor of [[Evan Bayh]].<ref name="hill">{{cite news | url=http://www.therepublic.com/view/local_story/Baron-Hill-says-he-will-run-fo_1431651799 | title=Baron Hill says he will run for U.S. Senate in 2016 | work=The Republic | location=Columbus, Indiana | date=May 14, 2015 | accessdate=May 15, 2015}}</ref> Bayh held the seat from 1999 until his retirement in 2011, and also served as Governor of Indiana from 1989 to 1997. Former non-profit director John Dickerson also announced he was going to run, but suspended his campaign in early 2016.<ref>{{cite news | last=Groppe | first=Maureen | date=August 15, 2015 | url=http://www.indystar.com/story/news/politics/2014/08/14/john-dickerson-seek-democrat-nod-us-senate/31730779 | title=John Dickerson to seek nod for U.S. Senate | work=Indianapolis Star | accessdate=October 14, 2015}}</ref><ref>{{cite news | date=January 21, 2016| url=http://www.wfyi.org/news/articles/john-dickerson-drops-out-of-race-for-us-senate | title=John Dickerson Drops Out of Race For U.S. Senate | accessdate=January 21, 2016}}</ref>
+
+=== Iowa ===
+{{main article|United States Senate election in Iowa, 2016}}
+Six-term Senator [[Chuck Grassley]] was re-elected with 65% of the vote in 2010. He will be 83 years old in 2016. Grassley is running for re-election as the Republican nominee.<ref name=Grassley>{{cite news | last=Livingston | first=Abby | title=Grassley Planning to Run Again in 2016 | url=http://atr.rollcall.com/grassley-planning-to-run-again-in-2016 | accessdate=September 20, 2013 | publisher=[[Roll Call]] | date=September 20, 2013}}</ref><ref name=andhesoff>{{cite web | url=http://www.desmoinesregister.com/story/news/politics/2015/03/30/first-big-fundraiser-will-kick-grassleys-re-election-campaign/70664406 | title=And he's off: Event kicks off Grassley's re-election campaign | work=[[The Des Moines Register]] | last1=Jacobs | first1=Jennifer | last2=Noble | first2=Jason | date=March 31, 2015 | accessdate=March 31, 2015}}</ref> Talk radio host Robert Rees announced he was going to challenge Grassley for the nomination,<ref>{{cite news | last=Porter| first=Jake | url=http://iowafreepress.com/2016/01/19/primary-challenger-to-announce-against-grassley | title=Primary Challenger Announces Against Grassley | date=January 19, 2016 | work=Iowa Free Press | accessdate=February 18, 2016}}</ref> but later withdrew.<ref>{{cite news| url=http://www.bleedingheartland.com/2016/03/15/ia-sen-robert-rees-ends-gop-primary-challenge-to-chuck-grassley | title=IA-Sen: Robert Rees ends GOP primary challenge to Chuck Grassley | date=March 15, 2016 | work=Bleeding Heartland | accessdate=April 19, 2016}}</ref>
+
+Former Lt Governor [[Patty Judge]] <ref name=PattyJudge/> earned the Democratic nomination by defeating State Senator [[Rob Hogg]],<ref name=RobHogg>{{cite news | date=September 23, 2015| url=http://www.kcrg.com/subject/news/government/cedar-rapids-state-sen-rob-hogg-running-for-us-senate-20150921 | title=Cedar Rapids State Sen. Rob Hogg running for U.S. Senate | work=KCRG 9 | location=Cedar Rapids, Iowa | accessdate=September 23, 2015}}</ref> former state Senator [[Tom Fiegen]],<ref name=TFiegen>{{cite web | url=http://fiegenforussenate.com | title=Tom Fiegen for US Senate, Iowa | accessdate=November 12, 2015}}</ref> and former state representative [[Bob Krause (politician)|Bob Krause]].<ref name=Krause>{{cite web | url=http://www.krauseforiowa.com | title=Bob Krause for Iowa's Future| accessdate=February 12, 2016}}</ref> Former state representative [[Ray Zirkelbach]]<ref name=Zirkelbach>{{cite news | last=Lynch | first=James Q.| url=http://www.thegazette.com/subject/news/zirkelbach-is-fourth-candidate-in-democratic-us-senate-race-20151107 | date=November 7, 2015| title=Zirkelbach is fourth candidate in Democratic U.S. Senate race | work=[[The Gazette (Cedar Rapids)|The Gazette]] | accessdate=February 20, 2016}}</ref> briefly ran but ended his campaign soon after.
+
+=== Kansas ===
+{{main article|United States Senate election in Kansas, 2016}}
+One-term Senator [[Jerry Moran]] (Republican) was elected with 70% of the vote in 2010. He will be 62 years old in 2016. He is running for re-election.<ref name=timopen/> Radiologist and [[United States Senate election in Kansas, 2014|2014 Senate candidate]] [[Milton R. Wolf]] and U.S. Representative [[Tim Huelskamp]] declined to run.<ref name=timopen/><ref name=16in16/><ref>{{cite web | url=http://atr.rollcall.com/2014-elections-kansas-primary-pat-roberts-milton-wolf | title=In Kansas, Conservatives Suffer From Mississippi Hangover | date=July 29, 2014 | accessdate=September 11, 2014 | work=[[Roll Call]] | first=Alexis | last= Levinson}}</ref><ref>{{cite web | url=http://atr.rollcall.com/house-races-2016-tim-huelskamp-wont-challenge-jerry-moran| title=Congressman Says Wife Nixed Senate Run | date=January 8, 2015 | accessdate=January 8, 2015 | work=[[Roll Call]] | first=Alexis | last=Levinson}}</ref>
+
+Patrick Wiesner,<ref name=Wiesner/> an attorney and a candidate for the Senate in [[United States Senate election in Kansas, 2010|2010]] and [[United States Senate election in Kansas, 2014|2014]], defeated Monique Singh-Bey<ref name=MSingh>{{cite news | last=Mason | first=Tori| url=http://www.wibw.com/home/headlines/Topeka-native-announces-candidacy-for-US-Senate--359660981.html | date=December 1, 2015 | title=Topeka native announces candidacy for U.S. Senate | work=WIBW| accessdate=March 10, 2016}}</ref> for the Democratic nomination. Potential candidates who declined to run included Wichita Mayor [[Carl Brewer (politician)|Carl Brewer]], 2014 Governor nominee [[Paul Davis (Kansas politician)|Paul Davis]], former Kansas City Mayor [[Joe Reardon]], former U.S. Representative and [[United States Senate election in Kansas, 2008|2008]] nominee [[Jim Slattery]], and [[United States House of Representatives elections in Kansas, 2014|2014]] [[Kansas's 2nd congressional district|KS-02]] nominee Margie Wakefield.<ref name=16in16/>
+
+=== Kentucky ===
+{{main article|United States Senate election in Kentucky, 2016}}
+One-term Senator [[Rand Paul]] (Republican) was elected with 56% of the vote in 2010. He will be 53 years old in 2016. Paul has filed for re-election,<ref name="Paul"/> although he was also running for [[President of the United States]] in [[United States presidential election, 2016|2016]].<ref>{{cite news | url=http://www.nytimes.com/2015/04/08/us/politics/rand-paul-republican-presidential-nomination.html?_r=0 | title=Rand Paul Announces Presidential Run | work=[[The New York Times]] | date=April 7, 2015 | accessdate=April 13, 2015 | last1=Peters | first1=Jeremy W. | first2= Alan | last2=Rappeport}}</ref> Although Kentucky law does not allow for a candidate to appear twice on the same ballot, Paul successfully convinced the Kentucky GOP to adopt a caucus system for 2016, allowing Paul to run for president and for the Senate simultaneously.<ref name=kycaucus>{{cite news | last1=Meyer | first1=Theodoric | title=Kentucky GOP greenlights joint Senate, presidential run for Rand Paul | url=http://www.politico.com/story/2015/08/state-gop-greenlights-joint-senate-presidential-run-for-rand-paul-121634.html | accessdate=August 23, 2015 | publisher=[[Politico]] | date=August 22, 2015}}</ref> Kentucky law still bars Paul from appearing twice on the ballot in the general election.<ref name=kycaucus/> However, on February 3, 2016, Paul ended his campaign for the presidency and will run for reelection.<ref>{{cite web|url=http://www.cnn.com/2016/02/03/politics/rand-paul-dropping-out-of-presidential-race/index.html|title=Rand Paul dropping out of presidential race|first=John King, Manu Raju and Mark Preston|last=CNN|work=cnn.com|accessdate=July 25, 2016}}</ref> James Gould and Stephen Slaughter filed to run against Paul.<ref name="SoSKy">{{cite web|url=http://apps.sos.ky.gov/elections/candidatefilings/statewide/default.aspx?id=3 |title=Candidate Filings with the Office of the Secretary of State |publisher=[[Secretary of State of Kentucky]] |deadurl=yes |archiveurl=https://web.archive.org/web/20151122002230/http://apps.sos.ky.gov/elections/candidatefilings/statewide/default.aspx?id=3 |archivedate=November 22, 2015 }}</ref> Paul won the primary with almost 85% of the vote.<ref>{{cite web|url=http://results.enr.clarityelections.com/KY/61323/168222/Web01/en/summary.html |title=Unofficial Results |publisher=Kentucky Secretary of State |accessdate=May 18, 2016}}</ref>
+
+[[Lexington, Kentucky|Lexington]] Mayor [[Jim Gray (American politician)|Jim Gray]],<ref name=JGray/> Rory Houlihan,<ref name=Houlihan>{{cite news | url=http://bigstory.ap.org/article/3c9d9512cca049bc91dacc645ad77975/democratic-mayor-challenge-gops-rand-paul-senate-race | title=Democratic mayor to challenge GOP's Rand Paul in Senate race | work=AP | date=January 27, 2016 | accessdate=January 27, 2016}}</ref> Ron Leach,<ref name=RLeach>{{cite news | url=http://www.hillbillyreport.org/ron-leach-will-run-for-u-s-senate-in-kentucky | title=Ron Leach Will Run For U.S. Senate In Kentucky | work=Hillbilly Report | date=January 14, 2016 | accessdate=January 26, 2016}}</ref> Sellus Wilder<ref name=SWilder>{{cite news | url=http://www.kentucky.com/news/politics-government/article56605288.html | title=Lexington Mayor Jim Gray running against U.S. Sen. Rand Paul | work=Lexington Herald-Leader | date=January 27, 2016 | accessdate=January 27, 2016}}</ref> Jeff Kender, Tom Recktenwald (who was a candidate in [[United States Senate election in Kentucky, 2014|2014]]), and Grant Short ran for the Democratic nomination.<ref name="SoSKy"/> Gray won the nomination.
+
+=== Louisiana ===
+{{main article|United States Senate election in Louisiana, 2016}}
+Two-term Senator [[David Vitter]] (Republican) was re-elected with 57% of the vote in 2010. After losing the 2015 gubernatorial race, Vitter chose to retire from the Senate at the end of his term.<ref name=RCRG/><ref>{{cite news | url=http://abcnews.go.com/Politics/wireStory/latest-vitter-run-us-senate-2016-35350969 | title=The Latest: Vitter Says Won't Run for US Senate in 2016 | work=ABC News | date=November 21, 2015 | accessdate=November 21, 2015}}</ref>
+
+Republicans who are running for the seat include, but are not limited to, U.S. Representatives [[Charles Boustany]]<ref name=Boustany/> and [[John Fleming (U.S. politician)|John Fleming]],<ref name=Fleming/> former U.S. Representative [[Joseph Cao]],<ref name=Cao/> State Treasurer [[John Neely Kennedy]],<ref name=Neely/> retired U.S. Air Force Colonel Rob Maness,<ref name=Maness/> and former Louisiana State Representative [[David Duke]]. Other potential Republican candidates are [[Louisiana Public Service Commission|Public Service Commissioner]] [[Erik Skrmetta]],<ref name=JAlford>{{cite news | last=Alford| first=Jeremy | date=December 22, 2015 | url=https://www.businessreport.com/article/possibilities-surface-louisianas-u-s-senate-race | title=More possibilities surface for Louisiana's US Senate race | work=Greater Baton Rouge Business Report | accessdate=February 4, 2016}}</ref> [[United States House of Representatives elections in Louisiana, 2014|2014]] candidate for [[Louisiana's 5th congressional district|LA-05]] [[Zach Dasher]],<ref name=JAlford/> state representative [[Paul Hollis]],<ref>{{cite news | last=Alford | first=Jeremy| date=December 7, 2015 | accessdate=March 4, 2016 | url=http://www.houmatoday.com/article/20151207/ARTICLES/151209734 | title=Names floating in, out of developing US Senate race | work=Houma Today}}</ref> and former President of [[Jefferson Parish, Louisiana|Jefferson Parish]] John Young.<ref>{{cite news | last=Tidmore | first=Christopher | date=December 7, 2015 | url=http://www.louisianaweekly.com/young-cazayoux-and-hebert-consider-vitters-u-s-senate-seat | title=Young, Cazayoux and Hebert consider Vitter's U.S. Senate seat | work=[[The Louisiana Weekly]] | accessdate=March 4, 2016}}</ref>
+
+Democratic candidates include, but are not limited to, [[Louisiana Public Service Commission|Public Service Commissioner]] [[Foster Campbell]],<ref name=Campbell/> attorney Derrick Edwards,<ref name=DEdwards/> [[Caroline Fayard]], an attorney and candidate for Lieutenant Governor in [[Louisiana state elections, 2010|2010]],<ref name=Fayard/> and businessman Josh Pellerin.<ref name=Pellerin/> Other potential Democratic candidates include state legislators [[Robert Johnson (Louisiana politician)|Robert Johnson]], [[Eric LaFleur]], and [[Gary Smith, Jr.]], and Mayor of [[Alexandria, Louisiana|Alexandria]] [[Jacques Roy (mayor)|Jacques Roy]].<ref>{{cite news | last=Stickney | first=Ken | date=January 25, 2016| url=http://www.theadvertiser.com/story/news/2016/01/25/pellerin-explore-senate-campaign/79319780 | title=Pellerin to explore Senate campaign | work=[[The Daily Advertiser (Lafayette)|The Daily Advertiser]] | accessdate=March 4, 2016}}</ref><ref>{{cite news | last=Hilburn | first=Greg| url=http://www.thenewsstar.com/story/news/2016/01/06/alexandria-mayor-state-rep-johnson-consider-senate-run/78356984 | title=Alexandria Mayor, state Rep. Johnson consider Senate run | date=January 6, 2016 | work=[[The News-Star]]}}</ref><ref>{{cite news | last=Ballard | first=Mark | url=http://theadvocate.com/news/opinion/14328336-63/political-horizons-despite-campaign-fatigue-a-senate-race-looms | title=Political Horizons: Despite campaign fatigue, a crowded, close Senate race looms | date=December 19, 2015 | work=[[The Advocate (Louisiana)|The Advocate]]}}</ref> Former U.S. Senator [[Mary Landrieu]] and her brother, [[New Orleans, Louisiana|New Orleans]] Mayor [[Mitch Landrieu]], declined to run.<ref>{{cite news | last1=Rainey | first1=Richard | title=Louisiana Senate race: who's in, who's out in the early going | date=December 10, 2015 | url=http://www.nola.com/politics/index.ssf/2015/12/louisiana_senate_race_whos_in.html | accessdate=December 16, 2015 | agency=The Times-Picayune | publisher=2015 NOLA Media Group}}</ref>
+
+=== Maryland ===
+{{main article|United States Senate election in Maryland, 2016}}
+Five-term Senator [[Barbara Mikulski]] (Democrat) was re-elected with 62% of the vote in 2010. She is the longest-serving female Senator and the longest-serving woman in the history of the U.S. Congress. She is not seeking re-election.<ref name=complicate>{{cite news | url=http://thehill.com/homenews/campaign/225488-2016-retirements-could-complicate-dems-comeback-plans | title=2016 retirements could complicate Dems' comeback plans | publisher=[[The Hill (newspaper)|The Hill]] | first=Alexander | last= Bolton | date=November 28, 2014 | accessdate=December 1, 2014}}</ref>
+
+The candidates who filed for the Democratic nomination were: U.S. Representatives [[Donna Edwards]]<ref name=donnaedwards>{{cite news| url=http://www.politico.com/story/2015/03/donna-edwards-maryland-senate-mikulski-seat-115937.html | title=Edwards jumps into Maryland Senate race | work=[[Politico]] | date=March 10, 2015 | accessdate=May 16, 2015}}</ref> and [[Chris Van Hollen]],<ref name=vanhollen/> Freddie Donald Dickson, Jr., Ralph Jaffe, Theresa Scaldaferri, Charles Smith, Violate Staley, Blaine Taylor, Ed Tinus, and Lih Young.<ref name=mdboardofelections>{{cite web | title=Maryland: The State Board of Election, 2016 candidate listing | url=http://elections.state.md.us/elections/2016/primary_candidates/gen_cand_lists_2016_3_007-.html| accessdate=February 3, 2016}}</ref> Van Hollen won the April 26 primary.
+
+The Republican candidates who filed were former [[United States Assistant Secretary of Defense|Deputy Assistant Secretary of Defense]] and Senate candidate in [[United States Senate election in Maryland, 2012|2012]] Richard Douglas,<ref name=fritze>{{cite news | last=Fritze | first=John | title=Richard Douglas first Republican to enter Md. Senate race | url=http://www.baltimoresun.com/news/maryland/politics/blog/bal-douglas-first-republican-to-enter-md-senate-race-20150824-story.html | work=[[Baltimore Sun]] | date=August 24, 2015}}</ref> Chrys Kefalas,<ref name=Kefalas>{{cite news | url=https://www.washingtonpost.com/local/md-politics/openly-gay-republican-launches-candidacy-for-senate-seat-from-md/2015/05/18/3ad9f61a-fd79-11e4-833c-a2de05b6b2a4_story.html | title=Openly gay Republican explores bid for Senate seat from Md. | date=May 18, 2015 | accessdate=October 29, 2015}}</ref> State Delegate [[Kathy Szeliga]],<ref name=Szeliga/> Chris Chaffee, Sean Connor, John Graziani, Greg Holmes, Joseph David Hooe, Mark McNicholas, Lynn Richardson, Anthony Seda, Richard Shawver, Dave Walle, and Garry T. Yarrington.<ref name=mdboardofelections/> Szeliga won the primary and will face Van Hollen in the general election.
+
+=== Missouri ===
+{{main article|United States Senate election in Missouri, 2016}}
+One-term Senator [[Roy Blunt]] (Republican) was elected with 54% of the vote in 2010. He will be 66 years old in 2016. He is running for re-election.<ref name=bluntcurve/> Former U.S. Representative and [[United States Senate election in Missouri, 2012|2012 Senate nominee]] [[Todd Akin]] was rumored to be a possible candidate, but declined to run.<ref>{{cite news | title=Akin won't rule out 2016 run against Blunt | url=http://www.news-leader.com/story/news/politics/2014/07/15/akin-rule-run-blunt/12660531 | first=Jim | last= Stinson| publisher=Springfield News-Leader | date=July 15, 2014 | accessdate=November 13, 2014}}</ref><ref>{{cite news | title=Akin: I'm not running for Senate | url=http://www.politico.com/story/2015/02/todd-akin-senate-missouri-2016-elections-115535.html?hp=l7_4 | first=Kendall | last= Breitman | publisher=[[Politico]] | date=February 26, 2015 | accessdate=February 26, 2015}}</ref> Three candidates ran against Blunt for the Republican nomination, the best-known being sales manager, tea party activist, and [[United States Senate election in Missouri, 2010|2010]] candidate Kristin Nichols, but Blunt won decisively with 72% of the vote.
+
+For the Democrats, Secretary of State [[Jason Kander]]<ref name=Kander/> easily won the nomination, defeating Robert Mack, Pastor Cori Bush<ref name=CoriBush>{{cite news | last=Rivas | first=Rebecca | date=February 11, 2016| url=http://www.stlamerican.com/news/local_news/article_7e0f60a8-d057-11e5-b969-f37bbb2e9a82.html | title=Black challengers of Democrat incumbents fight with party over access | work=[[The St. Louis American]] | accessdate=February 16, 2016}}</ref><ref>{{cite web | title=Cori Bush for U.S. Senate | url=http://coribush.com | accessdate=February 16, 2016}}</ref> and activist Chief Wana Dubie.<ref name=WanaDubie>{{cite news | last=Sheeley | first=Andrew | url=http://m.thesalemnewsonline.com/mobile/news/article_43a09af8-dbcf-11e5-bb0c-ffca39b10849.html | title=Wana Dubie officially first US Senate candidate from Salem | date=February 25, 2016 | work=The Salem News | accessdate=February 27, 2016}}</ref> [[Governor of Missouri|Governor]] [[Jay Nixon]] and [[State Treasurer of Missouri|State Treasurer]] [[Clint Zweifel]] chose not to seek election to the Senate.<ref>{{cite news | last=Cillizilla | first=Chris | title=Missouri Gov. Jay Nixon steps forward, but toward what? | url=http://www.washingtonpost.com/blogs/the-fix/wp/2013/09/19/missouri-gov-jay-nixon-steps-forward-but-toward-what | accessdate=April 8, 2014 | publisher=[[The Washington Post]] | date=September 19, 2013}}</ref><ref>{{cite news | url=http://www.kansascity.com/news/government-politics/article3992608.html | title=Missouri Treasurer Zweifel won't run for office | publisher=Kansas City Star | date=November 18, 2013 | accessdate=November 19, 2013}}</ref>
+
+===Nevada===
+{{main article|United States Senate election in Nevada, 2016}}
+Five-term Senator and [[Party leaders of the United States Senate|Senate Minority Leader]] [[Harry Reid]] (Democrat) was re-elected with 50% of the vote in 2010. Reid is not seeking re-election.<ref name="Carl Hulse">{{cite news|last=Hulse|first=Carl|date=March 27, 2015|url=http://www.nytimes.com/2015/03/28/us/politics/senator-harry-reid-retire.html?_r=0|title=Harry Reid Says He Won't Seek Re-election|publisher=[[The New York Times]]}}</ref> Former [[Nevada Attorney General]] [[Catherine Cortez Masto]] earned the Democratic nomination, defeating Bobby Mahendra, Liddo Susan O'Briant, and Allen Rheinhart in the primary on June 14, 2016.
+
+Congressman [[Joe Heck]]<ref name=JoeHeck/> defeated eight candidates, including [[United States Senate election in Nevada, 2010|2010]] nominee [[Sharron Angle]],<ref name=Angle>{{cite news|last=Kudialis|first=Chris|url=http://lasvegassun.com/news/2016/mar/18/sharron-angle-to-make-encore-bid-for-reids-senate|title=Angle to make another bid for Reid's Senate seat|date=March 18, 2016|work=[[Las Vegas Sun]]|accessdate=April 20, 2016}}</ref> who ran against Reid in 2010, for the Republican nomination.
+
+Jarrod M. Williams, an independent candidate is running for the seat. He describes himself as a [[Democratic Socialist]], a supporter of [[Bernie Sanders]], and is a member of the [[Socialist Party USA]], although the party doesn't have a chapter in the State of [[Nevada]].{{citation needed|date=September 2016}}
+
+=== New Hampshire ===
+{{main article|United States Senate election in New Hampshire, 2016}}
+One-term Senator [[Kelly Ayotte]] (Republican) was elected with 60% of the vote in 2010. She will be 48 years old in 2016. Ayotte is running for re-election.<ref name=seekre/> [[Jim Rubens]], a former state senator, candidate for Governor in [[New Hampshire gubernatorial election, 1998|1998]] and for the Senate in [[United States Senate election in New Hampshire, 2014|2014]], announced a challenge to Ayotte in the primary,<ref name=Rubens>{{cite news | url=http://nhpr.org/post/ayotte-faces-primary-challenge-former-gop-state-senator | title=Ayotte Faces Primary Challenge From Former GOP State Senator | work=nhpr | date=March 8, 2016 | accessdate=March 9, 2016}}</ref><ref>{{cite news | url=http://www.unionleader.com/Jim-Rubens-to-challenge-incumbent-Sen.-Ayotte-in-GOP-primary | title=Jim Rubens to challenge incumbent Sen. Ayotte in GOP primary | work=[[New Hampshire Union-Leader]]| date=March 5, 2016 | accessdate=March 9, 2016}}</ref> but Ayotte won the nomination.
+
+[[Brian Chabot]] is the Libertarian candidate for US Senate in [[United States Senate election in New Hampshire, 2016|2016]].  He is a relative newcomer to politics, having run for US Senate in 2010 and US Representative in 2014.
+
+[[Governor of New Hampshire|Governor]] [[Maggie Hassan]] is running for the Democratic nomination.<ref name=Hassan/> Other potential candidates include [[Executive Council of New Hampshire|Executive Councilor]] [[Chris Pappas (politician)|Chris Pappas]], State Senators [[Dan Feltes]] and [[Donna Soucy]], [[Portsmouth, New Hampshire|Portsmouth]] City Councilor and daughter of U.S. Senator [[Jeanne Shaheen]] Stefany Shaheen, and campaign manager for Senator Shaheen Mike Vlacich.<ref>{{cite news | last=DiSasto | first=John | date=November 15, 2014| url=http://nhjournal.com/analysis-nh-democrats-already-have-deep-bench-for-top-races-in-2016 | title=Analysis: NH Democrats already have deep bench for top races in 2016 | work=NHJournal}}</ref>
+
+[[United States Senate election in New Hampshire, 2016#Polling 2|A series of polls]] taken by WMUR/UNH in February, April, and July 2016, as well as WBUR polls taken in May and July/August, show Hassan gaining support over time and now leading Ayotte.
+
+=== New York ===
+{{main article|United States Senate election in New York, 2016}}
+Three-term Senator [[Chuck Schumer]] (Democrat) was re-elected with 66% of the vote in 2010. He will be 66 years old in 2016. He is running for re-election.<ref name=RCRG/> If reelected, Chuck Schumer is widely expected to succeed Harry Reid as the leader of the Senate Democrats.<ref name=debonis>{{cite news | last1=DeBonis | first1=Mike | title=Senate's top Dems all agree: Chuck Schumer should be next party leader | url=http://www.washingtonpost.com/blogs/post-politics/wp/2015/03/30/senates-top-dems-all-agree-chuck-schumer-should-be-next-party-leader | accessdate=May 26, 2015 | publisher=[[The Washington Post]] | date=March 30, 2015}}</ref>
+
+[[Wendy E. Long|Wendy Long]], the Republican nominee in [[United States Senate election in New York, 2012|2012]], is running as the nominee of Republican, Conservative, and Reform Parties.<ref name=WLong/> Other potential Republican candidates included U.S. Representatives [[Chris Gibson (New York politician)|Chris Gibson]] and [[Peter T. King]].<ref name=challengeschumer>{{cite news | url=http://nypost.com/2015/04/06/top-republican-candidates-to-challenge-chuck-schumer | title=Top Republican candidates to challenge Chuck Schumer | work=[[New York Post]] | last=Dicker | first=Fredric U. | date=April 6, 2015 | accessdate=April 7, 2015}}</ref> U.S. Representative [[Richard L. Hanna]], Manhattan Republican Party Chairwoman Adele Malpass, and former [[CNBC]] television host [[Lawrence Kudlow|Larry Kudlow]]<ref name="Johnson">{{cite web | url=http://www.nationalreview.com/article/420242/larry-kudlow-nrsc-senate-bid-ny-ct | work=[[National Review]] | title=Larry Kudlow and NRSC Renew Discussions on Senate Run | date=June 24, 2015 | accessdate=June 25, 2015 | first=Eliana | last=Johnson}}</ref> were also mentioned as possible candidates, but all have declined to run.<ref name=challengeschumer/><ref>{{cite news | url=http://www.syracuse.com/news/index.ssf/2015/04/us_rep_richard_hanna_says_he_wont_run_against_chuck_schumer_in_2016_ny_senate_ra.html | title=U.S. Rep. Richard Hanna says he won't run against Chuck Schumer in 2016 NY senate race | work=Syracuse.com | last=Weiner | first=Mark | date=April 7, 2015 | accessdate=April 7, 2015}}</ref>
+
+=== North Carolina ===
+{{main article|United States Senate election in North Carolina, 2016}}
+Two-term Senator [[Richard Burr]] (Republican) was re-elected with 55% of the vote in 2010. He will be 61 years old in 2016. There had been speculation that Burr might retire,<ref name=NCFT>{{cite news | last=Cahn | first=Emily | title=Opportunities Now and Later in North Carolina | url=http://www.rollcall.com/news/opportunities_now_and_later_in_north_carolina-229628-1.html | accessdate=December 11, 2013 | publisher=[[Roll Call]] | date=December 11, 2013}}</ref> but he is running for re-election.<ref name="rumorsaside"/><ref>{{cite news | url=http://www.wncn.com/story/27776263/sen-burr-confirms-he-will-run-in-2016 | title=Sen. Burr confirms he will run in 2016 | work=WNCN | date=January 6, 2015 | accessdate=January 8, 2015}}</ref>
+
+Three Republicans challenged Sen. Burr in the primary: [[Greg Brannon]],<ref name=GBrannon>{{cite news | author=Colin Campbell | url=http://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article50894050.html
+ | title=Republican Greg Brannon challenges Richard Burr in second Senate bid | work=[[The News & Observer]] | date=December 21, 2015| accessdate=December 31, 2015}}</ref> Larry Holmquist,<ref name="Holmquist">{{cite news | author=Sarah Krueger | date=September 24, 2015| url=http://myfox8.com/2015/09/24/larry-holmquist-enters-senate-race-challenging-richard-burr | title=Larry Holmquist enters Senate race, challenging Richard Burr | accessdate=December 1, 2015}}</ref> and former [[North Carolina Superior Court|Superior Court]] Judge Paul Wright.<ref name="PWright">{{cite news | url=http://www.citizen-times.com/story/news/2015/09/11/former-judge-wright-running-burrs-senate-seat/72098026 | title=Former judge Wright running for Burr's Senate seat | work=[[Asheville Citizen-Times]] | date=September 11, 2015| accessdate=December 1, 2015}}</ref> On March 15, Burr won the primary with 61% of the vote.<ref>{{cite web | title=NC SBE Contest Results | url=http://er.ncsbe.gov/contest_details.html?election_dt=03/15/2016&county_id=0&contest_id=1005 | accessdate=March 18, 2016}}</ref>
+
+Former state representative [[Deborah K. Ross|Deborah Ross]],<ref name=ross1/> [[Spring Lake, North Carolina|Spring Lake]] Mayor Chris Rey,<ref name=ChrisRey>{{cite news | last=Woolverton | first=Paul | date=September 21, 2015 | work=[[Fayetteville Observer]] | title=Spring Lake Mayor Chris Rey announces run for US Senate | url=http://www.fayobserver.com/blogs/news/peoples_business/spring-lake-mayor-chris-rey-announces-run-for-us-senate/article_943e3dc8-605d-11e5-a8de-f3a10ca97579.html | accessdate=September 21, 2015}}</ref> businessman Kevin Griffin,<ref name=KevinGriffin>{{cite news | last=Leslie | first=Laura | url=http://www.wral.com/durham-businessman-joining-dem-field-in-us-senate-race/14972023 | title=Durham businessman joining Dem field in US Senate race | work=WRAL | date=October 15, 2015}}</ref> and retired U.S. Army Captain Ernest Reeves<ref name=Reeves>{{cite web | url=http://www.ernestreeves.com | title=Ernest Reeves for U.S. Senate| accessdate=December 31, 2015}}</ref> ran for the Democratic nomination. Former U.S. Senator [[Kay Hagan]],<ref name=hagan>{{cite news | last=Cillizza | first=Chris | title=Democrats’ Senate hopes take a hit with Kay Hagan's no-go decision| url=http://www.washingtonpost.com/blogs/the-fix/wp/2015/06/24/democrats-senate-hopes-take-a-hit-with-kay-hagans-no-go-decision | accessdate=June 30, 2015 | publisher=[[The Washington Post]] | date=June 24, 2015}}</ref> state treasurer [[Janet Cowell]],<ref>{{cite web | url=http://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article18524942.html | title=Cowell seeking third term as NC treasurer | first=Craig | last=Jarvis | publisher=''[[The News & Observer]]'' | date=April 14, 2015| accessdate=April 14, 2015}}</ref> and [[Anthony Foxx]], the [[United States Secretary of Transportation]] and former [[Mayor of Charlotte, North Carolina|Mayor]] of [[Charlotte, North Carolina|Charlotte]], declined to run.<ref>{{cite web | url=http://washingtonexaminer.com/foxx-wont-run-for-senate-in-2016/article/2553566 | title=Foxx won't run for Senate in 2016| first=Kelly | last=Cohen | publisher=''[[The Washington Examiner]]''| date=September 17, 2014 | accessdate=October 2, 2014}}</ref> On March 15, Ross won the primary with 62% of the vote.<ref>{{cite web | url=http://er.ncsbe.gov/contest_details.html?election_dt=03/15/2016&county_id=0&contest_id=1004 | title=NC SBE Contest Results| accessdate=March 18, 2016}}</ref>
+
+=== North Dakota ===
+{{main article|United States Senate election in North Dakota, 2016}}
+One-term Senator [[John Hoeven]] (Republican) was elected with 76% of the vote in 2010. He will be 59 years old in 2016. He is running for re-election.<ref name=heitkampeyeing/>
+
+Democrats endorsed state representative [[Eliot Glassheim]]<ref>{{cite news | last1=Nowatzki | first1=Mike | title=ND Democrat Glassheim says he's healthy and ready to run for US Senate | url=http://www.inforum.com/news/legislature/4000749-nd-democrat-glassheim-says-hes-healthy-and-ready-run-us-senate | accessdate=April 4, 2016 | work=[[The Forum of Fargo-Moorhead]] | publisher=[[Forum Communications]] | date=April 2, 2016}}</ref>
+
+On November 7, 2015, the Libertarian party nominated Robert Marquette.
+
+=== Ohio ===
+{{main article|United States Senate election in Ohio, 2016}}
+One-term Senator [[Rob Portman]] (Republican) was elected with 57% of the vote in 2010. He will be 60 years old in 2016. He is running for re-election. He had considered running for President, but decided not to.<ref name=wontpotus/>
+
+Two candidates filed to challenge him: Don Elijah Eckhart, who ran for [[Ohio's 15th congressional district|OH-15]] as an independent in [[United States House of Representatives elections in Ohio, 2008|2008]],<ref name=Eckhart>{{cite news | last=Torry | first=Jack | date=May 19, 2015| title=Portman has conservative primary challenger | url=http://www.dispatch.com/content/blogs/the-daily-briefing/2015/05/eckhart-5-19-2015.html | work=[[The Columbus Dispatch]]}}</ref> and Melissa Strzala, but Strzala was disqualified.<ref>{{cite news | last=Johnson| first=Alan | url=http://www.dispatch.com/content/stories/local/2015/12/31/martin-omalley-primary-ballot.html | title=Martin O'Malley won't appear on Ohio's primary ballot | work=[[The Columbus Dispatch]] | date=January 1, 2016 | accessdate=January 14, 2016}}</ref> On March 15, Portman won the primary with 82% of the vote.
+
+Former [[Governor of Ohio|Governor]] and Congressman [[Ted Strickland]], [[City Council of Cincinnati elections|Cincinnati City Councilman]] [[P.G. Sittenfeld]], and occupational therapist Kelli Prather are running for the Democratic nomination.<ref name=pgyes>{{cite news | url=http://www.cincinnati.com/story/news/politics/2015/01/22/us-senate-sittenfeld-takes-portman/22126849 | title=Sittenfeld: Yes, I'm running for U.S. Senate | work=[[The Cincinnati Enquirer]] | last=Coolidge | first=Sharon | accessdate=January 22, 2015}}</ref><ref>{{cite news | last1=Wehrman | first1=Jessica | last2=Torry | first2=Jack | title=Ted Strickland says swift GOP attacks in Senate race are a 'compliment' | url=http://www.dispatch.com/content/stories/local/2015/02/24/former-gov.-ted-strickland-running-for-senate.html | accessdate=March 9, 2015 | publisher=The Columbus Dispatch | date=February 25, 2015}}</ref><ref name=Prather>{{cite news | last1=Rowland | first1=Darrell| last2=Ludlow | first2=Randy | title=Kasich joins GOP competitors in filing for Ohio primary | date=December 16, 2015|
+url=http://www.dispatch.com/content/stories/local/2015/12/16/primary-2016-filing-deadline.html | work=[[The Columbus Dispatch]]}}</ref> Former State Representative [[Bob Hagan]] had filed papers to run,<ref name=Hagan>{{cite news | last=Vardon | first=Joe | title=Ohio legislator to challenge Portman in ’16 | url=http://www.dispatch.com/content/stories/local/2013/05/07/State-rep-files-paperwork-to-oppose-Portman-in-2016.html | accessdate=September 20, 2013 | publisher=The Columbus Dispatch | date=May 8, 2013}}</ref> but later withdrew from the race.<ref>{{cite news | url=http://www.dispatch.com/content/stories/local/2015/01/02/who-will-portman-face-in-16.html | title=Who will face Portman in ’16? | work=The Columbus Dispatch | date=January 2, 2015 | accessdate=January 10, 2015}}</ref> On March 15, Strickland won the primary with 65% of the vote.
+
+Joseph DeMare, a machinist from Bowling Green, is the Green Party candidate. He ran unopposed in the March 15, 2016 primary, and received enough votes to substantially increase the number of enrolled Green Party members. In Ohio, the only way to join a political party is to vote in that Party's primary.
+
+=== Oklahoma ===
+{{main article|United States Senate election in Oklahoma, 2016}}
+Two-term Senator [[Tom Coburn]] (Republican) was re-elected with 71% of the vote in 2010, but chose to leave office before the end of his term after being diagnosed with [[prostate cancer]]. [[James Lankford]] won the [[United States Senate special election in Oklahoma, 2014|2014 special election]] to serve the remainder of Coburn's term.<ref name=OkCan>{{cite news | last=Taylor | first=Jessica | title=Crowded primary likely in race for Coburn seat | url=http://thehill.com/blogs/ballot-box/senate-races/195783-crowded-primary-likely-in-race-for-coburn-seat | accessdate=January 17, 2014 | publisher=[[The Hill (newspaper)|The Hill]] | date=January 17, 2014}}</ref> Lankford is running for re-election.<ref name=RCRG/>
+
+Former Congressman [[Dan Boren]] is viewed by some Oklahoma political operatives as the only Democrat who could make the 2016 race competitive, but is seen as unlikely to run.<ref name="Oklahoma Farm Team">{{cite news | url=http://kfor.com/2014/11/04/u-s-senate-seat-goes-to-republican-james-lankford | title=U.S. Senate seat goes to Republican James Lankford | date=November 4, 2014 | publisher=[[Roll Call]] | accessdate=November 21, 2014}}</ref> Lankford's [[United States Senate special election in Oklahoma, 2014|2014 special election]] opponent [[Constance N. Johnson]] has said that she plans to run again.<ref>{{cite web | url=http://kfor.com/2014/11/04/u-s-senate-seat-goes-to-republican-james-lankford | title=U.S. Senate seat goes to Republican James Lankford | work=KFOR | date=November 4, 2014 | accessdate=May 22, 2015 | author1=Dallas Franklin | author2=Leslie Rangel}}</ref>
+
+=== Oregon ===
+{{main article|United States Senate election in Oregon, 2016}}
+Three-term Senator [[Ron Wyden]] (Democrat) was re-elected with 57% of the vote in 2010. He will be 67 years old in 2016. He is running for re-election.<ref name=RCRG/>
+
+[[Medford, Oregon|Medford]] City Councilor Kevin Stine<ref name=stine>{{cite web | last=Mann | first=Damian | date=September 21, 2015| url=http://www.mailtribune.com/article/20150921/NEWS/150929984 | title=Medford Councilor Stine to challenge Sen. Ron Wyden | work=[[Mail Tribune]] | accessdate=September 21, 2015}}</ref> and retired locomotive engineer Paul Weaver<ref name=SReynolds>{{cite news | date=November 17, 2015 | work=[[The Oregonian]] | accessdate=March 9, 2016 | url=http://www.oregonlive.com/politics/index.ssf/2015/11/whos_running_for_president_ore.html | title=Who's running for president, Oregon governor, other seats? The latest on 2016 candidates}}</ref> challenged Wyden for the Democratic nomination. Wyden won the Democratic nomination.
+
+Information technology consultant and [[United States Senate election in Oregon, 2014|2014]] candidate Mark Callahan,<ref name=callahan/> businessman Sam Carpenter,<ref name=Carpenter>{{cite news | url=http://www.bendbulletin.com/home/3969938-151/bend-businessman-carpenter-to-run-for-senate?referrer=bullet5 | title=Bend businessman Carpenter to run for Senate | last=Hammers | first=Scott | date=February 5, 2016 | work=The Bend Bulletin | accessdate=March 9, 2016}}</ref> business consultant Dan Laschober,<ref name=Laschober>{{cite news | url=http://laschober2016.com | title=Laschober for U.S. Senate}}</ref> Steven Reynolds,<ref name=SReynolds/> and [[Lane County, Oregon|Lane County]] commissioner Faye Stewart<ref name=FStewart>{{cite news | last=Dubois | first=Steven | date=November 11, 2015 | work=KATU| url=http://katu.com/news/local/oregon-county-commissioner-faye-stewart-to-run-for-us-senate | title=Oregon county commissioner Faye Stewart to run for US Senate | accessdate=December 3, 2015}}</ref> ran for the Republican nomination. Callahan won the Republican nomination.
+
+=== Pennsylvania ===
+{{main article|United States Senate election in Pennsylvania, 2016}}
+One-term Senator [[Pat Toomey]] (Republican) was elected with 51% of the vote in 2010. He will be 54 years old in 2016. Toomey is seeking re-election.<ref name=tsr/>
+
+[[Everett Stern]], a security intelligence consultant and [[whistleblower]] of the [[HSBC]] money laundering scandal, announced that he would challenge Toomey for the Republican nomination,<ref>{{cite web | last=Stern | first=Everett | date=January 26, 2015 | work=Facebook| url=https://www.facebook.com/EverettSternFan/posts/1045534688793832 | title=After serious consideration, I have made the decision to run for the PA United States Senate seat ... | accessdate=April 5, 2015}}</ref> but has missed the filing deadline, so Toomey was unopposed in the primary.
+
+Democratic candidates included [[Katie McGinty]], former Chief of Staff to [[List of Governors of Pennsylvania|Governor]] [[Tom Wolf (politician)|Tom Wolf]] and former [[Pennsylvania Department of Environmental Protection#Secretaries|Secretary]] of the [[Pennsylvania Department of Environmental Protection]],<ref name=KatieMcginty/> former Congressman [[Joe Sestak]], who defeated incumbent Senator [[Arlen Specter]] for the [[United States Senate election in Pennsylvania, 2010|2010]] Democratic nomination, but lost to Toomey in the general election,<ref name="wapo">{{cite news | last=Weiner | first=Rachel | url=http://www.washingtonpost.com/blogs/post-politics/wp/2013/05/14/joe-sestak-planning-senate-campaign | title=Joe Sestak planning Senate campaign | publisher=[[The Washington Post]] | accessdate=October 22, 2013}}</ref> the current mayor of [[Braddock, Pennsylvania]], [[John Fetterman (politician)|John Fetterman]],<ref name=fetterman>{{cite news | last=Maher | first=Chris | url=http://www.wsj.com/articles/mayor-of-struggling-steel-town-enters-pennsylvania-senate-race-1442261628 | title=Steel Town Mayor John Fetterman Enters Pennsylvania Senate Race | work=WSJ | date=September 14, 2015}}</ref> who is an [[AmeriCorps]] alum and [[Harvard University]] graduate,<ref>{{cite web|url=https://www.whitehouse.gov/champions/americorps-alums/john-fetterman-|title=John fetterman|work=whitehouse.gov|accessdate=July 25, 2016}}</ref> and small businessman and senate candidate in [[United States Senate election in Pennsylvania, 2010|2010]] and [[United States Senate election in Pennsylvania, 2012|2012]] Joseph Vodvarka.<ref name=Vodvarka>{{cite news | url=http://www.montcoarea4democrats.com/category/montco-area-democrats/montco-area-democrats/joseph-vodvarka-for-us-senate-2016 | title=Joseph Vodvarka for US Senate 2016 | date=December 28, 2015| work=Montco Area 4 Democrats | accessdate=February 18, 2016}}</ref> [[Allentown, PA|Allentown]] Mayor [[Ed Pawlowski]] announced his candidacy for the seat but suspended his campaign due to an [[Federal Bureau of Investigation|FBI]] investigation of Allentown.<ref>{{cite news | url=http://www.philly.com/philly/news/politics/20150707_Senate_hopeful_halts_bid__Dems_seek_options.html | title=Pawlowski halts Senate bid, Democrats seek options | work=[[The Philadelphia Inquirer]] | last1=Tamari | first1=Jonathan | last2=Roebuck | first2=Jeremy | date=July 6, 2015 | accessdate=July 8, 2015}}</ref> McGinty won the primary and will face Toomey in the general election.
+
+=== South Carolina ===
+{{main article|United States Senate election in South Carolina, 2016}}
+Two-term Republican Senator [[Jim DeMint]] (Republican) was re-elected with 61% of the vote [[United States Senate election in South Carolina, 2010|in 2010]]. He resigned at the start of 2013 to become President of [[The Heritage Foundation]] and U.S. Representative [[Tim Scott]] (Republican) of [[South Carolina's 1st congressional district]] was appointed to replace him by Governor [[Nikki Haley]].<ref>{{cite news| url=http://www.nytimes.com/2012/12/18/us/politics/congressman-picked-for-south-carolina-senate-seat.html | work=[[The New York Times]] | first=Jeff | last=Zeleny | title=Rep. Tim Scott Chosen to Replace Jim DeMint as South Carolina Senator | date=December 17, 2012}}</ref> Scott subsequently won the [[United States Senate special election in South Carolina, 2014|special election in 2014]] for the remaining two years of the term. Scott is running for re-election<ref name=RCRG/> and he was a potential Republican vice presidential nominee.<ref name="Farm Team SC">{{cite news | last=Livingston | first=Abby | title=South Carolina Republicans Will Have to Ride the Bench | url=http://www.rollcall.com/news/south_carolina_republicans_will_have_to_ride_the_bench-230854-1.html | accessdate=April 2, 2014 | publisher=[[Roll Call]] | date=February 12, 2014}}</ref><ref name=Fix>{{cite news | last=Cillizza | first=Chris | title=Tim Scott and the changing face of the Republican party | url=http://www.washingtonpost.com/blogs/the-fix/wp/2012/12/17/tim-scott-and-the-changing-face-of-the-republican-party | accessdate=April 2, 2014 | publisher=[[The Washington Post]] | date=December 17, 2012}}</ref>
+
+Other potential Republican candidates include Congressmen [[Mick Mulvaney]],<ref>{{cite news | last=Jaffe | first=Greg | title=As budget cuts hit S.C., a congressman is surprised at constituents’ reactions | url=http://www.washingtonpost.com/national/as-budget-cuts-hit-sc-a-congressman-is-surprised-at-constituents-reactions/2013/05/28/b7566fb6-c7c5-11e2-9245-773c0123c027_story_1.html | publisher=[[The Washington Post]] | date=May 28, 2013}}</ref> [[Jeff Duncan (politician)|Jeff Duncan]] and [[Mark Sanford]], along with State Senator [[Tom Davis (South Carolina politician)|Tom Davis]], State Treasurer [[Curtis Loftis]] and State Attorney General [[Alan Wilson (South Carolina politician)|Alan Wilson]].<ref name="Farm Team SC"/> [[Darla Moore]] has also been mentioned as a potential candidate for either party.<ref name="Farm Team SC"/>
+
+On the Democratic side, pastor Thomas Dixon is running.<ref name=dixonsc/>
+
+=== South Dakota ===
+{{main article|United States Senate election in South Dakota, 2016}}
+Two-term Senator [[John Thune]] (Republican) ran unopposed and was re-elected with 100% in 2010. He will be 55 years old in 2016. He is running for re-election.<ref name=thunerunning/>
+
+Jay Williams, Chair of the [[Yankton County, South Dakota|Yankton County]] Democratic Party, and candidate for the State House in 2010 and 2014, is running for the Democratic nomination.<ref name=siebold/> Other potential Democratic candidates include State Senator [[Bernie Hunhoff]]<ref>{{cite news | last=Lawrence | first=Tom | url=http://sdprairie.blogspot.com/2015/07/will-anyone-take-on-thune-in-2016.html | date=July 1, 2015 | title=Will anyone take on Thune in 2016? | work=Prairie Perspective | accessdate=August 27, 2015}}</ref> and filmmaker and former television news producer Sam Hurst.<ref>{{cite news | last=Woster | first=Kevin | date=August 24, 2015 | work=[[KELO-TV]]| url=http://blog.keloland.com/politicsinkeloland/2015/08/24/hurst-for-u-s-senate-in-2016-well | title=Hurst for U.S. Senate in 2016? Well ... | accessdate=August 27, 2015}}</ref> Former U.S. Representative [[Stephanie Herseth Sandlin]], [[Sioux Falls, South Dakota|Sioux Falls]] Mayor Mike Heuther, and [[United States Senate election in South Dakota, 2014|2014]] nominee [[Rick Weiland]] have declined to run.<ref>{{cite news | last=Tupper | first=Seth| url=http://rapidcityjournal.com/blog/on-background/thune-frolicking-through-another-opponent-less-election-season/article_9cf262e6-a289-11e5-a979-4742a43a7d9b.html | title=Thune frolicking through another opponent-less election season | date=December 14, 2015 | work=[[Rapid City Journal]] | accessdate=February 20, 2016}}</ref><ref>{{cite news | date=March 18, 2015| url=http://rapidcityjournal.com/news/rick-weiland-returns-with-new-nonpartisan-political-group/article_3d941c0e-6cdc-5d1c-a016-d384a6bdf092.html | title=Rick Weiland returns with new nonpartisan political group | work=[[Rapid City Journal]] | accessdate=May 20, 2015}}</ref>
+
+===Utah===
+{{main article|United States Senate election in Utah, 2016}}
+One-term Senator [[Mike Lee (U.S. politician)|Mike Lee]] (Republican) was elected with 62% of the vote in 2010. He will be 45 years old in 2016. He is running for re-election.<ref name=rousing/> State party chair Thomas Wright, former State Senator [[Dan Liljenquist]], State Senator [[Aaron Osmond]], Congressman [[Jason Chaffetz]], Congressman [[Chris Stewart (politician)|Chris Stewart]], former [[Governor of Utah]] [[Mike Leavitt]], and [[Mitt Romney]]'s son Josh Romney<ref name=compromise>{{cite web | url=http://www.sltrib.com/sltrib/politics/56980406-90/compromise-lee-monson-percent.html.csp | archiveurl=https://web.archive.org/web/20131010022923/http://www.sltrib.com/sltrib/politics/56980406-90/compromise-lee-monson-percent.html.csp | title=Most Utahns disapprove of Sen. Mike Lee, want him to compromise | first=Robert | last= Gehrke | publisher=''[[Salt Lake Tribune]]'' | date=October 10, 2013 | archivedate=October 10, 2013 | accessdate=November 8, 2014}}</ref><ref name=backlash>{{cite web | url=http://www.washingtonpost.com/politics/in-utah-tea-party-favorite-sen-lee-faces-gop-backlash-over-government-shutdown/2013/10/22/9754e782-3b25-11e3-a94f-b58017bfee6c_story.html | title=In Utah, tea party favorite Sen. Lee faces GOP backlash over government shutdown | first=Philip | last= Rucker | publisher=[[The Washington Post]] | date=October 22, 2013 | accessdate=November 8, 2014}}</ref><ref name=UTFT>{{cite news | last=Livingston | first=Abby | title=Next Utah Races to Watch Are for Senate | url=http://www.rollcall.com/news/next_utah_races_to_watch_are_for_senate-231890-1.html | accessdate=April 3, 2014 | publisher=[[Roll Call]] | date=April 2, 2014}}</ref> were mentioned as potential primary challengers, but they all declined to run.<ref>{{cite news| last=Canham | first=Matt | url=http://www.sltrib.com/news/2382612-155/mike-lee-could-be-a-lock | title=Mike Lee could be a lock for re-election to the Senate | date=April 12, 2015 | work=[[The Salt Lake Tribune]] | accessdate=February 4, 2016}}</ref><ref>{{cite news| last=Roche | first=Lisa Riley | url=http://www.deseretnews.com/article/865626952/Josh-Romney-I-wont-run-against-Sen-Mike-Lee-but-another-Republican-should.html | title=Josh Romney: I won't run against Sen. Mike Lee, but another Republican should | work=[[Deseret News]] | date=April 21, 2015}}</ref> Lee ran unopposed at the Utah Republican convention and is the Republican nominee.<ref name="leeconvention">{{cite news | last1=Price | first1=Michelle | title=Utah Gov. Herbert fails to secure nomination at convention | url=http://www.sunherald.com/news/health/article73583842.html | accessdate=April 27, 2016 | publisher=SunHerald | date=April 23, 2016}}</ref>
+
+Marriage therapist Jonathan Swinton<ref name=Swinton>{{cite news | last=Canham | first=Matt | url=http://www.sltrib.com/news/2847352-155/sen-mike-lees-first-challenger- | title=Sen. Mike Lee's first challenger is marriage therapist Jonathan Swinton, an untested Democrat | date=August 17, 2015 | work=[[The Salt Lake Tribune]]}}</ref> and grocery store clerk [[Misty Snow]] ran for the Democratic nomination. Snow defeated Swinton by more than 20 percentage points, and became the first [[transgender woman]] to become a major party's nominee for the Senate.<ref>{{cite news | url=http://www.politico.com/story/2016/06/misty-snow-plowright-transgender-congress-224921?cmpid=sf | title=Two transgender candidates named 'Misty' win primaries | last = Nelson | first = Louis | date = June 29, 2016 | accessdate = June 29, 2016 | work=[[Politico]]}}</ref>
+
+=== Vermont ===
+{{Main article|United States Senate election in Vermont, 2016}}
+Seven-term [[Democratic Party (United States)|Democratic]] Senator [[Patrick Leahy]] was re-elected with 64% of the vote in 2010. He will be 76 years old in 2016. Leahy is seeking re-election.<ref name="McGilvery"/>
+
+[[Scott Milne]], the [[Republican Party (United States)|Republican]] nominee in the [[Vermont gubernatorial election, 2014|2014 Vermont gubernatorial election]], has indicated that he will run against Leahy.<ref>{{cite news | url=http://www.sevendaysvt.com/OffMessage/archives/2015/10/05/scott-milne-considers-challenging-patrick-leahy| last=Heintz | first=Paul | title=Scott Milne Considers Challenging Patrick Leahy | date=October 5, 2015 | work=[[Seven Days (newspaper)|Seven Days]]}}</ref><ref>{{cite web | url=http://www.burlingtonfreepress.com/story/news/2016/05/26/milne-hopes-unseat-sen-leahy/84999986 | title=Milne hopes to unseat Sen. Leahy | work=[[The Burlington Free Press]] | last=Gram | first=Dave | date=May 26, 2016 | accessdate=May 27, 2016}}</ref>
+
+=== Washington ===
+{{main article|United States Senate election in Washington, 2016}}
+Four-term Senator [[Patty Murray]] (Democrat) was re-elected with 52% of the vote in 2010. She will be 66 years old in 2016. She is running for re-election.<ref name=murrayseek/>
+
+The only declared Republican candidate is former State Representative and former chair of the [[Washington State Republican Party]] [[Chris Vance (politician)|Chris Vance]].<ref name="Pathe"/> Congressman [[Dave Reichert]] was considered a potential Republican candidate<ref name=Cameron>{{cite news | last=Joseph | first=Cameron | title=Rep. Reichert 'thinking about' run for Senate, governor in Washington | url=http://thehill.com/video/in-the-news/316331-rep-reichert-thinking-about-run-for-senate-governor-in-washington | accessdate=April 7, 2014 | publisher=[[The Hill (newspaper)|The Hill]] | date=August 9, 2013}}</ref> but chose to run for reelection.<ref>{{cite news | last1=Brunner | first1=Jim | title=Dave Reichert won’t run against Jay Inslee for governor | url=http://www.seattletimes.com/seattle-news/politics/dave-reichert-decides-he-wont-run-against-jay-inslee-for-governor | accessdate=November 1, 2015 | publisher=The Seattle Times | date=October 16, 2015}}</ref>
+
+=== Wisconsin ===
+{{main article|United States Senate election in Wisconsin, 2016}}
+One-term Senator [[Ron Johnson (Wisconsin politician)|Ron Johnson]] (Republican) defeated three-term Senator [[Russ Feingold]] (Democrat) with 52% of the vote in 2010. He will be 61 years old in 2016. He is running for re-election.<ref name=RJohnson/>
+
+On May 14, 2015, Feingold announced that he would seek a rematch against Johnson for his former Senate seat.<ref name=Feingold/> Immediately after his announcement, the [[Democratic Senatorial Campaign Committee]] endorsed Feingold's candidacy.<ref>{{cite web | url=http://www.dscc.org/pressrelease/dscc-announces-endorsement-russ-feingold-wisconsin-senate-race | title=DSCC Announces Endorsement Of Russ Feingold In Wisconsin Senate Race | date=May 14, 2015}}</ref> Businesswoman and [[Wisconsin gubernatorial election, 2014|2014 gubernatorial nominee]] [[Mary Burke]] has declared that she is not seeking statewide office in 2016.<ref>{{cite web | url=http://host.madison.com/news/local/govt-and-politics/mary-burke-says-she-won-t-run-for-statewide-office/article_7eeb8cc5-7219-5e5f-a54c-ac77806ba762.html | title=Mary Burke says she won't run for statewide office again | date=November 10, 2014 | accessdate=November 10, 2014 | work=Wisconsin State Journal}}</ref>
+
+== See also ==
+*[[United States elections, 2016]] (other elections being held at the same time)
+**[[United States House of Representatives elections, 2016]]
+**[[United States presidential election, 2016]]
+**[[United States gubernatorial elections, 2016]]
+*[[United States Senate elections, 2010]] (the previous election for this class of Senators)
+
+== References ==
+{{reflist|30em}}
+{{United States Senate elections}}
+{{United States elections, 2016}}
+
+[[Category:United States Senate elections, 2016| ]]

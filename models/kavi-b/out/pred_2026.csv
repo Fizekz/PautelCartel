@@ -1,0 +1,952 @@
+race_id,chamber,candidate,party,q,p_kalshi,q_model,note
+AK-SEN,Senate,Democratic party,DEM,0.6213612086619513,0.7079207920792079,0.6116120420567289,"dossier late-info pool (w 0.25): Republican party 0.388 -> 0.379 (dossier 0.350, market_underrates_underdog, skeptic weakened)"
+AK-SEN,Senate,Republican party,REP,0.37863879133804873,0.29207920792079206,0.3883879579432711,"dossier late-info pool (w 0.25): Republican party 0.388 -> 0.379 (dossier 0.350, market_underrates_underdog, skeptic weakened)"
+AL-SEN,Senate,Barry Moore,REP,0.997,0.9721669980119284,0.997,Safe by all three raters
+AL-SEN,Senate,Everett Wess,DEM,0.003,0.027833001988071572,0.003,Safe by all three raters
+AR-SEN,Senate,Tom Cotton,REP,0.9943244841837976,0.9429429429429429,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): Hallie Shoffner 0.003 -> 0.006 (dossier 0.038, market_about_right, skeptic upheld)"
+AR-SEN,Senate,Hallie Shoffner,DEM,0.005675515816202362,0.05705705705705706,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): Hallie Shoffner 0.003 -> 0.006 (dossier 0.038, market_about_right, skeptic upheld)"
+CO-SEN,Senate,John Hickenlooper,DEM,0.997,0.9870388833499503,0.997,Safe by all three raters
+CO-SEN,Senate,Mark Baisley,REP,0.0030000000000000027,0.01296111665004985,0.0030000000000000027,Safe by all three raters
+DE-SEN,Senate,Chris Coons,DEM,0.997,0.9819277108433735,0.997,Safe by all three raters
+DE-SEN,Senate,Michael Katz,REP,0.0030000000000000027,0.018072289156626505,0.0030000000000000027,Safe by all three raters
+FL-SEN,Senate,Ashley Moody,REP,0.963030992335463,0.885,0.9737698641988153,"dossier late-info pool (w 0.25): Angie Nixon 0.026 -> 0.037 (dossier 0.100, market_about_right, skeptic upheld)"
+FL-SEN,Senate,Angie Nixon,DEM,0.03696900766453702,0.115,0.026230135801184745,"dossier late-info pool (w 0.25): Angie Nixon 0.026 -> 0.037 (dossier 0.100, market_about_right, skeptic upheld)"
+GA-SEN,Senate,Jon Ossoff,DEM,0.9799154858384364,0.9661354581673306,0.9799154858384364,
+GA-SEN,Senate,Mike Collins,REP,0.02008451416156365,0.03386454183266933,0.02008451416156365,
+IA-SEN,Senate,Ashley Hinson,REP,0.5421551426469231,0.5606060606060607,0.5344957416603426,"dossier late-info pool (w 0.25): Josh Turek 0.466 -> 0.458 (dossier 0.435, market_about_right, skeptic upheld)"
+IA-SEN,Senate,Josh Turek,DEM,0.45784485735307684,0.4393939393939394,0.46550425833965736,"dossier late-info pool (w 0.25): Josh Turek 0.466 -> 0.458 (dossier 0.435, market_about_right, skeptic upheld)"
+ID-SEN,Senate,Jim Risch,REP,0.994047763740179,0.944223107569721,0.997,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Todd Achilles 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic weakened)"
+ID-SEN,Senate,Todd Achilles,IND,0.005652236259821092,0.054780876494023904,0.0027,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Todd Achilles 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic weakened)"
+ID-SEN,Senate,David Roth,DEM,0.00030000000000000003,0.00099601593625498,0.00030000000000000003,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Todd Achilles 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic weakened)"
+IL-SEN,Senate,Juliana Stratton,DEM,0.997,0.9769769769769769,0.997,Safe by all three raters
+IL-SEN,Senate,Don Tracy,REP,0.0030000000000000027,0.02302302302302302,0.0030000000000000027,Safe by all three raters
+KS-SEN,Senate,Adam Hamilton,DEM,0.5100567576921096,0.505,0.48992458696307,"dossier late-info pool (w 0.25): Roger Marshall 0.510 -> 0.490 (dossier 0.430, market_underrates_favourite, skeptic upheld)"
+KS-SEN,Senate,Roger Marshall,REP,0.48994324230789044,0.495,0.51007541303693,"dossier late-info pool (w 0.25): Roger Marshall 0.510 -> 0.490 (dossier 0.430, market_underrates_favourite, skeptic upheld)"
+KY-SEN,Senate,Andy Barr,REP,0.997,0.9670329670329672,0.997,Safe by all three raters
+KY-SEN,Senate,Charles Booker,DEM,0.003,0.032967032967032975,0.003,Safe by all three raters
+LA-SEN,Senate,Julia Letlow,REP,0.9755042024188992,0.895,0.9849349137555775,"dossier late-info pool (w 0.25): Jamie Davis 0.015 -> 0.024 (dossier 0.100, market_about_right, skeptic upheld)"
+LA-SEN,Senate,Jamie Davis,DEM,0.02449579758110079,0.105,0.015065086244422475,"dossier late-info pool (w 0.25): Jamie Davis 0.015 -> 0.024 (dossier 0.100, market_about_right, skeptic upheld)"
+MA-SEN,Senate,Ed Markey,DEM,0.997,0.9830169830169831,0.997,Safe by all three raters
+MA-SEN,Senate,John Deaton,REP,0.0030000000000000027,0.016983016983016987,0.0030000000000000027,Safe by all three raters
+ME-SEN,Senate,Troy Jackson,DEM,0.682001528650602,0.685,0.6826672182000953,"dossier late-info pool (w 0.25): Susan Collins 0.317 -> 0.318 (dossier 0.320, market_about_right, skeptic upheld)"
+ME-SEN,Senate,Susan Collins,REP,0.3179984713493979,0.315,0.31733278179990465,"dossier late-info pool (w 0.25): Susan Collins 0.317 -> 0.318 (dossier 0.320, market_about_right, skeptic upheld)"
+MI-SEN,Senate,Abdul El-Sayed,DEM,0.7784280607857142,0.755,0.7811878327373452,"dossier late-info pool (w 0.25): Mike Rogers 0.219 -> 0.222 (dossier 0.230, market_about_right, skeptic upheld)"
+MI-SEN,Senate,Mike Rogers,REP,0.22157193921428572,0.245,0.21881216726265484,"dossier late-info pool (w 0.25): Mike Rogers 0.219 -> 0.222 (dossier 0.230, market_about_right, skeptic upheld)"
+MN-SEN,Senate,Peggy Flanagan,DEM,0.9396622587372291,0.906093906093906,0.946275232046712,"dossier late-info pool (w 0.25): Michele Tafoya 0.054 -> 0.060 (dossier 0.085, market_about_right, skeptic upheld)"
+MN-SEN,Senate,Michele Tafoya,REP,0.060337741262770875,0.09390609390609389,0.053724767953287955,"dossier late-info pool (w 0.25): Michele Tafoya 0.054 -> 0.060 (dossier 0.085, market_about_right, skeptic upheld)"
+MS-SEN,Senate,Cindy Hyde-Smith,REP,0.9684494592870231,0.885,0.9795389794864636,"dossier late-info pool (w 0.25): Scott Colom 0.020 -> 0.032 (dossier 0.110, market_about_right, skeptic upheld)"
+MS-SEN,Senate,Scott Colom,DEM,0.03155054071297694,0.115,0.02046102051353634,"dossier late-info pool (w 0.25): Scott Colom 0.020 -> 0.032 (dossier 0.110, market_about_right, skeptic upheld)"
+MT-SEN,Senate,Kurt Alme,REP,0.9923754074221429,0.880597014925373,0.997,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Seth Bodnar 0.003 -> 0.007 (dossier 0.130, market_about_right, skeptic upheld)"
+MT-SEN,Senate,Seth Bodnar,IND,0.007324592577857064,0.1144278606965174,0.0027,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Seth Bodnar 0.003 -> 0.007 (dossier 0.130, market_about_right, skeptic upheld)"
+MT-SEN,Senate,Alani Bankhead,DEM,0.00030000000000000003,0.004975124378109453,0.00030000000000000003,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Seth Bodnar 0.003 -> 0.007 (dossier 0.130, market_about_right, skeptic upheld)"
+NC-SEN,Senate,Roy Cooper,DEM,0.9691621720577,0.9670987038883351,0.9691621720577,
+NC-SEN,Senate,Michael Whatley,REP,0.030837827942299945,0.03290129611166501,0.030837827942299945,
+NE-SEN,Senate,Pete Ricketts,REP,0.8296377875685077,0.7427716849451645,0.8525097528276994,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Dan Osborn 0.147 -> 0.170 (dossier 0.255, market_about_right, skeptic upheld)"
+NE-SEN,Senate,Dan Osborn,IND,0.16936221243149238,0.25423728813559326,0.14649024717230072,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Dan Osborn 0.147 -> 0.170 (dossier 0.255, market_about_right, skeptic upheld)"
+NE-SEN,Senate,Cindy Burbank,DEM,0.0010000000000000002,0.0029910269192422734,0.0010000000000000002,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Dan Osborn 0.147 -> 0.170 (dossier 0.255, market_about_right, skeptic upheld)"
+NH-SEN,Senate,Chris Pappas,DEM,0.9291943224917295,0.9251497005988024,0.9289238650005346,"dossier late-info pool (w 0.25): John E. Sununu 0.071 -> 0.071 (dossier 0.070, market_about_right, skeptic upheld)"
+NH-SEN,Senate,John E. Sununu,REP,0.07080567750827049,0.0748502994011976,0.07107613499946541,"dossier late-info pool (w 0.25): John E. Sununu 0.071 -> 0.071 (dossier 0.070, market_about_right, skeptic upheld)"
+NJ-SEN,Senate,Cory Booker,DEM,0.997,0.9770229770229771,0.997,Safe by all three raters
+NJ-SEN,Senate,Justin Murphy,REP,0.0030000000000000027,0.02297702297702298,0.0030000000000000027,Safe by all three raters
+NM-SEN,Senate,Ben Ray Luján,DEM,0.997,0.9840319361277445,0.997,Safe by all three raters
+NM-SEN,Senate,Larry E. Marker,REP,0.0030000000000000027,0.015968063872255488,0.0030000000000000027,Safe by all three raters
+OH-SEN,Senate,Sherrod Brown,DEM,0.6065954446168262,0.7079207920792079,0.5881364146493719,"dossier late-info pool (w 0.25): Jon Husted 0.412 -> 0.393 (dossier 0.340, market_about_right, skeptic weakened)"
+OH-SEN,Senate,Jon Husted,REP,0.3934045553831738,0.29207920792079206,0.41186358535062806,"dossier late-info pool (w 0.25): Jon Husted 0.412 -> 0.393 (dossier 0.340, market_about_right, skeptic weakened)"
+OK-SEN,Senate,Kevin Hern,REP,0.997,0.9740518962075848,0.997,Safe by all three raters
+OK-SEN,Senate,N’Kiyla Thomas,DEM,0.003,0.02594810379241517,0.003,Safe by all three raters
+OR-SEN,Senate,Jeff Merkley,DEM,0.997,0.9870129870129871,0.997,Safe by all three raters
+OR-SEN,Senate,David Brock Smith,REP,0.0030000000000000027,0.012987012987012988,0.0030000000000000027,Safe by all three raters
+RI-SEN,Senate,Jack Reed,DEM,0.997,0.9870259481037924,0.997,Safe by all three raters
+RI-SEN,Senate,Raymond McKay,REP,0.0030000000000000027,0.012974051896207584,0.0030000000000000027,Safe by all three raters
+SC-SEN,Senate,Darline Graham,REP,0.7999496896971737,0.725,0.8271469629056873,"dossier late-info pool (w 0.25): Annie Andrews 0.173 -> 0.200 (dossier 0.300, market_about_right, skeptic upheld)"
+SC-SEN,Senate,Annie Andrews,DEM,0.20005031030282625,0.275,0.1728530370943127,"dossier late-info pool (w 0.25): Annie Andrews 0.173 -> 0.200 (dossier 0.300, market_about_right, skeptic upheld)"
+SD-SEN,Senate,Mike Rounds,REP,0.994047763740179,0.930761622156281,0.997,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Brian Bengs 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic upheld)"
+SD-SEN,Senate,Brian Bengs,IND,0.005652236259821092,0.06429277942631059,0.0027,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Brian Bengs 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic upheld)"
+SD-SEN,Senate,Julian Beaudion,DEM,0.00030000000000000003,0.004945598417408507,0.00030000000000000003,"independent is the main non-R challenger; Safe by all three raters; dossier late-info pool (w 0.25): Brian Bengs 0.003 -> 0.006 (dossier 0.050, market_about_right, skeptic upheld)"
+TN-SEN,Senate,Bill Hagerty,REP,0.997,0.9739478957915831,0.997,Safe by all three raters
+TN-SEN,Senate,Marquita Bradshaw,DEM,0.003,0.026052104208416832,0.003,Safe by all three raters
+TX-SEN,Senate,James Talarico,DEM,0.5916946968531567,0.6881188118811881,0.5624238414159966,"dossier late-info pool (w 0.25): Ken Paxton 0.438 -> 0.408 (dossier 0.325, market_about_right, skeptic upheld)"
+TX-SEN,Senate,Ken Paxton,REP,0.4083053031468434,0.3118811881188119,0.43757615858400345,"dossier late-info pool (w 0.25): Ken Paxton 0.438 -> 0.408 (dossier 0.325, market_about_right, skeptic upheld)"
+VA-SEN,Senate,Mark Warner,DEM,0.997,0.9859437751004015,0.997,Safe by all three raters
+VA-SEN,Senate,Bert Mizusawa,REP,0.0030000000000000027,0.014056224899598393,0.0030000000000000027,Safe by all three raters
+WV-SEN,Senate,Shelley Moore Capito,REP,0.997,0.9829829829829829,0.997,Safe by all three raters
+WV-SEN,Senate,Rachel Fetty Anderson,DEM,0.003,0.01701701701701702,0.003,Safe by all three raters
+WY-SEN,Senate,Harriet Hageman,REP,0.997,0.9870129870129871,0.997,Safe by all three raters
+WY-SEN,Senate,James Byrd,DEM,0.003,0.012987012987012988,0.003,Safe by all three raters
+AK-AL,House,Nick Begich III,REP,0.9063757343275832,0.7772277227722773,0.9335052870969045,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Bill Hill 0.066 -> 0.093 (dossier 0.240, market_about_right, skeptic upheld)"
+AK-AL,House,Bill Hill,IND,0.09262426567241679,0.21287128712871287,0.06549471290309551,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Bill Hill 0.066 -> 0.093 (dossier 0.240, market_about_right, skeptic upheld)"
+AK-AL,House,Eric Hafner,DEM,0.001,0.009900990099009901,0.001,"independent is the main non-R challenger; dossier late-info pool (w 0.25): Bill Hill 0.066 -> 0.093 (dossier 0.240, market_about_right, skeptic upheld)"
+AL-01,House,Jerry Carl,REP,0.997,0.9830339321357285,0.997,Safe by all three raters
+AL-01,House,Clyde Jones,DEM,0.003,0.016966067864271458,0.003,Safe by all three raters
+AL-02,House,Rhett Marques,REP,0.6962954782052402,0.5693069306930693,0.736121116742068,"dossier late-info pool (w 0.25): Shomari Figures 0.264 -> 0.304 (dossier 0.440, market_about_right, skeptic upheld)"
+AL-02,House,Shomari Figures,DEM,0.30370452179475976,0.4306930693069307,0.2638788832579319,"dossier late-info pool (w 0.25): Shomari Figures 0.264 -> 0.304 (dossier 0.440, market_about_right, skeptic upheld)"
+AL-03,House,Mike Rogers,REP,0.997,0.9879879879879879,0.997,Safe by all three raters
+AL-03,House,Lee McInnis,DEM,0.003,0.012012012012012012,0.003,Safe by all three raters
+AL-04,House,Robert Aderholt,REP,0.997,0.9889447236180905,0.997,Safe by all three raters
+AL-04,House,Amanda Pusczek,DEM,0.003,0.011055276381909547,0.003,Safe by all three raters
+AL-05,House,Dale Strong,REP,0.997,0.9569569569569569,0.997,Safe by all three raters
+AL-05,House,Andrew Sneed,DEM,0.003,0.04304304304304304,0.003,Safe by all three raters
+AL-06,House,Gary Palmer,REP,0.997,0.986986986986987,0.997,Safe by all three raters
+AL-06,House,Maurice Mercer,DEM,0.003,0.013013013013013013,0.003,Safe by all three raters
+AL-07,House,Terri Sewell,DEM,0.997,0.9829829829829829,0.997,Safe by all three raters
+AL-07,House,Ammie Akin,REP,0.0030000000000000027,0.01701701701701702,0.0030000000000000027,Safe by all three raters
+AR-01,House,Rick Crawford,REP,0.997,0.9870129870129871,0.997,Safe by all three raters
+AR-01,House,Terri Yarbrough Green,DEM,0.003,0.012987012987012988,0.003,Safe by all three raters
+AR-02,House,French Hill,REP,0.9519754679900907,0.825,0.9723622979080798,"dossier late-info pool (w 0.25): Chris Jones 0.028 -> 0.048 (dossier 0.220, market_underrates_underdog, skeptic weakened)"
+AR-02,House,Chris Jones,DEM,0.04802453200990934,0.175,0.027637702091920145,"dossier late-info pool (w 0.25): Chris Jones 0.028 -> 0.048 (dossier 0.220, market_underrates_underdog, skeptic weakened)"
+AR-03,House,Steve Womack,REP,0.997,0.9830508474576272,0.997,Safe by all three raters
+AR-03,House,Robb Ryerse,DEM,0.003,0.016949152542372885,0.003,Safe by all three raters
+AR-04,House,Bruce Westerman,REP,0.997,0.9889669007021064,0.997,Safe by all three raters
+AR-04,House,James Russell,DEM,0.003,0.011033099297893681,0.003,Safe by all three raters
+AZ-01,House,Amish Shah,DEM,0.8275600392708288,0.8131313131313131,0.8360525147224358,"dossier late-info pool (w 0.25): Jay Feely 0.164 -> 0.172 (dossier 0.200, market_about_right, skeptic upheld)"
+AZ-01,House,Jay Feely,REP,0.1724399607291712,0.18686868686868688,0.1639474852775642,"dossier late-info pool (w 0.25): Jay Feely 0.164 -> 0.172 (dossier 0.200, market_about_right, skeptic upheld)"
+AZ-02,House,Eli Crane,REP,0.7823819273674824,0.595,0.8289083890929327,"dossier late-info pool (w 0.25): Jonathan Nez 0.171 -> 0.218 (dossier 0.405, market_about_right, skeptic upheld)"
+AZ-02,House,Jonathan Nez,DEM,0.2176180726325176,0.405,0.17109161090706726,"dossier late-info pool (w 0.25): Jonathan Nez 0.171 -> 0.218 (dossier 0.405, market_about_right, skeptic upheld)"
+AZ-03,House,Yassamin Ansari,DEM,0.999,0.9850149850149851,0.999,no real opponent on the ballot; Safe by all three raters
+AZ-03,House,Republican party,REP,0.0010000000000000009,0.014985014985014986,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+AZ-04,House,Greg Stanton,DEM,0.997,0.9619238476953907,0.997,Safe by all three raters
+AZ-04,House,Zuhdi Jasser,REP,0.0030000000000000027,0.038076152304609215,0.0030000000000000027,Safe by all three raters
+AZ-05,House,Mark Lamb,REP,0.997,0.875,0.997,Safe by all three raters
+AZ-05,House,Elizabeth Lee,DEM,0.003,0.125,0.003,Safe by all three raters
+AZ-06,House,JoAnna Mendoza,DEM,0.8164752806705794,0.895,0.8164752806705794,
+AZ-06,House,Juan Ciscomani,REP,0.1835247193294206,0.105,0.1835247193294206,
+AZ-07,House,Adelita Grijalva,DEM,0.997,0.991,0.997,Safe by all three raters
+AZ-07,House,Daniel Francis Butierez Sr.,REP,0.0030000000000000027,0.009,0.0030000000000000027,Safe by all three raters
+AZ-08,House,Abe Hamadeh,REP,0.997,0.864321608040201,0.997,Safe by all three raters
+AZ-08,House,Bernadette Greene-Placentia,DEM,0.003,0.135678391959799,0.003,Safe by all three raters
+AZ-09,House,Paul Gosar,REP,0.997,0.9808660624370594,0.997,Safe by all three raters
+AZ-09,House,Dani Sterbinsky,DEM,0.003,0.019133937562940583,0.003,Safe by all three raters
+CA-01,House,Mike McGuire,DEM,0.997,0.9621513944223107,0.997,Safe by all three raters
+CA-01,House,James Gallagher,REP,0.0030000000000000027,0.037848605577689244,0.0030000000000000027,Safe by all three raters
+CA-02,House,Jared Huffman,DEM,0.997,0.984984984984985,0.997,Safe by all three raters
+CA-02,House,Robin Littau,REP,0.0030000000000000027,0.015015015015015015,0.0030000000000000027,Safe by all three raters
+CA-03,House,Ami Bera,DEM,0.997,0.9588766298896689,0.997,Safe by all three raters
+CA-03,House,Robb Tucker,REP,0.0030000000000000027,0.041123370110330994,0.0030000000000000027,Safe by all three raters
+CA-04,House,Mike Thompson,DEM,0.21913364852849637,0.535,0.1587423718478467,"split nudged by 2 Sep-Oct polls (Mike Thompson -7.5); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Eric Jones 0.841 -> 0.781 (dossier 0.520, market_underrates_underdog, skeptic weakened)"
+CA-04,House,Eric Jones,DEM,0.7808663514715036,0.465,0.8412576281521533,"split nudged by 2 Sep-Oct polls (Mike Thompson -7.5); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Eric Jones 0.841 -> 0.781 (dossier 0.520, market_underrates_underdog, skeptic weakened)"
+CA-05,House,Tom McClintock,REP,0.997,0.942655935613682,0.997,Safe by all three raters
+CA-05,House,Michael Masuda,DEM,0.003,0.0573440643863179,0.003,Safe by all three raters
+CA-06,House,Richard Pan,DEM,0.9940688494307764,0.9333333333333333,0.9940688494307764,
+CA-06,House,Kevin Kiley,IND,0.005338035512301198,0.053731343283582096,0.005338035512301198,
+CA-06,House,Republican party,REP,0.0005931150569223554,0.012935323383084578,0.0005931150569223554,
+CA-07,House,Doris Matsui,DEM,0.8027857458834151,0.6414141414141414,0.8475616344652436,"split nudged by 1 Sep-Oct polls (Doris Matsui +0.0); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Mai Vang 0.152 -> 0.197 (dossier 0.385, market_about_right, skeptic weakened)"
+CA-07,House,Mai Vang,DEM,0.19721425411658486,0.35858585858585856,0.15243836553475643,"split nudged by 1 Sep-Oct polls (Doris Matsui +0.0); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Mai Vang 0.152 -> 0.197 (dossier 0.385, market_about_right, skeptic weakened)"
+CA-08,House,John Garamendi,DEM,0.997,0.9929718875502008,0.997,Safe by all three raters
+CA-08,House,Rudy Recile,REP,0.0030000000000000027,0.007028112449799197,0.0030000000000000027,Safe by all three raters
+CA-09,House,Josh Harder,DEM,0.997,0.9899193548387096,0.997,Safe by all three raters
+CA-09,House,John McBride,REP,0.0030000000000000027,0.010080645161290322,0.0030000000000000027,Safe by all three raters
+CA-10,House,Mark DeSaulnier,DEM,0.997,0.9819639278557114,0.997,Safe by all three raters
+CA-10,House,Jeff Frese,REP,0.0030000000000000027,0.018036072144288574,0.0030000000000000027,Safe by all three raters
+CA-11,House,Scott Wiener,DEM,0.9453511333653227,0.7871287128712872,0.9676440654982332,"split nudged by 3 Sep-Oct polls (Scott Wiener +7.8); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Connie Chan 0.032 -> 0.055 (dossier 0.230, market_about_right, skeptic upheld)"
+CA-11,House,Connie Chan,DEM,0.054648866634677246,0.21287128712871287,0.03235593450176677,"split nudged by 3 Sep-Oct polls (Scott Wiener +7.8); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Connie Chan 0.032 -> 0.055 (dossier 0.230, market_about_right, skeptic upheld)"
+CA-12,House,Lateefah Simon,DEM,0.9995176740495396,0.9798994974874372,0.9995176740495396,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-12,House,Jamie Joyce,DEM,0.00048232595046040046,0.020100502512562814,0.00048232595046040046,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-13,House,Adam Gray,DEM,0.9272229453856041,0.9378757515030061,0.9272229453856041,
+CA-13,House,Kevin Lincoln,REP,0.07277705461439588,0.06212424849699399,0.07277705461439588,
+CA-14,House,Aisha Wahab,DEM,0.6279638838141125,0.915,0.6279638838141125,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-14,House,Melissa Hernandez,DEM,0.3720361161858875,0.085,0.3720361161858875,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-15,House,Kevin Mullin,DEM,0.997,0.9939879759519038,0.997,Safe by all three raters
+CA-15,House,Charles Hoelter,REP,0.0030000000000000027,0.006012024048096192,0.0030000000000000027,Safe by all three raters
+CA-16,House,Sam Liccardo,DEM,0.997,0.9829659318637275,0.997,Safe by all three raters
+CA-16,House,Peter Sundin Soulé,REP,0.0030000000000000027,0.017034068136272545,0.0030000000000000027,Safe by all three raters
+CA-17,House,Ro Khanna,DEM,0.997,0.9830169830169831,0.997,Safe by all three raters
+CA-17,House,Ritesh Tandon,REP,0.0030000000000000027,0.016983016983016987,0.0030000000000000027,Safe by all three raters
+CA-18,House,Zoe Lofgren,DEM,0.997,0.9820179820179821,0.997,Safe by all three raters
+CA-18,House,Shane Lewis,REP,0.0030000000000000027,0.017982017982017984,0.0030000000000000027,Safe by all three raters
+CA-19,House,Jimmy Panetta,DEM,0.997,0.9910089910089911,0.997,Safe by all three raters
+CA-19,House,Peter Verbica,REP,0.0030000000000000027,0.008991008991008992,0.0030000000000000027,Safe by all three raters
+CA-20,House,Vince Fong,REP,0.997,0.979,0.997,Safe by all three raters
+CA-20,House,Sandra Van Scotter,DEM,0.003,0.021,0.003,Safe by all three raters
+CA-21,House,Jim Costa,DEM,0.9910174929405393,0.948207171314741,0.9910174929405393,
+CA-21,House,Kyle Kirkland,REP,0.008982507059460687,0.05179282868525896,0.008982507059460687,
+CA-22,House,Randy Villegas,DEM,0.7931462001706265,0.911088911088911,0.7931462001706265,
+CA-22,House,David Valadao,REP,0.20685379982937346,0.0889110889110889,0.20685379982937346,
+CA-23,House,Jay Obernolte,REP,0.997,0.9571286141575275,0.997,Safe by all three raters
+CA-23,House,Tessa Lynn Hodge,DEM,0.003,0.04287138584247258,0.003,Safe by all three raters
+CA-24,House,Salud Carbajal,DEM,0.997,0.9879879879879879,0.997,Safe by all three raters
+CA-24,House,Bob Smith,REP,0.0030000000000000027,0.012012012012012012,0.0030000000000000027,Safe by all three raters
+CA-25,House,Raul Ruiz,DEM,0.997,0.9849246231155778,0.997,Safe by all three raters
+CA-25,House,Joe Males,REP,0.0030000000000000027,0.01507537688442211,0.0030000000000000027,Safe by all three raters
+CA-26,House,Jacqui Irwin,DEM,0.997,0.9669669669669669,0.997,Safe by all three raters
+CA-26,House,Sam Gallucci,REP,0.0030000000000000027,0.03303303303303304,0.0030000000000000027,Safe by all three raters
+CA-27,House,George Whitesides,DEM,0.997,0.9838383838383838,0.997,Safe by all three raters
+CA-27,House,Jason Gibbs,REP,0.0030000000000000027,0.01616161616161616,0.0030000000000000027,Safe by all three raters
+CA-28,House,Judy Chu,DEM,0.997,0.9869739478957916,0.997,Safe by all three raters
+CA-28,House,April Verlato,REP,0.0030000000000000027,0.013026052104208416,0.0030000000000000027,Safe by all three raters
+CA-29,House,Luz Rivas,DEM,0.9845925516917741,0.9601990049751244,0.9845925516917741,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-29,House,Angélica María Dueñas,DEM,0.015407448308226006,0.03980099502487563,0.015407448308226006,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-30,House,Laura Friedman,DEM,0.997,0.9870129870129871,0.997,Safe by all three raters
+CA-30,House,Scott Meyers,REP,0.0030000000000000027,0.012987012987012988,0.0030000000000000027,Safe by all three raters
+CA-31,House,Gil Cisneros,DEM,0.997,0.974,0.997,Safe by all three raters
+CA-31,House,Eric Ching,REP,0.0030000000000000027,0.026,0.0030000000000000027,Safe by all three raters
+CA-32,House,Brad Sherman,DEM,0.997,0.9950049950049951,0.997,Safe by all three raters
+CA-32,House,Larry Thompson,REP,0.0030000000000000027,0.004995004995004996,0.0030000000000000027,Safe by all three raters
+CA-33,House,Pete Aguilar,DEM,0.997,0.9869346733668342,0.997,Safe by all three raters
+CA-33,House,Stephanie Vargas,REP,0.0030000000000000027,0.01306532663316583,0.0030000000000000027,Safe by all three raters
+CA-34,House,Angela Gonzales-Torres,DEM,0.4676758551082857,0.8214285714285715,0.3578080855401011,"split nudged by 3 Sep-Oct polls (Angela Gonzales-Torres +7.3); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Jimmy Gomez 0.642 -> 0.532 (dossier 0.225, market_about_right, skeptic upheld)"
+CA-34,House,Jimmy Gomez,DEM,0.5323241448917143,0.17857142857142858,0.6421919144598989,"split nudged by 3 Sep-Oct polls (Angela Gonzales-Torres +7.3); same-party DEM top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Jimmy Gomez 0.642 -> 0.532 (dossier 0.225, market_about_right, skeptic upheld)"
+CA-35,House,Norma Torres,DEM,0.997,0.9860279441117764,0.997,Safe by all three raters
+CA-35,House,Mike Cargile,REP,0.0030000000000000027,0.013972055888223553,0.0030000000000000027,Safe by all three raters
+CA-36,House,Ted Lieu,DEM,0.997,0.9939819458375125,0.997,Safe by all three raters
+CA-36,House,Houston Brignano,REP,0.0030000000000000027,0.006018054162487463,0.0030000000000000027,Safe by all three raters
+CA-37,House,Sydney Kamlager-Dove,DEM,0.9990196303546061,0.975,0.9990196303546061,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-37,House,Samantha Mota,DEM,0.0009803696453939046,0.025,0.0009803696453939046,same-party DEM top-two: within-party model on June primary share + money + incumbency
+CA-38,House,Hilda Solis,DEM,0.997,0.9899396378269618,0.997,Safe by all three raters
+CA-38,House,Pedro Antonio Casas,REP,0.0030000000000000027,0.01006036217303823,0.0030000000000000027,Safe by all three raters
+CA-39,House,Mark Takano,DEM,0.997,0.9798792756539235,0.997,Safe by all three raters
+CA-39,House,Steve Manos,REP,0.0030000000000000027,0.02012072434607646,0.0030000000000000027,Safe by all three raters
+CA-40,House,Young Kim,REP,0.6935106672987956,0.5194174757281553,0.7418137685806442,"split nudged by 1 Sep-Oct polls (Young Kim +9.0); same-party REP top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Ken Calvert 0.258 -> 0.306 (dossier 0.475, market_about_right, skeptic upheld)"
+CA-40,House,Ken Calvert,REP,0.30648933270120443,0.48058252427184467,0.2581862314193558,"split nudged by 1 Sep-Oct polls (Young Kim +9.0); same-party REP top-two: within-party model on June primary share + money + incumbency; dossier late-info pool (w 0.25): Ken Calvert 0.258 -> 0.306 (dossier 0.475, market_about_right, skeptic upheld)"
+CA-41,House,Linda Sánchez,DEM,0.997,0.9709127382146439,0.997,Safe by all three raters
+CA-41,House,Mitch Clemmons,REP,0.0030000000000000027,0.029087261785356068,0.0030000000000000027,Safe by all three raters
+CA-42,House,Robert Garcia,DEM,0.997,0.980980980980981,0.997,Safe by all three raters
+CA-42,House,Brian Burley,REP,0.0030000000000000027,0.019019019019019017,0.0030000000000000027,Safe by all three raters
+CA-43,House,Maxine Waters,DEM,0.997,0.9810945273631841,0.997,Safe by all three raters
+CA-43,House,Cristian Morales,REP,0.0030000000000000027,0.018905472636815922,0.0030000000000000027,Safe by all three raters
+CA-44,House,Nanette Barragán,DEM,0.997,0.980980980980981,0.997,Safe by all three raters
+CA-44,House,Genevieve Angel,REP,0.0030000000000000027,0.019019019019019017,0.0030000000000000027,Safe by all three raters
+CA-45,House,Derek Tran,DEM,0.9828130187397232,0.9280719280719281,0.9828130187397232,
+CA-45,House,Chuong Vo,REP,0.017186981260276846,0.07192807192807192,0.017186981260276846,
+CA-46,House,Lou Correa,DEM,0.997,0.9829829829829829,0.997,Safe by all three raters
+CA-46,House,David Pan,REP,0.0030000000000000027,0.01701701701701702,0.0030000000000000027,Safe by all three raters
+CA-47,House,Dave Min,DEM,0.997,0.9828282828282828,0.997,Safe by all three raters
+CA-47,House,Jenny Le Roux,REP,0.0030000000000000027,0.017171717171717175,0.0030000000000000027,Safe by all three raters
+CA-48,House,Marni von Wilpert,DEM,0.9309764397957878,0.9429429429429429,0.9309764397957878,
+CA-48,House,Jim Desmond,REP,0.06902356020421219,0.05705705705705706,0.06902356020421219,
+CA-49,House,Mike Levin,DEM,0.997,0.9878172588832487,0.997,Safe by all three raters
+CA-49,House,Armen Kurdian,REP,0.0030000000000000027,0.012182741116751269,0.0030000000000000027,Safe by all three raters
+CA-50,House,Scott Peters,DEM,0.997,0.976,0.997,Safe by all three raters
+CA-50,House,Stephen Cohen,REP,0.0030000000000000027,0.024,0.0030000000000000027,Safe by all three raters
+CA-51,House,Sara Jacobs,DEM,0.997,0.982,0.997,Safe by all three raters
+CA-51,House,Ricardo Cabrera,REP,0.0030000000000000027,0.018,0.0030000000000000027,Safe by all three raters
+CA-52,House,Juan Vargas,DEM,0.997,0.984984984984985,0.997,Safe by all three raters
+CA-52,House,Jeff Belle,REP,0.0030000000000000027,0.015015015015015015,0.0030000000000000027,Safe by all three raters
+CO-01,House,Melat Kiros,DEM,0.997,0.9830169830169831,0.997,Safe by all three raters
+CO-01,House,Christy Peterson,REP,0.0030000000000000027,0.016983016983016987,0.0030000000000000027,Safe by all three raters
+CO-02,House,Joe Neguse,DEM,0.997,0.9860279441117764,0.997,Safe by all three raters
+CO-02,House,Kelley Dennison,REP,0.0030000000000000027,0.013972055888223553,0.0030000000000000027,Safe by all three raters
+CO-03,House,Jeff Hurd,REP,0.9185048031343809,0.625,0.9515862653878183,"dossier late-info pool (w 0.25): Dwayne Romero 0.048 -> 0.081 (dossier 0.320, market_underrates_favourite, skeptic weakened)"
+CO-03,House,Dwayne Romero,DEM,0.08149519686561908,0.375,0.04841373461218173,"dossier late-info pool (w 0.25): Dwayne Romero 0.048 -> 0.081 (dossier 0.320, market_underrates_favourite, skeptic weakened)"
+CO-04,House,Lauren Boebert,REP,0.8959090284889859,0.6188118811881188,0.9352968454171059,"dossier late-info pool (w 0.25): Eileen Laubacher 0.065 -> 0.104 (dossier 0.355, market_about_right, skeptic upheld)"
+CO-04,House,Eileen Laubacher,DEM,0.10409097151101414,0.3811881188118812,0.06470315458289407,"dossier late-info pool (w 0.25): Eileen Laubacher 0.065 -> 0.104 (dossier 0.355, market_about_right, skeptic upheld)"
+CO-05,House,Jeff Crank,REP,0.4964365033578403,0.555,0.4768573191284663,"dossier late-info pool (w 0.25): Jessica Killin 0.523 -> 0.504 (dossier 0.445, market_about_right, skeptic upheld)"
+CO-05,House,Jessica Killin,DEM,0.5035634966421597,0.445,0.5231426808715337,"dossier late-info pool (w 0.25): Jessica Killin 0.523 -> 0.504 (dossier 0.445, market_about_right, skeptic upheld)"
+CO-06,House,Jason Crow,DEM,0.997,0.982,0.997,Safe by all three raters
+CO-06,House,Jason Clark,REP,0.0030000000000000027,0.018,0.0030000000000000027,Safe by all three raters
+CO-07,House,Brittany Pettersen,DEM,0.997,0.9869083585095669,0.997,Safe by all three raters
+CO-07,House,Tim Bennett,REP,0.0030000000000000027,0.01309164149043303,0.0030000000000000027,Safe by all three raters
+CO-08,House,Manny Rutinel,DEM,0.7901805297981551,0.865,0.7901805297981551,
+CO-08,House,Gabe Evans,REP,0.20981947020184488,0.135,0.20981947020184488,
+CT-01,House,Luke Bronin,DEM,0.997,0.9929789368104313,0.997,Safe by all three raters
+CT-01,House,Amy Chai,REP,0.0030000000000000027,0.007021063189568706,0.0030000000000000027,Safe by all three raters
+CT-02,House,Joe Courtney,DEM,0.997,0.9821073558648111,0.997,Safe by all three raters
+CT-02,House,George Austin,REP,0.0030000000000000027,0.017892644135188866,0.0030000000000000027,Safe by all three raters
+CT-03,House,Rosa DeLauro,DEM,0.997,0.9799599198396793,0.997,Safe by all three raters
+CT-03,House,Christopher Lancia,REP,0.0030000000000000027,0.02004008016032064,0.0030000000000000027,Safe by all three raters
+CT-04,House,Jim Himes,DEM,0.997,0.980980980980981,0.997,Safe by all three raters
+CT-04,House,Michael Goldstein,REP,0.0030000000000000027,0.019019019019019017,0.0030000000000000027,Safe by all three raters
+CT-05,House,Jahana Hayes,DEM,0.997,0.9738955823293173,0.997,Safe by all three raters
+CT-05,House,Chris Shea,REP,0.0030000000000000027,0.02610441767068273,0.0030000000000000027,Safe by all three raters
+DE-AL,House,Sarah McBride,DEM,0.997,0.9849094567404426,0.997,Safe by all three raters
+DE-AL,House,Joseph Arminio,REP,0.0030000000000000027,0.015090543259557344,0.0030000000000000027,Safe by all three raters
+FL-01,House,Jimmy Patronis,REP,0.997,0.9710867397806581,0.997,Safe by all three raters
+FL-01,House,Gay Valimont,DEM,0.003,0.028913260219341978,0.003,Safe by all three raters
+FL-02,House,Austin Rogers,REP,0.997,0.9133466135458168,0.997,Safe by all three raters
+FL-02,House,Amanda Green,DEM,0.003,0.08665338645418326,0.003,Safe by all three raters
+FL-03,House,Kat Cammack,REP,0.997,0.956,0.997,Safe by all three raters
+FL-03,House,Seth Harp,DEM,0.003,0.044,0.003,Safe by all three raters
+FL-04,House,Aaron Bean,REP,0.99207552802141,0.805,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): LaShonda Holloway 0.003 -> 0.008 (dossier 0.130, market_underrates_favourite, skeptic upheld)"
+FL-04,House,LaShonda Holloway,DEM,0.007924471978589982,0.195,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): LaShonda Holloway 0.003 -> 0.008 (dossier 0.130, market_underrates_favourite, skeptic upheld)"
+FL-05,House,John Rutherford,REP,0.997,0.9458917835671342,0.997,Safe by all three raters
+FL-05,House,Rachel Grage,DEM,0.003,0.05410821643286573,0.003,Safe by all three raters
+FL-06,House,Randy Fine,REP,0.997,0.9718309859154929,0.997,Safe by all three raters
+FL-06,House,Eric Yonce,DEM,0.003,0.028169014084507043,0.003,Safe by all three raters
+FL-07,House,Ryan Elijah,REP,0.8967055855416333,0.655,0.9318092548639844,"dossier late-info pool (w 0.25): Bale Dalton 0.068 -> 0.103 (dossier 0.310, market_about_right, skeptic upheld)"
+FL-07,House,Bale Dalton,DEM,0.10329441445836672,0.345,0.06819074513601564,"dossier late-info pool (w 0.25): Bale Dalton 0.068 -> 0.103 (dossier 0.310, market_about_right, skeptic upheld)"
+FL-08,House,Mike Haridopolos,REP,0.997,0.935064935064935,0.997,Safe by all three raters
+FL-08,House,Jennifer Jenkins,DEM,0.003,0.06493506493506493,0.003,Safe by all three raters
+FL-09,House,Dan Green,REP,0.9053844919440363,0.635,0.9444845941166807,"dossier late-info pool (w 0.25): Darren Soto 0.056 -> 0.095 (dossier 0.370, market_about_right, skeptic upheld)"
+FL-09,House,Darren Soto,DEM,0.09461550805596372,0.365,0.055515405883319255,"dossier late-info pool (w 0.25): Darren Soto 0.056 -> 0.095 (dossier 0.370, market_about_right, skeptic upheld)"
+FL-10,House,Maxwell Frost,DEM,0.999,0.982,0.999,no real opponent on the ballot; Safe by all three raters
+FL-10,House,Republican party,REP,0.0010000000000000009,0.018,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+FL-11,House,Joe Strada,REP,0.997,0.8663366336633663,0.997,Safe by all three raters
+FL-11,House,James Pericola,DEM,0.003,0.13366336633663367,0.003,Safe by all three raters
+FL-12,House,Gus Bilirakis,REP,0.9800881294415849,0.845,0.9881544912430078,"dossier late-info pool (w 0.25): Kimberly Overman 0.012 -> 0.020 (dossier 0.090, market_underrates_favourite, skeptic weakened)"
+FL-12,House,Kimberly Overman,DEM,0.019911870558415198,0.155,0.011845508756992154,"dossier late-info pool (w 0.25): Kimberly Overman 0.012 -> 0.020 (dossier 0.090, market_underrates_favourite, skeptic weakened)"
+FL-13,House,Anna Paulina Luna,REP,0.7957289962657934,0.625,0.8266149595970551,"dossier late-info pool (w 0.25): Leela Gray 0.173 -> 0.204 (dossier 0.320, market_underrates_favourite, skeptic weakened)"
+FL-13,House,Leela Gray,DEM,0.2042710037342066,0.375,0.17338504040294495,"dossier late-info pool (w 0.25): Leela Gray 0.173 -> 0.204 (dossier 0.320, market_underrates_favourite, skeptic weakened)"
+FL-14,House,Kathy Castor,DEM,0.6387165898619319,0.7424242424242424,0.6189744266349837,"dossier late-info pool (w 0.25): Mike Beltran 0.381 -> 0.361 (dossier 0.305, market_about_right, skeptic upheld)"
+FL-14,House,Mike Beltran,REP,0.3612834101380681,0.25757575757575757,0.3810255733650163,"dossier late-info pool (w 0.25): Mike Beltran 0.381 -> 0.361 (dossier 0.305, market_about_right, skeptic upheld)"
+FL-15,House,Laurel Lee,REP,0.997,0.9348044132397191,0.997,Safe by all three raters
+FL-15,House,Robert People,DEM,0.003,0.06519558676028084,0.003,Safe by all three raters
+FL-16,House,Sydney Gruters,REP,0.9457336433261418,0.755,0.9676572422626234,"dossier late-info pool (w 0.25): Kelly Kirschner 0.032 -> 0.054 (dossier 0.225, market_about_right, skeptic upheld)"
+FL-16,House,Kelly Kirschner,DEM,0.0542663566738581,0.245,0.032342757737376646,"dossier late-info pool (w 0.25): Kelly Kirschner 0.032 -> 0.054 (dossier 0.225, market_about_right, skeptic upheld)"
+FL-17,House,Greg Steube,REP,0.997,0.966,0.997,Safe by all three raters
+FL-17,House,Matthew Montavon,DEM,0.003,0.034,0.003,Safe by all three raters
+FL-18,House,Scott Franklin,REP,0.997,0.9142572283150547,0.997,Safe by all three raters
+FL-18,House,Curtis Gibson,DEM,0.003,0.08574277168494515,0.003,Safe by all three raters
+FL-19,House,Jim Schwartzel,REP,0.997,0.9651046859421736,0.997,Safe by all three raters
+FL-19,House,Victor Arias,DEM,0.003,0.034895314057826525,0.003,Safe by all three raters
+FL-20,House,Debbie Wasserman Schultz,DEM,0.997,0.9829829829829829,0.997,Safe by all three raters
+FL-20,House,Brent Andersen,REP,0.0030000000000000027,0.01701701701701702,0.0030000000000000027,Safe by all three raters
+FL-21,House,Brian Mast,REP,0.997,0.8894472361809045,0.997,Safe by all three raters
+FL-21,House,James Martin,DEM,0.003,0.11055276381909548,0.003,Safe by all three raters
+FL-22,House,Pia Dandiya,DEM,0.5229314190504213,0.715,0.5104983085744047,"dossier late-info pool (w 0.25): Casey Askar 0.490 -> 0.477 (dossier 0.440, market_underrates_underdog, skeptic upheld)"
+FL-22,House,Casey Askar,REP,0.47706858094957866,0.285,0.4895016914255953,"dossier late-info pool (w 0.25): Casey Askar 0.490 -> 0.477 (dossier 0.440, market_underrates_underdog, skeptic upheld)"
+FL-23,House,Lois Frankel,DEM,0.997,0.9798792756539235,0.997,Safe by all three raters
+FL-23,House,Deborah Adeimy,REP,0.0030000000000000027,0.02012072434607646,0.0030000000000000027,Safe by all three raters
+FL-24,House,Oliver Gilbert,DEM,0.997,0.9850149850149851,0.997,Safe by all three raters
+FL-24,House,Mayonna Te Brown,REP,0.0030000000000000027,0.014985014985014986,0.0030000000000000027,Safe by all three raters
+FL-25,House,Jared Moskowitz,DEM,0.78391651576923,0.8168316831683168,0.7835544766301937,"dossier late-info pool (w 0.25): Scott Singer 0.216 -> 0.216 (dossier 0.215, market_about_right, skeptic upheld)"
+FL-25,House,Scott Singer,REP,0.21608348423076995,0.18316831683168316,0.21644552336980627,"dossier late-info pool (w 0.25): Scott Singer 0.216 -> 0.216 (dossier 0.215, market_about_right, skeptic upheld)"
+FL-26,House,Mario Díaz-Balart,REP,0.997,0.855,0.997,Safe by all three raters
+FL-26,House,Nicole Locklin,DEM,0.003,0.145,0.003,Safe by all three raters
+FL-27,House,Maria Elvira Salazar,REP,0.8058672615901343,0.635,0.8453768564513504,"dossier late-info pool (w 0.25): Eliott Rodriguez 0.155 -> 0.194 (dossier 0.355, market_about_right, skeptic upheld)"
+FL-27,House,Eliott Rodriguez,DEM,0.1941327384098657,0.365,0.15462314354864956,"dossier late-info pool (w 0.25): Eliott Rodriguez 0.155 -> 0.194 (dossier 0.355, market_about_right, skeptic upheld)"
+FL-28,House,Carlos Giménez,REP,0.997,0.9271457085828344,0.997,Safe by all three raters
+FL-28,House,Phil Ehr,DEM,0.003,0.07285429141716566,0.003,Safe by all three raters
+GA-01,House,Jim Kingston,REP,0.997,0.9133466135458168,0.997,Safe by all three raters
+GA-01,House,Amanda Hollowell,DEM,0.003,0.08665338645418326,0.003,Safe by all three raters
+GA-02,House,Sanford Bishop,DEM,0.997,0.978978978978979,0.997,Safe by all three raters
+GA-02,House,Matt Day,REP,0.0030000000000000027,0.021021021021021023,0.0030000000000000027,Safe by all three raters
+GA-03,House,Brian Jack,REP,0.997,0.953,0.997,Safe by all three raters
+GA-03,House,Maura Keller,DEM,0.003,0.047,0.003,Safe by all three raters
+GA-04,House,Hank Johnson,DEM,0.997,0.989,0.997,Safe by all three raters
+GA-04,House,James Duffie,REP,0.0030000000000000027,0.011,0.0030000000000000027,Safe by all three raters
+GA-05,House,Nikema Williams,DEM,0.997,0.9919839679358717,0.997,Safe by all three raters
+GA-05,House,John Salvesen,REP,0.0030000000000000027,0.008016032064128256,0.0030000000000000027,Safe by all three raters
+GA-06,House,Lucy McBath,DEM,0.997,0.9890109890109892,0.997,Safe by all three raters
+GA-06,House,Kevin Martin,REP,0.0030000000000000027,0.01098901098901099,0.0030000000000000027,Safe by all three raters
+GA-07,House,Rich McCormick,REP,0.997,0.9280719280719281,0.997,Safe by all three raters
+GA-07,House,Anthony Kozycki,DEM,0.003,0.07192807192807192,0.003,Safe by all three raters
+GA-08,House,Austin Scott,REP,0.997,0.984047856430708,0.997,Safe by all three raters
+GA-08,House,Kelly Esti,DEM,0.003,0.015952143569292126,0.003,Safe by all three raters
+GA-09,House,Andrew Clyde,REP,0.997,0.9798792756539235,0.997,Safe by all three raters
+GA-09,House,Caitlyn Gegen,DEM,0.003,0.02012072434607646,0.003,Safe by all three raters
+GA-10,House,Houston Gaines,REP,0.997,0.9789579158316634,0.997,Safe by all three raters
+GA-10,House,Pamela DeLancy,DEM,0.003,0.021042084168336674,0.003,Safe by all three raters
+GA-11,House,John Cowan,REP,0.997,0.9628140703517588,0.997,Safe by all three raters
+GA-11,House,Chris Harden,DEM,0.003,0.0371859296482412,0.003,Safe by all three raters
+GA-12,House,Rick Allen,REP,0.997,0.855,0.997,Safe by all three raters
+GA-12,House,Ceretta Smith,DEM,0.003,0.145,0.003,Safe by all three raters
+GA-13,House,Jasmine Clark,DEM,0.997,0.9850149850149851,0.997,Safe by all three raters
+GA-13,House,Jonathan Chavez,REP,0.0030000000000000027,0.014985014985014986,0.0030000000000000027,Safe by all three raters
+GA-14,House,Clay Fuller,REP,0.997,0.9799599198396793,0.997,Safe by all three raters
+GA-14,House,Shawn Harris,DEM,0.003,0.02004008016032064,0.003,Safe by all three raters
+HI-01,House,Ed Case,DEM,0.997,0.9859719438877755,0.997,Safe by all three raters
+HI-01,House,Adriel Lam,REP,0.0030000000000000027,0.014028056112224449,0.0030000000000000027,Safe by all three raters
+HI-02,House,Jill Tokuda,DEM,0.997,0.9669669669669669,0.997,Safe by all three raters
+HI-02,House,Brenton Awa,REP,0.0030000000000000027,0.03303303303303304,0.0030000000000000027,Safe by all three raters
+IA-01,House,Christina Bohannan,DEM,0.8995661509915956,0.90702274975272,0.8995661509915956,
+IA-01,House,Mariannette Miller-Meeks,REP,0.09943384900840435,0.0830860534124629,0.09943384900840435,
+IA-01,House,Michael Bridgford,IND,0.001,0.009891196834817012,0.001,
+IA-02,House,Lindsay James,DEM,0.6593799065626675,0.7263681592039801,0.6488534055510389,"dossier late-info pool (w 0.25): Joe Mitchell 0.351 -> 0.341 (dossier 0.310, market_about_right, skeptic weakened)"
+IA-02,House,Joe Mitchell,REP,0.3406200934373325,0.27363184079601993,0.3511465944489611,"dossier late-info pool (w 0.25): Joe Mitchell 0.351 -> 0.341 (dossier 0.310, market_about_right, skeptic weakened)"
+IA-03,House,Sarah Trone Garriott,DEM,0.8041541819320474,0.8465346534653465,0.7949038051112239,"dossier late-info pool (w 0.25): Zach Nunn 0.205 -> 0.196 (dossier 0.170, market_about_right, skeptic upheld)"
+IA-03,House,Zach Nunn,REP,0.19584581806795262,0.15346534653465346,0.20509619488877606,"dossier late-info pool (w 0.25): Zach Nunn 0.205 -> 0.196 (dossier 0.170, market_about_right, skeptic upheld)"
+IA-04,House,Chris McGowan,REP,0.997,0.9829829829829829,0.997,Safe by all three raters
+IA-04,House,Dave Dawson,DEM,0.003,0.01701701701701702,0.003,Safe by all three raters
+ID-01,House,Russ Fulcher,REP,0.997,0.9790209790209791,0.997,Safe by all three raters
+ID-01,House,Kaylee Peterson,DEM,0.003,0.020979020979020983,0.003,Safe by all three raters
+ID-02,House,Mike Simpson,REP,0.997,0.9757085020242915,0.997,Safe by all three raters
+ID-02,House,Elinor Gilbreath,DEM,0.003,0.024291497975708502,0.003,Safe by all three raters
+IL-01,House,Jonathan Jackson,DEM,0.997,0.9729729729729729,0.997,Safe by all three raters
+IL-01,House,Christian Maxwell,REP,0.0030000000000000027,0.027027027027027025,0.0030000000000000027,Safe by all three raters
+IL-02,House,Donna Miller,DEM,0.997,0.9889224572004028,0.997,Safe by all three raters
+IL-02,House,Michael Noack,REP,0.0030000000000000027,0.01107754279959718,0.0030000000000000027,Safe by all three raters
+IL-03,House,Delia Ramirez,DEM,0.997,0.98,0.997,Safe by all three raters
+IL-03,House,Angel Oakley,REP,0.0030000000000000027,0.02,0.0030000000000000027,Safe by all three raters
+IL-04,House,Patty Garcia,DEM,0.995,0.9375619425173439,0.995,Safe by all three raters
+IL-04,House,Chris Getty,IND,0.001,0.05450941526263628,0.001,Safe by all three raters
+IL-04,House,Mayra Macías,IND,0.001,0.004955401387512389,0.001,Safe by all three raters
+IL-04,House,Lupe Castillo,REP,0.0030000000000000027,0.0029732408325074335,0.0030000000000000027,Safe by all three raters
+IL-05,House,Mike Quigley,DEM,0.997,0.9720558882235528,0.997,Safe by all three raters
+IL-05,House,Tommy Hanson,REP,0.0030000000000000027,0.027944111776447105,0.0030000000000000027,Safe by all three raters
+IL-06,House,Sean Casten,DEM,0.997,0.9868686868686869,0.997,Safe by all three raters
+IL-06,House,Niki Conforti,REP,0.0030000000000000027,0.013131313131313131,0.0030000000000000027,Safe by all three raters
+IL-07,House,La Shawn Ford,DEM,0.997,0.9889447236180905,0.997,Safe by all three raters
+IL-07,House,Chad Koppie,REP,0.0030000000000000027,0.011055276381909547,0.0030000000000000027,Safe by all three raters
+IL-08,House,Melissa Bean,DEM,0.997,0.9595959595959596,0.997,Safe by all three raters
+IL-08,House,Jennifer Davis,REP,0.0030000000000000027,0.04040404040404041,0.0030000000000000027,Safe by all three raters
+IL-09,House,Daniel Biss,DEM,0.997,0.982,0.997,Safe by all three raters
+IL-09,House,John Elleson,REP,0.0030000000000000027,0.018,0.0030000000000000027,Safe by all three raters
+IL-10,House,Brad Schneider,DEM,0.997,0.974,0.997,Safe by all three raters
+IL-10,House,Carl Lambrecht,REP,0.0030000000000000027,0.026,0.0030000000000000027,Safe by all three raters
+IL-11,House,Bill Foster,DEM,0.997,0.9868686868686869,0.997,Safe by all three raters
+IL-11,House,Jeff Walter,REP,0.0030000000000000027,0.013131313131313131,0.0030000000000000027,Safe by all three raters
+IL-12,House,Mike Bost,REP,0.997,0.9738955823293173,0.997,Safe by all three raters
+IL-12,House,Julie Fortier,DEM,0.003,0.02610441767068273,0.003,Safe by all three raters
+IL-13,House,Nikki Budzinski,DEM,0.997,0.9749247743229689,0.997,Safe by all three raters
+IL-13,House,Jeff Wilson,REP,0.0030000000000000027,0.025075225677031094,0.0030000000000000027,Safe by all three raters
+IL-14,House,Lauren Underwood,DEM,0.997,0.9800199800199801,0.997,Safe by all three raters
+IL-14,House,James Marter,REP,0.0030000000000000027,0.019980019980019983,0.0030000000000000027,Safe by all three raters
+IL-15,House,Mary Miller,REP,0.997,0.9580838323353293,0.997,Safe by all three raters
+IL-15,House,Jennifer Todd,DEM,0.003,0.04191616766467066,0.003,Safe by all three raters
+IL-16,House,Darin LaHood,REP,0.997,0.9669669669669669,0.997,Safe by all three raters
+IL-16,House,Paul Nolley,DEM,0.003,0.03303303303303304,0.003,Safe by all three raters
+IL-17,House,Eric Sorensen,DEM,0.997,0.9598393574297188,0.997,Safe by all three raters
+IL-17,House,Dillan Vancil,REP,0.0030000000000000027,0.040160642570281124,0.0030000000000000027,Safe by all three raters
+IN-01,House,Frank Mrvan,DEM,0.965845403419202,0.9758308157099698,0.965845403419202,
+IN-01,House,Barb Regnitz,REP,0.034154596580798,0.02416918429003021,0.034154596580798,
+IN-02,House,Rudy Yakym,REP,0.997,0.9709418837675351,0.997,Safe by all three raters
+IN-02,House,Jamee Decio,DEM,0.003,0.02905811623246493,0.003,Safe by all three raters
+IN-03,House,Marlin Stutzman,REP,0.997,0.9651046859421736,0.997,Safe by all three raters
+IN-03,House,Kelly Thompson,DEM,0.003,0.034895314057826525,0.003,Safe by all three raters
+IN-04,House,Jim Baird,REP,0.997,0.9700598802395209,0.997,Safe by all three raters
+IN-04,House,Drew Cox,DEM,0.003,0.029940119760479042,0.003,Safe by all three raters
+IN-05,House,Victoria Spartz,REP,0.9258708170819786,0.835,0.9500113737254842,"dossier late-info pool (w 0.25): J.D. Ford 0.050 -> 0.074 (dossier 0.220, market_underrates_underdog, skeptic weakened)"
+IN-05,House,J.D. Ford,DEM,0.0741291829180214,0.165,0.049988626274515856,"dossier late-info pool (w 0.25): J.D. Ford 0.050 -> 0.074 (dossier 0.220, market_underrates_underdog, skeptic weakened)"
+IN-06,House,Jefferson Shreve,REP,0.997,0.9759036144578314,0.997,Safe by all three raters
+IN-06,House,Cynthia Wirth,DEM,0.003,0.024096385542168676,0.003,Safe by all three raters
+IN-07,House,André Carson,DEM,0.997,0.9849699398797596,0.997,Safe by all three raters
+IN-07,House,Patrick McAuley,REP,0.0030000000000000027,0.01503006012024048,0.0030000000000000027,Safe by all three raters
+IN-08,House,Mark Messmer,REP,0.997,0.963,0.997,Safe by all three raters
+IN-08,House,Mary Allen,DEM,0.003,0.037,0.003,Safe by all three raters
+IN-09,House,Erin Houchin,REP,0.997,0.9779116465863453,0.997,Safe by all three raters
+IN-09,House,Brad Meyer,DEM,0.003,0.022088353413654616,0.003,Safe by all three raters
+KS-01,House,Tracey Mann,REP,0.997,0.962,0.997,Safe by all three raters
+KS-01,House,Lauren Reinhold,DEM,0.003,0.038,0.003,Safe by all three raters
+KS-02,House,Derek Schmidt,REP,0.9591852459821575,0.8069306930693069,0.9756962734068869,"dossier late-info pool (w 0.25): Don Coover 0.024 -> 0.041 (dossier 0.175, market_about_right, skeptic upheld)"
+KS-02,House,Don Coover,DEM,0.040814754017842535,0.19306930693069307,0.02430372659311307,"dossier late-info pool (w 0.25): Don Coover 0.024 -> 0.041 (dossier 0.175, market_about_right, skeptic upheld)"
+KS-03,House,Sharice Davids,DEM,0.997,0.9581256231306082,0.997,Safe by all three raters
+KS-03,House,Eric Jenkins,REP,0.0030000000000000027,0.041874376869391834,0.0030000000000000027,Safe by all three raters
+KS-04,House,Ron Estes,REP,0.997,0.9590409590409591,0.997,Safe by all three raters
+KS-04,House,Katy Tyndell,DEM,0.003,0.04095904095904097,0.003,Safe by all three raters
+KY-01,House,James Comer,REP,0.997,0.9829488465396189,0.997,Safe by all three raters
+KY-01,House,Drew Williams,DEM,0.003,0.017051153460381146,0.003,Safe by all three raters
+KY-02,House,Brett Guthrie,REP,0.997,0.980980980980981,0.997,Safe by all three raters
+KY-02,House,Megan Wingfield,DEM,0.003,0.019019019019019017,0.003,Safe by all three raters
+KY-03,House,Morgan McGarvey,DEM,0.997,0.9741035856573705,0.997,Safe by all three raters
+KY-03,House,Maria Rodriguez,REP,0.0030000000000000027,0.02589641434262948,0.0030000000000000027,Safe by all three raters
+KY-04,House,Ed Gallrein,REP,0.997,0.9670329670329672,0.997,Safe by all three raters
+KY-04,House,Melissa Claire Strange,DEM,0.003,0.032967032967032975,0.003,Safe by all three raters
+KY-05,House,Hal Rogers,REP,0.997,0.992,0.997,Safe by all three raters
+KY-05,House,Ned Pillersdorf,DEM,0.003,0.008,0.003,Safe by all three raters
+KY-06,House,Zach Dembo,DEM,0.5420788082835815,0.5495049504950495,0.5360784482917771,"dossier late-info pool (w 0.25): Ralph Alvarado 0.464 -> 0.458 (dossier 0.440, market_about_right, skeptic upheld)"
+KY-06,House,Ralph Alvarado,REP,0.4579211917164185,0.4504950495049505,0.4639215517082229,"dossier late-info pool (w 0.25): Ralph Alvarado 0.464 -> 0.458 (dossier 0.440, market_about_right, skeptic upheld)"
+LA-01,House,Republican party,REP,0.997,0.9718875502008032,0.997,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-01,House,Democratic party,DEM,0.003,0.028112449799196786,0.003,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-02,House,Democratic party,DEM,0.997,0.9849699398797596,0.997,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-02,House,Republican party,REP,0.0030000000000000027,0.01503006012024048,0.0030000000000000027,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-03,House,Republican party,REP,0.997,0.9750747756729812,0.997,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-03,House,Democratic party,DEM,0.003,0.024925224327018946,0.003,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-04,House,Republican party,REP,0.997,0.9550449550449551,0.997,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-04,House,Democratic party,DEM,0.003,0.04495504495504496,0.003,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-05,House,Republican party,REP,0.994903793182248,0.9791044776119404,0.994903793182248,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast
+LA-05,House,Democratic party,DEM,0.005096206817752056,0.020895522388059706,0.005096206817752056,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast
+LA-06,House,Republican party,REP,0.997,0.952,0.997,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+LA-06,House,Democratic party,DEM,0.003,0.048,0.003,LA all-party primary Nov 3 (runoff Dec 12): party-level forecast; Safe by all three raters
+MA-01,House,Richard Neal,DEM,0.999,0.9919191919191919,0.999,no real opponent on the ballot; Safe by all three raters
+MA-01,House,Republican party,REP,0.0010000000000000009,0.00808080808080808,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+MA-02,House,Jim McGovern,DEM,0.999,0.9880119880119881,0.999,no real opponent on the ballot; Safe by all three raters
+MA-02,House,Republican party,REP,0.0010000000000000009,0.01198801198801199,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+MA-03,House,Lori Trahan,DEM,0.997,0.9780439121756487,0.997,Safe by all three raters
+MA-03,House,Gary Grossi,REP,0.0030000000000000027,0.021956087824351295,0.0030000000000000027,Safe by all three raters
+MA-04,House,Jake Auchincloss,DEM,0.997,0.9829317269076305,0.997,Safe by all three raters
+MA-04,House,Tom Stalcup,REP,0.0030000000000000027,0.01706827309236948,0.0030000000000000027,Safe by all three raters
+MA-05,House,Katherine Clark,DEM,0.999,0.9899396378269618,0.999,no real opponent on the ballot; Safe by all three raters
+MA-05,House,Republican party,REP,0.0010000000000000009,0.01006036217303823,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+MA-06,House,Dan Koh,DEM,0.997,0.9637826961770624,0.997,Safe by all three raters
+MA-06,House,Micah Jones,REP,0.0030000000000000027,0.03621730382293762,0.0030000000000000027,Safe by all three raters
+MA-07,House,Ayanna Pressley,DEM,0.999,0.9870129870129871,0.999,no real opponent on the ballot; Safe by all three raters
+MA-07,House,Republican party,REP,0.0010000000000000009,0.012987012987012988,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+MA-08,House,Stephen Lynch,DEM,0.997,0.9791044776119404,0.997,Safe by all three raters
+MA-08,House,Robert Burke,REP,0.0030000000000000027,0.020895522388059706,0.0030000000000000027,Safe by all three raters
+MA-09,House,Bill Keating,DEM,0.997,0.9810189810189811,0.997,Safe by all three raters
+MA-09,House,Tyler MacAllister,REP,0.0030000000000000027,0.018981018981018984,0.0030000000000000027,Safe by all three raters
+MD-01,House,Andy Harris,REP,0.9958784237133161,0.8636363636363636,0.9958784237133161,
+MD-01,House,Dan Schwartz,DEM,0.004121576286683887,0.13636363636363638,0.004121576286683887,
+MD-02,House,Johnny Olszewski,DEM,0.997,0.9919517102615694,0.997,Safe by all three raters
+MD-02,House,Dave Wallace,REP,0.0030000000000000027,0.008048289738430584,0.0030000000000000027,Safe by all three raters
+MD-03,House,Sarah Elfreth,DEM,0.997,0.9741035856573705,0.997,Safe by all three raters
+MD-03,House,Berney Flowers,REP,0.0030000000000000027,0.02589641434262948,0.0030000000000000027,Safe by all three raters
+MD-04,House,Glenn Ivey,DEM,0.997,0.991,0.997,Safe by all three raters
+MD-04,House,George McDermott,REP,0.0030000000000000027,0.009,0.0030000000000000027,Safe by all three raters
+MD-05,House,Adrian Boafo,DEM,0.997,0.9830508474576272,0.997,Safe by all three raters
+MD-05,House,Chris Chaffee,REP,0.0030000000000000027,0.016949152542372885,0.0030000000000000027,Safe by all three raters
+MD-06,House,April McClain Delaney,DEM,0.997,0.9789368104312939,0.997,Safe by all three raters
+MD-06,House,Robin Ficker,REP,0.0030000000000000027,0.02106318956870612,0.0030000000000000027,Safe by all three raters
+MD-07,House,Kweisi Mfume,DEM,0.997,0.9949647532729103,0.997,Safe by all three raters
+MD-07,House,Scott Collier,REP,0.0030000000000000027,0.005035246727089627,0.0030000000000000027,Safe by all three raters
+MD-08,House,Jamie Raskin,DEM,0.997,0.9860418743768695,0.997,Safe by all three raters
+MD-08,House,Cheryl Riley,REP,0.0030000000000000027,0.01395812562313061,0.0030000000000000027,Safe by all three raters
+ME-01,House,Chellie Pingree,DEM,0.997,0.9790209790209791,0.997,Safe by all three raters
+ME-01,House,Ronald Russell,REP,0.0030000000000000027,0.020979020979020983,0.0030000000000000027,Safe by all three raters
+ME-02,House,Paul LePage,REP,0.7161655675310199,0.5606060606060607,0.7686432237094409,"dossier late-info pool (w 0.25): Matt Dunlap 0.231 -> 0.284 (dossier 0.475, market_underrates_underdog, skeptic weakened)"
+ME-02,House,Matt Dunlap,DEM,0.28383443246898016,0.4393939393939394,0.23135677629055906,"dossier late-info pool (w 0.25): Matt Dunlap 0.231 -> 0.284 (dossier 0.475, market_underrates_underdog, skeptic weakened)"
+MI-01,House,Jack Bergman,REP,0.997,0.8663366336633663,0.997,Safe by all three raters
+MI-01,House,Callie Barr,DEM,0.003,0.13366336633663367,0.003,Safe by all three raters
+MI-02,House,John Moolenaar,REP,0.997,0.988988988988989,0.997,Safe by all three raters
+MI-02,House,Benjamin Ambrose,DEM,0.003,0.011011011011011011,0.003,Safe by all three raters
+MI-03,House,Hillary Scholten,DEM,0.9917068463306169,0.9628886659979939,0.9917068463306169,
+MI-03,House,Terri DeBoer,REP,0.008293153669383102,0.037111334002006016,0.008293153669383102,
+MI-04,House,Sean McCann,DEM,0.5122545113249026,0.615,0.49455286176140334,"dossier late-info pool (w 0.25): Bill Huizenga 0.505 -> 0.488 (dossier 0.435, market_underrates_underdog, skeptic weakened)"
+MI-04,House,Bill Huizenga,REP,0.4877454886750974,0.385,0.5054471382385967,"dossier late-info pool (w 0.25): Bill Huizenga 0.505 -> 0.488 (dossier 0.435, market_underrates_underdog, skeptic weakened)"
+MI-05,House,Tim Walberg,REP,0.997,0.9391824526420738,0.997,Safe by all three raters
+MI-05,House,Christian Vukasovich,DEM,0.003,0.06081754735792623,0.003,Safe by all three raters
+MI-06,House,Debbie Dingell,DEM,0.997,0.9829829829829829,0.997,Safe by all three raters
+MI-06,House,Heather Smiley,REP,0.0030000000000000027,0.01701701701701702,0.0030000000000000027,Safe by all three raters
+MI-07,House,William Lawrence,DEM,0.7121457967469376,0.7828282828282829,0.6804833607316763,"dossier late-info pool (w 0.25): Tom Barrett 0.320 -> 0.288 (dossier 0.205, market_about_right, skeptic upheld)"
+MI-07,House,Tom Barrett,REP,0.28785420325306244,0.21717171717171718,0.31951663926832374,"dossier late-info pool (w 0.25): Tom Barrett 0.320 -> 0.288 (dossier 0.205, market_about_right, skeptic upheld)"
+MI-08,House,Kristen McDonald Rivet,DEM,0.977873717987457,0.9737638748738647,0.977873717987457,
+MI-08,House,Thomas J. Smith,REP,0.022126282012542964,0.026236125126135216,0.022126282012542964,
+MI-09,House,Lisa McClain,REP,0.997,0.9759036144578314,0.997,Safe by all three raters
+MI-09,House,Ray Pooley,DEM,0.003,0.024096385542168676,0.003,Safe by all three raters
+MI-10,House,Christina Hines,DEM,0.4492139841335525,0.7574257425742574,0.391247544999175,"dossier late-info pool (w 0.25): Michael Bouchard Jr. 0.609 -> 0.551 (dossier 0.375, market_underrates_underdog, skeptic weakened)"
+MI-10,House,Michael Bouchard Jr.,REP,0.5507860158664475,0.24257425742574257,0.608752455000825,"dossier late-info pool (w 0.25): Michael Bouchard Jr. 0.609 -> 0.551 (dossier 0.375, market_underrates_underdog, skeptic weakened)"
+MI-11,House,Jeremy Moss,DEM,0.997,0.9868554095045501,0.997,Safe by all three raters
+MI-11,House,Ethan Baker,REP,0.0030000000000000027,0.01314459049544995,0.0030000000000000027,Safe by all three raters
+MI-12,House,Rashida Tlaib,DEM,0.997,0.9830169830169831,0.997,Safe by all three raters
+MI-12,House,James Hooper,REP,0.0030000000000000027,0.016983016983016987,0.0030000000000000027,Safe by all three raters
+MI-13,House,Donavan McKinney,DEM,0.997,0.9779559118236473,0.997,Safe by all three raters
+MI-13,House,T.P. Nykoriak,REP,0.0030000000000000027,0.022044088176352703,0.0030000000000000027,Safe by all three raters
+MN-01,House,Brad Finstad,REP,0.7637498999121273,0.6089108910891089,0.8151878238756548,"dossier late-info pool (w 0.25): Jake Johnson 0.185 -> 0.236 (dossier 0.440, market_underrates_underdog, skeptic weakened)"
+MN-01,House,Jake Johnson,DEM,0.23625010008787276,0.3910891089108911,0.18481217612434517,"dossier late-info pool (w 0.25): Jake Johnson 0.185 -> 0.236 (dossier 0.440, market_underrates_underdog, skeptic weakened)"
+MN-02,House,Matt Little,DEM,0.9882500860471441,0.9465186680121089,0.9882500860471441,
+MN-02,House,Eric Pratt,REP,0.01174991395285585,0.05348133198789102,0.01174991395285585,
+MN-03,House,Kelly Morrison,DEM,0.997,0.9721115537848606,0.997,Safe by all three raters
+MN-03,House,Tyler Bass,REP,0.0030000000000000027,0.027888446215139442,0.0030000000000000027,Safe by all three raters
+MN-04,House,Betty McCollum,DEM,0.997,0.9738430583501005,0.997,Safe by all three raters
+MN-04,House,Paul Wikstrom,REP,0.0030000000000000027,0.026156941649899394,0.0030000000000000027,Safe by all three raters
+MN-05,House,Ilhan Omar,DEM,0.996,0.9651394422310756,0.996,Safe by all three raters
+MN-05,House,John Nagel,REP,0.0030000000000000027,0.0298804780876494,0.0030000000000000027,Safe by all three raters
+MN-05,House,DeVelle Jackson,IND,0.001,0.0049800796812749,0.001,Safe by all three raters
+MN-06,House,Tom Emmer,REP,0.997,0.9323383084577114,0.997,Safe by all three raters
+MN-06,House,Doug Chapin,DEM,0.003,0.06766169154228856,0.003,Safe by all three raters
+MN-07,House,Michelle Fischbach,REP,0.997,0.96,0.997,Safe by all three raters
+MN-07,House,Erik Osberg,DEM,0.003,0.04,0.003,Safe by all three raters
+MN-08,House,Pete Stauber,REP,0.9921633895314895,0.8465346534653465,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): Trina Swanson 0.003 -> 0.008 (dossier 0.125, market_about_right, skeptic upheld)"
+MN-08,House,Trina Swanson,DEM,0.00783661046851043,0.15346534653465346,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): Trina Swanson 0.003 -> 0.008 (dossier 0.125, market_about_right, skeptic upheld)"
+MO-01,House,Wesley Bell,DEM,0.997,0.990990990990991,0.997,Safe by all three raters
+MO-01,House,Paul Berry,REP,0.0030000000000000027,0.009009009009009009,0.0030000000000000027,Safe by all three raters
+MO-02,House,Ann Wagner,REP,0.8493289481465804,0.6313131313131313,0.9019106676111566,"dossier late-info pool (w 0.25): Fred Wellman 0.098 -> 0.151 (dossier 0.435, market_underrates_underdog, skeptic weakened)"
+MO-02,House,Fred Wellman,DEM,0.15067105185341956,0.3686868686868687,0.09808933238884342,"dossier late-info pool (w 0.25): Fred Wellman 0.098 -> 0.151 (dossier 0.435, market_underrates_underdog, skeptic weakened)"
+MO-03,House,Bob Onder,REP,0.997,0.9710867397806581,0.997,Safe by all three raters
+MO-03,House,Bethany Mann,DEM,0.003,0.028913260219341978,0.003,Safe by all three raters
+MO-04,House,Mark Alford,REP,0.997,0.968,0.997,Safe by all three raters
+MO-04,House,Jordan Herrera,DEM,0.003,0.032,0.003,Safe by all three raters
+MO-05,House,Emanuel Cleaver,DEM,0.997,0.9669669669669669,0.997,Safe by all three raters
+MO-05,House,Rick Brattin,REP,0.0030000000000000027,0.03303303303303304,0.0030000000000000027,Safe by all three raters
+MO-06,House,Chris Stigall,REP,0.997,0.9748237663645518,0.997,Safe by all three raters
+MO-06,House,Josh Smead,DEM,0.003,0.025176233635448138,0.003,Safe by all three raters
+MO-07,House,Eric Burlison,REP,0.997,0.96996996996997,0.997,Safe by all three raters
+MO-07,House,Missi Hesketh,DEM,0.003,0.03003003003003003,0.003,Safe by all three raters
+MO-08,House,Jason Smith,REP,0.997,0.988988988988989,0.997,Safe by all three raters
+MO-08,House,Chris Reichard,DEM,0.003,0.011011011011011011,0.003,Safe by all three raters
+MS-01,House,Trent Kelly,REP,0.997,0.9779559118236473,0.997,Safe by all three raters
+MS-01,House,Cliff Johnson,DEM,0.003,0.022044088176352703,0.003,Safe by all three raters
+MS-02,House,Bennie Thompson,DEM,0.997,0.986,0.997,Safe by all three raters
+MS-02,House,Ron Eller,REP,0.0030000000000000027,0.014,0.0030000000000000027,Safe by all three raters
+MS-03,House,Michael Guest,REP,0.997,0.9830169830169831,0.997,Safe by all three raters
+MS-03,House,Michael Chiaradio,DEM,0.003,0.016983016983016987,0.003,Safe by all three raters
+MS-04,House,Mike Ezell,REP,0.997,0.972,0.997,Safe by all three raters
+MS-04,House,Jeffrey Hulum III,DEM,0.003,0.028,0.003,Safe by all three raters
+MT-01,House,Sam Forstag,DEM,0.5718977306583655,0.5792079207920792,0.5708623709057676,"dossier late-info pool (w 0.25): Aaron Flint 0.429 -> 0.428 (dossier 0.425, market_about_right, skeptic upheld)"
+MT-01,House,Aaron Flint,REP,0.4281022693416345,0.4207920792079208,0.42913762909423236,"dossier late-info pool (w 0.25): Aaron Flint 0.429 -> 0.428 (dossier 0.425, market_about_right, skeptic upheld)"
+MT-02,House,Troy Downing,REP,0.997,0.9919517102615694,0.997,Safe by all three raters
+MT-02,House,Brian Miller,DEM,0.003,0.008048289738430584,0.003,Safe by all three raters
+NC-01,House,Don Davis,DEM,0.7213669136217684,0.845,0.697760089107643,"dossier late-info pool (w 0.25): Laurie Buckhout 0.302 -> 0.279 (dossier 0.215, market_about_right, skeptic upheld)"
+NC-01,House,Laurie Buckhout,REP,0.27863308637823153,0.155,0.302239910892357,"dossier late-info pool (w 0.25): Laurie Buckhout 0.302 -> 0.279 (dossier 0.215, market_about_right, skeptic upheld)"
+NC-02,House,Deborah Ross,DEM,0.997,0.9859719438877755,0.997,Safe by all three raters
+NC-02,House,Gene Douglass,REP,0.0030000000000000027,0.014028056112224449,0.0030000000000000027,Safe by all three raters
+NC-03,House,Greg Murphy,REP,0.937930944700117,0.555,0.9683705912714137,"dossier late-info pool (w 0.25): Raymond Smith Jr. 0.032 -> 0.062 (dossier 0.355, market_underrates_favourite, skeptic weakened)"
+NC-03,House,Raymond Smith Jr.,DEM,0.06206905529988304,0.445,0.031629408728586286,"dossier late-info pool (w 0.25): Raymond Smith Jr. 0.032 -> 0.062 (dossier 0.355, market_underrates_favourite, skeptic weakened)"
+NC-04,House,Valerie Foushee,DEM,0.997,0.9779779779779779,0.997,Safe by all three raters
+NC-04,House,Max Ganorkar,REP,0.0030000000000000027,0.022022022022022022,0.0030000000000000027,Safe by all three raters
+NC-05,House,Virginia Foxx,REP,0.9789924187086566,0.815,0.9893420226585059,"dossier late-info pool (w 0.25): Chuck Hubbard 0.011 -> 0.021 (dossier 0.145, market_about_right, skeptic upheld)"
+NC-05,House,Chuck Hubbard,DEM,0.021007581291343422,0.185,0.010657977341494136,"dossier late-info pool (w 0.25): Chuck Hubbard 0.011 -> 0.021 (dossier 0.145, market_about_right, skeptic upheld)"
+NC-06,House,Addison McDowell,REP,0.997,0.875,0.997,Safe by all three raters
+NC-06,House,Cyril Jefferson,DEM,0.003,0.125,0.003,Safe by all three raters
+NC-07,House,David Rouzer,REP,0.9922532994691786,0.765,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): Kim Hardy 0.003 -> 0.008 (dossier 0.120, market_underrates_favourite, skeptic upheld)"
+NC-07,House,Kim Hardy,DEM,0.007746700530821356,0.235,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): Kim Hardy 0.003 -> 0.008 (dossier 0.120, market_underrates_favourite, skeptic upheld)"
+NC-08,House,Mark Harris,REP,0.997,0.948,0.997,Safe by all three raters
+NC-08,House,Colby Watson,DEM,0.003,0.052,0.003,Safe by all three raters
+NC-09,House,Richard Hudson,REP,0.9667253788101616,0.665,0.9846416497487481,"dossier late-info pool (w 0.25): Richard Ojeda 0.015 -> 0.033 (dossier 0.270, market_underrates_favourite, skeptic weakened)"
+NC-09,House,Richard Ojeda,DEM,0.03327462118983838,0.335,0.015358350251251878,"dossier late-info pool (w 0.25): Richard Ojeda 0.015 -> 0.033 (dossier 0.270, market_underrates_favourite, skeptic weakened)"
+NC-10,House,Pat Harrigan,REP,0.997,0.9402390438247011,0.997,Safe by all three raters
+NC-10,House,Ashley Bell,DEM,0.003,0.0597609561752988,0.003,Safe by all three raters
+NC-11,House,Jamie Ager,DEM,0.857951568590797,0.845,0.8537332181318076,"dossier late-info pool (w 0.25): Jennifer Balkcom 0.146 -> 0.142 (dossier 0.130, market_about_right, skeptic upheld)"
+NC-11,House,Jennifer Balkcom,REP,0.14204843140920304,0.155,0.14626678186819242,"dossier late-info pool (w 0.25): Jennifer Balkcom 0.146 -> 0.142 (dossier 0.130, market_about_right, skeptic upheld)"
+NC-12,House,Alma Adams,DEM,0.997,0.9809619238476954,0.997,Safe by all three raters
+NC-12,House,Jack Codiga,REP,0.0030000000000000027,0.019038076152304607,0.0030000000000000027,Safe by all three raters
+NC-13,House,Brad Knott,REP,0.9563284100292012,0.595,0.9800447649620353,"dossier late-info pool (w 0.25): Paul Barringer 0.020 -> 0.044 (dossier 0.340, market_underrates_favourite, skeptic weakened)"
+NC-13,House,Paul Barringer,DEM,0.04367158997079875,0.405,0.019955235037964664,"dossier late-info pool (w 0.25): Paul Barringer 0.020 -> 0.044 (dossier 0.340, market_underrates_favourite, skeptic weakened)"
+NC-14,House,Tim Moore,REP,0.9919053661612723,0.7727272727272727,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): LaKesha Womack 0.003 -> 0.008 (dossier 0.140, market_underrates_favourite, skeptic weakened)"
+NC-14,House,LaKesha Womack,DEM,0.008094633838727617,0.2272727272727273,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): LaKesha Womack 0.003 -> 0.008 (dossier 0.140, market_underrates_favourite, skeptic weakened)"
+ND-AL,House,Julie Fedorchak,REP,0.997,0.9819277108433735,0.997,Safe by all three raters
+ND-AL,House,Trygve Hammer,DEM,0.003,0.018072289156626505,0.003,Safe by all three raters
+NE-01,House,Mike Flood,REP,0.9361162861435877,0.7688442211055276,0.9620875455949887,"dossier late-info pool (w 0.25): Chris Backemeyer 0.037 -> 0.063 (dossier 0.265, market_about_right, skeptic upheld)"
+NE-01,House,Chris Backemeyer,DEM,0.06288371385641238,0.22613065326633167,0.03691245440501137,"dossier late-info pool (w 0.25): Chris Backemeyer 0.037 -> 0.063 (dossier 0.265, market_about_right, skeptic upheld)"
+NE-01,House,Austin Ahlman,IND,0.001,0.005025125628140704,0.001,"dossier late-info pool (w 0.25): Chris Backemeyer 0.037 -> 0.063 (dossier 0.265, market_about_right, skeptic upheld)"
+NE-02,House,Denise Powell,DEM,0.9731384643001153,0.918,0.9731384643001153,
+NE-02,House,Brinker Harding,REP,0.026861535699884698,0.082,0.026861535699884698,
+NE-03,House,Adrian Smith,REP,0.997,0.9909729187562688,0.997,Safe by all three raters
+NE-03,House,Becky Stille,DEM,0.003,0.009027081243731193,0.003,Safe by all three raters
+NH-01,House,Stefany Shaheen,DEM,0.9587703182088152,0.9472636815920399,0.9587703182088152,
+NH-01,House,Anthony DiLorenzo,REP,0.0412296817911848,0.052736318407960205,0.0412296817911848,
+NH-02,House,Maggie Goodlander,DEM,0.9971498881953915,0.944,0.9971498881953915,
+NH-02,House,Lily Tang Williams,REP,0.0028501118046084795,0.056,0.0028501118046084795,
+NJ-01,House,Donald Norcross,DEM,0.997,0.978894472361809,0.997,Safe by all three raters
+NJ-01,House,Damon Galdo,REP,0.0030000000000000027,0.021105527638190957,0.0030000000000000027,Safe by all three raters
+NJ-02,House,Jeff Van Drew,REP,0.9627737606465694,0.698019801980198,0.9798717105745423,"dossier late-info pool (w 0.25): Zack Mullock 0.020 -> 0.037 (dossier 0.205, market_underrates_favourite, skeptic upheld)"
+NJ-02,House,Zack Mullock,DEM,0.037226239353430585,0.30198019801980197,0.02012828942545778,"dossier late-info pool (w 0.25): Zack Mullock 0.020 -> 0.037 (dossier 0.205, market_underrates_favourite, skeptic upheld)"
+NJ-03,House,Herb Conaway,DEM,0.997,0.9828456104944501,0.997,Safe by all three raters
+NJ-03,House,Michael McGuire,REP,0.0030000000000000027,0.01715438950554995,0.0030000000000000027,Safe by all three raters
+NJ-04,House,Chris Smith,REP,0.997,0.9501992031872509,0.997,Safe by all three raters
+NJ-04,House,Rachel Peace,DEM,0.003,0.04980079681274901,0.003,Safe by all three raters
+NJ-05,House,Josh Gottheimer,DEM,0.997,0.9829488465396189,0.997,Safe by all three raters
+NJ-05,House,Sean Kirrane,REP,0.0030000000000000027,0.017051153460381146,0.0030000000000000027,Safe by all three raters
+NJ-06,House,Frank Pallone,DEM,0.997,0.9869608826479438,0.997,Safe by all three raters
+NJ-06,House,Hillary Herzig,REP,0.0030000000000000027,0.013039117352056168,0.0030000000000000027,Safe by all three raters
+NJ-07,House,Rebecca Bennett,DEM,0.8572157017979001,0.9329329329329329,0.8572157017979001,
+NJ-07,House,Thomas Kean Jr.,REP,0.14278429820209992,0.06706706706706707,0.14278429820209992,
+NJ-08,House,Rob Menendez,DEM,0.999,0.9830677290836654,0.999,no real opponent on the ballot; Safe by all three raters
+NJ-08,House,Republican party,REP,0.0010000000000000009,0.016932270916334664,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+NJ-09,House,Nellie Pou,DEM,0.9786294714287012,0.9698189134808853,0.9786294714287012,
+NJ-09,House,Rosie Pino,REP,0.02137052857129884,0.030181086519114688,0.02137052857129884,
+NJ-10,House,LaMonica McIver,DEM,0.997,0.9860279441117764,0.997,Safe by all three raters
+NJ-10,House,Carmen Bucco,REP,0.0030000000000000027,0.013972055888223553,0.0030000000000000027,Safe by all three raters
+NJ-11,House,Analilia Mejia,DEM,0.997,0.9888776541961577,0.997,Safe by all three raters
+NJ-11,House,Joe Hathaway,REP,0.0030000000000000027,0.011122345803842264,0.0030000000000000027,Safe by all three raters
+NJ-12,House,Adam Hamawy,DEM,0.997,0.9819639278557114,0.997,Safe by all three raters
+NJ-12,House,Gregg Mele,REP,0.0030000000000000027,0.018036072144288574,0.0030000000000000027,Safe by all three raters
+NM-01,House,Melanie Stansbury,DEM,0.997,0.9728370221327968,0.997,Safe by all three raters
+NM-01,House,Didi Okpareke,REP,0.0030000000000000027,0.02716297786720322,0.0030000000000000027,Safe by all three raters
+NM-02,House,Gabe Vasquez,DEM,0.8449289523975233,0.9150849150849151,0.8449289523975233,
+NM-02,House,Greg Cunningham,REP,0.1550710476024767,0.08491508491508491,0.1550710476024767,
+NM-03,House,Teresa Leger Fernández,DEM,0.997,0.9618090452261306,0.997,Safe by all three raters
+NM-03,House,Martin Zamora,REP,0.0030000000000000027,0.03819095477386934,0.0030000000000000027,Safe by all three raters
+NV-01,House,Dina Titus,DEM,0.9470670261452991,0.9558232931726908,0.9470670261452991,
+NV-01,House,Carrie Buck,REP,0.05293297385470086,0.04417670682730923,0.05293297385470086,
+NV-02,House,David Flippo,REP,0.7729407497888416,0.605,0.8183334581327991,"dossier late-info pool (w 0.25): Teresa Benitez-Thompson 0.182 -> 0.227 (dossier 0.405, market_about_right, skeptic upheld)"
+NV-02,House,Teresa Benitez-Thompson,DEM,0.22705925021115841,0.395,0.18166654186720085,"dossier late-info pool (w 0.25): Teresa Benitez-Thompson 0.182 -> 0.227 (dossier 0.405, market_about_right, skeptic upheld)"
+NV-03,House,Susie Lee,DEM,0.9623024545154599,0.9578313253012047,0.9623024545154599,
+NV-03,House,Martin O'Donnell,REP,0.037697545484540074,0.042168674698795185,0.037697545484540074,
+NV-04,House,Steven Horsford,DEM,0.968425775989137,0.9668008048289738,0.968425775989137,
+NV-04,House,Cody Whipple,REP,0.03157422401086296,0.03319919517102616,0.03157422401086296,
+NY-01,House,Nick LaLota,REP,0.9724492061207745,0.8333333333333333,0.9850268674681211,"dossier late-info pool (w 0.25): Chris Gallant 0.015 -> 0.028 (dossier 0.155, market_about_right, skeptic upheld)"
+NY-01,House,Chris Gallant,DEM,0.027550793879225575,0.16666666666666669,0.014973132531878968,"dossier late-info pool (w 0.25): Chris Gallant 0.015 -> 0.028 (dossier 0.155, market_about_right, skeptic upheld)"
+NY-02,House,Andrew Garbarino,REP,0.991989565172745,0.825,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): Patrick Halpin 0.003 -> 0.008 (dossier 0.135, market_about_right, skeptic upheld)"
+NY-02,House,Patrick Halpin,DEM,0.008010434827255027,0.175,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): Patrick Halpin 0.003 -> 0.008 (dossier 0.135, market_about_right, skeptic upheld)"
+NY-03,House,Tom Suozzi,DEM,0.8911544457629921,0.9031936127744511,0.8911544457629921,
+NY-03,House,Mike LiPetri,REP,0.10884555423700792,0.0968063872255489,0.10884555423700792,
+NY-04,House,Laura Gillen,DEM,0.929618920365227,0.904095904095904,0.929618920365227,
+NY-04,House,Jeanine Driscoll,REP,0.07038107963477302,0.09590409590409589,0.07038107963477302,
+NY-05,House,Gregory Meeks,DEM,0.997,0.9879518072289156,0.997,Safe by all three raters
+NY-05,House,George Marsh,REP,0.0030000000000000027,0.012048192771084338,0.0030000000000000027,Safe by all three raters
+NY-06,House,Grace Meng,DEM,0.997,0.9879638916750251,0.997,Safe by all three raters
+NY-06,House,Joseph Chou,REP,0.0030000000000000027,0.012036108324974926,0.0030000000000000027,Safe by all three raters
+NY-07,House,Claire Valdez,DEM,0.997,0.9840159840159841,0.997,Safe by all three raters
+NY-07,House,Melvin Rivera,REP,0.0030000000000000027,0.015984015984015987,0.0030000000000000027,Safe by all three raters
+NY-08,House,Hakeem Jeffries,DEM,0.997,0.986986986986987,0.997,Safe by all three raters
+NY-08,House,Lewis Mizrahi,REP,0.0030000000000000027,0.013013013013013013,0.0030000000000000027,Safe by all three raters
+NY-09,House,Yvette Clarke,DEM,0.997,0.9790209790209791,0.997,Safe by all three raters
+NY-09,House,Joel Anabilah-Azumah,REP,0.0030000000000000027,0.020979020979020983,0.0030000000000000027,Safe by all three raters
+NY-10,House,Brad Lander,DEM,0.997,0.988988988988989,0.997,Safe by all three raters
+NY-10,House,Jennifer Moore,REP,0.0030000000000000027,0.011011011011011011,0.0030000000000000027,Safe by all three raters
+NY-11,House,Nicole Malliotakis,REP,0.997,0.9268537074148298,0.997,Safe by all three raters
+NY-11,House,Michael DeCillis,DEM,0.003,0.07314629258517033,0.003,Safe by all three raters
+NY-12,House,Micah Lasher,DEM,0.997,0.975,0.997,Safe by all three raters
+NY-12,House,Caroline Shinkle,REP,0.0030000000000000027,0.025,0.0030000000000000027,Safe by all three raters
+NY-13,House,Darializa Avila Chevalier,DEM,0.997,0.986,0.997,Safe by all three raters
+NY-13,House,"Manual ""Jomo"" Williams",REP,0.0030000000000000027,0.014,0.0030000000000000027,Safe by all three raters
+NY-14,House,Alexandria Ocasio-Cortez,DEM,0.997,0.9879759519038076,0.997,Safe by all three raters
+NY-14,House,Diamant Hysenaj,REP,0.0030000000000000027,0.012024048096192385,0.0030000000000000027,Safe by all three raters
+NY-15,House,Ritchie Torres,DEM,0.997,0.9770229770229771,0.997,Safe by all three raters
+NY-15,House,Stylo Sapaskis,REP,0.0030000000000000027,0.02297702297702298,0.0030000000000000027,Safe by all three raters
+NY-16,House,George Latimer,DEM,0.997,0.9909729187562688,0.997,Safe by all three raters
+NY-16,House,Joseph Cinquemani,REP,0.0030000000000000027,0.009027081243731193,0.0030000000000000027,Safe by all three raters
+NY-17,House,Cait Conley,DEM,0.608548355015263,0.6225490196078431,0.6030071135912359,"dossier late-info pool (w 0.25): Mike Lawler 0.397 -> 0.391 (dossier 0.375, market_about_right, skeptic upheld)"
+NY-17,House,Mike Lawler,REP,0.39145164498473695,0.37745098039215685,0.39699288640876407,"dossier late-info pool (w 0.25): Mike Lawler 0.397 -> 0.391 (dossier 0.375, market_about_right, skeptic upheld)"
+NY-18,House,Pat Ryan,DEM,0.997,0.9748743718592965,0.997,Safe by all three raters
+NY-18,House,Jacqueline Auringer,REP,0.0030000000000000027,0.02512562814070352,0.0030000000000000027,Safe by all three raters
+NY-19,House,Josh Riley,DEM,0.9811123310818087,0.9628140703517588,0.9811123310818087,
+NY-19,House,Peter Oberacker,REP,0.01888766891819127,0.0371859296482412,0.01888766891819127,
+NY-20,House,Paul Tonko,DEM,0.997,0.9800598205383849,0.997,Safe by all three raters
+NY-20,House,Ralph Ambrosio,REP,0.0030000000000000027,0.019940179461615158,0.0030000000000000027,Safe by all three raters
+NY-21,House,Anthony Constantino,REP,0.824243741491799,0.675,0.864612976363853,"dossier late-info pool (w 0.25): Blake Gendebien 0.135 -> 0.176 (dossier 0.350, market_about_right, skeptic upheld)"
+NY-21,House,Blake Gendebien,DEM,0.17575625850820098,0.325,0.13538702363614696,"dossier late-info pool (w 0.25): Blake Gendebien 0.135 -> 0.176 (dossier 0.350, market_about_right, skeptic upheld)"
+NY-22,House,John Mannion,DEM,0.997,0.9737638748738647,0.997,Safe by all three raters
+NY-22,House,Kailee Buller,REP,0.0030000000000000027,0.026236125126135216,0.0030000000000000027,Safe by all three raters
+NY-23,House,Nick Langworthy,REP,0.997,0.9729187562688064,0.997,Safe by all three raters
+NY-23,House,Aaron Gies,DEM,0.003,0.02708124373119358,0.003,Safe by all three raters
+NY-24,House,Claudia Tenney,REP,0.997,0.970736629667003,0.997,Safe by all three raters
+NY-24,House,Alissa Ellman,DEM,0.003,0.029263370332996974,0.003,Safe by all three raters
+NY-25,House,Joseph Morelle,DEM,0.997,0.9899193548387096,0.997,Safe by all three raters
+NY-25,House,Virginia McIntyre,REP,0.0030000000000000027,0.010080645161290322,0.0030000000000000027,Safe by all three raters
+NY-26,House,Tim Kennedy,DEM,0.997,0.9889224572004028,0.997,Safe by all three raters
+NY-26,House,Dennis Hannon,REP,0.0030000000000000027,0.01107754279959718,0.0030000000000000027,Safe by all three raters
+OH-01,House,Greg Landsman,DEM,0.9547786196014733,0.946,0.9547786196014733,
+OH-01,House,Eric Conroy,REP,0.045221380398526745,0.054,0.045221380398526745,
+OH-02,House,David Taylor,REP,0.997,0.981,0.997,Safe by all three raters
+OH-02,House,Jennifer Mazzuckelli,DEM,0.003,0.019,0.003,Safe by all three raters
+OH-03,House,Joyce Beatty,DEM,0.997,0.9799599198396793,0.997,Safe by all three raters
+OH-03,House,Cleophus Dulaney,REP,0.0030000000000000027,0.02004008016032064,0.0030000000000000027,Safe by all three raters
+OH-04,House,Jim Jordan,REP,0.997,0.968063872255489,0.997,Safe by all three raters
+OH-04,House,Joshua Kolasinski,DEM,0.003,0.031936127744510975,0.003,Safe by all three raters
+OH-05,House,Bob Latta,REP,0.997,0.9660678642714571,0.997,Safe by all three raters
+OH-05,House,Brian Shaver,DEM,0.003,0.033932135728542916,0.003,Safe by all three raters
+OH-06,House,Michael Rulli,REP,0.997,0.9819277108433735,0.997,Safe by all three raters
+OH-06,House,Elizabeth Kirtley,DEM,0.003,0.018072289156626505,0.003,Safe by all three raters
+OH-07,House,Brian Poindexter,DEM,0.6566677988879764,0.8465346534653465,0.6042003928040717,"dossier late-info pool (w 0.25): Max Miller 0.396 -> 0.343 (dossier 0.210, market_about_right, skeptic upheld)"
+OH-07,House,Max Miller,REP,0.34333220111202356,0.15346534653465346,0.3957996071959283,"dossier late-info pool (w 0.25): Max Miller 0.396 -> 0.343 (dossier 0.210, market_about_right, skeptic upheld)"
+OH-08,House,Warren Davidson,REP,0.997,0.9265873015873016,0.997,Safe by all three raters
+OH-08,House,Vanessa Enoch,DEM,0.003,0.0734126984126984,0.003,Safe by all three raters
+OH-09,House,Marcy Kaptur,DEM,0.7354273803997495,0.815,0.7111583672385295,"dossier late-info pool (w 0.25): Derek Merrin 0.289 -> 0.265 (dossier 0.200, market_about_right, skeptic upheld)"
+OH-09,House,Derek Merrin,REP,0.2645726196002504,0.185,0.28884163276147046,"dossier late-info pool (w 0.25): Derek Merrin 0.289 -> 0.265 (dossier 0.200, market_about_right, skeptic upheld)"
+OH-10,House,Mike Turner,REP,0.7455586676472012,0.685,0.7720144665839651,"dossier late-info pool (w 0.25): Kristina Knickerbocker 0.228 -> 0.254 (dossier 0.345, market_about_right, skeptic upheld)"
+OH-10,House,Kristina Knickerbocker,DEM,0.2544413323527987,0.315,0.22798553341603492,"dossier late-info pool (w 0.25): Kristina Knickerbocker 0.228 -> 0.254 (dossier 0.345, market_about_right, skeptic upheld)"
+OH-11,House,Shontel Brown,DEM,0.997,0.9830508474576272,0.997,Safe by all three raters
+OH-11,House,Mike Kirchner,REP,0.0030000000000000027,0.016949152542372885,0.0030000000000000027,Safe by all three raters
+OH-12,House,Troy Balderson,REP,0.997,0.97165991902834,0.997,Safe by all three raters
+OH-12,House,Jerrad Christian,DEM,0.003,0.02834008097165992,0.003,Safe by all three raters
+OH-13,House,Emilia Sykes,DEM,0.9822771819000868,0.9716024340770791,0.9822771819000868,
+OH-13,House,Carey Coleman,REP,0.017722818099913162,0.028397565922920892,0.017722818099913162,
+OH-14,House,David Joyce,REP,0.997,0.965,0.997,Safe by all three raters
+OH-14,House,Maria Jukic,DEM,0.003,0.035,0.003,Safe by all three raters
+OH-15,House,Mike Carey,REP,0.7613368255218139,0.625,0.7901116858489724,"dossier late-info pool (w 0.25): Don Leonard 0.210 -> 0.239 (dossier 0.340, market_about_right, skeptic upheld)"
+OH-15,House,Don Leonard,DEM,0.23866317447818605,0.375,0.20988831415102763,"dossier late-info pool (w 0.25): Don Leonard 0.210 -> 0.239 (dossier 0.340, market_about_right, skeptic upheld)"
+OK-01,House,Mark Tedford,REP,0.997,0.935,0.997,Safe by all three raters
+OK-01,House,John Croisant,DEM,0.003,0.065,0.003,Safe by all three raters
+OK-02,House,Josh Brecheen,REP,0.997,0.9819639278557114,0.997,Safe by all three raters
+OK-02,House,Brandon Wade,DEM,0.003,0.018036072144288574,0.003,Safe by all three raters
+OK-03,House,Frank Lucas,REP,0.997,0.9899497487437185,0.997,Safe by all three raters
+OK-03,House,Suzie Byrd,DEM,0.003,0.010050251256281407,0.003,Safe by all three raters
+OK-04,House,Tom Cole,REP,0.997,0.964824120603015,0.997,Safe by all three raters
+OK-04,House,Mitchell Jacob,DEM,0.003,0.03517587939698493,0.003,Safe by all three raters
+OK-05,House,Stephanie Bice,REP,0.9927154911708167,0.885,0.9927154911708167,
+OK-05,House,Jena Nelson,DEM,0.00728450882918327,0.115,0.00728450882918327,
+OR-01,House,Suzanne Bonamici,DEM,0.997,0.988,0.997,Safe by all three raters
+OR-01,House,Barbara Kahl,REP,0.0030000000000000027,0.012,0.0030000000000000027,Safe by all three raters
+OR-02,House,Cliff Bentz,REP,0.997,0.9669669669669669,0.997,Safe by all three raters
+OR-02,House,Chris Beck,DEM,0.003,0.03303303303303304,0.003,Safe by all three raters
+OR-03,House,Maxine Dexter,DEM,0.997,0.9930069930069931,0.997,Safe by all three raters
+OR-03,House,Loran Ayles,REP,0.0030000000000000027,0.006993006993006994,0.0030000000000000027,Safe by all three raters
+OR-04,House,Val Hoyle,DEM,0.997,0.9661354581673306,0.997,Safe by all three raters
+OR-04,House,Monique DeSpain,REP,0.0030000000000000027,0.03386454183266933,0.0030000000000000027,Safe by all three raters
+OR-05,House,Janelle Bynum,DEM,0.997,0.9628140703517588,0.997,Safe by all three raters
+OR-05,House,Patti Adair,REP,0.0030000000000000027,0.0371859296482412,0.0030000000000000027,Safe by all three raters
+OR-06,House,Andrea Salinas,DEM,0.997,0.978978978978979,0.997,Safe by all three raters
+OR-06,House,David Russ,REP,0.0030000000000000027,0.021021021021021023,0.0030000000000000027,Safe by all three raters
+PA-01,House,Bob Harvie,DEM,0.5784228847256359,0.535,0.5942803056904455,"dossier late-info pool (w 0.25): Brian Fitzpatrick 0.406 -> 0.422 (dossier 0.470, market_about_right, skeptic upheld)"
+PA-01,House,Brian Fitzpatrick,REP,0.4215771152743641,0.465,0.40571969430955446,"dossier late-info pool (w 0.25): Brian Fitzpatrick 0.406 -> 0.422 (dossier 0.470, market_about_right, skeptic upheld)"
+PA-02,House,Brendan Boyle,DEM,0.997,0.9899497487437185,0.997,Safe by all three raters
+PA-02,House,Jessica Arriaga,REP,0.0030000000000000027,0.010050251256281407,0.0030000000000000027,Safe by all three raters
+PA-03,House,Chris Rabb,DEM,0.999,0.9701195219123506,0.999,no real opponent on the ballot; Safe by all three raters
+PA-03,House,Republican party,REP,0.0010000000000000009,0.0298804780876494,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+PA-04,House,Madeleine Dean,DEM,0.997,0.974974974974975,0.997,Safe by all three raters
+PA-04,House,Aurora Stuski,REP,0.0030000000000000027,0.025025025025025027,0.0030000000000000027,Safe by all three raters
+PA-05,House,Mary Gay Scanlon,DEM,0.997,0.985985985985986,0.997,Safe by all three raters
+PA-05,House,Nicholas Manganaro,REP,0.0030000000000000027,0.014014014014014014,0.0030000000000000027,Safe by all three raters
+PA-06,House,Chrissy Houlahan,DEM,0.997,0.9899799599198397,0.997,Safe by all three raters
+PA-06,House,Marty Young,REP,0.0030000000000000027,0.01002004008016032,0.0030000000000000027,Safe by all three raters
+PA-07,House,Bob Brooks,DEM,0.8498497179479019,0.865,0.8498497179479019,
+PA-07,House,Ryan Mackenzie,REP,0.15015028205209813,0.135,0.15015028205209813,
+PA-08,House,Paige Cognetti,DEM,0.8123649117189901,0.8762376237623762,0.8123649117189901,
+PA-08,House,Rob Bresnahan,REP,0.18763508828100994,0.12376237623762376,0.18763508828100994,
+PA-09,House,Dan Meuser,REP,0.997,0.9777327935222672,0.997,Safe by all three raters
+PA-09,House,Rachel Wallace,DEM,0.003,0.022267206477732792,0.003,Safe by all three raters
+PA-10,House,Janelle Stelson,DEM,0.7944653665992787,0.815,0.8051052406449255,"dossier late-info pool (w 0.25): Scott Perry 0.195 -> 0.206 (dossier 0.240, market_underrates_underdog, skeptic weakened)"
+PA-10,House,Scott Perry,REP,0.20553463340072126,0.185,0.1948947593550745,"dossier late-info pool (w 0.25): Scott Perry 0.195 -> 0.206 (dossier 0.240, market_underrates_underdog, skeptic weakened)"
+PA-11,House,Lloyd Smucker,REP,0.997,0.9513888888888888,0.997,Safe by all three raters
+PA-11,House,Nancy Mannion,DEM,0.003,0.04861111111111111,0.003,Safe by all three raters
+PA-12,House,Summer Lee,DEM,0.997,0.9849397590361446,0.997,Safe by all three raters
+PA-12,House,James Hayes,REP,0.0030000000000000027,0.015060240963855422,0.0030000000000000027,Safe by all three raters
+PA-13,House,John Joyce,REP,0.997,0.984984984984985,0.997,Safe by all three raters
+PA-13,House,Beth Farnham,DEM,0.003,0.015015015015015015,0.003,Safe by all three raters
+PA-14,House,Guy Reschenthaler,REP,0.997,0.9677419354838709,0.997,Safe by all three raters
+PA-14,House,Alan Bradstock,DEM,0.003,0.03225806451612903,0.003,Safe by all three raters
+PA-15,House,Glenn Thompson,REP,0.997,0.9581673306772908,0.997,Safe by all three raters
+PA-15,House,Ray Bilger,DEM,0.003,0.04183266932270917,0.003,Safe by all three raters
+PA-16,House,Mike Kelly,REP,0.997,0.9362549800796812,0.997,Safe by all three raters
+PA-16,House,Justin Wagner,DEM,0.003,0.06374501992031872,0.003,Safe by all three raters
+PA-17,House,Chris Deluzio,DEM,0.997,0.9628886659979939,0.997,Safe by all three raters
+PA-17,House,Tony Guy,REP,0.0030000000000000027,0.037111334002006016,0.0030000000000000027,Safe by all three raters
+RI-01,House,Gabe Amo,DEM,0.997,0.981,0.997,Safe by all three raters
+RI-01,House,Kellie Keenan,REP,0.0030000000000000027,0.019,0.0030000000000000027,Safe by all three raters
+RI-02,House,Seth Magaziner,DEM,0.997,0.9449449449449449,0.997,Safe by all three raters
+RI-02,House,Victor Mellor,REP,0.0030000000000000027,0.055055055055055056,0.0030000000000000027,Safe by all three raters
+SC-01,House,Jenny Costa Honeycutt,REP,0.6529670762928164,0.51010101010101,0.6990565786748356,"dossier late-info pool (w 0.25): Nancy S. Lacore 0.301 -> 0.347 (dossier 0.500, market_about_right, skeptic upheld)"
+SC-01,House,Nancy S. Lacore,DEM,0.3470329237071836,0.4898989898989899,0.3009434213251644,"dossier late-info pool (w 0.25): Nancy S. Lacore 0.301 -> 0.347 (dossier 0.500, market_about_right, skeptic upheld)"
+SC-02,House,Joe Wilson,REP,0.997,0.8762376237623762,0.997,Safe by all three raters
+SC-02,House,Zyon Khalifa,DEM,0.003,0.12376237623762376,0.003,Safe by all three raters
+SC-03,House,Sheri Biggs,REP,0.997,0.9790419161676647,0.997,Safe by all three raters
+SC-03,House,Eunice Lehmacher,DEM,0.003,0.02095808383233533,0.003,Safe by all three raters
+SC-04,House,William Timmons,REP,0.997,0.9630369630369631,0.997,Safe by all three raters
+SC-04,House,Courtney McClain,DEM,0.003,0.03696303696303697,0.003,Safe by all three raters
+SC-05,House,Wes Climer,REP,0.997,0.9363817097415507,0.997,Safe by all three raters
+SC-05,House,Mallory Dittmer,DEM,0.003,0.06361829025844931,0.003,Safe by all three raters
+SC-06,House,Jim Clyburn,DEM,0.997,0.988988988988989,0.997,Safe by all three raters
+SC-06,House,John Peterson,REP,0.0030000000000000027,0.011011011011011011,0.0030000000000000027,Safe by all three raters
+SC-07,House,Russell Fry,REP,0.997,0.9629629629629629,0.997,Safe by all three raters
+SC-07,House,John Vincent,DEM,0.003,0.037037037037037035,0.003,Safe by all three raters
+SD-AL,House,Marty Jackley,REP,0.997,0.9749247743229689,0.997,Safe by all three raters
+SD-AL,House,Nicole Gronli,DEM,0.003,0.025075225677031094,0.003,Safe by all three raters
+TN-01,House,Diana Harshbarger,REP,0.997,0.9780219780219781,0.997,Safe by all three raters
+TN-01,House,Kristi Burke,DEM,0.003,0.02197802197802198,0.003,Safe by all three raters
+TN-02,House,Tim Burchett,REP,0.997,0.9631106679960121,0.997,Safe by all three raters
+TN-02,House,Michaela Barnett,DEM,0.003,0.036889332003988036,0.003,Safe by all three raters
+TN-03,House,Chuck Fleischmann,REP,0.997,0.9878542510121457,0.997,Safe by all three raters
+TN-03,House,Anna Golladay,DEM,0.003,0.012145748987854251,0.003,Safe by all three raters
+TN-04,House,Scott DesJarlais,REP,0.997,0.9702970297029703,0.997,Safe by all three raters
+TN-04,House,Victoria Broderick,DEM,0.003,0.0297029702970297,0.003,Safe by all three raters
+TN-05,House,Charlie Hatcher,REP,0.997,0.8894472361809045,0.997,Safe by all three raters
+TN-05,House,Chaz Molder,DEM,0.003,0.11055276381909548,0.003,Safe by all three raters
+TN-06,House,Johnny Garrett,REP,0.997,0.9590409590409591,0.997,Safe by all three raters
+TN-06,House,Mike Croley,DEM,0.003,0.04095904095904097,0.003,Safe by all three raters
+TN-07,House,Matt Van Epps,REP,0.997,0.9532338308457712,0.997,Safe by all three raters
+TN-07,House,Darden Copeland,DEM,0.003,0.04676616915422886,0.003,Safe by all three raters
+TN-08,House,David Kustoff,REP,0.997,0.954,0.997,Safe by all three raters
+TN-08,House,Heidi Kuhn,DEM,0.003,0.046,0.003,Safe by all three raters
+TN-09,House,Brent Taylor,REP,0.9859530654376297,0.8465346534653465,0.9932272631919971,"dossier late-info pool (w 0.25): Justin J. Pearson 0.007 -> 0.014 (dossier 0.115, market_about_right, skeptic upheld)"
+TN-09,House,Justin J. Pearson,DEM,0.014046934562370267,0.15346534653465346,0.006772736808002998,"dossier late-info pool (w 0.25): Justin J. Pearson 0.007 -> 0.014 (dossier 0.115, market_about_right, skeptic upheld)"
+TX-01,House,Nathaniel Moran,REP,0.997,0.984,0.997,Safe by all three raters
+TX-01,House,Yolanda R. Prince ,DEM,0.003,0.016,0.003,Safe by all three raters
+TX-02,House,Steve Toth,REP,0.997,0.9280719280719281,0.997,Safe by all three raters
+TX-02,House,Shaun Finnie,DEM,0.003,0.07192807192807192,0.003,Safe by all three raters
+TX-03,House,Keith Self,REP,0.997,0.9349349349349348,0.997,Safe by all three raters
+TX-03,House,Evan Hunt,DEM,0.003,0.06506506506506506,0.003,Safe by all three raters
+TX-04,House,Pat Fallon,REP,0.997,0.9737903225806451,0.997,Safe by all three raters
+TX-04,House,Jason Pearce,DEM,0.003,0.026209677419354836,0.003,Safe by all three raters
+TX-05,House,Lance Gooden,REP,0.997,0.9510489510489512,0.997,Safe by all three raters
+TX-05,House,Chelsey Hockett,DEM,0.003,0.04895104895104896,0.003,Safe by all three raters
+TX-06,House,Jake Ellzey,REP,0.997,0.9789156626506024,0.997,Safe by all three raters
+TX-06,House,Danny Minton,DEM,0.003,0.021084337349397592,0.003,Safe by all three raters
+TX-07,House,Lizzie Fletcher,DEM,0.997,0.9739478957915831,0.997,Safe by all three raters
+TX-07,House,Alexander Hale,REP,0.0030000000000000027,0.026052104208416832,0.0030000000000000027,Safe by all three raters
+TX-08,House,Jessica Steinmann,REP,0.997,0.9737903225806451,0.997,Safe by all three raters
+TX-08,House,Laura Jones,DEM,0.003,0.026209677419354836,0.003,Safe by all three raters
+TX-09,House,Alex Mealer,REP,0.9333898116317277,0.7574257425742574,0.9575960060914716,"dossier late-info pool (w 0.25): Leticia Gutierrez 0.042 -> 0.067 (dossier 0.230, market_about_right, skeptic upheld)"
+TX-09,House,Leticia Gutierrez,DEM,0.06661018836827222,0.24257425742574257,0.0424039939085284,"dossier late-info pool (w 0.25): Leticia Gutierrez 0.042 -> 0.067 (dossier 0.230, market_about_right, skeptic upheld)"
+TX-10,House,Chris Gober,REP,0.997,0.918407960199005,0.997,Safe by all three raters
+TX-10,House,Caitlin Rourk,DEM,0.003,0.08159203980099503,0.003,Safe by all three raters
+TX-11,House,August Pfluger,REP,0.997,0.9716885743174923,0.997,Safe by all three raters
+TX-11,House,Claire Reynolds,DEM,0.003,0.028311425682507583,0.003,Safe by all three raters
+TX-12,House,Craig Goldman,REP,0.997,0.9619238476953907,0.997,Safe by all three raters
+TX-12,House,Angela Rodriguez Prilliman,DEM,0.003,0.038076152304609215,0.003,Safe by all three raters
+TX-13,House,Ronny Jackson,REP,0.997,0.989,0.997,Safe by all three raters
+TX-13,House,Mark Nair,DEM,0.003,0.011,0.003,Safe by all three raters
+TX-14,House,Randy Weber,REP,0.997,0.9621890547263683,0.997,Safe by all three raters
+TX-14,House,Thurman Bartie,DEM,0.003,0.037810945273631845,0.003,Safe by all three raters
+TX-15,House,Bobby Pulido,DEM,0.7051352808318863,0.8861386138613861,0.7051352808318863,
+TX-15,House,Monica De La Cruz,REP,0.29486471916811374,0.11386138613861387,0.29486471916811374,
+TX-16,House,Veronica Escobar,DEM,0.997,0.9769769769769769,0.997,Safe by all three raters
+TX-16,House,Adam Bauman,REP,0.0030000000000000027,0.02302302302302302,0.0030000000000000027,Safe by all three raters
+TX-17,House,Pete Sessions,REP,0.997,0.9651741293532339,0.997,Safe by all three raters
+TX-17,House,Casey Shepard,DEM,0.003,0.03482587064676618,0.003,Safe by all three raters
+TX-18,House,Christian Menefee,DEM,0.997,0.9860279441117764,0.997,Safe by all three raters
+TX-18,House,Ronald Whitfield,REP,0.0030000000000000027,0.013972055888223553,0.0030000000000000027,Safe by all three raters
+TX-19,House,Tom Sell,REP,0.997,0.9738955823293173,0.997,Safe by all three raters
+TX-19,House,Kyle Rable,DEM,0.003,0.02610441767068273,0.003,Safe by all three raters
+TX-20,House,Joaquin Castro,DEM,0.997,0.9739478957915831,0.997,Safe by all three raters
+TX-20,House,Edgardo Baez,REP,0.0030000000000000027,0.026052104208416832,0.0030000000000000027,Safe by all three raters
+TX-21,House,Mark Teixeira,REP,0.997,0.9770687936191427,0.997,Safe by all three raters
+TX-21,House,Kristin Hook,DEM,0.003,0.02293120638085743,0.003,Safe by all three raters
+TX-22,House,Trever Nehls,REP,0.997,0.948,0.997,Safe by all three raters
+TX-22,House,Marquette Greene-Scott,DEM,0.003,0.052,0.003,Safe by all three raters
+TX-23,House,Brandon Herrera,REP,0.8461992223623748,0.5404040404040404,0.8983945252727618,"dossier late-info pool (w 0.25): Katy Padilla Stout 0.102 -> 0.154 (dossier 0.430, market_about_right, skeptic upheld)"
+TX-23,House,Katy Padilla Stout,DEM,0.1538007776376252,0.4595959595959596,0.10160547472723824,"dossier late-info pool (w 0.25): Katy Padilla Stout 0.102 -> 0.154 (dossier 0.430, market_about_right, skeptic upheld)"
+TX-24,House,Beth Van Duyne,REP,0.997,0.9481037924151696,0.997,Safe by all three raters
+TX-24,House,Kevin Burge,DEM,0.003,0.05189620758483034,0.003,Safe by all three raters
+TX-25,House,Roger Williams,REP,0.997,0.9540918163672655,0.997,Safe by all three raters
+TX-25,House,Dione Sims,DEM,0.003,0.04590818363273453,0.003,Safe by all three raters
+TX-26,House,Brandon Gill,REP,0.997,0.9760717846460619,0.997,Safe by all three raters
+TX-26,House,Steven Shook,DEM,0.003,0.023928215353938187,0.003,Safe by all three raters
+TX-27,House,Michael Cloud,REP,0.997,0.9828801611278952,0.997,Safe by all three raters
+TX-27,House,Tanya Lloyd,DEM,0.003,0.017119838872104734,0.003,Safe by all three raters
+TX-28,House,Henry Cuellar,DEM,0.9585900810288699,0.921,0.9585900810288699,
+TX-28,House,Tano Tijerina,REP,0.04140991897113011,0.079,0.04140991897113011,
+TX-29,House,Sylvia Garcia,DEM,0.997,0.966,0.997,Safe by all three raters
+TX-29,House,Martha Fierro,REP,0.0030000000000000027,0.034,0.0030000000000000027,Safe by all three raters
+TX-30,House,Frederick Haynes III,DEM,0.997,0.9800995024875623,0.997,Safe by all three raters
+TX-30,House,Everett Jackson,REP,0.0030000000000000027,0.019900497512437814,0.0030000000000000027,Safe by all three raters
+TX-31,House,John Carter,REP,0.997,0.9345238095238094,0.997,Safe by all three raters
+TX-31,House,Justin Early,DEM,0.003,0.06547619047619048,0.003,Safe by all three raters
+TX-32,House,Jace Yarbrough,REP,0.9925370954772075,0.8442211055276382,0.997,"Safe by all three raters; dossier late-info pool (w 0.25): Dan Barrios 0.003 -> 0.007 (dossier 0.105, market_underrates_favourite, skeptic weakened)"
+TX-32,House,Dan Barrios,DEM,0.007462904522792512,0.15577889447236182,0.003,"Safe by all three raters; dossier late-info pool (w 0.25): Dan Barrios 0.003 -> 0.007 (dossier 0.105, market_underrates_favourite, skeptic weakened)"
+TX-33,House,Colin Allred,DEM,0.997,0.9757575757575757,0.997,Safe by all three raters
+TX-33,House,Patrick David Gillespie,REP,0.0030000000000000027,0.024242424242424242,0.0030000000000000027,Safe by all three raters
+TX-34,House,Vicente Gonzalez,DEM,0.7888333387946177,0.8939393939393939,0.7888333387946177,
+TX-34,House,Eric Flores,REP,0.2111666612053823,0.10606060606060606,0.2111666612053823,
+TX-35,House,Johnny C. Garcia,DEM,0.5457389562018686,0.75,0.4964191246319022,"dossier late-info pool (w 0.25): Carlos De La Cruz 0.504 -> 0.454 (dossier 0.315, market_about_right, skeptic upheld)"
+TX-35,House,Carlos De La Cruz,REP,0.45426104379813137,0.25,0.5035808753680978,"dossier late-info pool (w 0.25): Carlos De La Cruz 0.504 -> 0.454 (dossier 0.315, market_about_right, skeptic upheld)"
+TX-36,House,Brian Babin,REP,0.997,0.964859437751004,0.997,Safe by all three raters
+TX-36,House,Rhonda Hart,DEM,0.003,0.03514056224899599,0.003,Safe by all three raters
+TX-37,House,Greg Casar,DEM,0.997,0.9859154929577465,0.997,Safe by all three raters
+TX-37,House,Lauren B. Peña,REP,0.0030000000000000027,0.014084507042253521,0.0030000000000000027,Safe by all three raters
+TX-38,House,Jon Bonck,REP,0.997,0.973,0.997,Safe by all three raters
+TX-38,House,Melissa McDonough,DEM,0.003,0.027,0.003,Safe by all three raters
+UT-01,House,Ben McAdams,DEM,0.997,0.9779559118236473,0.997,Safe by all three raters
+UT-01,House,Riley Owen,REP,0.0030000000000000027,0.022044088176352703,0.0030000000000000027,Safe by all three raters
+UT-02,House,Blake Moore,REP,0.997,0.9379379379379379,0.997,Safe by all three raters
+UT-02,House,Peter Crosby,DEM,0.003,0.06206206206206206,0.003,Safe by all three raters
+UT-03,House,Celeste Maloy,REP,0.997,0.9750747756729812,0.997,Safe by all three raters
+UT-03,House,Kent Udell,DEM,0.003,0.024925224327018946,0.003,Safe by all three raters
+UT-04,House,Mike Kennedy,REP,0.997,0.9657258064516129,0.997,Safe by all three raters
+UT-04,House,Jonny Larsen,DEM,0.003,0.0342741935483871,0.003,Safe by all three raters
+VA-01,House,Shannon Taylor,DEM,0.5245986146981292,0.6287128712871287,0.502494183829353,"dossier late-info pool (w 0.25): Rob Wittman 0.498 -> 0.475 (dossier 0.410, market_about_right, skeptic upheld)"
+VA-01,House,Rob Wittman,REP,0.4754013853018708,0.3712871287128713,0.49750581617064704,"dossier late-info pool (w 0.25): Rob Wittman 0.498 -> 0.475 (dossier 0.410, market_about_right, skeptic upheld)"
+VA-02,House,Elaine Luria,DEM,0.8455001880677028,0.9086345381526105,0.8455001880677028,
+VA-02,House,Jen Kiggans,REP,0.15449981193229723,0.09136546184738956,0.15449981193229723,
+VA-03,House,Bobby Scott,DEM,0.997,0.984,0.997,Safe by all three raters
+VA-03,House,Edwin Rivera,REP,0.0030000000000000027,0.016,0.0030000000000000027,Safe by all three raters
+VA-04,House,Jennifer McClellan,DEM,0.997,0.9849246231155778,0.997,Safe by all three raters
+VA-04,House,Robert Murray,REP,0.0030000000000000027,0.01507537688442211,0.0030000000000000027,Safe by all three raters
+VA-05,House,John McGuire,REP,0.8275987313427497,0.6515151515151515,0.8656523752409667,"dossier late-info pool (w 0.25): Tom Perriello 0.134 -> 0.172 (dossier 0.335, market_about_right, skeptic upheld)"
+VA-05,House,Tom Perriello,DEM,0.17240126865725028,0.34848484848484845,0.13434762475903328,"dossier late-info pool (w 0.25): Tom Perriello 0.134 -> 0.172 (dossier 0.335, market_about_right, skeptic upheld)"
+VA-06,House,Ben Cline,REP,0.997,0.935064935064935,0.997,Safe by all three raters
+VA-06,House,Beth Macy,DEM,0.003,0.06493506493506493,0.003,Safe by all three raters
+VA-07,House,Eugene Vindman,DEM,0.989677791056754,0.9662698412698413,0.989677791056754,
+VA-07,House,Doug Ollivant,REP,0.01032220894324598,0.033730158730158735,0.01032220894324598,
+VA-08,House,Don Beyer,DEM,0.997,0.9789368104312939,0.997,Safe by all three raters
+VA-08,House,Tony Sabio,REP,0.0030000000000000027,0.02106318956870612,0.0030000000000000027,Safe by all three raters
+VA-09,House,Morgan Griffith,REP,0.997,0.975,0.997,Safe by all three raters
+VA-09,House,Joy Powers,DEM,0.003,0.025,0.003,Safe by all three raters
+VA-10,House,Suhas Subramanyam,DEM,0.997,0.9839357429718876,0.997,Safe by all three raters
+VA-10,House,Dave Beckwith,REP,0.0030000000000000027,0.016064257028112452,0.0030000000000000027,Safe by all three raters
+VA-11,House,James Walkinshaw,DEM,0.997,0.9849548645937813,0.997,Safe by all three raters
+VA-11,House,Arthur Purves,REP,0.0030000000000000027,0.015045135406218655,0.0030000000000000027,Safe by all three raters
+VT-AL,House,Becca Balint,DEM,0.997,0.9819819819819819,0.997,Safe by all three raters
+VT-AL,House,Gerald Malloy,REP,0.0030000000000000027,0.018018018018018018,0.0030000000000000027,Safe by all three raters
+WA-01,House,Suzan DelBene,DEM,0.997,0.9839518555667001,0.997,Safe by all three raters
+WA-01,House,Mary Silva,REP,0.0030000000000000027,0.0160481444332999,0.0030000000000000027,Safe by all three raters
+WA-02,House,Rick Larsen,DEM,0.997,0.9780876494023905,0.997,Safe by all three raters
+WA-02,House,Edwin H. Feller,REP,0.0030000000000000027,0.02191235059760956,0.0030000000000000027,Safe by all three raters
+WA-03,House,Marie Gluesenkamp Perez,DEM,0.7628616311159927,0.895,0.7628616311159927,
+WA-03,House,John Braun,REP,0.2371383688840073,0.105,0.2371383688840073,
+WA-04,House,Amanda McKinney,REP,0.997,0.9188376753507015,0.997,Safe by all three raters
+WA-04,House,John Duresky,DEM,0.003,0.0811623246492986,0.003,Safe by all three raters
+WA-05,House,Michael Baumgartner,REP,0.9385995018509289,0.8434343434343434,0.9567053264499751,"dossier late-info pool (w 0.25): Carmela Conroy 0.043 -> 0.061 (dossier 0.165, market_underrates_underdog, skeptic refuted)"
+WA-05,House,Carmela Conroy,DEM,0.06140049814907115,0.15656565656565657,0.043294673550024886,"dossier late-info pool (w 0.25): Carmela Conroy 0.043 -> 0.061 (dossier 0.165, market_underrates_underdog, skeptic refuted)"
+WA-06,House,Emily Randall,DEM,0.997,0.982,0.997,Safe by all three raters
+WA-06,House,Teresa Fox,REP,0.0030000000000000027,0.018,0.0030000000000000027,Safe by all three raters
+WA-07,House,Pramila Jayapal,DEM,0.997,0.9889558232931727,0.997,Safe by all three raters
+WA-07,House,Nirav Sheth,REP,0.0030000000000000027,0.011044176706827308,0.0030000000000000027,Safe by all three raters
+WA-08,House,Kim Schrier,DEM,0.997,0.9710867397806581,0.997,Safe by all three raters
+WA-08,House,Spencer Meline,REP,0.0030000000000000027,0.028913260219341978,0.0030000000000000027,Safe by all three raters
+WA-09,House,Adam Smith,DEM,0.997,0.9839679358717435,0.997,Safe by all three raters
+WA-09,House,Doug Basler,REP,0.0030000000000000027,0.01603206412825651,0.0030000000000000027,Safe by all three raters
+WA-10,House,Marilyn Strickland,DEM,0.997,0.9829829829829829,0.997,Safe by all three raters
+WA-10,House,Chris D. Chung,REP,0.0030000000000000027,0.01701701701701702,0.0030000000000000027,Safe by all three raters
+WI-01,House,Mitchell Berman,DEM,0.2754300792864409,0.5,0.22392879148792702,"dossier late-info pool (w 0.25): Bryan Steil 0.776 -> 0.725 (dossier 0.535, market_underrates_underdog, skeptic weakened)"
+WI-01,House,Bryan Steil,REP,0.7245699207135591,0.5,0.776071208512073,"dossier late-info pool (w 0.25): Bryan Steil 0.776 -> 0.725 (dossier 0.535, market_underrates_underdog, skeptic weakened)"
+WI-02,House,Mark Pocan,DEM,0.999,0.9899396378269618,0.999,no real opponent on the ballot; Safe by all three raters
+WI-02,House,Republican party,REP,0.0010000000000000009,0.01006036217303823,0.0010000000000000009,no real opponent on the ballot; Safe by all three raters
+WI-03,House,Rebecca Cooke,DEM,0.7759044983259852,0.885,0.7759044983259852,
+WI-03,House,Derrick Van Orden,REP,0.22409550167401482,0.115,0.22409550167401482,
+WI-04,House,Gwen Moore,DEM,0.997,0.9769769769769769,0.997,Safe by all three raters
+WI-04,House,Tim Rogers,REP,0.0030000000000000027,0.02302302302302302,0.0030000000000000027,Safe by all three raters
+WI-05,House,Scott Fitzgerald,REP,0.997,0.982897384305835,0.997,Safe by all three raters
+WI-05,House,Andrew Beck,DEM,0.003,0.01710261569416499,0.003,Safe by all three raters
+WI-06,House,Glenn Grothman,REP,0.997,0.9126117179741806,0.997,Safe by all three raters
+WI-06,House,Brad Smith,DEM,0.003,0.08738828202581925,0.003,Safe by all three raters
+WI-07,House,Michael Alfonso,REP,0.997,0.9382470119521912,0.997,Safe by all three raters
+WI-07,House,Fred Clark,DEM,0.003,0.061752988047808766,0.003,Safe by all three raters
+WI-08,House,Tony Wied,REP,0.997,0.885,0.997,Safe by all three raters
+WI-08,House,Rick Crosson,DEM,0.003,0.115,0.003,Safe by all three raters
+WV-01,House,Carol Miller,REP,0.997,0.9819639278557114,0.997,Safe by all three raters
+WV-01,House,Vince George,DEM,0.003,0.018036072144288574,0.003,Safe by all three raters
+WV-02,House,Riley Moore,REP,0.997,0.9799599198396793,0.997,Safe by all three raters
+WV-02,House,Ace Parsi,DEM,0.003,0.02004008016032064,0.003,Safe by all three raters
+WY-AL,House,Chuck Gray,REP,0.9971152290896781,0.9610389610389611,0.9971152290896781,
+WY-AL,House,Lisa Kinney,DEM,0.002884770910321888,0.03896103896103897,0.002884770910321888,

@@ -1,0 +1,38 @@
+race_id,pollster,dates,sample,cand_a,party_a,pct_a,cand_b,party_b,pct_b,page,end_date
+CA-01,University of Southern California,"October 22–28, 2026",444 (LV),James Gallagher,R,40.0,Mike McGuire,D,54.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-01,University of Southern California,"October 22–28, 2026",444 (LV),James Gallagher,R,41.0,Mike McGuire,D,56.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-03,Tulchin Research (D),"July 8–10, 2025",400 (LV),Kevin Kiley,R,47.0,Heidi Hall,D,45.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2025-07-10
+CA-04,Fulcrum Strategy Group,"October 18–20, 2026",400 (LV),Mike Thompson,D,40.0,Eric Jones,D,53.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-20
+CA-04,David Binder Research (D),October 2026,600 (V),Mike Thompson,D,35.0,Eric Jones,D,45.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,
+CA-06,University of Southern California,"October 22–28, 2026",439 (LV),Kevin Kiley,I,38.0,Richard Pan,D,51.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-06,University of Southern California,"October 22–28, 2026",439 (LV),Kevin Kiley,I,43.0,Richard Pan,D,55.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-06,The Bullfinch Group,"September 1–6, 2026",927 (LV),Kevin Kiley,I,37.0,Richard Pan,D,37.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-09-06
+CA-06,The Bullfinch Group/Independent Center,"July 13–16, 2026",741 (LV),Kevin Kiley,I,35.0,Richard Pan,D,39.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-07-16
+CA-07,RedBox Research (D),"October 20-23, 2026",722 (LV),Doris Matsui,D,32.0,Mai Vang,D,32.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-23
+CA-07,Data for Progress (D),"August 18–21, 2026",651 (LV),Doris Matsui,D,28.0,Mai Vang,D,32.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-08-21
+CA-11,RedBox Research (D),"October 20-23, 2026",856 (LV),Scott Wiener,D,46.0,Connie Chan,D,38.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-23
+CA-11,University of Southern California,"October 16–19, 2026",454 (LV),Scott Wiener,D,51.0,Connie Chan,D,44.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-19
+CA-11,University of Southern California,"October 16–19, 2026",454 (LV),Scott Wiener,D,47.0,Connie Chan,D,41.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-19
+CA-11,Tavern Research (D),"September 15–17, 2026",658 (LV),Scott Wiener,D,45.0,Connie Chan,D,34.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-09-17
+CA-11,Lake Research Partners (D),"July 14–19, 2026",(LV),Scott Wiener,D,45.0,Connie Chan,D,40.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-07-19
+CA-22,University of Southern California,"October 22–28, 2026",356 (LV),David Valadao,R,41.0,Randy Villegas,D,52.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-22,University of Southern California,"October 22–28, 2026",356 (LV),David Valadao,R,44.0,Randy Villegas,D,54.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-10-28
+CA-22,Tulchin Research (D),"June 15–21, 2026",800 (LV),David Valadao,R,44.0,Randy Villegas,D,48.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2026-06-21
+CA-22,Public Policy Polling (D),"August 6–8, 2025",547 (V),David Valadao,R,42.0,Jasmeet Bains,D,42.0,2026_United_States_House_of_Representatives_elections_in_California_districts_1_26_.json,2025-08-08
+CA-34,University of Southern California,"October 16–24, 2026",423 (LV),Jimmy Gomez,D,45.0,Angela Gonzales-Torres,D,51.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-24
+CA-34,University of Southern California,"October 16–24, 2026",423 (LV),Jimmy Gomez,D,34.0,Angela Gonzales-Torres,D,34.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-24
+CA-34,Center for Strategic Politics,"October 8–12, 2026",416 (LV),Jimmy Gomez,D,38.0,Angela Gonzales-Torres,D,48.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-12
+CA-34,Upswing Research (D),"September 1–5, 2026",403 (LV),Jimmy Gomez,D,38.0,Angela Gonzales-Torres,D,41.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-09-05
+CA-40,Tulchin Research (D),"January 14–19, 2026",800 (LV),Ken Calvert,R,44.0,Esther Kim Varet,D,44.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-01-19
+CA-40,Tulchin Research (D),"January 14–19, 2026",800 (LV),Young Kim,R,44.0,Esther Kim Varet,D,43.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-01-19
+CA-40,Grassroots Targeting,"September 5–9, 2026",800 (LV),Ken Calvert,R,34.0,Young Kim,R,43.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-09-09
+CA-40,Public Opinion Strategies,"August 17–20, 2026",400 (LV),Ken Calvert,R,35.0,Young Kim,R,34.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-08-20
+CA-40,American Viewpoint (R),"July 8–12, 2026",400 (LV),Ken Calvert,R,33.0,Young Kim,R,32.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-07-12
+CA-48,University of Southern California,"October 22–28, 2026",474 (LV),Jim Desmond,R,40.0,Marni von Wilpert,D,48.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-28
+CA-48,University of Southern California,"October 22–28, 2026",474 (LV),Jim Desmond,R,44.0,Marni von Wilpert,D,52.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-28
+CA-48,RedBox Research (D),"October 20–23, 2026","1,151 (LV)",Jim Desmond,R,43.0,Marni von Wilpert,D,48.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-23
+CA-48,Tarrance Group (R),"October 17–20, 2026",410 (LV),Jim Desmond,R,44.0,Marni von Wilpert,D,47.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-20
+CA-48,SurveyUSA,"October 1 – October 7, 2026",518 (LV),Jim Desmond,R,38.0,Marni von Wilpert,D,47.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-10-07
+CA-48,SurveyUSA,"August 27 – September 1, 2026",522 (LV),Jim Desmond,R,42.0,Marni von Wilpert,D,45.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-09-01
+CA-48,Lake Research Partners (D),"July 9–14, 2026",500 (LV),Jim Desmond,R,46.0,Marni von Wilpert,D,48.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2026-07-14
+CA-48,Blueprint Polling (D),"October 25–26, 2025",517 (LV),Darrell Issa,R,40.0,Ammar Campa-Najjar,D,43.0,2026_United_States_House_of_Representatives_elections_in_California_districts_27_52_.json,2025-10-26

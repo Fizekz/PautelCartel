@@ -1,0 +1,12 @@
+{
+ "started_utc": "2026-11-02T23:12:51+00:00",
+ "finished_utc": "2026-11-02T23:24:44+00:00",
+ "cutoff": "2026-11-03T23:00:00Z",
+ "user_agent": "ModelCitizensPollRefresh/1.1 (student election-forecast research) python-requests/2.32.3",
+ "gap_s": 10.0,
+ "requests": 72,
+ "rate_limited": 1,
+ "stopped": null,
+ "kalshi_names": "data/benchmark/kalshi_races_2026-11-01T074812Z.csv",
+ "offline": null
+}

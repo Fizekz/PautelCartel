@@ -1,0 +1,2256 @@
+{{short description|Predictions for select races in the 2022 House elections}}
+{{use mdy dates|date=May 2022}}
+{{Infobox election
+| election_name = 2022 United States House of Representatives election ratings
+| country = United States
+| previous_election = 2020 United States House of Representatives election ratings
+| previous_year = 2020
+| next_election = 2024 United States House of Representatives election ratings
+| next_year = 2024
+}}
+
+The [[2022 United States House of Representatives elections]] will be held November 8, 2022, to elect representatives from all 435 [[List of United States congressional districts|congressional districts]] across each of the 50 [[U.S. state]]s. Five of the six [[Delegate (United States Congress)|non-voting delegates]] from the [[District of Columbia]] and the inhabited [[Insular area|U.S. territories]] will also be elected (Puerto Rico's delegate, the Resident Commissioner, serves four year terms and was last elected in 2020). Numerous [[2022 United States elections|federal, state, and local elections]], including the [[2022 U.S. Senate elections]], will also be held on this date.
+
+== Election ratings ==
+=== Latest published ratings for competitive seats ===
+Several sites and individuals publish ratings of competitive seats. The seats listed below are considered competitive (not "safe" or "solid") by at least one of the rating groups. These ratings are based upon factors such as the strength of the incumbent (if the incumbent is running for re-election), the strength of the candidates, and the partisan history of the district (the [[Cook Partisan Voting Index]] (CPVI) is one example of this metric). Each rating describes the likelihood of a given outcome in the election.
+
+Most election ratings use:
+* '''Tossup''': no advantage
+* '''Tilt''' (sometimes used): very slight advantage
+* '''Lean''': significant, but not overwhelming advantage
+* '''Likely''': strong, but not certain advantage
+* '''Safe''' or '''Solid''': outcome is nearly certain
+
+{| class="wikitable sortable" style="text-align:center;
+
+|- valign=bottom
+! [[List of United States congressional districts|District]]
+! [[Cook Partisan Voting Index|CPVI]]<br/><ref>{{Cite web |title=2022 Cook PVI: District Map and List |url=https://www.cookpolitical.com/cook-pvi/2022-partisan-voting-index/district-map-and-list |access-date=2022-08-07 |website=Cook Political Report |language=en}}</ref>
+! Incumbent
+! Last result<ref name="2020results">{{Cite news | url=https://www.cnn.com/election/2020/results/house | title=House election results 2020 | publisher=Cnn.com | accessdate=October 1, 2021}}</ref>
+! [[Cook Political Report|Cook]]<br />{{small|November 7,<br />2022}}<ref name="CPRratings1">{{Cite web | url=https://www.cookpolitical.com/ratings/house-race-ratings| title=2022 House Race Ratings| publisher=Cook Political Report| accessdate=October 25, 2021}}</ref>
+! [[Stuart Rothenberg|IE]]<br />{{small|October 21,<br />2022}}<ref name="IE">{{cite web | title=2022 House Ratings | url=http://insideelections.com/ratings/house | work=House Ratings | publisher=The Rothenberg Political Report | access-date=October 27, 2021}}</ref>
+! [[Sabato's Crystal Ball|Sabato]]<br/>{{Small|November 7,<br>2022}}<ref name="Sabato's Crystal Ball">{{cite web|website=Sabato's Crystal Ball|title=2022 House Ratings|url=https://centerforpolitics.org/crystalball/2022-house/|date=October 14, 2021|access-date=October 19, 2021}}</ref>
+! [[Politico]]<br/>{{Small|October 27,<br>2022}}<ref name="Politico">{{cite web |title=2022 Election Forecast |url=https://www.politico.com/2022-election/race-forecasts-ratings-and-predictions/house/ |website=Politico |access-date=April 19, 2022}}</ref>
+! [[RealClearPolitics|RCP]]<br/>{{Small|November 6,<br>2022}}<ref name="RCP">{{cite web |url= https://www.realclearpolitics.com/epolls/2022/house/elections-map.html|title=Battle for the House 2022|date=June 9, 2022 |publisher=[[RealClearPolitics|RCP]]}}</ref>
+! [[Fox News|Fox]]<br />{{small|October 21,<br />2022}}<ref name="Fox News">{{cite web |title=2022 Election Forecast |url=https://www.foxnews.com/politics/fox-news-power-rankings-dems-gop-locked-close-battle-final-month-campaigning-begins.amp|website=Fox News |date=September 20, 2022 |access-date=September 20, 2022}}</ref>
+! [[Decision Desk HQ|DDHQ]]<br />{{small|October 27,<br />2022}}<ref name="DDHQ">{{cite web |title=2022 Election Forecast |url=https://forecast.decisiondeskhq.com/house |website=DDHQ |date=July 20, 2022 |access-date=July 20, 2022}}</ref>
+! [[FiveThirtyEight|538]]{{efn|[[FiveThirtyEight]] has three separate models for their House and Senate ratings: Lite (polling data only), Classic (polls, fundraising, and past voting patterns), and Deluxe (Classic alongside experts' ratings). This table uses the Classic model.|name=|group=}}{{efn|Category ranges:
+* Tossup: <60% both candidates
+* Lean: ≥60%
+* Likely: ≥75%
+* Solid: ≥95%}}<br />{{Small|November 1,<br />2022}}<ref name="FiveThirtyEight">{{cite web |title=2022 Election Forecast |url=https://projects.fivethirtyeight.com/2022-election-forecast/|website=FiveThirtyEight |date=June 30, 2022 |access-date=June 30, 2022}}</ref>
+! [[The Economist|Econ.]]{{efn|[[The Economist]] runs 10,000 simulations daily to determine their forecast ratings, which are based on statistical probability.|name=|group=}}{{efn|Category ranges:
+* Tossup ("Uncertain"): <65% both parties
+* Lean ("Likely"): 60-85%
+* Likely ("Very Likely"): 85-99%
+* Safe: ≥99%}}<br />{{Small|November 4,<br />2022}}<ref name="The Economist">{{cite web |title=The Economist's 2022 House forecasts |url=https://www.economist.com/interactive/us-midterms-2022/forecast/house|website=The Economist|date=September 16, 2022 |access-date=September 17, 2022}}</ref>
+|-
+! {{ushr|AK|AL|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Democratic}} data-sort-value="Peltola Mary" | [[Mary Peltola]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.5 | 51.5% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|AZ|1|X}}
+| {{Shading PVI|R|2}}
+| {{Party shading/Republican}} data-sort-value="Schweikert David" | [[David Schweikert]] (R)
+| {{Party shading/Republican}} data-sort-value=52.2 | 52.2% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+|-
+! {{ushr|AZ|2|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Democratic}} data-sort-value="O'Halleran Tom" | [[Tom O'Halleran]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.6 | 51.6% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+|-
+! {{ushr|AZ|4|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Stanton Greg" | [[Greg Stanton]] (D)
+| {{Party shading/Democratic}} data-sort-value=-61.6 | 61.6% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|AZ|6|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Democratic}} data-sort-value="Kirkpatrick Ann" | [[Ann Kirkpatrick]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-55.1 | 55.1% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tilt|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+|-
+! {{ushr|CA|3|X}}
+| {{Shading PVI|R|4}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|CA|6|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Bera Ami" | [[Ami Bera]] (D)
+| {{Party shading/Democratic}} data-sort-value=-56.6 | 56.6% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|9|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Harder Josh" | [[Josh Harder]] (D)
+| {{Party shading/Democratic}} data-sort-value=-55.2 | 55.2% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|13|X}}
+| {{Shading PVI|D|4}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|CA|21|X}}
+| {{Shading PVI|D|9}}
+| {{Party shading/Democratic}} data-sort-value="Costa Jim" | [[Jim Costa]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.4 | 59.4% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|22|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Republican}} data-sort-value="Valadao David" | [[David Valadao]] (R)
+| {{Party shading/Republican}} data-sort-value=50.4 | 50.4% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|CA|23|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Republican}} data-sort-value="Obernolte Jay" | [[Jay Obernolte]] (R)
+| {{Party shading/Republican}} data-sort-value=56.1 | 56.1% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|CA|25|X}}
+| {{Shading PVI|D|6}}
+| {{Party shading/Democratic}} data-sort-value="Ruiz Raul" | [[Raul Ruiz (politician)|Raul Ruiz]] (D)
+| {{Party shading/Democratic}} data-sort-value=-60.3 | 60.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|26|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Brownley Julia" | [[Julia Brownley]] (D)
+| {{Party shading/Democratic}} data-sort-value=-60.6 | 60.6% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|27|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Republican}} data-sort-value="Garcia Mike" | [[Mike Garcia (politician)|Mike Garcia]] (R)
+| {{Party shading/Republican}} data-sort-value=50.0 | 50.0% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+|-
+! {{ushr|CA|40|X}}
+| {{Shading PVI|R|2}}
+| {{Party shading/Republican}} data-sort-value="Kim Young" | [[Young Kim]] (R)
+| {{Party shading/Republican}} data-sort-value=50.6 | 50.6% R
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|CA|41|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Republican}} data-sort-value="Calvert Ken" | [[Ken Calvert]] (R)
+| {{Party shading/Republican}} data-sort-value=57.1 | 57.1% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|CA|45|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Republican}} data-sort-value="Steel Michelle" | [[Michelle Steel]] (R)
+| {{Party shading/Republican}} data-sort-value=51.1 | 51.1% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|CA|47|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Porter Katie" | [[Katie Porter]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.5 | 53.5% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CA|49|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Levin Mike" | [[Mike Levin]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.1 | 53.1% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|CO|3|X}}
+| {{Shading PVI|R|7}}
+| {{Party shading/Republican}} data-sort-value="Boebert Lauren" | [[Lauren Boebert]] (R)
+| {{Party shading/Republican}} data-sort-value=51.4 | 51.4% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|CO|5|X}}
+| {{Shading PVI|R|9}}
+| {{Party shading/Republican}} data-sort-value="Lamborn Doug" | [[Doug Lamborn]] (R)
+| {{Party shading/Republican}} data-sort-value=57.6 | 57.6% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|CO|7|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Perlmutter Ed" | [[Ed Perlmutter]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-59.1 | 59.1% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CO|8|X}}
+| {{Shading PVI|EVEN}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|CT|2|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Courtney Joe" | [[Joe Courtney (politician)|Joe Courtney]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.4 | 59.4% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|CT|3|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="DeLauro Rosa" | [[Rosa DeLauro]] (D)
+| {{Party shading/Democratic}} data-sort-value=-58.7 | 58.7% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|CT|5|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Hayes Jahana" | [[Jahana Hayes]] (D)
+| {{Party shading/Democratic}} data-sort-value=-55.1 | 55.1% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|FL|2|X}}
+| {{Shading PVI|R|8}}
+| {{party shading/Coalition}} data-sort-value="Lawson Al" | [[Al Lawson]] (D) and<br/>[[Neal Dunn]] (R)
+| {{party shading/Coalition}} data-sort-value=-65.1 | 65.1% D; 97.9% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|FL|4|X}}
+| {{Shading PVI|R|6}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+|-
+! {{ushr|FL|7|X}}
+| {{Shading PVI|R|5}}
+| {{Party shading/Democratic}} data-sort-value="Murphy Stephanie" | [[Stephanie Murphy]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-55.3 | 55.3% D
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+|-
+! {{ushr|FL|9|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Soto Darren" | [[Darren Soto]] (D)
+| {{Party shading/Democratic}} data-sort-value=-56.0 | 56.0% D
+| {{USRaceRating|Solid|D|}}
+| {{USRaceRating|Solid|D|}}
+| {{USRaceRating|Safe|D|}}
+| {{USRaceRating|Likely|D|}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|FL|13|X}}
+| {{Shading PVI|R|6}}
+| Vacant
+| {{Party shading/Democratic}} data-sort-value=-53.0 | 53.0% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+|-
+! {{ushr|FL|14|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Castor Kathy " | [[Kathy Castor]] (D)
+| {{Party shading/Democratic}} data-sort-value=-60.3 | 60.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|FL|15|X}}
+| {{Shading PVI|R|4}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|FL|16|X}}
+| {{Shading PVI|R|7}}
+| {{Party shading/Republican}} data-sort-value="Buchanan Vern " | [[Vern Buchanan]] (R)
+| {{Party shading/Republican}} data-sort-value=55.5 | 55.5% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|FL|22|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Frankel Lois" | [[Lois Frankel]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.0 | 59.0% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|FL|23|X}}
+| {{Shading PVI|D|5}}
+| Vacant
+| {{Party shading/Democratic}} data-sort-value=-58.6 | 58.6% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|FL|27|X}}
+| {{Shading PVI|EVEN}}
+| {{Party shading/Republican}} data-sort-value="Elvira Salazar María" | [[María Elvira Salazar]] (R)
+| {{Party shading/Republican}} data-sort-value=51.4 | 51.4% R
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|FL|28|X}}
+| {{Shading PVI|R|2}}
+| {{Party shading/Republican}} data-sort-value="A. Giménez Carlos" | [[Carlos A. Giménez]] (R)
+| {{Party shading/Republican}} data-sort-value=51.7 | 51.7% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|GA|2|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Bishop Sanford" | [[Sanford Bishop]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.1 | 59.1% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|GA|6|X}}
+| {{Shading PVI|R|11}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+|-
+! {{ushr|GA|12|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Republican}} data-sort-value="Allen Rick" | [[Rick W. Allen]] (R)
+| {{Party shading/Republican}} data-sort-value=58.4 | 58.4% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|IL|6|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Casten Sean" | [[Sean Casten]] (D)
+| {{Party shading/Democratic}} data-sort-value=-52.8 | 52.8% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|IL|8|X}}
+| {{Shading PVI|D|6}}
+| {{Party shading/Democratic}} data-sort-value="Krishnamoorthi Raja" | [[Raja Krishnamoorthi]] (D)
+| {{Party shading/Democratic}} data-sort-value=-73.2 | 73.2% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|IL|11|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Foster Bill" | [[Bill Foster (politician)|Bill Foster]] (D)
+| {{Party shading/Democratic}} data-sort-value=-63.3 | 63.3% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|IL|13|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Tilt|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D|Flip}}
+| {{USRaceRating|Likely|D|Flip}}
+|-
+! {{ushr|IL|14|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Underwood Lauren" | [[Lauren Underwood]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.7 | 50.7% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|IL|17|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Bustos Cheri" | [[Cheri Bustos]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-52.0 | 52.0% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|IN|1|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Mrvan Frank" | [[Frank J. Mrvan]] (D)
+| {{Party shading/Democratic}} data-sort-value=-56.6 | 56.6% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|IA|1|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Republican}} data-sort-value="Miller-Meeks Mariannette" | [[Mariannette Miller-Meeks]] (R)
+| {{Party shading/Republican}} data-sort-value=49.9 | 49.9% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+|-
+! {{ushr|IA|2|X}}
+| {{Shading PVI|R|4}}
+| {{Party shading/Republican}} data-sort-value="Hinson Ashley" | [[Ashley Hinson]] (R)
+| {{Party shading/Republican}} data-sort-value=51.2 | 51.2% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tilt|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+|-
+! {{ushr|IA|3|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Democratic}} data-sort-value="Axne Cindy" | [[Cindy Axne]] (D)
+| {{Party shading/Democratic}} data-sort-value=-48.9 | 48.9% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|KS|3|X}}
+| {{Shading PVI|R|1}}
+| {{Party shading/Democratic}} data-sort-value="Davids Sharice" | [[Sharice Davids]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.6 | 53.6% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|ME|2|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Democratic}} data-sort-value="Golden Jared" | [[Jared Golden]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.0 | 53.0% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|MD|1|X}}
+| {{Shading PVI|R|11}}
+| {{Party shading/Republican}} data-sort-value="Harris Andy" | [[Andy Harris (politician)|Andy Harris]] (R)
+| {{Party shading/Republican}} data-sort-value=63.4 | 63.4% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|MD|2|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Ruppersberger Dutch" | [[Dutch Ruppersberger]] (D)
+| {{Party shading/Democratic}} data-sort-value=-67.7 | 67.7% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|MD|3|X}}
+| {{Shading PVI|D|10}}
+| {{Party shading/Democratic}} data-sort-value="Sarbanes John" | [[John Sarbanes]] (D)
+| {{Party shading/Democratic}} data-sort-value=-69.2 | 69.2% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|MD|6|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Trone David" | [[David Trone]] (D)
+| {{Party shading/Democratic}} data-sort-value=-58.8 | 58.8% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|MA|9|X}}
+| {{Shading PVI|D|6}}
+| {{Party shading/Democratic}} data-sort-value="Keating Bill" | [[Bill Keating (politician)|Bill Keating]] (D)
+| {{Party shading/Democratic}} data-sort-value=-61.3 | 61.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|MI|3|X}}
+| {{Shading PVI|D|1}}
+| {{Party shading/Republican}} data-sort-value="Meijer Peter" | [[Peter Meijer]] (R) <br/>{{Small|(lost renomination)}}
+| {{Party shading/Republican}} data-sort-value=53.0 | 53.0% R
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D|Flip}}
+| {{USRaceRating|Lean|R|}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D|Flip}}
+|-
+! {{ushr|MI|4|X}}
+| {{Shading PVI|R|5}}
+| {{Party shading/Republican}} data-sort-value="Huizenga Bill" | [[Bill Huizenga]] (R)
+| {{Party shading/Republican}} data-sort-value=59.2 | 59.2% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|MI|7|X}}
+| {{Shading PVI|R|2}}
+| {{Party shading/Democratic}} data-sort-value="Slotkin Elissa" | [[Elissa Slotkin]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.9 | 50.9% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|R|flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|MI|8|X}}
+| {{Shading PVI|R|1}}
+| {{Party shading/Democratic}} data-sort-value="Kildee Dan" | [[Dan Kildee]] (D)
+| {{Party shading/Democratic}} data-sort-value=-54.4 | 54.4% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|MI|10|X}}
+| {{Shading PVI|R|3}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+|-
+! {{ushr|MI|11|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Stevens Haley" | [[Haley Stevens]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.2 | 50.2% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|MN|1|X}}
+| {{Shading PVI|R|7}}
+| {{party shading/Republican}} data-sort-value="Finstad Brad" | [[Brad Finstad]] (R)
+| {{Party shading/Republican}} data-sort-value=51.0 | 51.0% R
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|MN|2|X}}
+| {{Shading PVI|D|1}}
+| {{party shading/Democratic}} data-sort-value="Craig Angie" | [[Angie Craig]] (D)
+| {{Party shading/Democratic}} data-sort-value=-48.2 | 48.2% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|MN|3|X}}
+| {{Shading PVI|D|8|X}}
+| {{party shading/Democratic}} data-sort-value="Phillips Dean" | [[Dean Phillips]] (D)
+| {{Party shading/Democratic}} data-sort-value=-55.6 | 55.6% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|MN|8|X}}
+| {{Shading PVI|R|8|X}}
+| {{party shading/Republican}} data-sort-value="Stauber Pete" | [[Pete Stauber]] (R)
+| {{Party shading/Republican}} data-sort-value=56.7 | 56.7% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|MO|2|X}}
+| {{Shading PVI|R|7|X}}
+| {{party shading/Republican}} data-sort-value="Wagner Ann" | [[Ann Wagner]] (R)
+| {{Party shading/Republican}} data-sort-value=51.9 | 51.9% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|MT|1|X}}
+| {{Shading PVI|R|6}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|NE|1|X}}
+| {{Shading PVI|R|9}}
+| {{Party shading/Republican}} data-sort-value="Flood Mike" | [[Mike Flood (politician)|Mike Flood]] (R)
+| {{Party shading/Republican}} data-sort-value=52.7 | 52.7% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|NE|2|X}}
+| {{Shading PVI|EVEN}}
+| {{Party shading/Republican}} data-sort-value="Bacon Don" | [[Don Bacon]] (R)
+| {{Party shading/Republican}} data-sort-value=50.8 | 50.8% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NV|1|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Titus Dina" | [[Dina Titus]] (D)
+| {{Party shading/Democratic}} data-sort-value=-61.8 | 61.8% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NV|2|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Republican}} data-sort-value="Amodei Mark" | [[Mark Amodei]] (R)
+| {{Party shading/Republican}} data-sort-value=56.5 | 56.5% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|NV|3|X}}
+| {{Shading PVI|D|1}}
+| {{Party shading/Democratic}} data-sort-value="Lee Susie" | [[Susie Lee]] (D)
+| {{Party shading/Democratic}} data-sort-value=-48.8 | 48.8% D
+| {{USRaceRating|Tossup}} 
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NV|4|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Horsford Steven" | [[Steven Horsford]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.7 | 50.7% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NH|1|X}}
+| {{Shading PVI|EVEN}}
+| {{Party shading/Democratic}} data-sort-value="Pappas Chris" | [[Chris Pappas (politician)|Chris Pappas]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.3 | 51.3% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NH|2|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Kuster Annie" | [[Annie Kuster]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.9 | 53.9% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NJ|1|X}}
+| {{Shading PVI|D|10}}
+| {{Party shading/Democratic}} data-sort-value="Norcross Donald" | [[Donald Norcross]] (D)
+| {{Party shading/Democratic}} data-sort-value=-62.5 | 62.5% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|NJ|2|X}}
+| {{Shading PVI|R|5}}
+| {{Party shading/Republican}} data-sort-value="Van Drew Jeff" | [[Jeff Van Drew]] (R)
+| {{Party shading/Republican}} data-sort-value=51.9 | 51.9% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|NJ|3|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Kim Andy" | [[Andy Kim (politician)|Andy Kim]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.2 | 53.2% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NJ|5|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Gottheimer Josh" | [[Josh Gottheimer]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.2 | 53.2% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NJ|7|X}}
+| {{Shading PVI|R|1}}
+| {{Party shading/Democratic}} data-sort-value="Malinowski Tom" | [[Tom Malinowski]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.6 | 50.6% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tilt|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NJ|9|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Pascrell Bill" | [[Bill Pascrell]] (D)
+| {{Party shading/Democratic}} data-sort-value=-65.8 | 65.8% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|NJ|11|X}}
+| {{Shading PVI|D|6}}
+| {{Party shading/Democratic}} data-sort-value="Sherrill Mikie" | [[Mikie Sherrill]] (D)
+| {{Party shading/Democratic}} data-sort-value=-53.3 | 53.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|NM|1|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Stansbury Melanie" | [[Melanie Stansbury]] (D)
+| {{Party shading/Democratic}} data-sort-value=-60.4 | 60.4% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NM|2|X}}
+| {{Shading PVI|D|1}}
+| {{Party shading/Republican}} data-sort-value="Herrell Yvette" | [[Yvette Herrell]] (R)
+| {{Party shading/Republican}} data-sort-value=53.7 | 53.7% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NM|3|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Leger Fernandez Teresa" | [[Teresa Leger Fernandez]] (D)
+| {{Party shading/Democratic}} data-sort-value=-58.7 | 58.7% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|NY|1|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Republican}} data-sort-value="Zeldin Lee" | [[Lee Zeldin]] (R)<br/>{{Small|(retiring)}}
+| {{Party shading/Republican}} data-sort-value=54.9 | 54.9% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+|-
+! {{ushr|NY|2|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Republican}} data-sort-value="Garbarino Andrew" | [[Andrew Garbarino]] (R)
+| {{Party shading/Republican}} data-sort-value=52.9 | 52.9% R
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|NY|3|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Suozzi Thomas" | [[Thomas Suozzi]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-56.0 | 56.0% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|NY|4|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Rice Kathleen" | [[Kathleen Rice]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-56.1 | 56.1% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NY|11|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Republican}} data-sort-value="Malliotakis Nicole" | [[Nicole Malliotakis]] (R)
+| {{Party shading/Republican}} data-sort-value=53.2 | 53.2% R
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|NY|17|X}}
+| {{Shading PVI|D|3}}
+| {{Party shading/Democratic}} data-sort-value="Maloney Sean Patrick" | [[Sean Patrick Maloney]] (D)
+| {{Party shading/Democratic}} data-sort-value=-55.8 | 55.8% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|NY|18|X}}
+| {{Shading PVI|D|1}}
+| {{Party shading/Democratic}} data-sort-value="Ryan Pat" | [[Pat Ryan (politician)|Pat Ryan]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.9 | 51.9% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|NY|19|X}}
+| {{Shading PVI|EVEN}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NY|20|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Tonko Paul" | [[Paul Tonko]] (D)
+| {{Party shading/Democratic}} data-sort-value=-61.2 | 61.2% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NY|22|X}}
+| {{Shading PVI|D|1}}
+| {{Party shading/Republican}} data-sort-value="Katko John" | [[John Katko]] (R)<br/>{{Small|(retiring)}}
+| {{Party shading/Republican}} data-sort-value=53.1 | 53.1% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NY|25|X}}
+| {{Shading PVI|D|7}}
+| {{Party shading/Democratic}} data-sort-value="Morelle Joseph" | [[Joseph Morelle]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.3 | 59.3% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NY|26|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Higgins Brian" | [[Brian Higgins]] (D)
+| {{Party shading/Democratic}} data-sort-value=-69.9 | 69.9% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|NC|1|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Butterfield G. K." | [[G. K. Butterfield]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-54.2 | 54.2% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NC|6|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Manning Kathy" | [[Kathy Manning]] (D)
+| {{Party shading/Democratic}} data-sort-value=-62.3 | 62.3% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|NC|7|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Republican}} data-sort-value="Rouzer David" | [[David Rouzer]] (R)
+| {{Party shading/Republican}} data-sort-value=60.2 | 60.2% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|NC|9|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Republican}} data-sort-value="Hudson Richard" | [[Richard Hudson (American politician)|Richard Hudson]] (R)
+| {{Party shading/Republican}} data-sort-value=53.3 | 53.3% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|NC|11|X}}
+| {{Shading PVI|R|8}}
+| {{Party shading/Republican}} data-sort-value="Cawthorn Madison" | [[Madison Cawthorn]] (R)<br>{{small|(lost renomination)}}
+| {{Party shading/Republican}} data-sort-value=54.5 | 54.5% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|NC|13|X}}
+| {{Shading PVI|R|2}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R|}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|NC|14|X}}
+| {{Shading PVI|D|6}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|OH|1|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Republican}} data-sort-value="Chabot Steve" | [[Steve Chabot]] (R)
+| {{Party shading/Republican}} data-sort-value=51.8 | 51.8% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|OH|7|X}}
+| {{Shading PVI|R|7}}
+| {{Party shading/Republican}} data-sort-value="Gibbs Bob" | [[Bob Gibbs]] (R)<br/>{{Small|(retiring)}}
+| {{Party shading/Republican}} data-sort-value=67.5 | 67.5% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|OH|9|X}}
+| {{Shading PVI|R|3}}
+| {{Party shading/Democratic}} data-sort-value="Kaptur Marcy" | [[Marcy Kaptur]] (D)
+| {{Party shading/Democratic}} data-sort-value=-63.1 | 63.1% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|OH|10|X}}
+| {{Shading PVI|R|4}}
+| {{Party shading/Republican}} data-sort-value="Turner Mike" | [[Mike Turner]] (R)
+| {{Party shading/Republican}} data-sort-value=58.4 | 58.4% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|OH|13|X}}
+| {{Shading PVI|R|1}}
+| {{Party shading/Democratic}} data-sort-value="Ryan Tim" | [[Tim Ryan (Ohio politician)|Tim Ryan]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-52.5 | 52.5% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|OH|15|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Republican}} data-sort-value="Carey Mike" | [[Mike Carey (politician)|Mike Carey]] (R)
+| {{Party shading/Republican}} data-sort-value=58.3 | 58.3% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|OR|4|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="DeFazio Peter" | [[Peter DeFazio]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-51.5 | 51.5% D
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|OR|5|X}}
+| {{Shading PVI|D|2}}
+| {{Party shading/Democratic}} data-sort-value="Schrader Kurt" | [[Kurt Schrader]] (D)<br/>{{Small|(lost renomination)}}
+| {{Party shading/Democratic}} data-sort-value=-51.9 | 51.9% D
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|OR|6|X}}
+| {{Shading PVI|D|4}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|PA|1|X}}
+| {{Shading PVI|EVEN}}
+| {{Party shading/Republican}} data-sort-value="Fitzpatrick Brian" | [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]] (R)
+| {{Party shading/Republican}} data-sort-value=56.6 | 56.6% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|PA|6|X}}
+| {{Shading PVI|D|5}}
+| {{Party shading/Democratic}} data-sort-value="Houlahan Chrissy" | [[Chrissy Houlahan]] (D)
+| {{Party shading/Democratic}} data-sort-value=-56.1 | 56.1% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|PA|7|X}}
+| {{Shading PVI|R|2}}
+| {{Party shading/Democratic}} data-sort-value="Wild Susan" | [[Susan Wild]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.9 | 51.9% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|PA|8|X}}
+| {{Shading PVI|R|4}}
+| {{Party shading/Democratic}} data-sort-value="Cartwright Matt" | [[Matt Cartwright]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.8 | 51.8% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|PA|10|X}}
+| {{Shading PVI|R|5}}
+| {{Party shading/Republican}} data-sort-value="Perry Scott" | [[Scott Perry (politician)|Scott Perry]] (R)
+| {{Party shading/Republican}} data-sort-value=53.3 | 53.3% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|PA|12|X}}
+| {{Shading PVI|D|8}}
+| {{Party shading/Democratic}} data-sort-value="Doyle Mike" | [[Mike Doyle (American politician)|Mike Doyle]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-69.3 | 69.3% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|PA|17|X}}
+| {{Shading PVI|EVEN}}
+| {{Party shading/Democratic}} data-sort-value="Lamb Conor" | [[Conor Lamb]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-51.1 | 51.1% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|RI|2|X}}
+| {{Shading PVI|D|4}}
+| {{Party shading/Democratic}} data-sort-value="Langevin James" | [[James Langevin]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-58.2 | 58.2% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|SC|1|X}}
+| {{Shading PVI|R|7}}
+| {{Party shading/Republican}} data-sort-value="Mace Nancy" | [[Nancy Mace]] (R)
+| {{Party shading/Republican}} data-sort-value=50.6 | 50.6% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|TN|5|X}}
+| {{Shading PVI|R|9}}
+| {{Party shading/Democratic}} data-sort-value="Cooper Jim" | [[Jim Cooper]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-100.0 | 100.0% D
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Safe|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+|-
+! {{ushr|TX|15|X}}
+| {{Shading PVI|R|1}}
+| {{party shading/Vacant}} | New seat
+| –
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+|-
+! {{ushr|TX|23|X}}
+| {{Shading PVI|R|5}}
+| {{Party shading/Republican}} data-sort-value="Gonzalez Tony" | [[Tony Gonzales]] (R)
+| {{Party shading/Republican}} data-sort-value=50.6 | 50.6% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|TX|28|X}}
+| {{Shading PVI|D|3}}
+| {{party shading/Democratic}} data-sort-value="Cuellar Henry" | [[Henry Cuellar]] (D)
+| {{Party shading/Democratic}} data-sort-value=-58.3 | 58.3% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|TX|34|X}}
+| {{Shading PVI|D|9}}
+| {{party shading/Coalition}} data-sort-value="Gonzalez Vicente" | [[Vicente Gonzalez (politician)|Vicente Gonzalez]] (D) and<br/>[[Mayra Flores]] (R)
+| {{Party shading/Coalition}} data-sort-value=-50.5 | 50.5% D; 50.9% R
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D|Flip}}
+|-
+! {{ushr|VA|1|X}}
+| {{Shading PVI|R|6}}
+| {{Party shading/Republican}} data-sort-value="Wittman Rob" | [[Rob Wittman]] (R)
+| {{Party shading/Republican}} data-sort-value=58.2 | 58.2% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|VA|2|X}}
+| {{Shading PVI|R|2}}
+| {{party shading/Democratic}} data-sort-value="Luria Elaine" | [[Elaine Luria]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.6 | 51.6% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+|-
+! {{ushr|VA|5|X}}
+| {{Shading PVI|R|7}}
+| {{Party shading/Republican}} data-sort-value="Good Bob" | [[Bob Good]] (R)
+| {{Party shading/Republican}} data-sort-value=52.4 | 52.4% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|VA|7|X}}
+| {{Shading PVI|D|1}}
+| {{party shading/Democratic}} data-sort-value="Spanberger Abigail" | [[Abigail Spanberger]] (D)
+| {{Party shading/Democratic}} data-sort-value=-50.8 | 50.8% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tilt|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|VA|10|X}}
+| {{Shading PVI|D|6}}
+| {{party shading/Democratic}} data-sort-value="Wexton Jennifer" | [[Jennifer Wexton]] (D)
+| {{Party shading/Democratic}} data-sort-value=-56.5 | 56.5% D
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+|-
+! {{ushr|WA|3|X}}
+| {{Shading PVI|R|5}}
+| {{party shading/Republican}} data-sort-value="Herrera Beutler Jaime" | [[Jaime Herrera Beutler]] (R) <br/>{{Small|(lost renomination)}}
+| {{Party shading/Republican}} data-sort-value=56.4 | 56.4% R
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Lean|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|WA|5|X}}
+| {{Shading PVI|R|8}}
+| {{party shading/Republican}} data-sort-value="McMorris Rodgers Cathy" | [[Cathy McMorris Rodgers]] (R)
+| {{Party shading/Republican}} data-sort-value=61.3 | 61.3% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+|-
+! {{ushr|WA|6|X}}
+| {{Shading PVI|D|6}}
+| {{party shading/Democratic}} data-sort-value="Kilmer Derek" | [[Derek Kilmer]] (D)
+| {{Party shading/Democratic}} data-sort-value=-59.3 | 59.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|WA|8|X}}
+| {{Shading PVI|D|1}}
+| {{party shading/Democratic}} data-sort-value="Schrier Kim" | [[Kim Schrier]] (D)
+| {{Party shading/Democratic}} data-sort-value=-51.7 | 51.7% D
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Tossup}}
+| {{USRaceRating|Lean|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Lean|D}}
+|-
+! {{ushr|WA|10|X}}
+| {{Shading PVI|D|7}}
+| {{party shading/Democratic}} data-sort-value="Strickland Marilyn" | [[Marilyn Strickland]] (D)
+| {{Party shading/Democratic}} data-sort-value=-49.3 | 49.3% D
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Likely|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Solid|D}}
+| {{USRaceRating|Safe|D}}
+|-
+! {{ushr|WI|1|X}}
+| {{Shading PVI|R|3}}
+| {{party shading/Republican}} data-sort-value="Steil Bryan" | [[Bryan Steil]] (R)
+| {{Party shading/Republican}} data-sort-value=59.3 | 59.3% R
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Likely|R}}
+| {{USRaceRating|Safe|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Solid|R}}
+| {{USRaceRating|Likely|R}}
+|-
+! {{ushr|WI|3|X}}
+| {{Shading PVI|R|4}}
+| {{party shading/Democratic}} data-sort-value="Kind Ron" | [[Ron Kind]] (D)<br/>{{Small|(retiring)}}
+| {{Party shading/Democratic}} data-sort-value=-51.3 | 51.3% D
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Lean|R|Flip}}
+| {{USRaceRating|Solid|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+| {{USRaceRating|Likely|R|Flip}}
+|-
+
+! colspan=4 | Overall
+<!--Coo-->| {{Party shading/None}} | D – 191<br/>R – 211<br/>33 tossups
+<!--IE-->| {{Party shading/None}} | D – 205<br/>R – 211<br/>19 tossups
+<!--SCB-->| {{Party shading/Republican}} | D – 198<br/>R – 237
+<!--Pol-->| {{Party shading/None}} | D – 195<br/>R – 213<br/>27 tossups
+<!--RCP-->| {{Party shading/Republican}} | D – 174<br/>R – 227<br/>38 tossups
+<!--FOX-->| {{Party shading/None}} | D – 186<br/>R – 216<br/>33 tossups
+<!--DDHQ-->| {{Party shading/Republican}} | D – 200<br/>R – 223<br/>12 tossups
+<!--538-->| {{Party shading/Republican}} | D – 198<br/>R – 220<br/>17 tossups
+<!--Eco-->| {{Party shading/None}} | D – 200<br/> R – 208<br/> 27 tossups
+
+|- valign=top
+! District
+! [[Cook Partisan Voting Index|CPVI]]
+! Incumbent
+! Previous result
+! [[Cook Political Report|Cook]]
+! [[Stuart Rothenberg|IE]]
+! [[Sabato's Crystal Ball|Sabato]]
+! [[Politico]]
+! [[RealClearPolitics|RCP]]
+! [[Fox News|Fox]]
+! [[Decision Desk HQ|DDHQ]]
+! [[FiveThirtyEight|538]]
+! [[The Economist|Econ.]]
+|}
+
+{{notelist}}
+
+=== Generic ballot polls ===
+
+The following is a list of generic party ballot polls conducted in advance of the 2022 House of Representatives elections.
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+
+|- valign=bottom style="font-size:90%;"
+! colspan="6" |Polling aggregates
+|-
+! style="width:250px;"|Source of poll aggregation
+! Date updated
+! Dates polled
+! Democratic
+! Republican
+! Lead
+|-
+|[https://www.realclearpolitics.com/epolls/other/2022-generic-congressional-vote-7361.html RealClearPolitics]
+| November 4, 2022
+| October 13 – November 3, 2022
+| 45.1%
+| {{party shading/Republican}} |'''47.9%'''
+| {{party shading/Republican}} |+2.8
+ 
+|-
+|[https://projects.fivethirtyeight.com/polls/generic-ballot/ FiveThirtyEight]
+| November 4, 2022
+| October 26 – November 4, 2022
+| 45.2%
+| {{party shading/Republican}} |'''46.5%'''
+| {{party shading/Republican}} |+1.2
+
+|-
+| colspan="3" | '''Average'''
+| 45.2%
+| {{party shading/Republican}} |'''47.2%'''
+| {{party shading/Republican}} |+2.0
+|}
+
+==Party listings==
+The campaign committees for the two parties (the [[Democratic Congressional Campaign Committee|DCCC]] and [[National Republican Congressional Committee|NRCC]]) publish their own lists of targeted seats.
+
+===Democratic-held seats===
+The NRCC is now targeting 85 Democratic held seats.<ref>{{Cite web|url=https://www.nrcc.org/2021/11/03/nrcc-expands-offensive-map-announces-13-new-targets/|title=NRCC Expands Offensive Map, Announces 13 New Targets|date=3 November 2021}}</ref>  They released their initial list February 10, 2021<ref>{{cite web|date=February 10, 2021|title=NRCC Announces 47 Offensive Pick-Up Opportunities for 2022 Cycle|url=https://www.nrcc.org/2021/02/10/nrcc-announces-47-offensive-pick-up-opportunities-for-2022-cycle/|access-date=February 22, 2021|website=NRCC}}</ref> and added 10 seats to the initial list on May 4, 2021<ref name="May4thNRCCTargets">{{cite web |title=NRCC Expands Offensive Map, Announces 10 New Targets Following Reapportionment |url=https://www.nrcc.org/2021/05/04/nrcc-expands-offensive-map-announces-10-new-targets-following-reapportionment/ |website=nrcc.org |date=4 May 2021 |publisher=NRCC |access-date=May 4, 2021}}</ref> and a further 13 seats November 3, 2021 after the favorable election night results. They added eight additional seats on March 30, 2022.<ref>{{Cite web|url=https://thehill.com/homenews/campaign/600278-house-gop-campaign-arm-adds-new-seats-to-target-list/|title = House GOP campaign arm adds new seats to target list|date = 30 March 2022}}</ref> The first two lists were published before redistricting, however the 3rd list begins to incorporate  [[2020 United States redistricting cycle|redistricting]] impacts such as Colorado's 7th congressional district. 
+Seats in '''bold''' were included in the DCCC's frontline seats in March 2021 or were added in January 2022.<ref>{{cite web|date=March 1, 2021|title=Democrats to devote resources to 7 more House lawmakers facing tough re-elections|url=https://dccc.org/dccc-announces-members-of-2021-2022-frontline-program/|access-date=March 5, 2021|website=DCCC}}</ref><ref>{{cite web|date=January 27, 2022|title=DCCC expands list of vulnerable House Democrats|url=https://thehill.com/homenews/campaign/591613-dccc-expands-list-of-vulnerable-house-democrats|website=The Hill}}</ref>
+{{collapse top|1=<span style="font-size:88%;">Republican target seats</span>|left=yes|bg=#FFB6B6;line-height:135%;|border=none}} 
+{{div col}}
+# '''{{ushr|AZ|1|X}}: [[Tom O'Halleran]]'''
+# '''{{ushr|AZ|4|X}}: [[Greg Stanton]]'''
+# {{ushr|AZ|6|X}}: [[Ann Kirkpatrick]] (retiring)
+# {{ushr|CA|3|X}}: None (new seat)
+# {{ushr|CA|7|X}}: [[Ami Bera]]
+# '''{{ushr|CA|9|X}}: [[Josh Harder]]'''
+# {{ushr|CA|13|X}}: [[Barbara Lee]] (running in {{ushr|CA|12|X}})
+# {{ushr|CA|20|X}}: [[Jim Costa]]
+# {{ushr|CA|26|X}}: [[Julia Brownley]]
+# {{ushr|CA|36|X}}: [[Raul Ruiz (politician)|Raul Ruiz]]   
+# '''{{ushr|CA|47|X}}: [[Katie Porter]]'''
+# '''{{ushr|CA|49|X}}: [[Mike Levin]]''' 
+# {{ushr|CO|7|X}}: [[Ed Perlmutter]] (retiring)
+# {{ushr|CT|2|X}}: [[Joe Courtney (politician)|Joe Courtney]]
+# '''{{ushr|CT|5|X}}: [[Jahana Hayes]]'''
+# {{ushr|FL|7|X}}: [[Stephanie Murphy]] (retiring)
+# {{ushr|FL|9|X}}: [[Darren Soto]]
+# {{ushr|FL|13|X}}: [[Charlie Crist]] (retiring)
+# {{ushr|FL|14|X}}: [[Kathy Castor]]
+# {{ushr|FL|22|X}}: [[Ted Deutch]] (retiring)
+# '''{{ushr|GA|2|X}}: [[Sanford Bishop]]'''
+# '''{{ushr|GA|6|X}}: [[Lucy McBath]] (running in {{ushr|GA|7}})'''
+# '''{{ushr|GA|7|X}}: [[Carolyn Bourdeaux]] (lost renomination)'''
+# {{ushr|IL|3|X}}: [[Marie Newman]] (lost renomination)
+# {{ushr|IL|6|X}}: [[Sean Casten]]
+# {{ushr|IL|8|X}}: [[Raja Krishnamoorthi]]
+# {{ushr|IL|11|X}}: [[Bill Foster (politician)|Bill Foster]]
+# '''{{ushr|IL|14|X}}: [[Lauren Underwood]]'''
+# {{ushr|IL|17|X}}: [[Cheri Bustos]] (retiring)
+# {{ushr|IN|1|X}}: [[Frank J. Mrvan|Frank Mrvan]]
+# '''{{ushr|IA|3|X}}: [[Cindy Axne]]'''
+# '''{{ushr|KS|3|X}}: [[Sharice Davids]]'''
+# '''{{ushr|ME|2|X}}: [[Jared Golden]]'''
+# {{ushr|MD|2|X}}: [[Dutch Ruppersberger]]
+# {{ushr|MD|3|X}}: [[John Sarbanes]]
+# {{ushr|MD|6|X}}: [[David Trone]]
+# '''{{ushr|MI|7|X}}: [[Elissa Slotkin]]'''
+# '''{{ushr|MI|8|X}}: [[Dan Kildee]]''' 
+# {{ushr|MI|11|X}}: [[Haley Stevens]]
+# '''{{ushr|MN|2|X}}: [[Angie Craig]]'''
+# {{ushr|MN|3|X}}: [[Dean Phillips]]
+# {{ushr|NV|1|X}}: [[Dina Titus]]
+# '''{{ushr|NV|3|X}}: [[Susie Lee]]'''
+# '''{{ushr|NV|4|X}}: [[Steven Horsford]]'''
+# '''{{ushr|NH|1|X}}: [[Chris Pappas (politician)|Chris Pappas]]'''
+# {{ushr|NH|2|X}}: [[Annie Kuster]]
+# '''{{ushr|NJ|3|X}}: [[Andy Kim (politician)|Andy Kim]]'''
+# '''{{ushr|NJ|5|X}}: [[Josh Gottheimer]]'''
+# '''{{ushr|NJ|7|X}}: [[Tom Malinowski]]'''
+# '''{{ushr|NJ|11|X}}: [[Mikie Sherrill]]'''
+# {{ushr|NM|1|X}}: [[Melanie Stansbury]]
+# {{ushr|NM|3|X}}: [[Teresa Leger Fernandez]]
+# {{ushr|NY|3|X}}: [[Thomas Suozzi]]
+# {{ushr|NY|4|X}}: [[Kathleen Rice]] (retiring)
+# {{ushr|NY|17|X}}: [[Mondaire Jones]] (lost renomination)
+# {{ushr|NY|18|X}}: [[Sean Patrick Maloney]] (running in {{ushr|NY|17}})
+# {{ushr|NY|20|X}}: [[Paul Tonko]]
+# {{ushr|NY|25|X}}: [[Joe Morelle]] 
+# {{ushr|NY|26|X}}: [[Brian Higgins]]  
+# {{ushr|NC|1|X}}: [[G.K. Butterfield]] (retiring)
+# {{ushr|NC|2|X}}: [[Deborah K. Ross|Deborah Ross]]
+# {{ushr|NC|6|X}}: [[Kathy Manning]]
+# {{ushr|NC|14|X}}: [[Jeff Jackson (politician)|Jeff Jackson]]
+# {{ushr|OH|9|X}}: [[Marcy Kaptur]]
+# {{ushr|OH|13|X}}: [[Tim Ryan (Ohio politician)|Tim Ryan]] (retiring)
+# '''{{ushr|OR|4|X}}: [[Peter DeFazio]] (retiring)
+# {{ushr|OR|5|X}}: [[Kurt Schrader]] (lost renomination)
+# {{ushr|OR|6|X}}: None (new seat)
+# {{ushr|PA|4|X}}: [[Madeleine Dean]]
+# {{ushr|PA|5|X}}: [[Mary Gay Scanlon]]
+# {{ushr|PA|6|X}}: [[Chrissy Houlahan]] 
+# '''{{ushr|PA|7|X}}: [[Susan Wild]]'''
+# '''{{ushr|PA|8|X}}: [[Matt Cartwright]]'''
+# {{ushr|PA|12|X}}: [[Mike Doyle (American politician)|Mike Doyle]] (retiring)
+# '''{{ushr|PA|17|X}}: [[Conor Lamb]] (retiring)
+# {{ushr|TN|5|X}}: [[Jim Cooper]] (retiring)
+# '''{{ushr|TX|7|X}}: [[Lizzie Fletcher]]'''
+# '''{{ushr|TX|15|X}}: [[Vicente Gonzalez (politician)|Vicente Gonzalez]] (running in {{ushr|TX|34}})
+# {{ushr|TX|28|X}}: [[Henry Cuellar]]
+# '''{{ushr|TX|32|X}}: [[Colin Allred]]'''
+# '''{{ushr|VA|2|X}}: [[Elaine Luria]]'''
+# '''{{ushr|VA|7|X}}: [[Abigail Spanberger]]'''
+# '''{{ushr|VA|10|X}}: [[Jennifer Wexton]]'''
+# '''{{ushr|WA|8|X}}: [[Kim Schrier]]'''
+# '''{{ushr|WI|3|X}}: [[Ron Kind]] (retiring)
+{{div col end}}
+{{collapse bottom}}
+
+===Republican-held seats===
+On April 6, 2021, the DCCC released their list of target seats, including open and Republican-held seats.<ref name="DistrictsInPlay">{{cite web |title=DCCC Announces 2021-2022 Districts In Play |url=https://dccc.org/dccc-announces-2021-2022-districts-in-play/ |website=dccc.org |publisher=DCCC |access-date=April 7, 2021 |date=April 6, 2021}}</ref> This list was published before redistricting. Several seats were added in January 2022.<ref>{{cite web|title=Democrats to devote resources to 7 more House lawmakers facing tough re-elections|url=https://www.nbcnews.com/politics/elections/democrats-devote-resources-7-more-house-lawmakers-facing-tough-re-n1288077|website=nbcnews.com|publisher=NBC|access-date=January 28, 2022|date=January 27, 2022}}</ref><ref name="DistrictsInPlay2">>{{cite web |title=DCCC Announces Changes To 2022 House Battlefield |url=https://dccc.org/dccc-announces-changes-to-2022-house-battlefield/ |website=dccc.org |publisher=DCCC |access-date=January 29, 2022 |date=January 27, 2022}}</ref>
+{{collapse top|1=<span style="font-size:88%;">Democratic target seats</span>|left=yes|bg=#B0CEFF;line-height:135%;|border=none}} 
+{{div col}}
+# {{ushr|AZ|1|X}}: [[David Schweikert]]
+# {{ushr|CA|22|X}}: [[David Valadao]]
+# {{ushr|CA|27|X}}: [[Mike Garcia (politician)|Mike Garcia]]
+# {{ushr|CA|40|X}}: [[Young Kim]]
+# {{ushr|CA|41|X}}: [[Ken Calvert]]
+# {{ushr|CA|45|X}}: [[Michelle Steel]]
+# {{ushr|FL|26|X}}: [[Carlos A. Giménez|Carlos Giménez]]
+# {{ushr|FL|27|X}}: [[Maria Elvira Salazar]]
+# {{ushr|IN|5|X}}: [[Victoria Spartz]]
+# {{ushr|IA|1|X}}: [[Ashley Hinson]]
+# {{ushr|IA|2|X}}: [[Mariannette Miller-Meeks]]
+# {{ushr|MD|1|X}}: [[Andy Harris (politician)|Andy Harris]]
+# {{ushr|MI|3|X}}: [[Peter Meijer]] (lost renomination)
+# {{ushr|MO|2|X}}: [[Ann Wagner]]
+# {{ushr|NE|2|X}}: [[Don Bacon]]
+# {{ushr|NM|2|X}}: [[Yvette Herrell]]
+# {{ushr|NY|2|X}}: [[Andrew Garbarino]]
+# {{ushr|NY|22|X}}: [[John Katko]] (retiring)
+# {{ushr|NY|24|X}}: [[Claudia Tenney]]
+# {{ushr|OH|1|X}}: [[Steve Chabot]]
+# {{ushr|PA|1|X}}: [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]]
+# {{ushr|PA|10|X}}: [[Scott Perry (politician)|Scott Perry]]
+# {{ushr|TX|23|X}}: [[Tony Gonzales]]
+# {{ushr|TX|24|X}}: [[Beth Van Duyne]]
+# {{ushr|UT|4|X}}: [[Burgess Owens]]
+
+{{div col end}}
+{{collapse bottom}}
+
+== References ==
+{{reflist}}
+
+{{2022 United States elections}}
+{{United States House of Representatives elections}}
+
+[[Category:2022 United States House of Representatives elections|*]]
+[[Category:Opinion polling in the United States|House]]

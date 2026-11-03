@@ -1,0 +1,952 @@
+race_id,chamber,candidate,party,q,p_kalshi,note
+AK-SEN,Senate,Democratic party,DEM,0.66303,0.70792,two_party
+AK-SEN,Senate,Republican party,REP,0.33697,0.29208,two_party
+AL-SEN,Senate,Barry Moore,REP,0.9992,0.97217,two_party
+AL-SEN,Senate,Everett Wess,DEM,0.0008,0.02783,two_party
+AR-SEN,Senate,Tom Cotton,REP,0.99564,0.94294,two_party
+AR-SEN,Senate,Hallie Shoffner,DEM,0.00436,0.05706,two_party
+CO-SEN,Senate,John Hickenlooper,DEM,0.99834,0.98704,two_party
+CO-SEN,Senate,Mark Baisley,REP,0.00166,0.01296,two_party
+DE-SEN,Senate,Chris Coons,DEM,0.99843,0.98193,two_party
+DE-SEN,Senate,Michael Katz,REP,0.00157,0.01807,two_party
+FL-SEN,Senate,Ashley Moody,REP,0.97577,0.885,two_party
+FL-SEN,Senate,Angie Nixon,DEM,0.02423,0.115,two_party
+GA-SEN,Senate,Jon Ossoff,DEM,0.99459,0.96614,two_party
+GA-SEN,Senate,Mike Collins,REP,0.00541,0.03386,two_party
+IA-SEN,Senate,Ashley Hinson,REP,0.53245,0.56061,two_party
+IA-SEN,Senate,Josh Turek,DEM,0.46755,0.43939,two_party
+ID-SEN,Senate,Jim Risch,REP,0.99078,0.94422,two_party
+ID-SEN,Senate,Todd Achilles,IND,0.00822,0.05478,two_party; independent on the D side
+ID-SEN,Senate,David Roth,DEM,0.001,0.001,two_party; not on Wikipedia's ballot list (withdrawn/write-in): minor
+IL-SEN,Senate,Juliana Stratton,DEM,0.99651,0.97698,two_party
+IL-SEN,Senate,Don Tracy,REP,0.00349,0.02302,two_party
+KS-SEN,Senate,Adam Hamilton,DEM,0.58784,0.505,two_party
+KS-SEN,Senate,Roger Marshall,REP,0.41216,0.495,two_party
+KY-SEN,Senate,Andy Barr,REP,0.99643,0.96703,two_party
+KY-SEN,Senate,Charles Booker,DEM,0.00357,0.03297,two_party
+LA-SEN,Senate,Julia Letlow,REP,0.96498,0.895,two_party
+LA-SEN,Senate,Jamie Davis,DEM,0.03502,0.105,two_party
+MA-SEN,Senate,Ed Markey,DEM,0.99958,0.98302,two_party
+MA-SEN,Senate,John Deaton,REP,0.00042,0.01698,two_party
+ME-SEN,Senate,Troy Jackson,DEM,0.69861,0.685,two_party
+ME-SEN,Senate,Susan Collins,REP,0.30139,0.315,two_party
+MI-SEN,Senate,Abdul El-Sayed,DEM,0.87555,0.755,two_party
+MI-SEN,Senate,Mike Rogers,REP,0.12445,0.245,two_party
+MN-SEN,Senate,Peggy Flanagan,DEM,0.96835,0.90609,two_party
+MN-SEN,Senate,Michele Tafoya,REP,0.03165,0.09391,two_party
+MS-SEN,Senate,Cindy Hyde-Smith,REP,0.97651,0.885,two_party
+MS-SEN,Senate,Scott Colom,DEM,0.02349,0.115,two_party
+MT-SEN,Senate,Kurt Alme,REP,0.98677,0.8806,two_party
+MT-SEN,Senate,Seth Bodnar,IND,0.01223,0.11443,two_party; independent on the D side
+MT-SEN,Senate,Alani Bankhead,DEM,0.001,0.00498,two_party; minor / not the main challenger
+NC-SEN,Senate,Roy Cooper,DEM,0.99266,0.9671,two_party
+NC-SEN,Senate,Michael Whatley,REP,0.00734,0.0329,two_party
+NE-SEN,Senate,Pete Ricketts,REP,0.91891,0.74277,two_party
+NE-SEN,Senate,Dan Osborn,IND,0.08009,0.25424,two_party; independent on the D side
+NE-SEN,Senate,Cindy Burbank,DEM,0.001,0.00299,two_party; not on Wikipedia's ballot list (withdrawn/write-in): minor
+NH-SEN,Senate,Chris Pappas,DEM,0.97674,0.92515,two_party
+NH-SEN,Senate,John E. Sununu,REP,0.02326,0.07485,two_party
+NJ-SEN,Senate,Cory Booker,DEM,0.99787,0.97702,two_party
+NJ-SEN,Senate,Justin Murphy,REP,0.00213,0.02298,two_party
+NM-SEN,Senate,Ben Ray Luján,DEM,0.99916,0.98403,two_party
+NM-SEN,Senate,Larry E. Marker,REP,0.00084,0.01597,two_party
+OH-SEN,Senate,Sherrod Brown,DEM,0.69906,0.70792,two_party
+OH-SEN,Senate,Jon Husted,REP,0.30094,0.29208,two_party
+OK-SEN,Senate,Kevin Hern,REP,0.99865,0.97405,two_party
+OK-SEN,Senate,N’Kiyla Thomas,DEM,0.00135,0.02595,two_party
+OR-SEN,Senate,Jeff Merkley,DEM,0.99816,0.98701,two_party
+OR-SEN,Senate,David Brock Smith,REP,0.00184,0.01299,two_party
+RI-SEN,Senate,Jack Reed,DEM,0.99957,0.98703,two_party
+RI-SEN,Senate,Raymond McKay,REP,0.00043,0.01297,two_party
+SC-SEN,Senate,Darline Graham,REP,0.80642,0.725,two_party
+SC-SEN,Senate,Annie Andrews,DEM,0.19358,0.275,two_party
+SD-SEN,Senate,Mike Rounds,REP,0.99332,0.93076,two_party
+SD-SEN,Senate,Brian Bengs,IND,0.00568,0.06429,two_party; independent on the D side
+SD-SEN,Senate,Julian Beaudion,DEM,0.001,0.00495,two_party; not on Wikipedia's ballot list (withdrawn/write-in): minor
+TN-SEN,Senate,Bill Hagerty,REP,0.99872,0.97395,two_party
+TN-SEN,Senate,Marquita Bradshaw,DEM,0.00128,0.02605,two_party
+TX-SEN,Senate,James Talarico,DEM,0.72748,0.68812,two_party
+TX-SEN,Senate,Ken Paxton,REP,0.27252,0.31188,two_party
+VA-SEN,Senate,Mark Warner,DEM,0.99704,0.98594,two_party
+VA-SEN,Senate,Bert Mizusawa,REP,0.00296,0.01406,two_party
+WV-SEN,Senate,Shelley Moore Capito,REP,0.99926,0.98298,two_party
+WV-SEN,Senate,Rachel Fetty Anderson,DEM,0.00074,0.01702,two_party
+WY-SEN,Senate,Harriet Hageman,REP,0.99923,0.98701,two_party
+WY-SEN,Senate,James Byrd,DEM,0.00077,0.01299,two_party
+AK-AL,House,Nick Begich III,REP,0.91561,0.77723,two_party
+AK-AL,House,Bill Hill,IND,0.08339,0.21287,two_party; independent on the D side
+AK-AL,House,Eric Hafner,DEM,0.001,0.0099,two_party; minor / not the main challenger
+AL-01,House,Jerry Carl,REP,0.99837,0.98303,two_party
+AL-01,House,Clyde Jones,DEM,0.00163,0.01697,two_party
+AL-02,House,Rhett Marques,REP,0.67458,0.56931,two_party
+AL-02,House,Shomari Figures,DEM,0.32542,0.43069,two_party
+AL-03,House,Mike Rogers,REP,0.99944,0.98799,two_party
+AL-03,House,Lee McInnis,DEM,0.00056,0.01201,two_party
+AL-04,House,Robert Aderholt,REP,0.99964,0.98894,two_party
+AL-04,House,Amanda Pusczek,DEM,0.00036,0.01106,two_party
+AL-05,House,Dale Strong,REP,0.99725,0.95696,two_party
+AL-05,House,Andrew Sneed,DEM,0.00275,0.04304,two_party
+AL-06,House,Gary Palmer,REP,0.99906,0.98699,two_party
+AL-06,House,Maurice Mercer,DEM,0.00094,0.01301,two_party
+AL-07,House,Terri Sewell,DEM,0.99871,0.98298,two_party
+AL-07,House,Ammie Akin,REP,0.00129,0.01702,two_party
+AR-01,House,Rick Crawford,REP,0.99939,0.98701,two_party
+AR-01,House,Terri Yarbrough Green,DEM,0.00061,0.01299,two_party
+AR-02,House,French Hill,REP,0.96606,0.825,two_party
+AR-02,House,Chris Jones,DEM,0.03394,0.175,two_party
+AR-03,House,Steve Womack,REP,0.99834,0.98305,two_party
+AR-03,House,Robb Ryerse,DEM,0.00166,0.01695,two_party
+AR-04,House,Bruce Westerman,REP,0.99939,0.98897,two_party
+AR-04,House,James Russell,DEM,0.00061,0.01103,two_party
+AZ-01,House,Amish Shah,DEM,0.84973,0.81313,two_party
+AZ-01,House,Jay Feely,REP,0.15027,0.18687,two_party
+AZ-02,House,Eli Crane,REP,0.86412,0.595,two_party
+AZ-02,House,Jonathan Nez,DEM,0.13588,0.405,two_party
+AZ-03,House,Yassamin Ansari,DEM,0.999,0.98501,one_sided
+AZ-03,House,Republican party,REP,0.001,0.01499,one_sided; party slot with no nominee on the ballot
+AZ-04,House,Greg Stanton,DEM,0.99496,0.96192,two_party
+AZ-04,House,Zuhdi Jasser,REP,0.00504,0.03808,two_party
+AZ-05,House,Mark Lamb,REP,0.9909,0.875,two_party
+AZ-05,House,Elizabeth Lee,DEM,0.0091,0.125,two_party
+AZ-06,House,JoAnna Mendoza,DEM,0.80834,0.895,two_party
+AZ-06,House,Juan Ciscomani,REP,0.19166,0.105,two_party
+AZ-07,House,Adelita Grijalva,DEM,0.99913,0.991,two_party
+AZ-07,House,Daniel Francis Butierez Sr.,REP,0.00087,0.009,two_party
+AZ-08,House,Abe Hamadeh,REP,0.98891,0.86432,two_party
+AZ-08,House,Bernadette Greene-Placentia,DEM,0.01109,0.13568,two_party
+AZ-09,House,Paul Gosar,REP,0.99751,0.98087,two_party
+AZ-09,House,Dani Sterbinsky,DEM,0.00249,0.01913,two_party
+CA-01,House,Mike McGuire,DEM,0.99452,0.96215,two_party
+CA-01,House,James Gallagher,REP,0.00548,0.03785,two_party
+CA-02,House,Jared Huffman,DEM,0.99931,0.98498,two_party
+CA-02,House,Robin Littau,REP,0.00069,0.01502,two_party
+CA-03,House,Ami Bera,DEM,0.99717,0.95888,two_party
+CA-03,House,Robb Tucker,REP,0.00283,0.04112,two_party
+CA-04,House,Mike Thompson,DEM,0.86267,0.535,same_party
+CA-04,House,Eric Jones,DEM,0.13733,0.465,same_party
+CA-05,House,Tom McClintock,REP,0.99236,0.94266,two_party
+CA-05,House,Michael Masuda,DEM,0.00764,0.05734,two_party
+CA-06,House,Richard Pan,DEM,0.98627,0.93333,two_party
+CA-06,House,Kevin Kiley,IND,0.01273,0.05373,two_party; independent on the R side
+CA-06,House,Republican party,REP,0.001,0.01294,two_party; party slot with no nominee on the ballot
+CA-07,House,Doris Matsui,DEM,0.6209,0.64141,same_party
+CA-07,House,Mai Vang,DEM,0.3791,0.35859,same_party
+CA-08,House,John Garamendi,DEM,0.99942,0.99297,two_party
+CA-08,House,Rudy Recile,REP,0.00058,0.00703,two_party
+CA-09,House,Josh Harder,DEM,0.99864,0.98992,two_party
+CA-09,House,John McBride,REP,0.00136,0.01008,two_party
+CA-10,House,Mark DeSaulnier,DEM,0.99945,0.98196,two_party
+CA-10,House,Jeff Frese,REP,0.00055,0.01804,two_party
+CA-11,House,Scott Wiener,DEM,0.73417,0.78713,same_party
+CA-11,House,Connie Chan,DEM,0.26583,0.21287,same_party
+CA-12,House,Lateefah Simon,DEM,0.99186,0.9799,same_party
+CA-12,House,Jamie Joyce,DEM,0.00814,0.0201,same_party
+CA-13,House,Adam Gray,DEM,0.98298,0.93788,two_party
+CA-13,House,Kevin Lincoln,REP,0.01702,0.06212,two_party
+CA-14,House,Aisha Wahab,DEM,0.95154,0.915,same_party
+CA-14,House,Melissa Hernandez,DEM,0.04846,0.085,same_party
+CA-15,House,Kevin Mullin,DEM,0.99961,0.99399,two_party
+CA-15,House,Charles Hoelter,REP,0.00039,0.00601,two_party
+CA-16,House,Sam Liccardo,DEM,0.99961,0.98297,two_party
+CA-16,House,Peter Sundin Soulé,REP,0.00039,0.01703,two_party
+CA-17,House,Ro Khanna,DEM,0.99953,0.98302,two_party
+CA-17,House,Ritesh Tandon,REP,0.00047,0.01698,two_party
+CA-18,House,Zoe Lofgren,DEM,0.99933,0.98202,two_party
+CA-18,House,Shane Lewis,REP,0.00067,0.01798,two_party
+CA-19,House,Jimmy Panetta,DEM,0.99947,0.99101,two_party
+CA-19,House,Peter Verbica,REP,0.00053,0.00899,two_party
+CA-20,House,Vince Fong,REP,0.99905,0.979,two_party
+CA-20,House,Sandra Van Scotter,DEM,0.00095,0.021,two_party
+CA-21,House,Jim Costa,DEM,0.99483,0.94821,two_party
+CA-21,House,Kyle Kirkland,REP,0.00517,0.05179,two_party
+CA-22,House,Randy Villegas,DEM,0.85082,0.91109,two_party
+CA-22,House,David Valadao,REP,0.14918,0.08891,two_party
+CA-23,House,Jay Obernolte,REP,0.99591,0.95713,two_party
+CA-23,House,Tessa Lynn Hodge,DEM,0.00409,0.04287,two_party
+CA-24,House,Salud Carbajal,DEM,0.99916,0.98799,two_party
+CA-24,House,Bob Smith,REP,0.00084,0.01201,two_party
+CA-25,House,Raul Ruiz,DEM,0.99377,0.98492,two_party
+CA-25,House,Joe Males,REP,0.00623,0.01508,two_party
+CA-26,House,Jacqui Irwin,DEM,0.99646,0.96697,two_party
+CA-26,House,Sam Gallucci,REP,0.00354,0.03303,two_party
+CA-27,House,George Whitesides,DEM,0.99776,0.98384,two_party
+CA-27,House,Jason Gibbs,REP,0.00224,0.01616,two_party
+CA-28,House,Judy Chu,DEM,0.99933,0.98697,two_party
+CA-28,House,April Verlato,REP,0.00067,0.01303,two_party
+CA-29,House,Luz Rivas,DEM,0.94037,0.9602,same_party
+CA-29,House,Angélica María Dueñas,DEM,0.05963,0.0398,same_party
+CA-30,House,Laura Friedman,DEM,0.99947,0.98701,two_party
+CA-30,House,Scott Meyers,REP,0.00053,0.01299,two_party
+CA-31,House,Gil Cisneros,DEM,0.99798,0.974,two_party
+CA-31,House,Eric Ching,REP,0.00202,0.026,two_party
+CA-32,House,Brad Sherman,DEM,0.99932,0.995,two_party
+CA-32,House,Larry Thompson,REP,0.00068,0.005,two_party
+CA-33,House,Pete Aguilar,DEM,0.99845,0.98693,two_party
+CA-33,House,Stephanie Vargas,REP,0.00155,0.01307,two_party
+CA-34,House,Angela Gonzales-Torres,DEM,0.50473,0.82143,same_party
+CA-34,House,Jimmy Gomez,DEM,0.49527,0.17857,same_party
+CA-35,House,Norma Torres,DEM,0.99806,0.98603,two_party
+CA-35,House,Mike Cargile,REP,0.00194,0.01397,two_party
+CA-36,House,Ted Lieu,DEM,0.99952,0.99398,two_party
+CA-36,House,Houston Brignano,REP,0.00048,0.00602,two_party
+CA-37,House,Sydney Kamlager-Dove,DEM,0.9899,0.975,same_party
+CA-37,House,Samantha Mota,DEM,0.0101,0.025,same_party
+CA-38,House,Hilda Solis,DEM,0.9982,0.98994,two_party
+CA-38,House,Pedro Antonio Casas,REP,0.0018,0.01006,two_party
+CA-39,House,Mark Takano,DEM,0.99839,0.97988,two_party
+CA-39,House,Steve Manos,REP,0.00161,0.02012,two_party
+CA-40,House,Young Kim,REP,0.51245,0.51942,same_party
+CA-40,House,Ken Calvert,REP,0.48755,0.48058,same_party
+CA-41,House,Linda Sánchez,DEM,0.99889,0.97091,two_party
+CA-41,House,Mitch Clemmons,REP,0.00111,0.02909,two_party
+CA-42,House,Robert Garcia,DEM,0.99842,0.98098,two_party
+CA-42,House,Brian Burley,REP,0.00158,0.01902,two_party
+CA-43,House,Maxine Waters,DEM,0.99961,0.98109,two_party
+CA-43,House,Cristian Morales,REP,0.00039,0.01891,two_party
+CA-44,House,Nanette Barragán,DEM,0.99946,0.98098,two_party
+CA-44,House,Genevieve Angel,REP,0.00054,0.01902,two_party
+CA-45,House,Derek Tran,DEM,0.99469,0.92807,two_party
+CA-45,House,Chuong Vo,REP,0.00531,0.07193,two_party
+CA-46,House,Lou Correa,DEM,0.99874,0.98298,two_party
+CA-46,House,David Pan,REP,0.00126,0.01702,two_party
+CA-47,House,Dave Min,DEM,0.99745,0.98283,two_party
+CA-47,House,Jenny Le Roux,REP,0.00255,0.01717,two_party
+CA-48,House,Marni von Wilpert,DEM,0.97146,0.94294,two_party
+CA-48,House,Jim Desmond,REP,0.02854,0.05706,two_party
+CA-49,House,Mike Levin,DEM,0.99843,0.98782,two_party
+CA-49,House,Armen Kurdian,REP,0.00157,0.01218,two_party
+CA-50,House,Scott Peters,DEM,0.99916,0.976,two_party
+CA-50,House,Stephen Cohen,REP,0.00084,0.024,two_party
+CA-51,House,Sara Jacobs,DEM,0.99916,0.982,two_party
+CA-51,House,Ricardo Cabrera,REP,0.00084,0.018,two_party
+CA-52,House,Juan Vargas,DEM,0.99896,0.98498,two_party
+CA-52,House,Jeff Belle,REP,0.00104,0.01502,two_party
+CO-01,House,Melat Kiros,DEM,0.99962,0.98302,two_party
+CO-01,House,Christy Peterson,REP,0.00038,0.01698,two_party
+CO-02,House,Joe Neguse,DEM,0.99952,0.98603,two_party
+CO-02,House,Kelley Dennison,REP,0.00048,0.01397,two_party
+CO-03,House,Jeff Hurd,REP,0.8947,0.625,two_party
+CO-03,House,Dwayne Romero,DEM,0.1053,0.375,two_party
+CO-04,House,Lauren Boebert,REP,0.88205,0.61881,two_party
+CO-04,House,Eileen Laubacher,DEM,0.11795,0.38119,two_party
+CO-05,House,Jeff Crank,REP,0.53667,0.555,two_party
+CO-05,House,Jessica Killin,DEM,0.46333,0.445,two_party
+CO-06,House,Jason Crow,DEM,0.99919,0.982,two_party
+CO-06,House,Jason Clark,REP,0.00081,0.018,two_party
+CO-07,House,Brittany Pettersen,DEM,0.99865,0.98691,two_party
+CO-07,House,Tim Bennett,REP,0.00135,0.01309,two_party
+CO-08,House,Manny Rutinel,DEM,0.78399,0.865,two_party
+CO-08,House,Gabe Evans,REP,0.21601,0.135,two_party
+CT-01,House,Luke Bronin,DEM,0.99917,0.99298,two_party
+CT-01,House,Amy Chai,REP,0.00083,0.00702,two_party
+CT-02,House,Joe Courtney,DEM,0.99846,0.98211,two_party
+CT-02,House,George Austin,REP,0.00154,0.01789,two_party
+CT-03,House,Rosa DeLauro,DEM,0.99892,0.97996,two_party
+CT-03,House,Christopher Lancia,REP,0.00108,0.02004,two_party
+CT-04,House,Jim Himes,DEM,0.99922,0.98098,two_party
+CT-04,House,Michael Goldstein,REP,0.00078,0.01902,two_party
+CT-05,House,Jahana Hayes,DEM,0.99571,0.9739,two_party
+CT-05,House,Chris Shea,REP,0.00429,0.0261,two_party
+DE-AL,House,Sarah McBride,DEM,0.99886,0.98491,two_party
+DE-AL,House,Joseph Arminio,REP,0.00114,0.01509,two_party
+FL-01,House,Jimmy Patronis,REP,0.99916,0.97109,two_party
+FL-01,House,Gay Valimont,DEM,0.00084,0.02891,two_party
+FL-02,House,Austin Rogers,REP,0.97777,0.91335,two_party
+FL-02,House,Amanda Green,DEM,0.02223,0.08665,two_party
+FL-03,House,Kat Cammack,REP,0.99637,0.956,two_party
+FL-03,House,Seth Harp,DEM,0.00363,0.044,two_party
+FL-04,House,Aaron Bean,REP,0.98576,0.805,two_party
+FL-04,House,LaShonda Holloway,DEM,0.01424,0.195,two_party
+FL-05,House,John Rutherford,REP,0.99266,0.94589,two_party
+FL-05,House,Rachel Grage,DEM,0.00734,0.05411,two_party
+FL-06,House,Randy Fine,REP,0.99818,0.97183,two_party
+FL-06,House,Eric Yonce,DEM,0.00182,0.02817,two_party
+FL-07,House,Ryan Elijah,REP,0.83582,0.655,two_party
+FL-07,House,Bale Dalton,DEM,0.16418,0.345,two_party
+FL-08,House,Mike Haridopolos,REP,0.98564,0.93506,two_party
+FL-08,House,Jennifer Jenkins,DEM,0.01436,0.06494,two_party
+FL-09,House,Dan Green,REP,0.86779,0.635,two_party
+FL-09,House,Darren Soto,DEM,0.13221,0.365,two_party
+FL-10,House,Maxwell Frost,DEM,0.999,0.982,one_sided
+FL-10,House,Republican party,REP,0.001,0.018,one_sided; party slot with no nominee on the ballot
+FL-11,House,Joe Strada,REP,0.99117,0.86634,two_party
+FL-11,House,James Pericola,DEM,0.00883,0.13366,two_party
+FL-12,House,Gus Bilirakis,REP,0.98379,0.845,two_party
+FL-12,House,Kimberly Overman,DEM,0.01621,0.155,two_party
+FL-13,House,Anna Paulina Luna,REP,0.87804,0.625,two_party
+FL-13,House,Leela Gray,DEM,0.12196,0.375,two_party
+FL-14,House,Kathy Castor,DEM,0.74357,0.74242,two_party
+FL-14,House,Mike Beltran,REP,0.25643,0.25758,two_party
+FL-15,House,Laurel Lee,REP,0.99698,0.9348,two_party
+FL-15,House,Robert People,DEM,0.00302,0.0652,two_party
+FL-16,House,Sydney Gruters,REP,0.93763,0.755,two_party
+FL-16,House,Kelly Kirschner,DEM,0.06237,0.245,two_party
+FL-17,House,Greg Steube,REP,0.99636,0.966,two_party
+FL-17,House,Matthew Montavon,DEM,0.00364,0.034,two_party
+FL-18,House,Scott Franklin,REP,0.99596,0.91426,two_party
+FL-18,House,Curtis Gibson,DEM,0.00404,0.08574,two_party
+FL-19,House,Jim Schwartzel,REP,0.99833,0.9651,two_party
+FL-19,House,Victor Arias,DEM,0.00167,0.0349,two_party
+FL-20,House,Debbie Wasserman Schultz,DEM,0.99949,0.98298,two_party
+FL-20,House,Brent Andersen,REP,0.00051,0.01702,two_party
+FL-21,House,Brian Mast,REP,0.99511,0.88945,two_party
+FL-21,House,James Martin,DEM,0.00489,0.11055,two_party
+FL-22,House,Pia Dandiya,DEM,0.41349,0.715,two_party
+FL-22,House,Casey Askar,REP,0.58651,0.285,two_party
+FL-23,House,Lois Frankel,DEM,0.99844,0.97988,two_party
+FL-23,House,Deborah Adeimy,REP,0.00156,0.02012,two_party
+FL-24,House,Oliver Gilbert,DEM,0.99934,0.98501,two_party
+FL-24,House,Mayonna Te Brown,REP,0.00066,0.01499,two_party
+FL-25,House,Jared Moskowitz,DEM,0.84281,0.81683,two_party
+FL-25,House,Scott Singer,REP,0.15719,0.18317,two_party
+FL-26,House,Mario Díaz-Balart,REP,0.99247,0.855,two_party
+FL-26,House,Nicole Locklin,DEM,0.00753,0.145,two_party
+FL-27,House,Maria Elvira Salazar,REP,0.92461,0.635,two_party
+FL-27,House,Eliott Rodriguez,DEM,0.07539,0.365,two_party
+FL-28,House,Carlos Giménez,REP,0.9946,0.92715,two_party
+FL-28,House,Phil Ehr,DEM,0.0054,0.07285,two_party
+GA-01,House,Jim Kingston,REP,0.99088,0.91335,two_party
+GA-01,House,Amanda Hollowell,DEM,0.00912,0.08665,two_party
+GA-02,House,Sanford Bishop,DEM,0.99677,0.97898,two_party
+GA-02,House,Matt Day,REP,0.00323,0.02102,two_party
+GA-03,House,Brian Jack,REP,0.99884,0.953,two_party
+GA-03,House,Maura Keller,DEM,0.00116,0.047,two_party
+GA-04,House,Hank Johnson,DEM,0.99961,0.989,two_party
+GA-04,House,James Duffie,REP,0.00039,0.011,two_party
+GA-05,House,Nikema Williams,DEM,0.99972,0.99198,two_party
+GA-05,House,John Salvesen,REP,0.00028,0.00802,two_party
+GA-06,House,Lucy McBath,DEM,0.9996,0.98901,two_party
+GA-06,House,Kevin Martin,REP,0.0004,0.01099,two_party
+GA-07,House,Rich McCormick,REP,0.99416,0.92807,two_party
+GA-07,House,Anthony Kozycki,DEM,0.00584,0.07193,two_party
+GA-08,House,Austin Scott,REP,0.99907,0.98405,two_party
+GA-08,House,Kelly Esti,DEM,0.00093,0.01595,two_party
+GA-09,House,Andrew Clyde,REP,0.99883,0.97988,two_party
+GA-09,House,Caitlyn Gegen,DEM,0.00117,0.02012,two_party
+GA-10,House,Houston Gaines,REP,0.99675,0.97896,two_party
+GA-10,House,Pamela DeLancy,DEM,0.00325,0.02104,two_party
+GA-11,House,John Cowan,REP,0.99792,0.96281,two_party
+GA-11,House,Chris Harden,DEM,0.00208,0.03719,two_party
+GA-12,House,Rick Allen,REP,0.99531,0.855,two_party
+GA-12,House,Ceretta Smith,DEM,0.00469,0.145,two_party
+GA-13,House,Jasmine Clark,DEM,0.99949,0.98501,two_party
+GA-13,House,Jonathan Chavez,REP,0.00051,0.01499,two_party
+GA-14,House,Clay Fuller,REP,0.99663,0.97996,two_party
+GA-14,House,Shawn Harris,DEM,0.00337,0.02004,two_party
+HI-01,House,Ed Case,DEM,0.9994,0.98597,two_party
+HI-01,House,Adriel Lam,REP,0.0006,0.01403,two_party
+HI-02,House,Jill Tokuda,DEM,0.9992,0.96697,two_party
+HI-02,House,Brenton Awa,REP,0.0008,0.03303,two_party
+IA-01,House,Christina Bohannan,DEM,0.88804,0.90702,two_party
+IA-01,House,Mariannette Miller-Meeks,REP,0.11096,0.08309,two_party
+IA-01,House,Michael Bridgford,IND,0.001,0.00989,two_party; minor / not the main challenger
+IA-02,House,Lindsay James,DEM,0.60937,0.72637,two_party
+IA-02,House,Joe Mitchell,REP,0.39063,0.27363,two_party
+IA-03,House,Sarah Trone Garriott,DEM,0.74963,0.84653,two_party
+IA-03,House,Zach Nunn,REP,0.25037,0.15347,two_party
+IA-04,House,Chris McGowan,REP,0.99733,0.98298,two_party
+IA-04,House,Dave Dawson,DEM,0.00267,0.01702,two_party
+ID-01,House,Russ Fulcher,REP,0.99952,0.97902,two_party
+ID-01,House,Kaylee Peterson,DEM,0.00048,0.02098,two_party
+ID-02,House,Mike Simpson,REP,0.99882,0.97571,two_party
+ID-02,House,Elinor Gilbreath,DEM,0.00118,0.02429,two_party
+IL-01,House,Jonathan Jackson,DEM,0.99928,0.97297,two_party
+IL-01,House,Christian Maxwell,REP,0.00072,0.02703,two_party
+IL-02,House,Donna Miller,DEM,0.99937,0.98892,two_party
+IL-02,House,Michael Noack,REP,0.00063,0.01108,two_party
+IL-03,House,Delia Ramirez,DEM,0.99941,0.98,two_party
+IL-03,House,Angel Oakley,REP,0.00059,0.02,two_party
+IL-04,House,Patty Garcia,DEM,0.99732,0.93756,two_party
+IL-04,House,Chris Getty,IND,0.001,0.05451,two_party; minor / not the main challenger
+IL-04,House,Mayra Macías,IND,0.001,0.00496,two_party; not on Wikipedia's ballot list (withdrawn/write-in): minor
+IL-04,House,Lupe Castillo,REP,0.00068,0.00297,two_party
+IL-05,House,Mike Quigley,DEM,0.99948,0.97206,two_party
+IL-05,House,Tommy Hanson,REP,0.00052,0.02794,two_party
+IL-06,House,Sean Casten,DEM,0.99593,0.98687,two_party
+IL-06,House,Niki Conforti,REP,0.00407,0.01313,two_party
+IL-07,House,La Shawn Ford,DEM,0.99965,0.98894,two_party
+IL-07,House,Chad Koppie,REP,0.00035,0.01106,two_party
+IL-08,House,Melissa Bean,DEM,0.98929,0.9596,two_party
+IL-08,House,Jennifer Davis,REP,0.01071,0.0404,two_party
+IL-09,House,Daniel Biss,DEM,0.99941,0.982,two_party
+IL-09,House,John Elleson,REP,0.00059,0.018,two_party
+IL-10,House,Brad Schneider,DEM,0.99921,0.974,two_party
+IL-10,House,Carl Lambrecht,REP,0.00079,0.026,two_party
+IL-11,House,Bill Foster,DEM,0.99736,0.98687,two_party
+IL-11,House,Jeff Walter,REP,0.00264,0.01313,two_party
+IL-12,House,Mike Bost,REP,0.99936,0.9739,two_party
+IL-12,House,Julie Fortier,DEM,0.00064,0.0261,two_party
+IL-13,House,Nikki Budzinski,DEM,0.99774,0.97492,two_party
+IL-13,House,Jeff Wilson,REP,0.00226,0.02508,two_party
+IL-14,House,Lauren Underwood,DEM,0.99684,0.98002,two_party
+IL-14,House,James Marter,REP,0.00316,0.01998,two_party
+IL-15,House,Mary Miller,REP,0.99926,0.95808,two_party
+IL-15,House,Jennifer Todd,DEM,0.00074,0.04192,two_party
+IL-16,House,Darin LaHood,REP,0.99674,0.96697,two_party
+IL-16,House,Paul Nolley,DEM,0.00326,0.03303,two_party
+IL-17,House,Eric Sorensen,DEM,0.99566,0.95984,two_party
+IL-17,House,Dillan Vancil,REP,0.00434,0.04016,two_party
+IN-01,House,Frank Mrvan,DEM,0.98383,0.97583,two_party
+IN-01,House,Barb Regnitz,REP,0.01617,0.02417,two_party
+IN-02,House,Rudy Yakym,REP,0.99751,0.97094,two_party
+IN-02,House,Jamee Decio,DEM,0.00249,0.02906,two_party
+IN-03,House,Marlin Stutzman,REP,0.99813,0.9651,two_party
+IN-03,House,Kelly Thompson,DEM,0.00187,0.0349,two_party
+IN-04,House,Jim Baird,REP,0.99851,0.97006,two_party
+IN-04,House,Drew Cox,DEM,0.00149,0.02994,two_party
+IN-05,House,Victoria Spartz,REP,0.9485,0.835,two_party
+IN-05,House,J.D. Ford,DEM,0.0515,0.165,two_party
+IN-06,House,Jefferson Shreve,REP,0.99903,0.9759,two_party
+IN-06,House,Cynthia Wirth,DEM,0.00097,0.0241,two_party
+IN-07,House,André Carson,DEM,0.99953,0.98497,two_party
+IN-07,House,Patrick McAuley,REP,0.00047,0.01503,two_party
+IN-08,House,Mark Messmer,REP,0.99876,0.963,two_party
+IN-08,House,Mary Allen,DEM,0.00124,0.037,two_party
+IN-09,House,Erin Houchin,REP,0.99858,0.97791,two_party
+IN-09,House,Brad Meyer,DEM,0.00142,0.02209,two_party
+KS-01,House,Tracey Mann,REP,0.9989,0.962,two_party
+KS-01,House,Lauren Reinhold,DEM,0.0011,0.038,two_party
+KS-02,House,Derek Schmidt,REP,0.96243,0.80693,two_party
+KS-02,House,Don Coover,DEM,0.03757,0.19307,two_party
+KS-03,House,Sharice Davids,DEM,0.99776,0.95813,two_party
+KS-03,House,Eric Jenkins,REP,0.00224,0.04187,two_party
+KS-04,House,Ron Estes,REP,0.99668,0.95904,two_party
+KS-04,House,Katy Tyndell,DEM,0.00332,0.04096,two_party
+KY-01,House,James Comer,REP,0.99941,0.98295,two_party
+KY-01,House,Drew Williams,DEM,0.00059,0.01705,two_party
+KY-02,House,Brett Guthrie,REP,0.99941,0.98098,two_party
+KY-02,House,Megan Wingfield,DEM,0.00059,0.01902,two_party
+KY-03,House,Morgan McGarvey,DEM,0.999,0.9741,one_sided
+KY-03,House,Maria Rodriguez,REP,0.001,0.0259,one_sided; not on Wikipedia's ballot list (withdrawn/write-in): minor
+KY-04,House,Ed Gallrein,REP,0.99892,0.96703,two_party
+KY-04,House,Melissa Claire Strange,DEM,0.00108,0.03297,two_party
+KY-05,House,Hal Rogers,REP,0.99955,0.992,two_party
+KY-05,House,Ned Pillersdorf,DEM,0.00045,0.008,two_party
+KY-06,House,Zach Dembo,DEM,0.54756,0.5495,two_party
+KY-06,House,Ralph Alvarado,REP,0.45244,0.4505,two_party
+LA-01,House,Republican party,REP,0.99922,0.97189,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-01,House,Democratic party,DEM,0.00078,0.02811,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-02,House,Democratic party,DEM,0.99959,0.98497,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-02,House,Republican party,REP,0.00041,0.01503,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-03,House,Republican party,REP,0.99867,0.97507,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-03,House,Democratic party,DEM,0.00133,0.02493,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-04,House,Republican party,REP,0.99886,0.95504,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-04,House,Democratic party,DEM,0.00114,0.04496,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-05,House,Republican party,REP,0.99853,0.9791,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-05,House,Democratic party,DEM,0.00147,0.0209,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-06,House,Republican party,REP,0.99749,0.952,two_party; Nov 3 jungle; party price = eventual seat winner
+LA-06,House,Democratic party,DEM,0.00251,0.048,two_party; Nov 3 jungle; party price = eventual seat winner
+MA-01,House,Richard Neal,DEM,0.999,0.99192,one_sided
+MA-01,House,Republican party,REP,0.001,0.00808,one_sided; party slot with no nominee on the ballot
+MA-02,House,Jim McGovern,DEM,0.999,0.98801,one_sided
+MA-02,House,Republican party,REP,0.001,0.01199,one_sided; party slot with no nominee on the ballot
+MA-03,House,Lori Trahan,DEM,0.9992,0.97804,two_party
+MA-03,House,Gary Grossi,REP,0.0008,0.02196,two_party
+MA-04,House,Jake Auchincloss,DEM,0.99922,0.98293,two_party
+MA-04,House,Tom Stalcup,REP,0.00078,0.01707,two_party
+MA-05,House,Katherine Clark,DEM,0.999,0.98994,one_sided
+MA-05,House,Republican party,REP,0.001,0.01006,one_sided; party slot with no nominee on the ballot
+MA-06,House,Dan Koh,DEM,0.99863,0.96378,two_party
+MA-06,House,Micah Jones,REP,0.00137,0.03622,two_party
+MA-07,House,Ayanna Pressley,DEM,0.999,0.98701,one_sided
+MA-07,House,Republican party,REP,0.001,0.01299,one_sided; party slot with no nominee on the ballot
+MA-08,House,Stephen Lynch,DEM,0.9994,0.9791,two_party
+MA-08,House,Robert Burke,REP,0.0006,0.0209,two_party
+MA-09,House,Bill Keating,DEM,0.99639,0.98102,two_party
+MA-09,House,Tyler MacAllister,REP,0.00361,0.01898,two_party
+MD-01,House,Andy Harris,REP,0.99114,0.86364,two_party
+MD-01,House,Dan Schwartz,DEM,0.00886,0.13636,two_party
+MD-02,House,Johnny Olszewski,DEM,0.99905,0.99195,two_party
+MD-02,House,Dave Wallace,REP,0.00095,0.00805,two_party
+MD-03,House,Sarah Elfreth,DEM,0.99924,0.9741,two_party
+MD-03,House,Berney Flowers,REP,0.00076,0.0259,two_party
+MD-04,House,Glenn Ivey,DEM,0.99974,0.991,two_party
+MD-04,House,George McDermott,REP,0.00026,0.009,two_party
+MD-05,House,Adrian Boafo,DEM,0.99937,0.98305,two_party
+MD-05,House,Chris Chaffee,REP,0.00063,0.01695,two_party
+MD-06,House,April McClain Delaney,DEM,0.99629,0.97894,two_party
+MD-06,House,Robin Ficker,REP,0.00371,0.02106,two_party
+MD-07,House,Kweisi Mfume,DEM,0.99967,0.99496,two_party
+MD-07,House,Scott Collier,REP,0.00033,0.00504,two_party
+MD-08,House,Jamie Raskin,DEM,0.99965,0.98604,two_party
+MD-08,House,Cheryl Riley,REP,0.00035,0.01396,two_party
+ME-01,House,Chellie Pingree,DEM,0.99925,0.97902,two_party
+ME-01,House,Ronald Russell,REP,0.00075,0.02098,two_party
+ME-02,House,Paul LePage,REP,0.64668,0.56061,two_party
+ME-02,House,Matt Dunlap,DEM,0.35332,0.43939,two_party
+MI-01,House,Jack Bergman,REP,0.99212,0.86634,two_party
+MI-01,House,Callie Barr,DEM,0.00788,0.13366,two_party
+MI-02,House,John Moolenaar,REP,0.99866,0.98899,two_party
+MI-02,House,Benjamin Ambrose,DEM,0.00134,0.01101,two_party
+MI-03,House,Hillary Scholten,DEM,0.99569,0.96289,two_party
+MI-03,House,Terri DeBoer,REP,0.00431,0.03711,two_party
+MI-04,House,Sean McCann,DEM,0.36689,0.615,two_party
+MI-04,House,Bill Huizenga,REP,0.63311,0.385,two_party
+MI-05,House,Tim Walberg,REP,0.99849,0.93918,two_party
+MI-05,House,Christian Vukasovich,DEM,0.00151,0.06082,two_party
+MI-06,House,Debbie Dingell,DEM,0.99929,0.98298,two_party
+MI-06,House,Heather Smiley,REP,0.00071,0.01702,two_party
+MI-07,House,William Lawrence,DEM,0.6781,0.78283,two_party
+MI-07,House,Tom Barrett,REP,0.3219,0.21717,two_party
+MI-08,House,Kristen McDonald Rivet,DEM,0.99354,0.97376,two_party
+MI-08,House,Thomas J. Smith,REP,0.00646,0.02624,two_party
+MI-09,House,Lisa McClain,REP,0.99921,0.9759,two_party
+MI-09,House,Ray Pooley,DEM,0.00079,0.0241,two_party
+MI-10,House,Christina Hines,DEM,0.4179,0.75743,two_party
+MI-10,House,Michael Bouchard Jr.,REP,0.5821,0.24257,two_party
+MI-11,House,Jeremy Moss,DEM,0.99785,0.98686,two_party
+MI-11,House,Ethan Baker,REP,0.00215,0.01314,two_party
+MI-12,House,Rashida Tlaib,DEM,0.99953,0.98302,two_party
+MI-12,House,James Hooper,REP,0.00047,0.01698,two_party
+MI-13,House,Donavan McKinney,DEM,0.99949,0.97796,two_party
+MI-13,House,T.P. Nykoriak,REP,0.00051,0.02204,two_party
+MN-01,House,Brad Finstad,REP,0.81427,0.60891,two_party
+MN-01,House,Jake Johnson,DEM,0.18573,0.39109,two_party
+MN-02,House,Matt Little,DEM,0.99308,0.94652,two_party
+MN-02,House,Eric Pratt,REP,0.00692,0.05348,two_party
+MN-03,House,Kelly Morrison,DEM,0.99918,0.97211,two_party
+MN-03,House,Tyler Bass,REP,0.00082,0.02789,two_party
+MN-04,House,Betty McCollum,DEM,0.99943,0.97384,two_party
+MN-04,House,Paul Wikstrom,REP,0.00057,0.02616,two_party
+MN-05,House,Ilhan Omar,DEM,0.99863,0.96514,two_party
+MN-05,House,John Nagel,REP,0.00037,0.02988,two_party
+MN-05,House,DeVelle Jackson,IND,0.001,0.00498,two_party; minor / not the main challenger
+MN-06,House,Tom Emmer,REP,0.99706,0.93234,two_party
+MN-06,House,Doug Chapin,DEM,0.00294,0.06766,two_party
+MN-07,House,Michelle Fischbach,REP,0.99884,0.96,two_party
+MN-07,House,Erik Osberg,DEM,0.00116,0.04,two_party
+MN-08,House,Pete Stauber,REP,0.9775,0.84653,two_party
+MN-08,House,Trina Swanson,DEM,0.0225,0.15347,two_party
+MO-01,House,Wesley Bell,DEM,0.99966,0.99099,two_party
+MO-01,House,Paul Berry,REP,0.00034,0.00901,two_party
+MO-02,House,Ann Wagner,REP,0.84996,0.63131,two_party
+MO-02,House,Fred Wellman,DEM,0.15004,0.36869,two_party
+MO-03,House,Bob Onder,REP,0.99803,0.97109,two_party
+MO-03,House,Bethany Mann,DEM,0.00197,0.02891,two_party
+MO-04,House,Mark Alford,REP,0.99939,0.968,two_party
+MO-04,House,Jordan Herrera,DEM,0.00061,0.032,two_party
+MO-05,House,Emanuel Cleaver,DEM,0.9989,0.96697,two_party
+MO-05,House,Rick Brattin,REP,0.0011,0.03303,two_party
+MO-06,House,Chris Stigall,REP,0.99893,0.97482,two_party
+MO-06,House,Josh Smead,DEM,0.00107,0.02518,two_party
+MO-07,House,Eric Burlison,REP,0.99938,0.96997,two_party
+MO-07,House,Missi Hesketh,DEM,0.00062,0.03003,two_party
+MO-08,House,Jason Smith,REP,0.99955,0.98899,two_party
+MO-08,House,Chris Reichard,DEM,0.00045,0.01101,two_party
+MS-01,House,Trent Kelly,REP,0.99861,0.97796,two_party
+MS-01,House,Cliff Johnson,DEM,0.00139,0.02204,two_party
+MS-02,House,Bennie Thompson,DEM,0.999,0.986,two_party
+MS-02,House,Ron Eller,REP,0.001,0.014,two_party
+MS-03,House,Michael Guest,REP,0.99779,0.98302,two_party
+MS-03,House,Michael Chiaradio,DEM,0.00221,0.01698,two_party
+MS-04,House,Mike Ezell,REP,0.99937,0.972,two_party
+MS-04,House,Jeffrey Hulum III,DEM,0.00063,0.028,two_party
+MT-01,House,Sam Forstag,DEM,0.68519,0.57921,two_party
+MT-01,House,Aaron Flint,REP,0.31481,0.42079,two_party
+MT-02,House,Troy Downing,REP,0.99931,0.99195,two_party
+MT-02,House,Brian Miller,DEM,0.00069,0.00805,two_party
+NC-01,House,Don Davis,DEM,0.76098,0.845,two_party
+NC-01,House,Laurie Buckhout,REP,0.23902,0.155,two_party
+NC-02,House,Deborah Ross,DEM,0.99944,0.98597,two_party
+NC-02,House,Gene Douglass,REP,0.00056,0.01403,two_party
+NC-03,House,Greg Murphy,REP,0.96867,0.555,two_party
+NC-03,House,Raymond Smith Jr.,DEM,0.03133,0.445,two_party
+NC-04,House,Valerie Foushee,DEM,0.99955,0.97798,two_party
+NC-04,House,Max Ganorkar,REP,0.00045,0.02202,two_party
+NC-05,House,Virginia Foxx,REP,0.98034,0.815,two_party
+NC-05,House,Chuck Hubbard,DEM,0.01966,0.185,two_party
+NC-06,House,Addison McDowell,REP,0.99358,0.875,two_party
+NC-06,House,Cyril Jefferson,DEM,0.00642,0.125,two_party
+NC-07,House,David Rouzer,REP,0.98063,0.765,two_party
+NC-07,House,Kim Hardy,DEM,0.01937,0.235,two_party
+NC-08,House,Mark Harris,REP,0.99661,0.948,two_party
+NC-08,House,Colby Watson,DEM,0.00339,0.052,two_party
+NC-09,House,Richard Hudson,REP,0.96159,0.665,two_party
+NC-09,House,Richard Ojeda,DEM,0.03841,0.335,two_party
+NC-10,House,Pat Harrigan,REP,0.99459,0.94024,two_party
+NC-10,House,Ashley Bell,DEM,0.00541,0.05976,two_party
+NC-11,House,Jamie Ager,DEM,0.91977,0.845,two_party
+NC-11,House,Jennifer Balkcom,REP,0.08023,0.155,two_party
+NC-12,House,Alma Adams,DEM,0.99952,0.98096,two_party
+NC-12,House,Jack Codiga,REP,0.00048,0.01904,two_party
+NC-13,House,Brad Knott,REP,0.96589,0.595,two_party
+NC-13,House,Paul Barringer,DEM,0.03411,0.405,two_party
+NC-14,House,Tim Moore,REP,0.98986,0.77273,two_party
+NC-14,House,LaKesha Womack,DEM,0.01014,0.22727,two_party
+ND-AL,House,Julie Fedorchak,REP,0.99899,0.98193,two_party
+ND-AL,House,Trygve Hammer,DEM,0.00101,0.01807,two_party
+NE-01,House,Mike Flood,REP,0.95402,0.76884,two_party
+NE-01,House,Chris Backemeyer,DEM,0.04498,0.22613,two_party
+NE-01,House,Austin Ahlman,IND,0.001,0.00503,two_party; not on Wikipedia's ballot list (withdrawn/write-in): minor
+NE-02,House,Denise Powell,DEM,0.98614,0.918,two_party
+NE-02,House,Brinker Harding,REP,0.01386,0.082,two_party
+NE-03,House,Adrian Smith,REP,0.99955,0.99097,two_party
+NE-03,House,Becky Stille,DEM,0.00045,0.00903,two_party
+NH-01,House,Stefany Shaheen,DEM,0.95315,0.94726,two_party
+NH-01,House,Anthony DiLorenzo,REP,0.04685,0.05274,two_party
+NH-02,House,Maggie Goodlander,DEM,0.99698,0.944,two_party
+NH-02,House,Lily Tang Williams,REP,0.00302,0.056,two_party
+NJ-01,House,Donald Norcross,DEM,0.9991,0.97889,two_party
+NJ-01,House,Damon Galdo,REP,0.0009,0.02111,two_party
+NJ-02,House,Jeff Van Drew,REP,0.97568,0.69802,two_party
+NJ-02,House,Zack Mullock,DEM,0.02432,0.30198,two_party
+NJ-03,House,Herb Conaway,DEM,0.99623,0.98285,two_party
+NJ-03,House,Michael McGuire,REP,0.00377,0.01715,two_party
+NJ-04,House,Chris Smith,REP,0.99857,0.9502,two_party
+NJ-04,House,Rachel Peace,DEM,0.00143,0.0498,two_party
+NJ-05,House,Josh Gottheimer,DEM,0.99729,0.98295,two_party
+NJ-05,House,Sean Kirrane,REP,0.00271,0.01705,two_party
+NJ-06,House,Frank Pallone,DEM,0.99824,0.98696,two_party
+NJ-06,House,Hillary Herzig,REP,0.00176,0.01304,two_party
+NJ-07,House,Rebecca Bennett,DEM,0.80771,0.93293,two_party
+NJ-07,House,Thomas Kean Jr.,REP,0.19229,0.06707,two_party
+NJ-08,House,Rob Menendez,DEM,0.999,0.98307,one_sided
+NJ-08,House,Republican party,REP,0.001,0.01693,one_sided; party slot with no nominee on the ballot
+NJ-09,House,Nellie Pou,DEM,0.99002,0.96982,two_party
+NJ-09,House,Rosie Pino,REP,0.00998,0.03018,two_party
+NJ-10,House,LaMonica McIver,DEM,0.99962,0.98603,two_party
+NJ-10,House,Carmen Bucco,REP,0.00038,0.01397,two_party
+NJ-11,House,Analilia Mejia,DEM,0.99609,0.98888,two_party
+NJ-11,House,Joe Hathaway,REP,0.00391,0.01112,two_party
+NJ-12,House,Adam Hamawy,DEM,0.99902,0.98196,two_party
+NJ-12,House,Gregg Mele,REP,0.00098,0.01804,two_party
+NM-01,House,Melanie Stansbury,DEM,0.99889,0.97284,two_party
+NM-01,House,Didi Okpareke,REP,0.00111,0.02716,two_party
+NM-02,House,Gabe Vasquez,DEM,0.95086,0.91508,two_party
+NM-02,House,Greg Cunningham,REP,0.04914,0.08492,two_party
+NM-03,House,Teresa Leger Fernández,DEM,0.99684,0.96181,two_party
+NM-03,House,Martin Zamora,REP,0.00316,0.03819,two_party
+NV-01,House,Dina Titus,DEM,0.98254,0.95582,two_party
+NV-01,House,Carrie Buck,REP,0.01746,0.04418,two_party
+NV-02,House,David Flippo,REP,0.87019,0.605,two_party
+NV-02,House,Teresa Benitez-Thompson,DEM,0.12981,0.395,two_party
+NV-03,House,Susie Lee,DEM,0.97993,0.95783,two_party
+NV-03,House,Martin O'Donnell,REP,0.02007,0.04217,two_party
+NV-04,House,Steven Horsford,DEM,0.99196,0.9668,two_party
+NV-04,House,Cody Whipple,REP,0.00804,0.0332,two_party
+NY-01,House,Nick LaLota,REP,0.95755,0.83333,two_party
+NY-01,House,Chris Gallant,DEM,0.04245,0.16667,two_party
+NY-02,House,Andrew Garbarino,REP,0.98429,0.825,two_party
+NY-02,House,Patrick Halpin,DEM,0.01571,0.175,two_party
+NY-03,House,Tom Suozzi,DEM,0.97397,0.90319,two_party
+NY-03,House,Mike LiPetri,REP,0.02603,0.09681,two_party
+NY-04,House,Laura Gillen,DEM,0.99212,0.9041,two_party
+NY-04,House,Jeanine Driscoll,REP,0.00788,0.0959,two_party
+NY-05,House,Gregory Meeks,DEM,0.99955,0.98795,two_party
+NY-05,House,George Marsh,REP,0.00045,0.01205,two_party
+NY-06,House,Grace Meng,DEM,0.99849,0.98796,two_party
+NY-06,House,Joseph Chou,REP,0.00151,0.01204,two_party
+NY-07,House,Claire Valdez,DEM,0.99956,0.98402,two_party
+NY-07,House,Melvin Rivera,REP,0.00044,0.01598,two_party
+NY-08,House,Hakeem Jeffries,DEM,0.99957,0.98699,two_party
+NY-08,House,Lewis Mizrahi,REP,0.00043,0.01301,two_party
+NY-09,House,Yvette Clarke,DEM,0.99954,0.97902,two_party
+NY-09,House,Joel Anabilah-Azumah,REP,0.00046,0.02098,two_party
+NY-10,House,Brad Lander,DEM,0.99966,0.98899,two_party
+NY-10,House,Jennifer Moore,REP,0.00034,0.01101,two_party
+NY-11,House,Nicole Malliotakis,REP,0.99821,0.92685,two_party
+NY-11,House,Michael DeCillis,DEM,0.00179,0.07315,two_party
+NY-12,House,Micah Lasher,DEM,0.99964,0.975,two_party
+NY-12,House,Caroline Shinkle,REP,0.00036,0.025,two_party
+NY-13,House,Darializa Avila Chevalier,DEM,0.99965,0.986,two_party
+NY-13,House,"Manual ""Jomo"" Williams",REP,0.00035,0.014,two_party
+NY-14,House,Alexandria Ocasio-Cortez,DEM,0.99943,0.98798,two_party
+NY-14,House,Diamant Hysenaj,REP,0.00057,0.01202,two_party
+NY-15,House,Ritchie Torres,DEM,0.99961,0.97702,two_party
+NY-15,House,Stylo Sapaskis,REP,0.00039,0.02298,two_party
+NY-16,House,George Latimer,DEM,0.99946,0.99097,two_party
+NY-16,House,Joseph Cinquemani,REP,0.00054,0.00903,two_party
+NY-17,House,Cait Conley,DEM,0.57088,0.62255,two_party
+NY-17,House,Mike Lawler,REP,0.42912,0.37745,two_party
+NY-18,House,Pat Ryan,DEM,0.99886,0.97487,two_party
+NY-18,House,Jacqueline Auringer,REP,0.00114,0.02513,two_party
+NY-19,House,Josh Riley,DEM,0.99078,0.96281,two_party
+NY-19,House,Peter Oberacker,REP,0.00922,0.03719,two_party
+NY-20,House,Paul Tonko,DEM,0.99875,0.98006,two_party
+NY-20,House,Ralph Ambrosio,REP,0.00125,0.01994,two_party
+NY-21,House,Anthony Constantino,REP,0.8871,0.675,two_party
+NY-21,House,Blake Gendebien,DEM,0.1129,0.325,two_party
+NY-22,House,John Mannion,DEM,0.99656,0.97376,two_party
+NY-22,House,Kailee Buller,REP,0.00344,0.02624,two_party
+NY-23,House,Nick Langworthy,REP,0.99844,0.97292,two_party
+NY-23,House,Aaron Gies,DEM,0.00156,0.02708,two_party
+NY-24,House,Claudia Tenney,REP,0.99744,0.97074,two_party
+NY-24,House,Alissa Ellman,DEM,0.00256,0.02926,two_party
+NY-25,House,Joseph Morelle,DEM,0.99912,0.98992,two_party
+NY-25,House,Virginia McIntyre,REP,0.00088,0.01008,two_party
+NY-26,House,Tim Kennedy,DEM,0.99925,0.98892,two_party
+NY-26,House,Dennis Hannon,REP,0.00075,0.01108,two_party
+OH-01,House,Greg Landsman,DEM,0.96998,0.946,two_party
+OH-01,House,Eric Conroy,REP,0.03002,0.054,two_party
+OH-02,House,David Taylor,REP,0.99938,0.981,two_party
+OH-02,House,Jennifer Mazzuckelli,DEM,0.00062,0.019,two_party
+OH-03,House,Joyce Beatty,DEM,0.99953,0.97996,two_party
+OH-03,House,Cleophus Dulaney,REP,0.00047,0.02004,two_party
+OH-04,House,Jim Jordan,REP,0.99938,0.96806,two_party
+OH-04,House,Joshua Kolasinski,DEM,0.00062,0.03194,two_party
+OH-05,House,Bob Latta,REP,0.99779,0.96607,two_party
+OH-05,House,Brian Shaver,DEM,0.00221,0.03393,two_party
+OH-06,House,Michael Rulli,REP,0.99917,0.98193,two_party
+OH-06,House,Elizabeth Kirtley,DEM,0.00083,0.01807,two_party
+OH-07,House,Brian Poindexter,DEM,0.57849,0.84653,two_party
+OH-07,House,Max Miller,REP,0.42151,0.15347,two_party
+OH-08,House,Warren Davidson,REP,0.99537,0.92659,two_party
+OH-08,House,Vanessa Enoch,DEM,0.00463,0.07341,two_party
+OH-09,House,Marcy Kaptur,DEM,0.82632,0.815,two_party
+OH-09,House,Derek Merrin,REP,0.17368,0.185,two_party
+OH-10,House,Mike Turner,REP,0.79102,0.685,two_party
+OH-10,House,Kristina Knickerbocker,DEM,0.20898,0.315,two_party
+OH-11,House,Shontel Brown,DEM,0.99964,0.98305,two_party
+OH-11,House,Mike Kirchner,REP,0.00036,0.01695,two_party
+OH-12,House,Troy Balderson,REP,0.99852,0.97166,two_party
+OH-12,House,Jerrad Christian,DEM,0.00148,0.02834,two_party
+OH-13,House,Emilia Sykes,DEM,0.99645,0.9716,two_party
+OH-13,House,Carey Coleman,REP,0.00355,0.0284,two_party
+OH-14,House,David Joyce,REP,0.99618,0.965,two_party
+OH-14,House,Maria Jukic,DEM,0.00382,0.035,two_party
+OH-15,House,Mike Carey,REP,0.85506,0.625,two_party
+OH-15,House,Don Leonard,DEM,0.14494,0.375,two_party
+OK-01,House,Mark Tedford,REP,0.99572,0.935,two_party
+OK-01,House,John Croisant,DEM,0.00428,0.065,two_party
+OK-02,House,Josh Brecheen,REP,0.99951,0.98196,two_party
+OK-02,House,Brandon Wade,DEM,0.00049,0.01804,two_party
+OK-03,House,Frank Lucas,REP,0.99945,0.98995,two_party
+OK-03,House,Suzie Byrd,DEM,0.00055,0.01005,two_party
+OK-04,House,Tom Cole,REP,0.99923,0.96482,two_party
+OK-04,House,Mitchell Jacob,DEM,0.00077,0.03518,two_party
+OK-05,House,Stephanie Bice,REP,0.99448,0.885,two_party
+OK-05,House,Jena Nelson,DEM,0.00552,0.115,two_party
+OR-01,House,Suzanne Bonamici,DEM,0.9995,0.988,two_party
+OR-01,House,Barbara Kahl,REP,0.0005,0.012,two_party
+OR-02,House,Cliff Bentz,REP,0.99788,0.96697,two_party
+OR-02,House,Chris Beck,DEM,0.00212,0.03303,two_party
+OR-03,House,Maxine Dexter,DEM,0.99958,0.99301,two_party
+OR-03,House,Loran Ayles,REP,0.00042,0.00699,two_party
+OR-04,House,Val Hoyle,DEM,0.99576,0.96614,two_party
+OR-04,House,Monique DeSpain,REP,0.00424,0.03386,two_party
+OR-05,House,Janelle Bynum,DEM,0.99613,0.96281,two_party
+OR-05,House,Patti Adair,REP,0.00387,0.03719,two_party
+OR-06,House,Andrea Salinas,DEM,0.99834,0.97898,two_party
+OR-06,House,David Russ,REP,0.00166,0.02102,two_party
+PA-01,House,Bob Harvie,DEM,0.44824,0.535,two_party
+PA-01,House,Brian Fitzpatrick,REP,0.55176,0.465,two_party
+PA-02,House,Brendan Boyle,DEM,0.99949,0.98995,two_party
+PA-02,House,Jessica Arriaga,REP,0.00051,0.01005,two_party
+PA-03,House,Chris Rabb,DEM,0.999,0.97012,one_sided
+PA-03,House,Republican party,REP,0.001,0.02988,one_sided; party slot with no nominee on the ballot
+PA-04,House,Madeleine Dean,DEM,0.99897,0.97497,two_party
+PA-04,House,Aurora Stuski,REP,0.00103,0.02503,two_party
+PA-05,House,Mary Gay Scanlon,DEM,0.99936,0.98599,two_party
+PA-05,House,Nicholas Manganaro,REP,0.00064,0.01401,two_party
+PA-06,House,Chrissy Houlahan,DEM,0.9972,0.98998,two_party
+PA-06,House,Marty Young,REP,0.0028,0.01002,two_party
+PA-07,House,Bob Brooks,DEM,0.85881,0.865,two_party
+PA-07,House,Ryan Mackenzie,REP,0.14119,0.135,two_party
+PA-08,House,Paige Cognetti,DEM,0.7951,0.87624,two_party
+PA-08,House,Rob Bresnahan,REP,0.2049,0.12376,two_party
+PA-09,House,Dan Meuser,REP,0.99876,0.97773,two_party
+PA-09,House,Rachel Wallace,DEM,0.00124,0.02227,two_party
+PA-10,House,Janelle Stelson,DEM,0.76833,0.815,two_party
+PA-10,House,Scott Perry,REP,0.23167,0.185,two_party
+PA-11,House,Lloyd Smucker,REP,0.99626,0.95139,two_party
+PA-11,House,Nancy Mannion,DEM,0.00374,0.04861,two_party
+PA-12,House,Summer Lee,DEM,0.9988,0.98494,two_party
+PA-12,House,James Hayes,REP,0.0012,0.01506,two_party
+PA-13,House,John Joyce,REP,0.99943,0.98498,two_party
+PA-13,House,Beth Farnham,DEM,0.00057,0.01502,two_party
+PA-14,House,Guy Reschenthaler,REP,0.99887,0.96774,two_party
+PA-14,House,Alan Bradstock,DEM,0.00113,0.03226,two_party
+PA-15,House,Glenn Thompson,REP,0.9992,0.95817,two_party
+PA-15,House,Ray Bilger,DEM,0.0008,0.04183,two_party
+PA-16,House,Mike Kelly,REP,0.99677,0.93625,two_party
+PA-16,House,Justin Wagner,DEM,0.00323,0.06375,two_party
+PA-17,House,Chris Deluzio,DEM,0.99706,0.96289,two_party
+PA-17,House,Tony Guy,REP,0.00294,0.03711,two_party
+RI-01,House,Gabe Amo,DEM,0.99945,0.981,two_party
+RI-01,House,Kellie Keenan,REP,0.00055,0.019,two_party
+RI-02,House,Seth Magaziner,DEM,0.99557,0.94494,two_party
+RI-02,House,Victor Mellor,REP,0.00443,0.05506,two_party
+SC-01,House,Jenny Costa Honeycutt,REP,0.64053,0.5101,two_party
+SC-01,House,Nancy S. Lacore,DEM,0.35947,0.4899,two_party
+SC-02,House,Joe Wilson,REP,0.99519,0.87624,two_party
+SC-02,House,Zyon Khalifa,DEM,0.00481,0.12376,two_party
+SC-03,House,Sheri Biggs,REP,0.99932,0.97904,two_party
+SC-03,House,Eunice Lehmacher,DEM,0.00068,0.02096,two_party
+SC-04,House,William Timmons,REP,0.99744,0.96304,two_party
+SC-04,House,Courtney McClain,DEM,0.00256,0.03696,two_party
+SC-05,House,Wes Climer,REP,0.99437,0.93638,two_party
+SC-05,House,Mallory Dittmer,DEM,0.00563,0.06362,two_party
+SC-06,House,Jim Clyburn,DEM,0.99925,0.98899,two_party
+SC-06,House,John Peterson,REP,0.00075,0.01101,two_party
+SC-07,House,Russell Fry,REP,0.99721,0.96296,two_party
+SC-07,House,John Vincent,DEM,0.00279,0.03704,two_party
+SD-AL,House,Marty Jackley,REP,0.99929,0.97492,two_party
+SD-AL,House,Nicole Gronli,DEM,0.00071,0.02508,two_party
+TN-01,House,Diana Harshbarger,REP,0.99952,0.97802,two_party
+TN-01,House,Kristi Burke,DEM,0.00048,0.02198,two_party
+TN-02,House,Tim Burchett,REP,0.99848,0.96311,two_party
+TN-02,House,Michaela Barnett,DEM,0.00152,0.03689,two_party
+TN-03,House,Chuck Fleischmann,REP,0.99906,0.98785,two_party
+TN-03,House,Anna Golladay,DEM,0.00094,0.01215,two_party
+TN-04,House,Scott DesJarlais,REP,0.99653,0.9703,two_party
+TN-04,House,Victoria Broderick,DEM,0.00347,0.0297,two_party
+TN-05,House,Charlie Hatcher,REP,0.98325,0.88945,two_party
+TN-05,House,Chaz Molder,DEM,0.01675,0.11055,two_party
+TN-06,House,Johnny Garrett,REP,0.99741,0.95904,two_party
+TN-06,House,Mike Croley,DEM,0.00259,0.04096,two_party
+TN-07,House,Matt Van Epps,REP,0.99361,0.95323,two_party
+TN-07,House,Darden Copeland,DEM,0.00639,0.04677,two_party
+TN-08,House,David Kustoff,REP,0.99674,0.954,two_party
+TN-08,House,Heidi Kuhn,DEM,0.00326,0.046,two_party
+TN-09,House,Brent Taylor,REP,0.96346,0.84653,two_party
+TN-09,House,Justin J. Pearson,DEM,0.03654,0.15347,two_party
+TX-01,House,Nathaniel Moran,REP,0.99948,0.984,two_party
+TX-01,House,Yolanda R. Prince,DEM,0.00052,0.016,two_party
+TX-02,House,Steve Toth,REP,0.98335,0.92807,two_party
+TX-02,House,Shaun Finnie,DEM,0.01665,0.07193,two_party
+TX-03,House,Keith Self,REP,0.99308,0.93493,two_party
+TX-03,House,Evan Hunt,DEM,0.00692,0.06507,two_party
+TX-04,House,Pat Fallon,REP,0.99796,0.97379,two_party
+TX-04,House,Jason Pearce,DEM,0.00204,0.02621,two_party
+TX-05,House,Lance Gooden,REP,0.99717,0.95105,two_party
+TX-05,House,Chelsey Hockett,DEM,0.00283,0.04895,two_party
+TX-06,House,Jake Ellzey,REP,0.99795,0.97892,two_party
+TX-06,House,Danny Minton,DEM,0.00205,0.02108,two_party
+TX-07,House,Lizzie Fletcher,DEM,0.99922,0.97395,two_party
+TX-07,House,Alexander Hale,REP,0.00078,0.02605,two_party
+TX-08,House,Jessica Steinmann,REP,0.998,0.97379,two_party
+TX-08,House,Laura Jones,DEM,0.002,0.02621,two_party
+TX-09,House,Alex Mealer,REP,0.9588,0.75743,two_party
+TX-09,House,Leticia Gutierrez,DEM,0.0412,0.24257,two_party
+TX-10,House,Chris Gober,REP,0.99432,0.91841,two_party
+TX-10,House,Caitlin Rourk,DEM,0.00568,0.08159,two_party
+TX-11,House,August Pfluger,REP,0.99909,0.97169,two_party
+TX-11,House,Claire Reynolds,DEM,0.00091,0.02831,two_party
+TX-12,House,Craig Goldman,REP,0.99812,0.96192,two_party
+TX-12,House,Angela Rodriguez Prilliman,DEM,0.00188,0.03808,two_party
+TX-13,House,Ronny Jackson,REP,0.99944,0.989,two_party
+TX-13,House,Mark Nair,DEM,0.00056,0.011,two_party
+TX-14,House,Randy Weber,REP,0.99778,0.96219,two_party
+TX-14,House,Thurman Bartie,DEM,0.00222,0.03781,two_party
+TX-15,House,Bobby Pulido,DEM,0.56796,0.88614,two_party
+TX-15,House,Monica De La Cruz,REP,0.43204,0.11386,two_party
+TX-16,House,Veronica Escobar,DEM,0.99903,0.97698,two_party
+TX-16,House,Adam Bauman,REP,0.00097,0.02302,two_party
+TX-17,House,Pete Sessions,REP,0.9966,0.96517,two_party
+TX-17,House,Casey Shepard,DEM,0.0034,0.03483,two_party
+TX-18,House,Christian Menefee,DEM,0.99965,0.98603,two_party
+TX-18,House,Ronald Whitfield,REP,0.00035,0.01397,two_party
+TX-19,House,Tom Sell,REP,0.99946,0.9739,two_party
+TX-19,House,Kyle Rable,DEM,0.00054,0.0261,two_party
+TX-20,House,Joaquin Castro,DEM,0.99926,0.97395,two_party
+TX-20,House,Edgardo Baez,REP,0.00074,0.02605,two_party
+TX-21,House,Mark Teixeira,REP,0.99428,0.97707,two_party
+TX-21,House,Kristin Hook,DEM,0.00572,0.02293,two_party
+TX-22,House,Trever Nehls,REP,0.99148,0.948,two_party
+TX-22,House,Marquette Greene-Scott,DEM,0.00852,0.052,two_party
+TX-23,House,Brandon Herrera,REP,0.90995,0.5404,two_party
+TX-23,House,Katy Padilla Stout,DEM,0.09005,0.4596,two_party
+TX-24,House,Beth Van Duyne,REP,0.99273,0.9481,two_party
+TX-24,House,Kevin Burge,DEM,0.00727,0.0519,two_party
+TX-25,House,Roger Williams,REP,0.99815,0.95409,two_party
+TX-25,House,Dione Sims,DEM,0.00185,0.04591,two_party
+TX-26,House,Brandon Gill,REP,0.99812,0.97607,two_party
+TX-26,House,Steven Shook,DEM,0.00188,0.02393,two_party
+TX-27,House,Michael Cloud,REP,0.99457,0.98288,two_party
+TX-27,House,Tanya Lloyd,DEM,0.00543,0.01712,two_party
+TX-28,House,Henry Cuellar,DEM,0.98674,0.921,two_party
+TX-28,House,Tano Tijerina,REP,0.01326,0.079,two_party
+TX-29,House,Sylvia Garcia,DEM,0.9994,0.966,two_party
+TX-29,House,Martha Fierro,REP,0.0006,0.034,two_party
+TX-30,House,Frederick Haynes III,DEM,0.99952,0.9801,two_party
+TX-30,House,Everett Jackson,REP,0.00048,0.0199,two_party
+TX-31,House,John Carter,REP,0.99529,0.93452,two_party
+TX-31,House,Justin Early,DEM,0.00471,0.06548,two_party
+TX-32,House,Jace Yarbrough,REP,0.97965,0.84422,two_party
+TX-32,House,Dan Barrios,DEM,0.02035,0.15578,two_party
+TX-33,House,Colin Allred,DEM,0.99937,0.97576,two_party
+TX-33,House,Patrick David Gillespie,REP,0.00063,0.02424,two_party
+TX-34,House,Vicente Gonzalez,DEM,0.87507,0.89394,two_party
+TX-34,House,Eric Flores,REP,0.12493,0.10606,two_party
+TX-35,House,Johnny C. Garcia,DEM,0.52932,0.75,two_party
+TX-35,House,Carlos De La Cruz,REP,0.47068,0.25,two_party
+TX-36,House,Brian Babin,REP,0.99814,0.96486,two_party
+TX-36,House,Rhonda Hart,DEM,0.00186,0.03514,two_party
+TX-37,House,Greg Casar,DEM,0.99963,0.98592,two_party
+TX-37,House,Lauren B. Peña,REP,0.00037,0.01408,two_party
+TX-38,House,Jon Bonck,REP,0.99458,0.973,two_party
+TX-38,House,Melissa McDonough,DEM,0.00542,0.027,two_party
+UT-01,House,Ben McAdams,DEM,0.99949,0.97796,two_party
+UT-01,House,Riley Owen,REP,0.00051,0.02204,two_party
+UT-02,House,Blake Moore,REP,0.9976,0.93794,two_party
+UT-02,House,Peter Crosby,DEM,0.0024,0.06206,two_party
+UT-03,House,Celeste Maloy,REP,0.99952,0.97507,two_party
+UT-03,House,Kent Udell,DEM,0.00048,0.02493,two_party
+UT-04,House,Mike Kennedy,REP,0.99921,0.96573,two_party
+UT-04,House,Jonny Larsen,DEM,0.00079,0.03427,two_party
+VA-01,House,Shannon Taylor,DEM,0.44915,0.62871,two_party
+VA-01,House,Rob Wittman,REP,0.55085,0.37129,two_party
+VA-02,House,Elaine Luria,DEM,0.81208,0.90863,two_party
+VA-02,House,Jen Kiggans,REP,0.18792,0.09137,two_party
+VA-03,House,Bobby Scott,DEM,0.99945,0.984,two_party
+VA-03,House,Edwin Rivera,REP,0.00055,0.016,two_party
+VA-04,House,Jennifer McClellan,DEM,0.99943,0.98492,two_party
+VA-04,House,Robert Murray,REP,0.00057,0.01508,two_party
+VA-05,House,John McGuire,REP,0.89109,0.65152,two_party
+VA-05,House,Tom Perriello,DEM,0.10891,0.34848,two_party
+VA-06,House,Ben Cline,REP,0.99838,0.93506,two_party
+VA-06,House,Beth Macy,DEM,0.00162,0.06494,two_party
+VA-07,House,Eugene Vindman,DEM,0.99667,0.96627,two_party
+VA-07,House,Doug Ollivant,REP,0.00333,0.03373,two_party
+VA-08,House,Don Beyer,DEM,0.9996,0.97894,two_party
+VA-08,House,Tony Sabio,REP,0.0004,0.02106,two_party
+VA-09,House,Morgan Griffith,REP,0.99933,0.975,two_party
+VA-09,House,Joy Powers,DEM,0.00067,0.025,two_party
+VA-10,House,Suhas Subramanyam,DEM,0.99601,0.98394,two_party
+VA-10,House,Dave Beckwith,REP,0.00399,0.01606,two_party
+VA-11,House,James Walkinshaw,DEM,0.99945,0.98495,two_party
+VA-11,House,Arthur Purves,REP,0.00055,0.01505,two_party
+VT-AL,House,Becca Balint,DEM,0.99943,0.98198,two_party
+VT-AL,House,Gerald Malloy,REP,0.00057,0.01802,two_party
+WA-01,House,Suzan DelBene,DEM,0.99935,0.98395,two_party
+WA-01,House,Mary Silva,REP,0.00065,0.01605,two_party
+WA-02,House,Rick Larsen,DEM,0.9993,0.97809,two_party
+WA-02,House,Edwin H. Feller,REP,0.0007,0.02191,two_party
+WA-03,House,Marie Gluesenkamp Perez,DEM,0.8961,0.895,two_party
+WA-03,House,John Braun,REP,0.1039,0.105,two_party
+WA-04,House,Amanda McKinney,REP,0.98946,0.91884,two_party
+WA-04,House,John Duresky,DEM,0.01054,0.08116,two_party
+WA-05,House,Michael Baumgartner,REP,0.96911,0.84343,two_party
+WA-05,House,Carmela Conroy,DEM,0.03089,0.15657,two_party
+WA-06,House,Emily Randall,DEM,0.99885,0.982,two_party
+WA-06,House,Teresa Fox,REP,0.00115,0.018,two_party
+WA-07,House,Pramila Jayapal,DEM,0.99973,0.98896,two_party
+WA-07,House,Nirav Sheth,REP,0.00027,0.01104,two_party
+WA-08,House,Kim Schrier,DEM,0.99741,0.97109,two_party
+WA-08,House,Spencer Meline,REP,0.00259,0.02891,two_party
+WA-09,House,Adam Smith,DEM,0.99954,0.98397,two_party
+WA-09,House,Doug Basler,REP,0.00046,0.01603,two_party
+WA-10,House,Marilyn Strickland,DEM,0.99908,0.98298,two_party
+WA-10,House,Chris D. Chung,REP,0.00092,0.01702,two_party
+WI-01,House,Mitchell Berman,DEM,0.17186,0.5,two_party
+WI-01,House,Bryan Steil,REP,0.82814,0.5,two_party
+WI-02,House,Mark Pocan,DEM,0.999,0.98994,one_sided
+WI-02,House,Republican party,REP,0.001,0.01006,one_sided; party slot with no nominee on the ballot
+WI-03,House,Rebecca Cooke,DEM,0.67398,0.885,two_party
+WI-03,House,Derrick Van Orden,REP,0.32602,0.115,two_party
+WI-04,House,Gwen Moore,DEM,0.99962,0.97698,two_party
+WI-04,House,Tim Rogers,REP,0.00038,0.02302,two_party
+WI-05,House,Scott Fitzgerald,REP,0.99831,0.9829,two_party
+WI-05,House,Andrew Beck,DEM,0.00169,0.0171,two_party
+WI-06,House,Glenn Grothman,REP,0.99259,0.91261,two_party
+WI-06,House,Brad Smith,DEM,0.00741,0.08739,two_party
+WI-07,House,Michael Alfonso,REP,0.99167,0.93825,two_party
+WI-07,House,Fred Clark,DEM,0.00833,0.06175,two_party
+WI-08,House,Tony Wied,REP,0.99241,0.885,two_party
+WI-08,House,Rick Crosson,DEM,0.00759,0.115,two_party
+WV-01,House,Carol Miller,REP,0.99932,0.98196,two_party
+WV-01,House,Vince George,DEM,0.00068,0.01804,two_party
+WV-02,House,Riley Moore,REP,0.99917,0.97996,two_party
+WV-02,House,Ace Parsi,DEM,0.00083,0.02004,two_party
+WY-AL,House,Chuck Gray,REP,0.99936,0.96104,two_party
+WY-AL,House,Lisa Kinney,DEM,0.00064,0.03896,two_party
