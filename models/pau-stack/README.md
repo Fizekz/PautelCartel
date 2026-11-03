@@ -45,7 +45,9 @@ leave-one-year-out and clearly better on the 2018 and 2022 backtests.
 | `ratings/` | expert-rating parser and the election-eve rating pages |
 | `race/` | district demographics (Census ACS) used by the district pattern |
 | `data/features/` | shared input tables: race history, polls, FEC money, generic ballot, 2026 race list |
-| `data/refresh_1102/` | the Nov 2 refreshed 2026 poll file (Wikipedia) and generic ballot |
+| `pbase/data/refresh_1102/live_1102/` | the Nov 2 refreshed 2026 poll file (Wikipedia), generic ballot, page revisions and the 49 new polls |
+| `pbase/data/borrowed/kavi-e/` | lean and historical poll tables shared with the other half of the team |
+| `data/benchmark/` | the Kalshi Nov 1 07:48 UTC race file (reference column only) |
 | `results/pk/pk_2026_refreshed.csv` | the model's raw 2026 output (D-side probabilities, three model variants) |
 | `results/joint2026/stack_noprim_2026_refreshed.csv` | the same in the standard per-race format (input to the final blend) |
 | `proto/pk_stack_noprim/out/` | backtest predictions: 2018, 2022 and leave-one-year-out 2010-2024 |

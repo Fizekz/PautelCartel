@@ -7,8 +7,10 @@
 # Environment: PY=<python with requirements.txt installed> (default python3).
 #              FRAME=pool5 uses the five-model pool as the candidate frame instead of the recorded one (see README).
 set -euo pipefail
-cd "$(dirname "$0")"
 PY="${PY:-python3}"
+# Later steps change directory, so make a relative interpreter path absolute.
+if [[ "$PY" == */* ]]; then PY="$(cd "$(dirname "$PY")" && pwd)/$(basename "$PY")"; fi
+cd "$(dirname "$0")"
 FRAME="${FRAME:-recorded}"
 PAU_STACK=models/pau-stack/results/joint2026/stack_noprim_2026_refreshed.csv
 
