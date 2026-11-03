@@ -302,11 +302,14 @@ appendices.
 
 ## Team and credits
 
-Built by **Kavi** and **Pau**. The two of us first built forecasts separately, competing against each
+Built by **Kavi Patel** and **Pau Schulz**. The two of us first built forecasts separately, competing against each
 other, then pooled our best models for this submission. Much of the engineering (data fetching, model code,
 backtests and these documents) was done by AI agents (Anthropic's Claude) working under our direction; the modelling
-choices and the final calls, including the pick rule and the CA-40/CA-07 overrides, were ours.
+choices and the final calls, including the pick rule and the four California overrides, were ours.
 
 Data credits: MIT Election Data and Science Lab (CC0), FiveThirtyEight (CC BY 4.0), Wikipedia contributors (CC BY-SA),
 Ballotpedia (2026 California primary results), VoteHub, the Federal Election Commission, The Downballot, Gallup and the UCSB American Presidency Project, the US
 Census Bureau, Kalshi, Cook Political Report, Sabato's Crystal Ball and Inside Elections.
+
+The code is released under the MIT License (see `LICENSE`); the data files keep their own licences, listed above
+and in `docs/PROVENANCE.md`.

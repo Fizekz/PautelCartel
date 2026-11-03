@@ -51,7 +51,7 @@ The branch `submission/official` is an orphan branch assembled from the commits 
 - From `research/pick_rule/`, only the summary and its printed outputs are included. The scripts read a table of past
   market prices and 538 probabilities and model pools that include kavi-f.
 
-## Archived data that is included (for the team to confirm)
+## Archived and API-fetched data that is included
 
 - `data/clean/polls_hist.csv` and `national_hist.csv` (2018-2024 rows), `data/benchmark/fte_final_2018/2022.csv`,
   the Pau stack's `pbase/data/borrowed/kavi-e/polls_hist.csv` and `data/features/polls_history.csv`: FiveThirtyEight
@@ -62,6 +62,9 @@ The branch `submission/official` is an orphan branch assembled from the commits 
   archived copies are used only because the FEC publishes current files, not the pre-election cuts.
 - `data/clean/results_senate.csv`, `data/raw/mit/1976-2024-senate-state.csv` and the MEDSL presidential file behind
   `lean_*.csv`: fetched from the Harvard Dataverse file API (CC0, no guestbook).
+
+The team reviewed these and kept them: each licence allows redistribution with attribution, the sources are credited
+here and in the data notes, and removing them would break reproduction.
 
 ## How it was built
 
