@@ -1,0 +1,22 @@
+   year  source snap                     ts_utc race_id party            candidate  p_raw  how  won    volume         p chamber
+0  2024  kalshi   T2  2024-11-03T12:00:00+00:00   AK-AL   REP  Nicholas Begich III  0.440  mid    1  210727.0  0.440000   House
+1  2024  kalshi   T2  2024-11-03T12:00:00+00:00   AK-AL   DEM         Mary Peltola  0.560  mid    0  169861.0  0.560000   House
+2  2024  kalshi   T0  2024-11-05T16:00:00+00:00   AK-AL   REP  Nicholas Begich III  0.525  mid    1  210727.0  0.527638   House
+     year source   snap      ts_utc race_id party candidate   p_raw     how  won  volume       p chamber
+862  2018    538  final  2018-11-06   AK-AL   DEM       NaN  0.2553  deluxe    0     NaN  0.2553   House
+863  2018    538  final  2018-11-06   AK-AL   REP       NaN  0.7447  deluxe    1     NaN  0.7447   House
+864  2018    538  final  2018-11-06   AK-AL   IND       NaN  0.0000  deluxe    0     NaN  0.0000   House
+
+== 538 as model, market price for scoring, real outcomes
+  2018 predictit  T7: races  97 chalk  28.4 C'  40.4 C  35.5 | C-only 16 won 0 mkt exp 2.95 538 exp 2.45 | C' dogs 25 won 13 exp538 10.91 mkt 8.50
+     C-only: AZ-02 REP p0.06 q0.04 , CA-45 REP p0.37 q0.35 , IL-06 REP p0.38 q0.38 , IL-13 DEM p0.28 q0.23 , KS-03 REP p0.21 q0.13 , MT-SEN REP p0.31 q0.24 , NE-SEN DEM p0.03 q0.01 , NH-01 REP p0.09 q0.08 , NJ-11 REP p0.17 q0.14 , OH-01 DEM p0.18 q0.18 , PA-17 REP p0.09 q0.04 , TX-06 DEM p0.06 q0.03 , TX-21 DEM p0.13 q0.09 , TX-SEN DEM p0.19 q0.19 , WI-01 DEM p0.19 q0.19 , WV-SEN REP p0.19 q0.13 
+  2024 kalshi     T2: races  43 chalk  16.1 C'  24.5 C  19.4 | C-only  9 won 0 mkt exp 2.87 538 exp 2.67 | C' dogs 16 won 8 exp538 6.10 mkt 5.22
+     C-only: AZ-01 DEM p0.39 q0.36 , AZ-SEN REP p0.24 q0.21 , CA-27 REP p0.40 q0.39 , ME-02 REP p0.35 q0.33 , MI-08 REP p0.43 q0.42 , NC-01 REP p0.20 q0.18 , NV-SEN REP p0.16 q0.14 , OR-05 REP p0.40 q0.39 , VA-07 REP p0.30 q0.25 
+  2024 polymarket T2: races  53 chalk  10.2 C'  18.2 C  14.8 | C-only 12 won 0 mkt exp 1.99 538 exp 1.80 | C' dogs 22 won 9 exp538 7.33 mkt 5.77
+     C-only: AZ-01 DEM p0.37 q0.36 , AZ-06 DEM p0.38 q0.37 , AZ-SEN REP p0.23 q0.21 , FL-13 DEM p0.22 q0.19 , HI-SEN IND p0.00 q0.00 , MN-SEN REP p0.02 q0.02 , NJ-07 DEM p0.28 q0.28 , NJ-SEN REP p0.04 q0.03 , NV-SEN REP p0.19 q0.14 , TX-SEN DEM p0.21 q0.17 , VA-SEN REP p0.05 q0.03 , VT-SEN REP p0.01 q0.00 
+
+== our clean pool long-shot calibration by year and party (all candidates with q in 0.05-0.35)
+  2018 DEM: n  27 mean q 0.132 won 0.111 (3)
+  2018 REP: n  26 mean q 0.195 won 0.038 (1)
+  2022 DEM: n  21 mean q 0.181 won 0.143 (3)
+  2022 REP: n  20 mean q 0.197 won 0.100 (2)

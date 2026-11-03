@@ -1,0 +1,74 @@
+C underdogs 44, C' underdogs 20, C-only 24
+
+== The C-only races (C takes the underdog, C' keeps the favourite)
+  race dog_party  p_dog  pts_dog  pts_fav  q_needed  q_ours6  q_ours5  q_pau_v5  b_even  pau_clears
+ IN-01       REP  0.024    5.371    0.035     0.007    0.012    0.019     0.003   1.359       False
+ CA-29       DEM  0.040    4.651    0.059     0.012    0.024    0.032     0.038   1.374        True
+ NV-03       REP  0.042    4.568    0.062     0.013    0.015    0.021     0.011   1.376       False
+ NV-01       REP  0.044    4.500    0.065     0.014    0.016    0.023     0.003   1.377       False
+ NH-01       REP  0.053    4.245    0.078     0.018    0.022    0.032     0.015   1.383       False
+ IA-01       REP  0.083    3.589    0.141     0.038    0.056    0.069     0.038   1.372        True
+ NM-02       REP  0.085    3.558    0.128     0.035    0.047    0.061     0.044   1.398        True
+ CA-14       DEM  0.085    3.556    0.128     0.035    0.083    0.106     0.024   1.399       False
+ AZ-06       REP  0.105    3.252    0.160     0.047    0.096    0.127     0.044   1.405       False
+ WA-03       REP  0.105    3.252    0.160     0.047    0.101    0.121     0.131   1.405        True
+ TX-34       REP  0.106    3.237    0.162     0.048    0.099    0.116     0.067   1.406        True
+ CO-08       REP  0.135    2.889    0.209     0.068    0.125    0.159     0.100   1.413        True
+ PA-07       REP  0.135    2.889    0.209     0.068    0.078    0.107     0.094   1.413        True
+ IA-03       REP  0.153    2.704    0.240     0.082    0.144    0.175     0.084   1.417        True
+ FL-25       REP  0.183    2.449    0.292     0.107    0.132    0.145     0.138   1.423        True
+ OH-09       REP  0.185    2.434    0.295     0.108    0.156    0.165     0.167   1.423        True
+ PA-10       REP  0.185    2.434    0.295     0.108    0.156    0.186     0.193   1.423        True
+ MI-07       REP  0.217    2.203    0.353     0.138    0.201    0.238     0.122   1.428       False
+ FL-14       REP  0.258    1.957    0.430     0.180    0.232    0.248     0.171   1.432       False
+SC-SEN       DEM  0.275    1.862    0.464     0.199    0.213    0.225     0.251   1.434        True
+OH-SEN       REP  0.292    1.776    0.498     0.219    0.274    0.296     0.197   1.435       False
+TX-SEN       REP  0.312    1.681    0.539     0.243    0.283    0.292     0.259   1.437        True
+ OH-10       DEM  0.315    1.667    0.546     0.247    0.262    0.271     0.299   1.437        True
+ CA-07       DEM  0.359    1.480    0.641     0.302    0.350    0.359     0.552   1.439        True
+
+dog party counts: {'REP': 19, 'DEM': 5}
+Pau v5 (no Kalshi input) rates dog above break-even in 15/24
+median b_even 1.41; races with b_even < 1.5: 24
+
+== Expected points C minus C' (sum over the 24 swaps)
+   ours6     +2.32
+   ours5     +3.61
+   pau_v5    +1.73
+   all8      +2.08
+   kalshi    +4.19
+   flb1.3    +0.90
+   flb1.5    -0.60
+   flb1.77   -2.05
+   bundle break-even FLB slope b = 1.41
+   ours6 mixed 0.00 toward FLB 1.77:  +2.32
+   ours6 mixed 0.25 toward FLB 1.77:  +0.83
+   ours6 mixed 0.50 toward FLB 1.77:  -0.35
+   ours6 mixed 0.75 toward FLB 1.77:  -1.29
+
+== Simulated C minus C' (40k elections, national swing rho 0.2)
+   truth      mean    sd  P(C>C`)     p5    p25    p50    p75    p95 E hits P0 hit    P1    P2   P3+ | D-wave R-wave mean diff
+   ours6     +2.36  6.03     0.59   -4.1   -1.7   +1.1   +5.3  +13.9   3.19   0.05  0.15  0.22  0.57 |  -1.3  +8.3
+   ours5     +3.64  6.66     0.66   -4.1   -1.3   +2.2   +7.1  +16.6   3.60   0.03  0.12  0.20  0.65 |  -0.7 +10.4
+   pau_v5    +1.75  5.34     0.58   -4.1   -1.7   +0.9   +4.3  +12.0   3.06   0.04  0.15  0.24  0.57 |  -1.2  +6.7
+   all8      +2.10  5.84     0.58   -4.1   -1.7   +1.0   +4.9  +13.3   3.13   0.05  0.16  0.23  0.56 |  -1.4  +7.8
+   kalshi    +4.24  6.98     0.70   -4.0   -1.1   +2.9   +7.8  +17.8   3.79   0.03  0.11  0.19  0.68 |  -0.4 +11.4
+   flb1.3    +0.93  5.33     0.49   -6.2   -3.2   -0.2   +3.5  +11.1   2.71   0.07  0.20  0.25  0.47 |  -2.0  +6.0
+   flb1.5    -0.57  4.50     0.37   -6.2   -3.9   -1.6   +1.4   +7.9   2.20   0.11  0.26  0.27  0.35 |  -2.7  +3.4
+   flb1.77   -2.03  3.66     0.23   -6.2   -4.1   -3.1   -0.5   +4.7   1.67   0.19  0.33  0.26  0.22 |  -3.4  +0.8
+
+== History: 538 as the model, market prices for scoring, actual outcomes
+   2018 predictit T7, 538 final       races   0 | chalk    0.0  C'    0.0  C    0.0 | C-only  0: dogs won 0, market expected 0.0, model expected 0.0
+   2024 kalshi T2, 538 T2             races   0 | chalk    0.0  C'    0.0  C    0.0 | C-only  0: dogs won 0, market expected 0.0, model expected 0.0
+   2024 polymarket T2, 538 T2         races   0 | chalk    0.0  C'    0.0  C    0.0 | C-only  0: dogs won 0, market expected 0.0, model expected 0.0
+
+== History: our clean 5-model pool as the model, 538 final as the 'market'
+   2018 pool5 vs 538 final            races 470 | chalk   42.1  C'   46.0  C   47.5 | C-only 66: dogs won 2, market expected 2.9, model expected 2.0
+   2022 pool5 vs 538 final            races 470 | chalk   30.4  C'   45.2  C   42.8 | C-only 88: dogs won 2, market expected 4.5, model expected 3.4
+
+== Our clean pool on long shots, 2018+2022: mean q vs actual win rate
+   q in [0.02,0.05): n  53 mean q 0.034 won 0.019   | 538 same bucket n  58 mean p 0.034 won 0.017
+   q in [0.05,0.10): n  24 mean q 0.069 won 0.042   | 538 same bucket n  41 mean p 0.071 won 0.049
+   q in [0.10,0.20): n  34 mean q 0.145 won 0.059   | 538 same bucket n  54 mean p 0.150 won 0.056
+   q in [0.20,0.35): n  36 mean q 0.271 won 0.167   | 538 same bucket n  62 mean p 0.265 won 0.177
+   q in [0.35,0.50): n  40 mean q 0.420 won 0.450   | 538 same bucket n  52 mean p 0.425 won 0.288
