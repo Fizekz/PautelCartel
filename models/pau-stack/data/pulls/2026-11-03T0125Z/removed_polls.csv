@@ -1,0 +1,2 @@
+race_id,pollster,start_date,end_date,sample_size,population,dem_pct,rep_pct,other_pct,dem_candidate,rep_candidate,other_candidate,undecided_pct,unnamed_other_pct,moe,partisan_sponsor,sponsor,version_note,n_versions,cand_pcts,wiki_page,wiki_section,source_url,same_party,dates_raw,source,pkey,start_date_old,sample_size_old,population_old,dem_pct_old,rep_pct_old,other_pct_old,partisan_sponsor_old,cand_pcts_old,_merge
+SC-SEN,,,2026-10-30,,,,,,,,,,,,,,,,,,,,,,,resonance media poll r,2026-10-30,600.0,lv,46.0,45.0,,,Darline Graham (R)=45; Annie Andrews (D)=46,right_only

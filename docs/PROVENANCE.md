@@ -14,22 +14,17 @@ The branch `submission/official` is an orphan branch assembled from the commits 
 | kavi-c | `kavi/kavi-c-1101` | `8088ed9` | |
 | kavi-d | `kavi/kavi-d-1101` | `52bfe2e` | |
 | kavi-e | `kavi/kavi-e-1101` | `2b17169` | |
-| Pau stack: model code, `ratings/`, `race/`, borrowed tables, 2026 raw output, backtests, `RESEARCH_STACK.md` | `pau/k-1102` | `05d471c` | |
-| Pau stack: Nov 2 poll refresh (code, refreshed poll files, `REFRESH_2026.md`) | `pau/f-1102` | `2ae49b3` | |
-| Pau stack: 2026 per-race file `results/joint2026/stack_noprim_2026_refreshed.csv` | `pau/y-1103` | `0cce402` (branch head `3a3a788`, file unchanged) | Byte-identical to the copy used in the joint step. |
-| Pau stack: shared input tables (`data/features/`, Kalshi reference file) | `pau/model-1101` | `a24a1da` | |
-| Pau stack: rebuild scripts for its intermediate tables | `pau/g-1102` `ad000e2`, `pau/t-1102` `820f267`, `pau/e-1102` `b24a90f`, `pau/x-1102` `d6178d8` | | `pe_util.py` from e-1102, `px_harness.py` from x-1102. Not re-run here. |
+| Pau stack (`models/pau-stack/`): code, data, poll pulls, outputs, `reference/`, backtests | `pau/sub-1103` | `5bbff94` | Copied unchanged from `pau/` (`git archive`). Its 2026 file differs from the earlier `pau/y-1103` `0cce402` file only by the 01:25Z Nov 3 poll pull: six Senate probabilities move, no pick changes. |
 | Joint evaluation table | `pau/q-1103` `9126a64`, `pau/j-1102` `7ba4fb1` | | The numbers in the README's Evaluation section. |
 
 ## Changes made while assembling
 
 - Model code: hard-coded absolute paths replaced by repository-relative ones (the dossier summary in kavi-a, b, d
-  and e; the raw MIT folder in kavi-d; the shared data folder and Kalshi file in the Pau stack), and the default
+  and e; the raw MIT folder in kavi-d), and the default
   interpreter in the model `run_all.sh` scripts set to `python3`. Outputs re-run in this layout are byte-identical
   to the committed ones.
-- `models/pau-stack/src/to_standard.py`, `models/pau-stack/run.sh`, `models/pau-stack/README.md`,
-  `scripts/run_kavi_models.sh`, `scripts/build_pool5.sh` and the root `run_all.sh` were written for this repository.
-  `to_standard.py` reproduces the committed stack file to within 1.1e-16 (float formatting).
+- `scripts/run_kavi_models.sh`, `scripts/build_pool5.sh` and the root `run_all.sh` were written for this repository.
+  `models/pau-stack/` is Pau's own self-contained package, unchanged.
 - Absolute local paths in five dossiers and in the model notes were rewritten as relative paths.
 - Internal coordination labels were removed from code comments and model notes. Licence notes were added for the
   FiveThirtyEight and MEDSL data (`data/benchmark/README.md`, `data/raw/mit/README.md`, `data/clean/polls_hist.md`,
@@ -54,7 +49,7 @@ The branch `submission/official` is an orphan branch assembled from the commits 
 ## Archived and API-fetched data that is included
 
 - `data/clean/polls_hist.csv` and `national_hist.csv` (2018-2024 rows), `data/benchmark/fte_final_2018/2022.csv`,
-  the Pau stack's `pbase/data/borrowed/kavi-e/polls_hist.csv` and `data/features/polls_history.csv`: FiveThirtyEight
+  the FiveThirtyEight files under `models/pau-stack/data/build/` and `models/pau-stack/data/borrowed/kavi-e/`: FiveThirtyEight
   data (CC BY 4.0) retrieved from Internet Archive snapshots. The historical polls are training inputs of every model;
   the 538 finals are used only for backtest scoring and 2018/2022 candidate lists.
 - `models/kavi-a/data/kavi-a/raw/` and `models/kavi-b/data/kavi-b/raw/`: Internet Archive copies of FEC bulk files

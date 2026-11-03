@@ -1,0 +1,192 @@
+{
+ "created_utc": "2026-11-03T01:41:56+00:00",
+ "features": "out/features_2026.csv",
+ "pull": "data/pulls/2026-11-03T0125Z",
+ "gb": 8.699999999999996,
+ "gb_as_of": "2026-11-01",
+ "gb_frozen_national": 8.600000000000001,
+ "n_races": 452,
+ "n_kalshi": 452,
+ "races_with_21day_lv_rv_poll": 81,
+ "kalshi_nov1": {
+  "expected_D_house": 229.4,
+  "expected_D_senate": 18.41
+ },
+ "python": "3.12.4",
+ "numpy": "1.26.4",
+ "polls": {
+  "n": 973,
+  "n_races": 149,
+  "newest_end_date": "2026-11-02",
+  "ending_oct25_or_later": 102,
+  "new_vs_previous_pull": 4,
+  "renamed_vs_previous_pull": [
+   [
+    "SC-SEN",
+    "resonance media poll r",
+    "Resonance Media Services",
+    "2026-10-30"
+   ]
+  ],
+  "removed_vs_previous_pull": [],
+  "new_poll_traps": []
+ },
+ "pull_meta": {
+  "started_utc": "2026-11-03T01:31:51+00:00",
+  "finished_utc": "2026-11-03T01:33:29+00:00",
+  "cutoff": "2026-11-03T23:00:00Z",
+  "user_agent": "ModelCitizensPollRefresh/1.1 (student election-forecast research) python-requests/2.32.2",
+  "gap_s": 10.0,
+  "requests": 8,
+  "rate_limited": 0,
+  "stopped": null,
+  "kalshi_names": "data/kalshi/kalshi_races_2026-11-01T074812Z.csv (copied here; originally the shared model/data/benchmark copy, identical md5)",
+  "offline": null
+ },
+ "noprim": {
+  "expected_D_house": 218.9,
+  "expected_D_senate": 19.57,
+  "fav_disagree_kalshi": [
+   [
+    "IA-SEN",
+    0.609,
+    0.439
+   ],
+   [
+    "CO-05",
+    0.522,
+    0.445
+   ],
+   [
+    "MI-04",
+    0.487,
+    0.615
+   ],
+   [
+    "MI-10",
+    0.43,
+    0.757
+   ],
+   [
+    "WI-01",
+    0.319,
+    0.5
+   ]
+  ],
+  "ev_picks_against_kalshi_fav": 33,
+  "expected_points_own_model": 57.9
+ },
+ "stack": {
+  "expected_D_house": 219.0,
+  "expected_D_senate": 19.59,
+  "fav_disagree_kalshi": [
+   [
+    "IA-SEN",
+    0.61,
+    0.439
+   ],
+   [
+    "CO-05",
+    0.516,
+    0.445
+   ],
+   [
+    "MI-04",
+    0.492,
+    0.615
+   ],
+   [
+    "MI-10",
+    0.468,
+    0.757
+   ],
+   [
+    "WI-01",
+    0.347,
+    0.5
+   ]
+  ],
+  "ev_picks_against_kalshi_fav": 31,
+  "expected_points_own_model": 57.5
+ },
+ "v6nl": {
+  "expected_D_house": 218.5,
+  "expected_D_senate": 19.45,
+  "fav_disagree_kalshi": [
+   [
+    "IA-SEN",
+    0.671,
+    0.439
+   ],
+   [
+    "CO-05",
+    0.523,
+    0.445
+   ],
+   [
+    "MI-04",
+    0.488,
+    0.615
+   ],
+   [
+    "MI-10",
+    0.427,
+    0.757
+   ],
+   [
+    "WI-01",
+    0.3,
+    0.5
+   ]
+  ],
+  "ev_picks_against_kalshi_fav": 33,
+  "expected_points_own_model": 58.9
+ },
+ "runtime_s": {
+  "features_s": 2.9,
+  "model_v6nl_s": 0.6,
+  "model_stack_s": 0.8,
+  "model_noprim_s": 0.7,
+  "models_s": 3.0,
+  "total_s": 5.9
+ },
+ "reference": "reference/2026-11-03T0125Z",
+ "compare_reference": {
+  "stack_noprim": {
+   "n": 452,
+   "n_ref": 452,
+   "unmatched": 0,
+   "max_abs": {
+    "q_dem": 0.0,
+    "q_rep": 0.0,
+    "q_other": 0.0,
+    "k_pD_nov1": 0.0
+   },
+   "within_tol": true
+  },
+  "stack": {
+   "n": 452,
+   "n_ref": 452,
+   "unmatched": 0,
+   "max_abs": {
+    "q_dem": 0.0,
+    "q_rep": 0.0,
+    "q_other": 0.0,
+    "k_pD_nov1": 0.0
+   },
+   "within_tol": true
+  },
+  "v6nl": {
+   "n": 452,
+   "n_ref": 452,
+   "unmatched": 0,
+   "max_abs": {
+    "q_dem": 0.0,
+    "q_rep": 0.0,
+    "q_other": 0.0,
+    "k_pD_nov1": 0.0
+   },
+   "within_tol": true
+  }
+ }
+}

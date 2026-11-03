@@ -6,16 +6,16 @@ CO-SEN,Senate,DEM,John Hickenlooper,0.9994
 DE-SEN,Senate,DEM,Chris Coons,0.9994
 FL-SEN,Senate,REP,Ashley Moody,0.9654
 GA-SEN,Senate,DEM,Jon Ossoff,0.9885
-IA-SEN,Senate,DEM,Josh Turek,0.5152
+IA-SEN,Senate,DEM,Josh Turek,0.5563
 ID-SEN,Senate,REP,Jim Risch,0.9981
 IL-SEN,Senate,DEM,Juliana Stratton,0.9992
-KS-SEN,Senate,DEM,Adam Hamilton,0.7289
+KS-SEN,Senate,DEM,Adam Hamilton,0.7495
 KY-SEN,Senate,REP,Andy Barr,0.9991
 LA-SEN,Senate,REP,Julia Letlow,0.9657
 MA-SEN,Senate,DEM,Ed Markey,0.9996
-ME-SEN,Senate,DEM,Troy Jackson,0.8527
+ME-SEN,Senate,DEM,Troy Jackson,0.8662
 MI-SEN,Senate,DEM,Abdul El-Sayed,0.9359
-MN-SEN,Senate,DEM,Peggy Flanagan,0.9776
+MN-SEN,Senate,DEM,Peggy Flanagan,0.9704
 MS-SEN,Senate,REP,Cindy Hyde-Smith,0.9802
 MT-SEN,Senate,REP,Kurt Alme,0.9947
 NC-SEN,Senate,DEM,Roy Cooper,0.9941
@@ -23,11 +23,11 @@ NE-SEN,Senate,REP,Pete Ricketts,0.7751
 NH-SEN,Senate,DEM,Chris Pappas,0.9871
 NJ-SEN,Senate,DEM,Cory Booker,0.9992
 NM-SEN,Senate,DEM,Ben Ray Luján,0.9995
-OH-SEN,Senate,DEM,Sherrod Brown,0.7857
+OH-SEN,Senate,DEM,Sherrod Brown,0.8067
 OK-SEN,Senate,REP,Kevin Hern,0.9994
 OR-SEN,Senate,DEM,Jeff Merkley,0.9994
 RI-SEN,Senate,DEM,Jack Reed,0.9996
-SC-SEN,Senate,REP,Darline Graham,0.7668
+SC-SEN,Senate,REP,Darline Graham,0.7347
 SD-SEN,Senate,REP,Mike Rounds,0.9973
 TN-SEN,Senate,REP,Bill Hagerty,0.9994
 TX-SEN,Senate,DEM,James Talarico,0.7351

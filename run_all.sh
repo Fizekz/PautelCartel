@@ -2,7 +2,7 @@
 # Rebuild the submission from the committed model outputs, and check it against ./predictions_full_congress.csv.
 #
 #   bash run_all.sh            # joint step only (seconds)
-#   bash run_all.sh --models   # first re-run the five Kavi models from the frozen data (about 2 minutes, offline)
+#   bash run_all.sh --models   # first re-run the five Kavi models from the frozen data (about 6 minutes single-threaded, offline)
 #
 # Environment: PY=<python with requirements.txt installed> (default python3).
 set -euo pipefail
@@ -10,7 +10,8 @@ PY="${PY:-python3}"
 # Later steps change directory, so make a relative interpreter path absolute.
 if [[ "$PY" == */* ]]; then PY="$(cd "$(dirname "$PY")" && pwd)/$(basename "$PY")"; fi
 cd "$(dirname "$0")"
-PAU_STACK=models/pau-stack/results/joint2026/stack_noprim_2026_refreshed.csv
+# Pau's committed 2026 output (pau/sub-1103 5bbff94; poll pull of Nov 3 01:25Z). Step 1 re-derives it and checks it.
+PAU_STACK=models/pau-stack/reference/2026-11-03T0125Z/stack_noprim_2026.csv
 
 # Checksums of the committed model outputs; works in a git checkout and in a downloaded ZIP alike.
 model_outputs_sha() {
@@ -33,8 +34,11 @@ if [[ "${1:-}" == "--models" ]]; then
   fi
 fi
 
-echo "== 1. Pau stack: standard per-race file from the model's raw 2026 output (check only)"
-( cd models/pau-stack && PYTHON="$PY" bash run.sh )
+echo "== 1. Pau stack: re-fit on 2010-2024 and re-forecast 2026 (about 6 s, offline), checked against the committed output"
+PAU_CHECK="$(mktemp -d)"
+( cd models/pau-stack && OMP_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 \
+    NUMEXPR_NUM_THREADS=1 "$PY" run_2026.py --check-ref --tol 1e-6 --out "$PAU_CHECK" | tail -1 )
+rm -rf "$PAU_CHECK"
 
 echo "== 2. pool5: equal log-linear pool of kavi-a..e"
 PY="$PY" bash scripts/build_pool5.sh

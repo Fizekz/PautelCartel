@@ -1,0 +1,941 @@
+year,race_id,chamber,dem_win_prob,rep_win_prob,other_win_prob,forecast_date,model_variant,dem_candidate,rep_candidate,other_candidate,other_party,dem_voteshare,rep_voteshare,other_voteshare,fav_candidate,fav_party,fav_win_prob,n_candidates,dem_incumbent,rep_incumbent,src_district,mean_netpartymargin,dem_party_win_prob_538,rep_party_win_prob_538,dem_win_prob_classic,rep_win_prob_classic,other_win_prob_classic,dem_win_prob_lite,rep_win_prob_lite,other_win_prob_lite
+2018,AK-AL,House,0.2553,0.7447,0.0,2018-11-06,deluxe,Alyse S. Galvin,Don Young,,,47.72,52.28,,Don Young,R,0.7447,2,False,True,,,,,0.3475,0.6525,0.0,0.3564,0.6436,0.0
+2018,AL-01,House,0.0002,0.9998,0.0,2018-11-06,deluxe,Robert Kennedy Jr.,Bradley Byrne,,,34.2,65.8,,Bradley Byrne,R,0.9998,2,False,True,,,,,0.0004,0.9996,0.0,0.0041,0.9959,0.0
+2018,AL-02,House,0.0123,0.9877,0.0,2018-11-06,deluxe,Tabitha Isner,Martha Roby,,,41.07,58.93,,Martha Roby,R,0.9877,2,False,True,,,,,0.0225,0.9775,0.0,0.003,0.997,0.0
+2018,AL-03,House,0.0012,0.9988,0.0,2018-11-06,deluxe,Mallory Hagan,Mike Rogers,,,37.87,62.13,,Mike Rogers,R,0.9988,2,False,True,,,,,0.0018,0.9982,0.0,0.0023,0.9977,0.0
+2018,AL-04,House,0.0,1.0,0.0,2018-11-06,deluxe,Lee Auman,Robert B. Aderholt,,,23.09,76.91,,Robert B. Aderholt,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,AL-05,House,0.0007,0.9993,0.0,2018-11-06,deluxe,Peter Joffrion,Mo Brooks,,,36.55,63.45,,Mo Brooks,R,0.9993,2,False,True,,,,,0.0011,0.9989,0.0,0.0022,0.9978,0.0
+2018,AL-06,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Danner Kline,Gary Palmer,,,32.39,67.61,,Gary Palmer,R,0.9999,2,False,True,,,,,0.0001,0.9999,0.0,0.0001,0.9999,0.0
+2018,AL-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Terri A. Sewell,,,,100.0,,,Terri A. Sewell,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,AR-01,House,0.0003,0.9997,0.0,2018-11-06,deluxe,Chintan Desai,Rick Crawford,Elvis Presley,LIB,33.48,62.69,3.84,Rick Crawford,R,0.9997,3,False,True,,,,,0.0004,0.9996,0.0,0.0075,0.9925,0.0
+2018,AR-02,House,0.1003,0.8997,0.0,2018-11-06,deluxe,Clarke Tucker,French Hill,Joe Ryne Swafford,LIB,44.7,52.51,2.79,French Hill,R,0.8997,3,False,True,,,,,0.1393,0.8607,0.0,0.1436,0.8564,0.0
+2018,AR-03,House,0.0005,0.9995,0.0,2018-11-06,deluxe,Josh Mahony,Steve Womack,Michael Kalagias,LIB,35.09,61.47,3.44,Steve Womack,R,0.9995,3,False,True,,,,,0.0007,0.9993,0.0,0.0129,0.9871,0.0
+2018,AR-04,House,0.0002,0.9997,0.0,2018-11-06,deluxe,Hayden Shamel,Bruce Westerman,Tom Canada,LIB,34.04,62.04,3.92,Bruce Westerman,R,0.9997,3,False,True,,,,,0.0003,0.9997,0.0,0.0097,0.9903,0.0
+2018,AZ-01,House,0.9076,0.0924,0.0,2018-11-06,deluxe,Tom O'Halleran,Wendy Rogers,,,54.27,45.73,,Tom O'Halleran,D,0.9076,2,True,False,,,,,0.8922,0.1078,0.0,0.7157,0.2843,0.0
+2018,AZ-02,House,0.9604,0.0396,0.0,2018-11-06,deluxe,Ann Kirkpatrick,Lea Marquez Peterson,,,55.27,44.73,,Ann Kirkpatrick,D,0.9604,2,False,False,,,,,0.9674,0.0326,0.0,0.8709,0.1291,0.0
+2018,AZ-03,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Raul Grijalva,Nick Pierson,,,69.59,30.41,,Raul Grijalva,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9996,0.0004,0.0
+2018,AZ-04,House,0.0002,0.9998,0.0,2018-11-06,deluxe,David Brill,Paul A. Gosar,Haryaksha Gregor Knauer,G,33.48,62.58,3.94,Paul A. Gosar,R,0.9998,3,False,True,,,,,0.0003,0.9997,0.0,0.0025,0.9975,0.0
+2018,AZ-05,House,0.0007,0.9993,0.0,2018-11-06,deluxe,Joan Greene,Andy Biggs,,,36.19,63.81,,Andy Biggs,R,0.9993,2,False,True,,,,,0.0009,0.9991,0.0,0.0079,0.9921,0.0
+2018,AZ-06,House,0.0502,0.9498,0.0,2018-11-06,deluxe,Anita Malik,David Schweikert,,,44.22,55.78,,David Schweikert,R,0.9498,2,False,True,,,,,0.0922,0.9078,0.0,0.0555,0.9445,0.0
+2018,AZ-07,House,0.9999,0.0,0.0001,2018-11-06,deluxe,Ruben Gallego,,Gary Swing,G,86.75,,13.25,Ruben Gallego,D,0.9999,2,True,,,,,,0.9999,0.0,0.0001,0.9999,0.0,0.0001
+2018,AZ-08,House,0.133,0.867,0.0,2018-11-06,deluxe,Hiral Tipirneni,Debbie Lesko,,,46.53,53.47,,Debbie Lesko,R,0.867,2,False,True,,,,,0.2282,0.7718,0.0,0.0949,0.9051,0.0
+2018,AZ-09,House,0.9971,0.0029,0.0,2018-11-06,deluxe,Greg Stanton,Steve Ferrara,,,61.01,38.99,,Greg Stanton,D,0.9971,2,False,False,,,,,0.9957,0.0043,0.0,0.9617,0.0383,0.0
+2018,CA-01,House,0.0919,0.9081,0.0,2018-11-06,deluxe,Audrey Denney,Doug LaMalfa,,,44.72,55.28,,Doug LaMalfa,R,0.9081,2,False,True,,,,,0.2136,0.7864,0.0,0.0235,0.9765,0.0
+2018,CA-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Jared Huffman,Dale K. Mensing,,,81.14,18.86,,Jared Huffman,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-03,House,0.9998,0.0002,0.0,2018-11-06,deluxe,John Garamendi,Charlie Schaupp,,,65.39,34.61,,John Garamendi,D,0.9998,2,True,False,,,,,0.9997,0.0003,0.0,0.9961,0.0039,0.0
+2018,CA-04,House,0.0981,0.9019,0.0,2018-11-06,deluxe,Jessica Morse,Tom McClintock,,,45.92,54.08,,Tom McClintock,R,0.9019,2,False,True,,,,,0.1545,0.8455,0.0,0.1635,0.8365,0.0
+2018,CA-05,House,0.9998,0.0,0.0002,2018-11-06,deluxe,Mike Thompson,,Anthony Mills,I,80.64,,19.36,Mike Thompson,D,0.9998,2,True,,,,,,0.9998,0.0,0.0002,0.9998,0.0,0.0002
+2018,CA-06,House,1.0,0.0,0.0,2018-11-06,deluxe,Doris O. Matsui,,,,78.4,,,Doris O. Matsui,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-07,House,0.9948,0.0052,0.0,2018-11-06,deluxe,Ami Bera,Andrew Grant,,,58.63,41.37,,Ami Bera,D,0.9948,2,True,False,,,,,0.995,0.005,0.0,0.9681,0.0319,0.0
+2018,CA-08,House,0.0,1.0,0.0,2018-11-06,deluxe,,Paul Cook,,,,60.09,,Paul Cook,R,0.9642,2,,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,CA-09,House,0.9996,0.0004,0.0,2018-11-06,deluxe,Jerry McNerney,Marla Livengood,,,64.43,35.57,,Jerry McNerney,D,0.9996,2,True,False,,,,,0.9994,0.0006,0.0,0.9984,0.0016,0.0
+2018,CA-10,House,0.7454,0.2546,0.0,2018-11-06,deluxe,Josh Harder,Jeff Denham,,,52.08,47.92,,Josh Harder,D,0.7454,2,False,True,,,,,0.7748,0.2252,0.0,0.6088,0.3912,0.0
+2018,CA-11,House,1.0,0.0,0.0,2018-11-06,deluxe,Mark DeSaulnier,John Fitzgerald,,,78.61,21.39,,Mark DeSaulnier,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-12,House,1.0,0.0,0.0,2018-11-06,deluxe,Nancy Pelosi,Lisa Remmer,,,90.91,9.09,,Nancy Pelosi,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-13,House,1.0,0.0,0.0,2018-11-06,deluxe,Barbara Lee,,Laura Wells,G,90.25,,9.75,Barbara Lee,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-14,House,1.0,0.0,0.0,2018-11-06,deluxe,Jackie Speier,Cristina Osmeña,,,83.64,16.36,,Jackie Speier,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-15,House,1.0,0.0,0.0,2018-11-06,deluxe,Eric Swalwell,Rudy L. Peters Jr.,,,77.54,22.46,,Eric Swalwell,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-16,House,0.9841,0.0159,0.0,2018-11-06,deluxe,Jim Costa,Elizabeth Heng,,,58.23,41.77,,Jim Costa,D,0.9841,2,True,False,,,,,0.9818,0.0182,0.0,0.9494,0.0506,0.0
+2018,CA-17,House,1.0,0.0,0.0,2018-11-06,deluxe,Ro Khanna,Ron Cohen,,,80.23,19.77,,Ro Khanna,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-18,House,1.0,0.0,0.0,2018-11-06,deluxe,Anna G. Eshoo,Christine Russell,,,78.83,21.17,,Anna G. Eshoo,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-19,House,1.0,0.0,0.0,2018-11-06,deluxe,Zoe Lofgren,Justin James Aguilera,,,86.29,13.71,,Zoe Lofgren,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-20,House,0.9998,0.0,0.0002,2018-11-06,deluxe,Jimmy Panetta,,Ronald Paul Kabat,I,77.1,,22.9,Jimmy Panetta,D,0.9998,2,True,,,,,,0.9998,0.0,0.0002,0.9998,0.0,0.0002
+2018,CA-21,House,0.161,0.839,0.0,2018-11-06,deluxe,TJ Cox,David Valadao,,,46.25,53.75,,David Valadao,R,0.839,2,False,True,,,,,0.2102,0.7898,0.0,0.2758,0.7242,0.0
+2018,CA-22,House,0.0251,0.9749,0.0,2018-11-06,deluxe,Andrew Janz,Devin Nunes,,,43.88,56.12,,Devin Nunes,R,0.9749,2,False,True,,,,,0.046,0.954,0.0,0.0992,0.9008,0.0
+2018,CA-23,House,0.0005,0.9995,0.0,2018-11-06,deluxe,Tatiana Matta,Kevin McCarthy,,,35.38,64.62,,Kevin McCarthy,R,0.9995,2,False,True,,,,,0.0006,0.9994,0.0,0.0055,0.9945,0.0
+2018,CA-24,House,0.9905,0.0095,0.0,2018-11-06,deluxe,Salud Carbajal,Justin Fareed,,,58.87,41.13,,Salud Carbajal,D,0.9905,2,True,False,,,,,0.9853,0.0147,0.0,0.9481,0.0519,0.0
+2018,CA-25,House,0.5593,0.4407,0.0,2018-11-06,deluxe,Katie Hill,Steve Knight,,,50.5,49.5,,Katie Hill,D,0.5593,2,False,True,,,,,0.6366,0.3634,0.0,0.3187,0.6813,0.0
+2018,CA-26,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Julia Brownley,Antonio Sabato Jr.,,,67.51,32.49,,Julia Brownley,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9984,0.0016,0.0
+2018,CA-27,House,1.0,0.0,0.0,2018-11-06,deluxe,Judy Chu,,,,75.47,,,Judy Chu,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-28,House,1.0,0.0,0.0,2018-11-06,deluxe,Adam Schiff,Johnny J. Nalbandian,,,81.88,18.12,,Adam Schiff,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-29,House,1.0,0.0,0.0,2018-11-06,deluxe,Tony Cárdenas,Benito Benny Bernal,,,81.3,18.7,,Tony Cárdenas,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-30,House,1.0,0.0,0.0,2018-11-06,deluxe,Brad Sherman,Mark S. Reed,,,77.36,22.64,,Brad Sherman,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-31,House,0.9992,0.0008,0.0,2018-11-06,deluxe,Pete Aguilar,Sean Flynn,,,63.33,36.67,,Pete Aguilar,D,0.9992,2,True,False,,,,,0.9989,0.0011,0.0,0.9987,0.0013,0.0
+2018,CA-32,House,1.0,0.0,0.0,2018-11-06,deluxe,Grace Napolitano,Joshua M. Scott,,,83.24,16.76,,Grace Napolitano,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,CA-33,House,1.0,0.0,0.0,2018-11-06,deluxe,Ted Lieu,Kenneth Weston Wright,,,73.78,26.22,,Ted Lieu,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-34,House,0.9997,0.0,0.0003,2018-11-06,deluxe,Jimmy Gomez,,Kenneth Mejia,G,81.94,,18.06,Jimmy Gomez,D,0.9997,2,True,,,,,,0.9997,0.0,0.0003,0.9997,0.0,0.0003
+2018,CA-35,House,1.0,0.0,0.0,2018-11-06,deluxe,Norma Torres,Christian Leonel Valiente,,,74.55,25.45,,Norma Torres,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-36,House,0.9987,0.0013,0.0,2018-11-06,deluxe,Raul Ruiz,Kimberlin Brown Pelzer,,,62.71,37.29,,Raul Ruiz,D,0.9987,2,True,False,,,,,0.9981,0.0019,0.0,0.9858,0.0142,0.0
+2018,CA-37,House,1.0,0.0,0.0,2018-11-06,deluxe,Karen Bass,Ron J. Bassilian,,,90.71,9.29,,Karen Bass,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-38,House,1.0,0.0,0.0,2018-11-06,deluxe,Linda Sánchez,Ryan Downing,,,72.41,27.59,,Linda Sánchez,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,CA-39,House,0.5177,0.4823,0.0,2018-11-06,deluxe,Gil Cisneros,Young Kim,,,50.14,49.86,,Gil Cisneros,D,0.5177,2,False,False,,,,,0.5823,0.4177,0.0,0.44,0.56,0.0
+2018,CA-40,House,0.9996,0.0,0.0004,2018-11-06,deluxe,Lucille Roybal-Allard,,Rodolfo Cortes Barragan,G,77.5,,22.5,Lucille Roybal-Allard,D,0.9996,2,True,,,,,,0.9996,0.0,0.0004,0.9996,0.0,0.0004
+2018,CA-41,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Mark Takano,Aja Smith,,,68.08,31.92,,Mark Takano,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9997,0.0003,0.0
+2018,CA-42,House,0.0124,0.9876,0.0,2018-11-06,deluxe,Julia C. Peacock,Ken Calvert,,,41.12,58.88,,Ken Calvert,R,0.9876,2,False,True,,,,,0.0231,0.9769,0.0,0.0405,0.9595,0.0
+2018,CA-43,House,1.0,0.0,0.0,2018-11-06,deluxe,Maxine Waters,Omar Navarro,,,79.03,20.97,,Maxine Waters,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-44,House,1.0,0.0,0.0,2018-11-06,deluxe,Nanette Diaz Barragán,,,,72.65,,,Nanette Diaz Barragán,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-45,House,0.6471,0.3529,0.0,2018-11-06,deluxe,Katie Porter,Mimi Walters,,,51.14,48.86,,Katie Porter,D,0.6471,2,False,True,,,,,0.632,0.368,0.0,0.5306,0.4694,0.0
+2018,CA-46,House,1.0,0.0,0.0,2018-11-06,deluxe,J. Luis Correa,Russell Rene Lambert,,,72.95,27.05,,J. Luis Correa,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,CA-47,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Alan Lowenthal,John Briscoe,,,68.32,31.68,,Alan Lowenthal,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9998,0.0002,0.0
+2018,CA-48,House,0.6279,0.3721,0.0,2018-11-06,deluxe,Harley Rouda,Dana Rohrabacher,,,51.05,48.95,,Harley Rouda,D,0.6279,2,False,True,,,,,0.5657,0.4343,0.0,0.4165,0.5835,0.0
+2018,CA-49,House,0.9669,0.0331,0.0,2018-11-06,deluxe,Mike Levin,Diane L. Harkey,,,55.29,44.71,,Mike Levin,D,0.9669,2,False,False,,,,,0.96,0.04,0.0,0.9254,0.0746,0.0
+2018,CA-50,House,0.1843,0.8157,0.0,2018-11-06,deluxe,Ammar Campa-Najjar,Duncan D. Hunter,,,47.51,52.49,,Duncan D. Hunter,R,0.8157,2,False,True,,,,,0.2219,0.7781,0.0,0.2605,0.7395,0.0
+2018,CA-51,House,1.0,0.0,0.0,2018-11-06,deluxe,Juan Vargas,Juan M. Hidalgo Jr.,,,74.32,25.68,,Juan Vargas,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CA-52,House,0.9996,0.0004,0.0,2018-11-06,deluxe,Scott Peters,Omar Qudrat,,,65.0,35.0,,Scott Peters,D,0.9996,2,True,False,,,,,0.9995,0.0005,0.0,0.9989,0.0011,0.0
+2018,CA-53,House,1.0,0.0,0.0,2018-11-06,deluxe,Susan Davis,Morgan Murtaugh,,,69.28,30.72,,Susan Davis,D,1.0,2,True,False,,,,,0.9999,0.0001,0.0,0.9999,0.0001,0.0
+2018,CO-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Diana DeGette,Charles Casper Stockham,Raymon Anthony Doane,L,71.53,24.63,3.84,Diana DeGette,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CO-02,House,0.9996,0.0004,0.0,2018-11-06,deluxe,Joe Neguse,Peter Yu,Others,,63.24,32.12,4.64,Joe Neguse,D,0.9996,3,False,False,,,,,0.9995,0.0005,0.0,0.996,0.004,0.0
+2018,CO-03,House,0.1059,0.8941,0.0,2018-11-06,deluxe,Diane Mitsch Bush,Scott Tipton,Others,,43.89,52.28,3.83,Scott Tipton,R,0.8941,3,False,True,,,,,0.1979,0.8021,0.0,0.1081,0.8919,0.0
+2018,CO-04,House,0.0186,0.9814,0.0,2018-11-06,deluxe,Karen McCormick,Ken Buck,,,41.73,58.27,,Ken Buck,R,0.9814,2,False,True,,,,,0.0416,0.9584,0.0,0.0129,0.9871,0.0
+2018,CO-05,House,0.0122,0.9878,0.0,2018-11-06,deluxe,Stephany Rose Spaulding,Doug Lamborn,Douglas Randall,LIB,39.16,57.16,3.68,Doug Lamborn,R,0.9878,3,False,True,,,,,0.0222,0.9778,0.0,0.0103,0.9897,0.0
+2018,CO-06,House,0.8849,0.1151,0.0,2018-11-06,deluxe,Jason Crow,Mike Coffman,Others,,51.66,44.58,3.76,Jason Crow,D,0.8849,3,False,True,,,,,0.8875,0.1125,0.0,0.8764,0.1236,0.0
+2018,CO-07,House,0.9995,0.0005,0.0,2018-11-06,deluxe,Ed Perlmutter,Mark Barrington,Jennifer Nackerud,LIB,62.61,33.89,3.5,Ed Perlmutter,D,0.9995,3,True,False,,,,,0.9993,0.0006,0.0,0.9971,0.0029,0.0
+2018,CT-01,House,0.9999,0.0001,0.0,2018-11-06,deluxe,John B. Larson,Jennifer Nye,Tom McCormick,GRE,67.33,29.87,2.8,John B. Larson,D,0.9999,3,True,False,,,,,0.9999,0.0001,0.0,0.9997,0.0003,0.0
+2018,CT-02,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Joe Courtney,Dan Postemski,Others,,64.83,32.2,2.97,Joe Courtney,D,0.9999,3,True,False,,,,,0.9998,0.0002,0.0,0.9955,0.0045,0.0
+2018,CT-03,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Rosa L. DeLauro,Angel Cadena,,,70.53,29.47,,Rosa L. DeLauro,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9992,0.0008,0.0
+2018,CT-04,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Jim Himes,Harry Arora,,,65.35,34.65,,Jim Himes,D,0.9999,2,True,False,,,,,0.9998,0.0002,0.0,0.9995,0.0005,0.0
+2018,CT-05,House,0.9879,0.0121,0.0,2018-11-06,deluxe,Jahana Hayes,Manny Santos,,,58.91,41.09,,Jahana Hayes,D,0.9879,2,False,False,,,,,0.9748,0.0252,0.0,0.9219,0.0781,0.0
+2018,DE-AL,House,0.9988,0.0012,0.0,2018-11-06,deluxe,Lisa Blunt Rochester,Scott Walker,,,62.1,37.9,,Lisa Blunt Rochester,D,0.9988,2,True,False,,,,,0.9978,0.0022,0.0,0.9856,0.0144,0.0
+2018,FL-01,House,0.0,1.0,0.0,2018-11-06,deluxe,Jennifer Zimmerman,Matt Gaetz,,,29.74,70.26,,Matt Gaetz,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0001,0.9999,0.0
+2018,FL-02,House,0.0002,0.9998,0.0,2018-11-06,deluxe,Bob Rackleff,Neal Dunn,,,33.59,66.41,,Neal Dunn,R,0.9998,2,False,True,,,,,0.0002,0.9998,0.0,0.0008,0.9992,0.0
+2018,FL-03,House,0.0078,0.9922,0.0,2018-11-06,deluxe,Yvonne Hayes Hinson,Ted Yoho,,,40.43,59.57,,Ted Yoho,R,0.9922,2,False,True,,,,,0.0131,0.9869,0.0,0.0281,0.9719,0.0
+2018,FL-04,House,0.0001,0.9999,0.0,2018-11-06,deluxe,"George ""Ges"" Selmont",John Rutherford,Others,,30.41,66.41,3.18,John Rutherford,R,0.9999,3,False,True,,,,,0.0001,0.9999,0.0,0.002,0.998,0.0
+2018,FL-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Al Lawson,Virginia Fuller,,,71.08,28.92,,Al Lawson,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9998,0.0002,0.0
+2018,FL-06,House,0.2158,0.7842,0.0,2018-11-06,deluxe,Nancy Soderberg,Michael Waltz,,,47.69,52.31,,Michael Waltz,R,0.7842,2,False,False,,,,,0.2665,0.7335,0.0,0.3161,0.6839,0.0
+2018,FL-07,House,0.97,0.03,0.0,2018-11-06,deluxe,Stephanie Murphy,Mike Miller,,,56.72,43.28,,Stephanie Murphy,D,0.97,2,True,False,,,,,0.9485,0.0515,0.0,0.8348,0.1652,0.0
+2018,FL-08,House,0.0054,0.9946,0.0,2018-11-06,deluxe,Sanjay Patel,Bill Posey,,,39.47,60.53,,Bill Posey,R,0.9946,2,False,True,,,,,0.0075,0.9925,0.0,0.0162,0.9838,0.0
+2018,FL-09,House,0.9931,0.0069,0.0,2018-11-06,deluxe,Darren Soto,Wayne Liebnitzky,,,59.71,40.29,,Darren Soto,D,0.9931,2,True,False,,,,,0.9853,0.0147,0.0,0.9028,0.0972,0.0
+2018,FL-10,House,1.0,0.0,0.0,2018-11-06,deluxe,Val Demings,,,,100.0,,,Val Demings,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,FL-11,House,0.0002,0.9998,0.0,2018-11-06,deluxe,Dana Cottrell,Daniel Webster,,,34.85,65.15,,Daniel Webster,R,0.9998,2,False,True,,,,,0.0004,0.9996,0.0,0.0023,0.9977,0.0
+2018,FL-12,House,0.0028,0.9972,0.0,2018-11-06,deluxe,Chris Hunter,Gus M. Bilirakis,Angelika Purkis,NPA,38.87,58.27,2.87,Gus M. Bilirakis,R,0.9972,3,False,True,,,,,0.0047,0.9953,0.0,0.0472,0.9528,0.0
+2018,FL-13,House,0.9989,0.0011,0.0,2018-11-06,deluxe,Charlie Crist,George Buck,,,63.25,36.75,,Charlie Crist,D,0.9989,2,True,False,,,,,0.9985,0.0015,0.0,0.9858,0.0142,0.0
+2018,FL-14,House,1.0,0.0,0.0,2018-11-06,deluxe,Kathy Castor,,,,100.0,,,Kathy Castor,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,FL-15,House,0.3646,0.6354,0.0,2018-11-06,deluxe,Kristen Carlson,Ross Spano,,,49.1,50.9,,Ross Spano,R,0.6354,2,False,False,,,,,0.4208,0.5792,0.0,0.4423,0.5577,0.0
+2018,FL-16,House,0.0981,0.9019,0.0,2018-11-06,deluxe,David Shapiro,Vern Buchanan,,,46.26,53.74,,Vern Buchanan,R,0.9019,2,False,True,,,,,0.1414,0.8586,0.0,0.1539,0.8461,0.0
+2018,FL-17,House,0.0009,0.9991,0.0,2018-11-06,deluxe,April Freeman,Greg Steube,,,37.05,62.95,,Greg Steube,R,0.9991,2,False,False,,,,,0.0013,0.9987,0.0,0.0362,0.9638,0.0
+2018,FL-18,House,0.0801,0.9199,0.0,2018-11-06,deluxe,Lauren Baer,Brian Mast,,,46.01,53.99,,Brian Mast,R,0.9199,2,False,True,,,,,0.0867,0.9133,0.0,0.1293,0.8707,0.0
+2018,FL-19,House,0.0048,0.9952,0.0,2018-11-06,deluxe,David Holden,Francis Rooney,,,40.65,59.35,,Francis Rooney,R,0.9952,2,False,True,,,,,0.0091,0.9909,0.0,0.0519,0.9481,0.0
+2018,FL-20,House,1.0,0.0,0.0,2018-11-06,deluxe,Alcee L. Hastings,,,,100.0,,,Alcee L. Hastings,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,FL-21,House,1.0,0.0,0.0,2018-11-06,deluxe,Lois Frankel,,,,100.0,,,Lois Frankel,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,FL-22,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Ted Deutch,Nicolas Kimaz,,,65.25,34.75,,Ted Deutch,D,0.9997,2,True,False,,,,,0.9996,0.0004,0.0,0.997,0.003,0.0
+2018,FL-23,House,0.9998,0.0002,0.0,2018-11-06,deluxe,Debbie Wasserman Schultz,Joe Kaufman,Others,,65.08,31.88,3.04,Debbie Wasserman Schultz,D,0.9998,3,True,False,,,,,0.9997,0.0003,0.0,0.9995,0.0005,0.0
+2018,FL-24,House,1.0,0.0,0.0,2018-11-06,deluxe,Frederica Wilson,,,,100.0,,,Frederica Wilson,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,FL-25,House,0.1649,0.8351,0.0,2018-11-06,deluxe,Mary Barzee Flores,Mario Diaz-Balart,,,46.24,53.76,,Mario Diaz-Balart,R,0.8351,2,False,True,,,,,0.2783,0.7217,0.0,0.2081,0.7919,0.0
+2018,FL-26,House,0.5024,0.4976,0.0,2018-11-06,deluxe,Debbie Mucarsel-Powell,Carlos Curbelo,,,50.04,49.96,,Debbie Mucarsel-Powell,D,0.5024,2,False,True,,,,,0.5585,0.4415,0.0,0.4883,0.5117,0.0
+2018,FL-27,House,0.8521,0.1479,0.0,2018-11-06,deluxe,Donna Shalala,Maria Salazar,Mayra Joli,NPA,52.33,44.5,3.16,Donna Shalala,D,0.8521,3,False,False,,,,,0.8482,0.1518,0.0,0.6541,0.3459,0.0
+2018,GA-01,House,0.001,0.999,0.0,2018-11-06,deluxe,Lisa M. Ring,Buddy Carter,,,37.53,62.47,,Buddy Carter,R,0.999,2,False,True,,,,,0.0014,0.9986,0.0,0.0209,0.9791,0.0
+2018,GA-02,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Sanford D. Bishop Jr.,Herman West Jr.,,,66.13,33.87,,Sanford D. Bishop Jr.,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9964,0.0036,0.0
+2018,GA-03,House,0.0,1.0,0.0,2018-11-06,deluxe,Chuck Enderlin,A. Drew Ferguson,,,31.96,68.04,,A. Drew Ferguson,R,1.0,2,False,True,,,,,0.0001,0.9999,0.0,0.0006,0.9994,0.0
+2018,GA-04,House,1.0,0.0,0.0,2018-11-06,deluxe,Hank Johnson,Joe Profit,,,72.82,27.18,,Hank Johnson,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,GA-05,House,1.0,0.0,0.0,2018-11-06,deluxe,John Lewis,,,,100.0,,,John Lewis,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,GA-06,House,0.4057,0.5943,0.0,2018-11-06,deluxe,Lucy McBath,Karen C. Handel,,,49.29,50.71,,Karen C. Handel,R,0.5943,2,False,True,,,,,0.4914,0.5086,0.0,0.5679,0.4321,0.0
+2018,GA-07,House,0.1519,0.8481,0.0,2018-11-06,deluxe,Carolyn Bourdeaux,Rob Woodall,,,46.86,53.14,,Rob Woodall,R,0.8481,2,False,True,,,,,0.1635,0.8365,0.0,0.0894,0.9106,0.0
+2018,GA-08,House,0.0,1.0,0.0,2018-11-06,deluxe,,Austin Scott,,,,100.0,,Austin Scott,R,1.0,1,,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,GA-09,House,0.0,1.0,0.0,2018-11-06,deluxe,Josh McCall,Doug Collins,,,20.46,79.54,,Doug Collins,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,GA-10,House,0.0,1.0,0.0,2018-11-06,deluxe,Tabitha A. Johnson-Green,Jody Hice,,,32.18,67.82,,Jody Hice,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0026,0.9974,0.0
+2018,GA-11,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Flynn D. Broady Jr.,Barry Loudermilk,,,33.16,66.84,,Barry Loudermilk,R,0.9999,2,False,True,,,,,0.0002,0.9998,0.0,0.0018,0.9982,0.0
+2018,GA-12,House,0.0077,0.9923,0.0,2018-11-06,deluxe,Francys Johnson,Rick Allen,,,40.28,59.72,,Rick Allen,R,0.9923,2,False,True,,,,,0.0125,0.9875,0.0,0.027,0.973,0.0
+2018,GA-13,House,1.0,0.0,0.0,2018-11-06,deluxe,David Scott,David Callahan,,,75.42,24.58,,David Scott,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,GA-14,House,0.0,1.0,0.0,2018-11-06,deluxe,Steven Lamar Foster,Tom Graves,,,19.86,80.14,,Tom Graves,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,HI-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Ed Case,Cam Cavasso,Others,,68.88,26.19,4.93,Ed Case,D,1.0,3,False,False,,,,,1.0,0.0,0.0,0.9996,0.0004,0.0
+2018,HI-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Tulsi Gabbard,Brian Evans,,,79.41,20.59,,Tulsi Gabbard,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IA-01,House,0.9403,0.0597,0.0001,2018-11-06,deluxe,Abby Finkenauer,Rod Blum,Troy Hageman,LIB,53.53,43.63,2.84,Abby Finkenauer,D,0.9403,3,False,True,,,,,0.9553,0.0447,0.0001,0.8901,0.1098,0.0001
+2018,IA-02,House,0.995,0.005,0.0,2018-11-06,deluxe,David Loebsack,Christopher Peters,Others,,57.51,39.57,2.92,David Loebsack,D,0.995,3,True,False,,,,,0.9881,0.0119,0.0,0.9613,0.0387,0.0
+2018,IA-03,House,0.6989,0.3011,0.0,2018-11-06,deluxe,Cindy Axne,David Young,Others,,49.51,46.48,4.01,Cindy Axne,D,0.6989,3,False,True,,,,,0.7025,0.2975,0.0,0.5949,0.4051,0.0
+2018,IA-04,House,0.1142,0.8858,0.0,2018-11-06,deluxe,J.D. Scholten,Steve King,Others,,44.9,51.7,3.41,Steve King,R,0.8858,3,False,True,,,,,0.1433,0.8567,0.0,0.184,0.816,0.0
+2018,ID-01,House,0.0033,0.9967,0.0,2018-11-06,deluxe,Cristina McNeil,Russ Fulcher,Others,,30.81,57.94,11.25,Russ Fulcher,R,0.9967,3,False,False,,,,,0.006,0.994,0.0,0.0721,0.9279,0.0
+2018,ID-02,House,0.0006,0.9994,0.0,2018-11-06,deluxe,Aaron Swisher,Mike Simpson,,,36.21,63.79,,Mike Simpson,R,0.9994,2,False,True,,,,,0.0007,0.9993,0.0,0.0212,0.9788,0.0
+2018,IL-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Bobby L. Rush,Jimmy Lee Tillman II,Thomas Rudbeck,IND,76.62,19.9,3.48,Bobby L. Rush,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Robin Kelly,David Merkle,,,82.24,17.76,,Robin Kelly,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-03,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Daniel Lipinski,Arthur J. Jones,,,68.66,31.34,,Daniel Lipinski,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9976,0.0024,0.0
+2018,IL-04,House,1.0,0.0,0.0,2018-11-06,deluxe,"Jesus ""Chuy"" Garcia",Mark Wayne Lorch,,,85.67,14.33,,"Jesus ""Chuy"" Garcia",D,1.0,2,False,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Mike Quigley,Tom Hanson,,,75.56,24.44,,Mike Quigley,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-06,House,0.6202,0.3798,0.0,2018-11-06,deluxe,Sean Casten,Peter J. Roskam,,,50.99,49.01,,Sean Casten,D,0.6202,2,False,True,,,,,0.486,0.514,0.0,0.5468,0.4532,0.0
+2018,IL-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Danny K. Davis,Craig Cameron,,,87.52,12.48,,Danny K. Davis,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-08,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Raja Krishnamoorthi,"Jitendra ""JD"" Diganvker",,,67.74,32.26,,Raja Krishnamoorthi,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.999,0.001,0.0
+2018,IL-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Jan Schakowsky,John D. Elleson,,,73.45,26.55,,Jan Schakowsky,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,IL-10,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Bradley Schneider,Douglas R. Bennett,,,66.97,33.03,,Bradley Schneider,D,0.9999,2,True,False,,,,,0.9998,0.0002,0.0,0.9997,0.0003,0.0
+2018,IL-11,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Bill Foster,Nick Stella,,,67.75,32.25,,Bill Foster,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9994,0.0006,0.0
+2018,IL-12,House,0.245,0.755,0.0,2018-11-06,deluxe,Brendan Kelly,Mike Bost,Randy Auxier,GRE,46.31,50.71,2.99,Mike Bost,R,0.755,3,False,True,,,,,0.2822,0.7178,0.0,0.1736,0.8264,0.0
+2018,IL-13,House,0.2261,0.7739,0.0,2018-11-06,deluxe,Betsy Dirksen Londrigan,Rodney Davis,,,47.77,52.23,,Rodney Davis,R,0.7739,2,False,True,,,,,0.2838,0.7162,0.0,0.2192,0.7808,0.0
+2018,IL-14,House,0.6926,0.3074,0.0,2018-11-06,deluxe,Lauren Underwood,Randy Hultgren,,,51.44,48.56,,Lauren Underwood,D,0.6926,2,False,True,,,,,0.6944,0.3056,0.0,0.6399,0.3601,0.0
+2018,IL-15,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Kevin Gaither,John Shimkus,,,30.36,69.64,,John Shimkus,R,0.9999,2,False,True,,,,,0.0001,0.9999,0.0,0.0002,0.9998,0.0
+2018,IL-16,House,0.0042,0.9958,0.0,2018-11-06,deluxe,Sara Dady,Adam Kinzinger,,,41.02,58.98,,Adam Kinzinger,R,0.9958,2,False,True,,,,,0.0091,0.9909,0.0,0.0565,0.9435,0.0
+2018,IL-17,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Cheri Bustos,William W. Fawell,,,65.3,34.7,,Cheri Bustos,D,0.9999,2,True,False,,,,,0.9998,0.0002,0.0,0.9924,0.0076,0.0
+2018,IL-18,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Junius Rodriguez,Darin LaHood,,,32.65,67.35,,Darin LaHood,R,0.9999,2,False,True,,,,,0.0001,0.9999,0.0,0.0052,0.9948,0.0
+2018,IN-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Peter Visclosky,Mark Leyva,,,69.61,30.39,,Peter Visclosky,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9987,0.0013,0.0
+2018,IN-02,House,0.0425,0.9575,0.0,2018-11-06,deluxe,Mel Hall,Jackie Walorski,,,43.49,56.51,,Jackie Walorski,R,0.9575,2,False,True,,,,,0.0392,0.9608,0.0,0.0273,0.9727,0.0
+2018,IN-03,House,0.0015,0.9985,0.0,2018-11-06,deluxe,Courtney Tritch,Jim Banks,,,38.73,61.27,,Jim Banks,R,0.9985,2,False,True,,,,,0.0024,0.9976,0.0,0.0239,0.9761,0.0
+2018,IN-04,House,0.001,0.999,0.0,2018-11-06,deluxe,Tobi Beck,Jim Baird,,,37.48,62.52,,Jim Baird,R,0.999,2,False,False,,,,,0.0013,0.9987,0.0,0.0192,0.9808,0.0
+2018,IN-05,House,0.0113,0.9887,0.0,2018-11-06,deluxe,Dee Thornton,Susan W. Brooks,,,42.06,57.94,,Susan W. Brooks,R,0.9887,2,False,True,,,,,0.0362,0.9638,0.0,0.1705,0.8295,0.0
+2018,IN-06,House,0.0003,0.9997,0.0,2018-11-06,deluxe,Jeannine Lee Lake,Greg Pence,Tom Ferkinhoff,LIB,32.91,63.2,3.89,Greg Pence,R,0.9997,3,False,False,,,,,0.0005,0.9995,0.0,0.0102,0.9898,0.0
+2018,IN-07,House,1.0,0.0,0.0,2018-11-06,deluxe,André Carson,"Wayne ""Gunny"" Harmon",,,69.33,30.67,,André Carson,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9998,0.0002,0.0
+2018,IN-08,House,0.0022,0.9978,0.0,2018-11-06,deluxe,William Tanoos,Larry Bucshon,,,38.65,61.35,,Larry Bucshon,R,0.9978,2,False,True,,,,,0.0032,0.9968,0.0,0.0041,0.9959,0.0
+2018,IN-09,House,0.0513,0.9487,0.0,2018-11-06,deluxe,Liz Watson,Trey Hollingsworth,,,44.83,55.17,,Trey Hollingsworth,R,0.9487,2,False,True,,,,,0.1668,0.8332,0.0,0.0991,0.9009,0.0
+2018,KS-01,House,0.0006,0.9994,0.0,2018-11-06,deluxe,Alan LaPolice,Roger Marshall,,,35.78,64.22,,Roger Marshall,R,0.9994,2,False,True,,,,,0.0013,0.9987,0.0,0.0116,0.9884,0.0
+2018,KS-02,House,0.6407,0.3593,0.0,2018-11-06,deluxe,Paul Davis,Steve Watkins,Kelly Standley,LIB,48.9,46.78,4.32,Paul Davis,D,0.6407,3,False,False,,,,,0.6175,0.3825,0.0,0.5029,0.4971,0.0
+2018,KS-03,House,0.8652,0.1348,0.0,2018-11-06,deluxe,Sharice Davids,Kevin Yoder,Chris Clemmons,LIB,51.92,45.11,2.97,Sharice Davids,D,0.8652,3,False,True,,,,,0.8499,0.1501,0.0,0.8894,0.1106,0.0
+2018,KS-04,House,0.0041,0.9959,0.0,2018-11-06,deluxe,James A. Thompson,Ron Estes,,,39.87,60.13,,Ron Estes,R,0.9959,2,False,True,,,,,0.0065,0.9935,0.0,0.0072,0.9928,0.0
+2018,KY-01,House,0.0,1.0,0.0,2018-11-06,deluxe,Paul Walker,James Comer,,,31.0,69.0,,James Comer,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0005,0.9995,0.0
+2018,KY-02,House,0.0004,0.9996,0.0,2018-11-06,deluxe,Hank Linderman,Brett S. Guthrie,Thomas Loecken,IND,34.74,62.21,3.04,Brett S. Guthrie,R,0.9996,3,False,True,,,,,0.0007,0.9993,0.0,0.0029,0.9971,0.0
+2018,KY-03,House,0.9992,0.0008,0.0,2018-11-06,deluxe,John A. Yarmuth,Vickie Glisson,Gregory Boles,LIB,61.15,35.92,2.92,John A. Yarmuth,D,0.9992,3,True,False,,,,,0.9988,0.0012,0.0,0.9997,0.0003,0.0
+2018,KY-04,House,0.0003,0.9996,0.0,2018-11-06,deluxe,Seth Hall,Thomas Massie,Mike Moffett,IND,33.42,63.56,3.02,Thomas Massie,R,0.9996,3,False,True,,,,,0.0005,0.9995,0.0,0.0052,0.9948,0.0
+2018,KY-05,House,0.0,1.0,0.0,2018-11-06,deluxe,Kenneth S. Stepp,Harold Rogers,,,24.75,75.25,,Harold Rogers,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,KY-06,House,0.4267,0.5733,0.0,2018-11-06,deluxe,Amy McGrath,Andy Barr,Others,,47.89,48.9,3.2,Andy Barr,R,0.5733,3,False,True,,,,,0.4574,0.5426,0.0,0.521,0.479,0.0
+2018,LA-01,House,0.0,1.0,0.0,2018-11-06,deluxe,Jim Francis,Steve Scalise,Others,,8.25,68.75,3.11,Steve Scalise,R,1.0,5,False,True,,,,,0.0,1.0,0.0,0.0001,0.9999,0.0
+2018,LA-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Cedric Richmond,,Others,,85.31,,14.69,Cedric Richmond,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,LA-03,House,0.0002,0.9995,0.0002,2018-11-06,deluxe,Mimi Methvin,Clay Higgins,Aaron Andrus,LIB,13.8,54.86,4.11,Clay Higgins,R,0.9958,7,False,True,,,,,0.0002,0.9995,0.0002,0.0015,0.9982,0.0003
+2018,LA-04,House,0.0004,0.9995,0.0001,2018-11-06,deluxe,Ryan Trundle,Mike Johnson,Mark Halverson,I,34.81,62.43,2.76,Mike Johnson,R,0.9995,3,False,True,,,,,0.0006,0.9994,0.0001,0.0195,0.9805,0.0
+2018,LA-05,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Jessee Carlton Fleenor,Ralph Abraham,Others,,32.86,63.99,3.15,Ralph Abraham,R,0.9999,3,False,True,,,,,0.0002,0.9998,0.0,0.0063,0.9937,0.0
+2018,LA-06,House,0.0,0.9999,0.0,2018-11-06,deluxe,Justin DeWitt,Garret Graves,Devin Lance Graham,I,19.07,65.61,2.51,Garret Graves,R,0.9999,4,False,True,,,,,0.0,0.9999,0.0,0.0007,0.9993,0.0
+2018,MA-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Richard E. Neal,,,,100.0,,,Richard E. Neal,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MA-02,House,1.0,0.0,0.0,2018-11-06,deluxe,James McGovern,Tracy Lovvorn,,,71.25,28.75,,James McGovern,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9997,0.0003,0.0
+2018,MA-03,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Lori Trahan,Rick Green,Michael P. Mullen,IND,64.28,31.88,3.84,Lori Trahan,D,0.9997,3,False,False,,,,,0.9996,0.0004,0.0,0.9986,0.0014,0.0
+2018,MA-04,House,1.0,0.0,0.0,2018-11-06,deluxe,Joseph P. Kennedy III,,,,100.0,,,Joseph P. Kennedy III,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MA-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Katherine Clark,John Hugo,,,76.88,23.12,,Katherine Clark,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MA-06,House,1.0,0.0,0.0,2018-11-06,deluxe,Seth Moulton,Joseph S. Schneider,Mary Jean Charbonneau,IND,67.02,29.73,3.25,Seth Moulton,D,1.0,3,True,False,,,,,0.9999,0.0,0.0,0.9997,0.0003,0.0
+2018,MA-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Ayanna Pressley,,,,100.0,,,Ayanna Pressley,D,1.0,1,False,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MA-08,House,1.0,0.0,0.0,2018-11-06,deluxe,Stephen F. Lynch,,,,100.0,,,Stephen F. Lynch,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MA-09,House,0.9982,0.0018,0.0,2018-11-06,deluxe,William Keating,Peter D. Tedeschi,,,62.43,37.57,,William Keating,D,0.9982,2,True,False,,,,,0.9974,0.0026,0.0,0.9991,0.0009,0.0
+2018,MD-01,House,0.0062,0.9938,0.0,2018-11-06,deluxe,Jesse Colvin,Andy Harris,Jenica Martin,LIB,38.19,58.57,3.24,Andy Harris,R,0.9938,3,False,True,,,,,0.0091,0.9909,0.0,0.0061,0.9939,0.0
+2018,MD-02,House,1.0,0.0,0.0,2018-11-06,deluxe,C. A. Dutch Ruppersberger,Liz Matory,Others,,67.46,29.0,3.54,C. A. Dutch Ruppersberger,D,1.0,3,True,False,,,,,0.9999,0.0001,0.0,0.9997,0.0003,0.0
+2018,MD-03,House,1.0,0.0,0.0,2018-11-06,deluxe,John P. Sarbanes,Charles Anthony,David Lashar,LIB,68.39,28.43,3.18,John P. Sarbanes,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,MD-04,House,1.0,0.0,0.0,2018-11-06,deluxe,Anthony Brown,George McDermott,David Bishop,LIB,78.66,17.86,3.48,Anthony Brown,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MD-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Steny H. Hoyer,William A. Devine III,Others,,70.61,25.77,3.62,Steny H. Hoyer,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,MD-06,House,0.9962,0.0038,0.0,2018-11-06,deluxe,David Trone,Amie Hoeber,Others,,58.65,37.36,3.98,David Trone,D,0.9962,3,False,False,,,,,0.9942,0.0058,0.0,0.9867,0.0133,0.0
+2018,MD-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Elijah Cummings,Richmond Davis,David Griggs,LIB,77.15,19.4,3.45,Elijah Cummings,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MD-08,House,1.0,0.0,0.0,2018-11-06,deluxe,Jamie Raskin,John Walsh,Jasen Wunder,LIB,69.23,27.55,3.22,Jamie Raskin,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,ME-01,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Chellie Pingree,Mark Holbrook,Marty Grohman,IND,61.54,35.12,3.34,Chellie Pingree,D,0.9997,3,True,False,,,,,0.9994,0.0006,0.0,0.9977,0.0023,0.0
+2018,ME-02,House,0.6451,0.3549,0.0,2018-11-06,deluxe,Jared Golden,Bruce Poliquin,Others,,49.42,46.99,3.58,Jared Golden,D,0.6451,3,False,True,,,,,0.6342,0.3658,0.0,0.5528,0.4472,0.0
+2018,MI-01,House,0.0428,0.9572,0.0,2018-11-06,deluxe,Matt Morgan,Jack Bergman,,,44.03,55.97,,Jack Bergman,R,0.9572,2,False,True,,,,,0.0753,0.9247,0.0,0.0835,0.9165,0.0
+2018,MI-02,House,0.0236,0.9764,0.0,2018-11-06,deluxe,Rob Davidson,Bill Huizenga,Ronald E. Graeser,US Taxpayers,42.15,55.32,2.53,Bill Huizenga,R,0.9764,3,False,True,,,,,0.0617,0.9383,0.0,0.1338,0.8662,0.0
+2018,MI-03,House,0.0179,0.9821,0.0,2018-11-06,deluxe,Cathy Albro,Justin Amash,Ted Gerrard,US Taxpayers,40.63,56.48,2.89,Justin Amash,R,0.9821,3,False,True,,,,,0.0192,0.9808,0.0,0.2057,0.7943,0.0
+2018,MI-04,House,0.0013,0.9987,0.0,2018-11-06,deluxe,Jerry Hilliard,John Moolenaar,,,36.75,63.25,,John Moolenaar,R,0.9987,2,False,True,,,,,0.0017,0.9983,0.0,0.0399,0.9601,0.0
+2018,MI-05,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Daniel Kildee,Travis Wines,Kathy Goodwin,Working Class,65.21,31.91,2.87,Daniel Kildee,D,0.9999,3,True,False,,,,,0.9998,0.0002,0.0,0.9973,0.0027,0.0
+2018,MI-06,House,0.1706,0.8294,0.0,2018-11-06,deluxe,Matt Longjohn,Fred Upton,Stephen J. Young,US Taxpayers,45.6,51.52,2.88,Fred Upton,R,0.8294,3,False,True,,,,,0.2248,0.7752,0.0,0.3529,0.6471,0.0
+2018,MI-07,House,0.2492,0.7508,0.0,2018-11-06,deluxe,Gretchen Driskell,Tim Walberg,,,47.58,52.42,,Tim Walberg,R,0.7508,2,False,True,,,,,0.4149,0.5851,0.0,0.2234,0.7766,0.0
+2018,MI-08,House,0.7064,0.2936,0.0,2018-11-06,deluxe,Elissa Slotkin,Mike Bishop,Others,,50.07,47.04,2.89,Elissa Slotkin,D,0.7064,3,False,True,,,,,0.669,0.331,0.0,0.6446,0.3554,0.0
+2018,MI-09,House,0.9978,0.0022,0.0,2018-11-06,deluxe,Andy Levin,Candius Stearns,Others,,59.67,36.57,3.76,Andy Levin,D,0.9978,3,False,False,,,,,0.9964,0.0036,0.0,0.9771,0.0229,0.0
+2018,MI-10,House,0.0008,0.9992,0.0,2018-11-06,deluxe,Kimberly Bizon,Paul Mitchell,Others,,34.44,62.15,3.41,Paul Mitchell,R,0.9992,3,False,True,,,,,0.0011,0.9989,0.0,0.0117,0.9883,0.0
+2018,MI-11,House,0.8229,0.1771,0.0,2018-11-06,deluxe,Haley Stevens,Lena Epstein,Others,,50.72,45.34,3.94,Haley Stevens,D,0.8229,3,False,False,,,,,0.7923,0.2077,0.0,0.7577,0.2423,0.0
+2018,MI-12,House,1.0,0.0,0.0,2018-11-06,deluxe,Debbie Dingell,Jeff Jones,Others,,69.71,26.88,3.41,Debbie Dingell,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,MI-13,House,1.0,0.0,0.0,2018-11-06,deluxe,Rashida Tlaib,,Others,,85.85,,14.15,Rashida Tlaib,D,1.0,2,False,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MI-14,House,1.0,0.0,0.0,2018-11-06,deluxe,Brenda Lawrence,Marc S. Herschfus,Philip Kolody,Working Class,80.44,16.2,3.36,Brenda Lawrence,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MN-01,House,0.599,0.401,0.0,2018-11-06,deluxe,Dan Feehan,Jim Hagedorn,,,50.72,49.28,,Dan Feehan,D,0.599,2,False,False,,,,,0.5583,0.4417,0.0,0.4825,0.5175,0.0
+2018,MN-02,House,0.8715,0.1285,0.0,2018-11-06,deluxe,Angie Craig,Jason Lewis,,,53.18,46.82,,Angie Craig,D,0.8715,2,False,True,,,,,0.864,0.136,0.0,0.808,0.192,0.0
+2018,MN-03,House,0.86,0.14,0.0,2018-11-06,deluxe,Dean Phillips,Erik Paulsen,,,53.1,46.9,,Dean Phillips,D,0.86,2,False,True,,,,,0.8492,0.1508,0.0,0.8462,0.1538,0.0
+2018,MN-04,House,1.0,0.0,0.0,2018-11-06,deluxe,Betty McCollum,Greg Ryan,Susan Pendergast Sindt,Legal Marijuana Now,67.65,28.66,3.69,Betty McCollum,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,MN-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Ilhan Omar,Jennifer Zielinski,,,80.84,19.16,,Ilhan Omar,D,1.0,2,False,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MN-06,House,0.0008,0.9992,0.0,2018-11-06,deluxe,Ian Todd,Tom Emmer,,,36.71,63.29,,Tom Emmer,R,0.9992,2,False,True,,,,,0.001,0.999,0.0,0.0208,0.9792,0.0
+2018,MN-07,House,0.9604,0.0396,0.0,2018-11-06,deluxe,Collin C. Peterson,Dave Hughes,,,56.43,43.57,,Collin C. Peterson,D,0.9604,2,True,False,,,,,0.9339,0.0661,0.0,0.6953,0.3047,0.0
+2018,MN-08,House,0.1787,0.8213,0.0,2018-11-06,deluxe,Joe Radinovich,Pete Stauber,Ray Skip Sandman,Independence Party,44.68,51.08,4.24,Pete Stauber,R,0.8213,3,False,False,,,,,0.1932,0.8068,0.0,0.089,0.911,0.0
+2018,MO-01,House,1.0,0.0,0.0,2018-11-06,deluxe,"William ""Lacy"" Clay Jr.",Robert Vroman,Robb Cunningham,LIB,78.8,17.72,3.49,"William ""Lacy"" Clay Jr.",D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,MO-02,House,0.0847,0.9153,0.0,2018-11-06,deluxe,Cort VanOstran,Ann Wagner,Others,,44.04,52.74,3.22,Ann Wagner,R,0.9153,3,False,True,,,,,0.1624,0.8376,0.0,0.2333,0.7667,0.0
+2018,MO-03,House,0.0,1.0,0.0,2018-11-06,deluxe,Katy Geppert,Blaine Luetkemeyer,Donald Stolle,LIB,30.36,66.33,3.31,Blaine Luetkemeyer,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0011,0.9989,0.0
+2018,MO-04,House,0.0004,0.9996,0.0,2018-11-06,deluxe,Renee Hoagenson,Vicky Hartzler,Mark Bliss,LIB,34.18,62.54,3.28,Vicky Hartzler,R,0.9996,3,False,True,,,,,0.0005,0.9995,0.0,0.0009,0.999,0.0
+2018,MO-05,House,0.9994,0.0006,0.0,2018-11-06,deluxe,Emanuel Cleaver,Jacob Turk,Others,,62.65,33.57,3.78,Emanuel Cleaver,D,0.9994,3,True,False,,,,,0.9993,0.0007,0.0,0.9983,0.0017,0.0
+2018,MO-06,House,0.0002,0.9998,0.0,2018-11-06,deluxe,Henry Robert Martin,Sam Graves,Dan Hogan,LIB,32.28,64.48,3.24,Sam Graves,R,0.9998,3,False,True,,,,,0.0002,0.9998,0.0,0.0037,0.9963,0.0
+2018,MO-07,House,0.0,1.0,0.0,2018-11-06,deluxe,Jamie Daniel Schoolcraft,Billy Long,Benjamin Brixey,LIB,28.94,67.67,3.39,Billy Long,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0002,0.9998,0.0
+2018,MO-08,House,0.0,1.0,0.0,2018-11-06,deluxe,Kathy Ellis,Jason Smith,Jonathan Shell,LIB,27.39,69.17,3.44,Jason Smith,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0001,0.9999,0.0
+2018,MS-01,House,0.0003,0.9997,0.0,2018-11-06,deluxe,Randy Wadkins,Trent Kelly,Tracella Lou O'Hara Hill,REF,35.48,61.84,2.68,Trent Kelly,R,0.9997,3,False,True,,,,,0.0006,0.9994,0.0,0.0119,0.9881,0.0
+2018,MS-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Bennie G. Thompson,,Irving Harris,REF,75.69,,21.76,Bennie G. Thompson,D,1.0,3,True,,,,,,1.0,0.0,0.0,0.9972,0.0,0.0028
+2018,MS-03,House,0.0021,0.9979,0.0,2018-11-06,deluxe,Michael Ted Evans,Michael Guest,Matthew Holland,REF,37.72,59.01,3.27,Michael Guest,R,0.9979,3,False,False,,,,,0.0036,0.9964,0.0,0.0471,0.9528,0.0
+2018,MS-04,House,0.003,0.997,0.0,2018-11-06,deluxe,Jeramey Anderson,Steven Palazzo,Lajena Sheets,REF,38.07,59.48,2.45,Steven Palazzo,R,0.997,3,False,True,,,,,0.0049,0.9951,0.0,0.0222,0.9778,0.0
+2018,MT-AL,House,0.1767,0.8233,0.0,2018-11-06,deluxe,Kathleen Williams,Greg Gianforte,Elinor Swanson,LIB,45.64,51.13,3.24,Greg Gianforte,R,0.8233,3,False,True,,,,,0.2445,0.7555,0.0,0.2608,0.7392,0.0
+2018,NC-01,House,1.0,0.0,0.0,2018-11-06,deluxe,G.K. Butterfield,Roger Allison,,,72.62,27.38,,G.K. Butterfield,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NC-02,House,0.143,0.8569,0.0,2018-11-06,deluxe,Linda Coleman,George Holding,Jeff Matemu,LIB,45.54,51.92,2.54,George Holding,R,0.8569,3,False,True,,,,,0.1525,0.8474,0.0,0.1215,0.8784,0.0
+2018,NC-03,House,0.0,1.0,0.0,2018-11-06,deluxe,,Walter B. Jones,,,,100.0,,Walter B. Jones,R,1.0,1,,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,NC-04,House,1.0,0.0,0.0,2018-11-06,deluxe,David Price,Steve Von Loor,Barbara Howe,LIB,74.9,22.22,2.87,David Price,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NC-05,House,0.0175,0.9825,0.0,2018-11-06,deluxe,DD Adams,Virginia Foxx,,,41.64,58.36,,Virginia Foxx,R,0.9825,2,False,True,,,,,0.0382,0.9618,0.0,0.0426,0.9574,0.0
+2018,NC-06,House,0.0445,0.9555,0.0,2018-11-06,deluxe,Ryan Watts,Mark Walker,,,43.18,56.82,,Mark Walker,R,0.9555,2,False,True,,,,,0.1341,0.8659,0.0,0.0677,0.9323,0.0
+2018,NC-07,House,0.0505,0.9495,0.0,2018-11-06,deluxe,Kyle Horton,David Rouzer,David Fallin,CON,42.57,54.55,2.87,David Rouzer,R,0.9495,3,False,True,,,,,0.1868,0.8132,0.0,0.2439,0.7561,0.0
+2018,NC-08,House,0.0682,0.9318,0.0,2018-11-06,deluxe,Frank McNeill,Richard Hudson,,,44.56,55.44,,Richard Hudson,R,0.9318,2,False,True,,,,,0.1235,0.8765,0.0,0.065,0.935,0.0
+2018,NC-09,House,0.5496,0.4504,0.0,2018-11-06,deluxe,Dan McCready,Mark Harris,Jeff Scott,LIB,48.83,48.19,2.98,Dan McCready,D,0.5496,3,False,False,,,,,0.4761,0.5239,0.0,0.4817,0.5183,0.0
+2018,NC-10,House,0.0015,0.9985,0.0,2018-11-06,deluxe,David Brown,Patrick T. McHenry,,,37.95,62.05,,Patrick T. McHenry,R,0.9985,2,False,True,,,,,0.002,0.998,0.0,0.0127,0.9873,0.0
+2018,NC-11,House,0.0021,0.9979,0.0,2018-11-06,deluxe,Phillip G. Price,Mark Meadows,Clifton Ingram Jr.,LIB,36.77,60.41,2.81,Mark Meadows,R,0.9979,3,False,True,,,,,0.0028,0.9972,0.0,0.0075,0.9925,0.0
+2018,NC-12,House,1.0,0.0,0.0,2018-11-06,deluxe,Alma Adams,Paul Wright,,,72.84,27.16,,Alma Adams,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NC-13,House,0.3501,0.6499,0.0,2018-11-06,deluxe,Kathy Manning,Ted Budd,Others,,47.34,49.6,3.05,Ted Budd,R,0.6499,3,False,True,,,,,0.3869,0.6131,0.0,0.3456,0.6544,0.0
+2018,ND-AL,House,0.0007,0.9993,0.0,2018-11-06,deluxe,Mac Schneider,Kelly Armstrong,Charles Tuttle,IND,37.15,58.36,4.49,Kelly Armstrong,R,0.9993,3,False,False,,,,,0.0015,0.9985,0.0,0.0042,0.9958,0.0
+2018,NE-01,House,0.0014,0.9986,0.0,2018-11-06,deluxe,Jessica McClure,Jeff Fortenberry,,,39.01,60.99,,Jeff Fortenberry,R,0.9986,2,False,True,,,,,0.0025,0.9975,0.0,0.0297,0.9703,0.0
+2018,NE-02,House,0.3228,0.6772,0.0,2018-11-06,deluxe,Kara Eastman,Don Bacon,,,48.49,51.51,,Don Bacon,R,0.6772,2,False,True,,,,,0.4194,0.5806,0.0,0.1902,0.8098,0.0
+2018,NE-03,House,0.0,1.0,0.0,2018-11-06,deluxe,Paul Theobald,Adrian Smith,,,28.07,71.93,,Adrian Smith,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0002,0.9998,0.0
+2018,NH-01,House,0.9222,0.0777,0.0001,2018-11-06,deluxe,Chris Pappas,Eddie Edwards,Dan Belforti,LIB,52.76,44.01,3.22,Chris Pappas,D,0.9222,3,False,False,,,,,0.8921,0.1079,0.0001,0.8449,0.155,0.0001
+2018,NH-02,House,0.998,0.002,0.0,2018-11-06,deluxe,Ann Kuster,Steven Negron,Justin O'Donnell,LIB,58.4,38.74,2.86,Ann Kuster,D,0.998,3,True,False,,,,,0.9963,0.0037,0.0,0.9918,0.0082,0.0
+2018,NJ-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Donald Norcross,Paul E. Dilks,Others,,67.5,29.04,3.46,Donald Norcross,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,NJ-02,House,0.9864,0.0136,0.0,2018-11-06,deluxe,Jeff Van Drew,Seth Grossman,Others,,55.54,40.76,3.7,Jeff Van Drew,D,0.9864,3,False,False,,,,,0.9799,0.0201,0.0,0.97,0.03,0.0
+2018,NJ-03,House,0.6289,0.371,0.0,2018-11-06,deluxe,Andy Kim,Tom MacArthur,Lawrence Berlinski Jr.,CON,49.71,47.88,2.41,Andy Kim,D,0.6289,3,False,True,,,,,0.5485,0.4514,0.0,0.5547,0.4453,0.0
+2018,NJ-04,House,0.0252,0.9748,0.0,2018-11-06,deluxe,Joshua Welle,Chris Smith,Others,,40.31,55.69,3.99,Chris Smith,R,0.9748,3,False,True,,,,,0.0692,0.9308,0.0,0.1002,0.8998,0.0
+2018,NJ-05,House,0.9862,0.0138,0.0,2018-11-06,deluxe,Josh Gottheimer,John J. McCann Jr.,Others,,56.97,39.83,3.2,Josh Gottheimer,D,0.9862,3,True,False,,,,,0.9856,0.0144,0.0,0.9251,0.0749,0.0
+2018,NJ-06,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Frank Pallone Jr.,Richard J. Pezzullo,,,68.53,31.47,,Frank Pallone Jr.,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9992,0.0008,0.0
+2018,NJ-07,House,0.7512,0.2488,0.0,2018-11-06,deluxe,Tom Malinowski,Leonard Lance,Others,,50.7,46.46,2.84,Tom Malinowski,D,0.7512,3,False,True,,,,,0.7825,0.2175,0.0,0.757,0.243,0.0
+2018,NJ-08,House,1.0,0.0,0.0,2018-11-06,deluxe,Albio Sires,John R. Muniz,Others,,78.84,17.75,3.41,Albio Sires,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NJ-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Bill Pascrell Jr.,Eric P. Fisher,Claudio Belusic,LIB,72.25,24.91,2.84,Bill Pascrell Jr.,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,NJ-10,House,1.0,0.0,0.0,2018-11-06,deluxe,Donald Payne Jr.,Agha Khan,Others,,84.86,11.16,3.98,Donald Payne Jr.,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NJ-11,House,0.861,0.139,0.0,2018-11-06,deluxe,Mikie Sherrill,Jay Webber,Others,,52.0,44.76,3.24,Mikie Sherrill,D,0.861,3,False,False,,,,,0.8536,0.1464,0.0,0.8337,0.1663,0.0
+2018,NJ-12,House,1.0,0.0,0.0,2018-11-06,deluxe,Bonnie Watson Coleman,Daryl Kipnis,,,72.08,27.92,,Bonnie Watson Coleman,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NM-01,House,0.9931,0.0068,0.0,2018-11-06,deluxe,Debra A. Haaland,Janice E. Arnold-Jones,Lloyd Princeton,LIB,56.26,38.96,4.78,Debra A. Haaland,D,0.9931,3,False,False,,,,,0.98,0.0199,0.0,0.9477,0.0523,0.0
+2018,NM-02,House,0.5222,0.4778,0.0,2018-11-06,deluxe,Xochitl Torres Small,Yvette Herrell,,,50.15,49.85,,Xochitl Torres Small,D,0.5222,2,False,False,,,,,0.4441,0.5559,0.0,0.4476,0.5524,0.0
+2018,NM-03,House,0.9998,0.0002,0.0,2018-11-06,deluxe,Ben R. Lujan,Jerald Steve McFall,Christopher Manning,LIB,61.39,34.43,4.17,Ben R. Lujan,D,0.9998,3,True,False,,,,,0.9996,0.0004,0.0,0.998,0.002,0.0
+2018,NV-01,House,1.0,0.0,0.0,2018-11-06,deluxe,Dina Titus,Joyce Bentley,Others,,66.34,30.06,3.59,Dina Titus,D,1.0,3,True,False,,,,,1.0,0.0,0.0,0.9987,0.0013,0.0
+2018,NV-02,House,0.0014,0.9986,0.0,2018-11-06,deluxe,Clint Koble,Mark Amodei,,,40.1,59.9,,Mark Amodei,R,0.9986,2,False,True,,,,,0.0024,0.9976,0.0,0.0284,0.9716,0.0
+2018,NV-03,House,0.8813,0.1187,0.0,2018-11-06,deluxe,Susie Lee,Danny Tarkanian,Others,,51.22,44.24,4.55,Susie Lee,D,0.8813,3,False,False,,,,,0.884,0.116,0.0,0.8134,0.1866,0.0
+2018,NV-04,House,0.8934,0.1066,0.0,2018-11-06,deluxe,Steven A. Horsford,Cresent Hardy,Others,,52.0,43.52,4.48,Steven A. Horsford,D,0.8934,3,False,False,,,,,0.8772,0.1228,0.0,0.7211,0.2789,0.0
+2018,NY-01,House,0.0404,0.9596,0.0,2018-11-06,deluxe,Perry Gershon,Lee Zeldin,Kate Browning,Women's Equality Party,43.06,54.36,2.57,Lee Zeldin,R,0.9596,3,False,True,,,,,0.0655,0.9345,0.0,0.0638,0.9362,0.0
+2018,NY-02,House,0.1482,0.8518,0.0,2018-11-06,deluxe,Liuba Grechen Shirley,Pete King,,,45.94,54.06,,Pete King,R,0.8518,2,False,True,,,,,0.2773,0.7227,0.0,0.2645,0.7355,0.0
+2018,NY-03,House,0.9972,0.0028,0.0,2018-11-06,deluxe,Thomas Suozzi,Dan DeBono,,,62.11,37.89,,Thomas Suozzi,D,0.9972,2,True,False,,,,,0.9964,0.0036,0.0,0.9907,0.0093,0.0
+2018,NY-04,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Kathleen Rice,Ameer Benno,,,65.76,34.24,,Kathleen Rice,D,0.9997,2,True,False,,,,,0.9995,0.0005,0.0,0.9963,0.0037,0.0
+2018,NY-05,House,1.0,0.0,0.0,2018-11-06,deluxe,Gregory W. Meeks,,,,100.0,,,Gregory W. Meeks,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-06,House,1.0,0.0,0.0,2018-11-06,deluxe,Grace Meng,,Tom Hillgardner,GRE,84.62,,15.38,Grace Meng,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Nydia M. Velázquez,,Others,,89.93,,10.07,Nydia M. Velázquez,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-08,House,1.0,0.0,0.0,2018-11-06,deluxe,Hakeem Jeffries,,Others,,89.47,,10.53,Hakeem Jeffries,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Yvette D. Clarke,Lutchi Gayot,Joel Anabilah-Azumah,Reform Party,83.83,12.88,3.29,Yvette D. Clarke,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-10,House,1.0,0.0,0.0,2018-11-06,deluxe,Jerrold Nadler,Naomi Levin,,,80.53,19.47,,Jerrold Nadler,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-11,House,0.2031,0.7969,0.0,2018-11-06,deluxe,Max N. Rose,Daniel Donovan,Henry Bardel,G,46.0,51.21,2.79,Daniel Donovan,R,0.7969,3,False,True,,,,,0.2365,0.7634,0.0,0.25,0.75,0.0
+2018,NY-12,House,1.0,0.0,0.0,2018-11-06,deluxe,Carolyn Maloney,Eliot Rabin,Scott Hutchins,GRE,82.33,14.43,3.24,Carolyn Maloney,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-13,House,1.0,0.0,0.0,2018-11-06,deluxe,Adriano Espaillat,Jineea Butler,,,93.18,6.82,,Adriano Espaillat,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-14,House,1.0,0.0,0.0,2018-11-06,deluxe,Alexandria Ocasio-Cortez,Anthony Pappas,Joseph Crowley,WOF,79.38,16.47,4.16,Alexandria Ocasio-Cortez,D,1.0,4,False,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-15,House,1.0,0.0,0.0,2018-11-06,deluxe,José E. Serrano,Jason Gonzalez,,,95.93,4.07,,José E. Serrano,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-16,House,1.0,0.0,0.0,2018-11-06,deluxe,Eliot Engel,,,,100.0,,,Eliot Engel,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,NY-17,House,0.9999,0.0,0.0001,2018-11-06,deluxe,Nita Lowey,,Joseph Ciardullo,REF,81.51,,18.49,Nita Lowey,D,0.9999,2,True,,,,,,0.9999,0.0,0.0001,0.9999,0.0,0.0001
+2018,NY-18,House,0.9928,0.0072,0.0,2018-11-06,deluxe,Sean Patrick Maloney,James O'Donnell,,,59.91,40.09,,Sean Patrick Maloney,D,0.9928,2,True,False,,,,,0.9915,0.0085,0.0,0.9803,0.0197,0.0
+2018,NY-19,House,0.6686,0.3314,0.0,2018-11-06,deluxe,Antonio Delgado,John Faso,Others,,49.75,47.27,2.98,Antonio Delgado,D,0.6686,3,False,True,,,,,0.6117,0.3883,0.0,0.5881,0.4119,0.0
+2018,NY-20,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Paul D. Tonko,Francis Vitollo,,,69.65,30.35,,Paul D. Tonko,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9991,0.0009,0.0
+2018,NY-21,House,0.0583,0.9417,0.0,2018-11-06,deluxe,Tedra L. Cobb,Elise Stefanik,Lynn Kahn,GRE,43.18,54.27,2.55,Elise Stefanik,R,0.9417,3,False,True,,,,,0.1068,0.8932,0.0,0.2821,0.7179,0.0
+2018,NY-22,House,0.6044,0.3956,0.0,2018-11-06,deluxe,Anthony Brindisi,Claudia Tenney,,,50.81,49.19,,Anthony Brindisi,D,0.6044,2,False,True,,,,,0.5223,0.4777,0.0,0.4383,0.5617,0.0
+2018,NY-23,House,0.0786,0.9214,0.0,2018-11-06,deluxe,Tracy Mitrano,Tom Reed,,,45.35,54.65,,Tom Reed,R,0.9214,2,False,True,,,,,0.1671,0.8329,0.0,0.2765,0.7235,0.0
+2018,NY-24,House,0.1651,0.8349,0.0,2018-11-06,deluxe,Dana Balter,John Katko,,,46.87,53.13,,John Katko,R,0.8349,2,False,True,,,,,0.1797,0.8203,0.0,0.1301,0.8699,0.0
+2018,NY-25,House,0.9958,0.0042,0.0,2018-11-06,deluxe,Joseph D. Morelle,Jim Maxwell,,,59.6,40.4,,Joseph D. Morelle,D,0.9958,2,False,False,,,,,0.9904,0.0096,0.0,0.9624,0.0376,0.0
+2018,NY-26,House,1.0,0.0,0.0,2018-11-06,deluxe,Brian Higgins,Renee Zeno,,,73.76,26.24,,Brian Higgins,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9997,0.0003,0.0
+2018,NY-27,House,0.2027,0.7973,0.0,2018-11-06,deluxe,Nate McMurray,Chris Collins,Larry Piegza,REF,46.03,51.0,2.97,Chris Collins,R,0.7973,3,False,True,,,,,0.2432,0.7567,0.0,0.2603,0.7396,0.0
+2018,OH-01,House,0.1767,0.8233,0.0,2018-11-06,deluxe,Aftab Pureval,Steve Chabot,Dirk Kubala,LIB,45.99,51.3,2.71,Steve Chabot,R,0.8233,3,False,True,,,,,0.1904,0.8096,0.0,0.1838,0.8162,0.0
+2018,OH-02,House,0.0082,0.9918,0.0,2018-11-06,deluxe,Jill Schiller,Brad Wenstrup,James Condit Jr.,GRE,40.43,56.76,2.81,Brad Wenstrup,R,0.9918,3,False,True,,,,,0.0227,0.9773,0.0,0.0736,0.9264,0.0
+2018,OH-03,House,1.0,0.0,0.0,2018-11-06,deluxe,Joyce Beatty,Jim Burgess,,,74.4,25.6,,Joyce Beatty,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,OH-04,House,0.0056,0.9944,0.0,2018-11-06,deluxe,Janet Garrett,Jim Jordan,,,40.39,59.61,,Jim Jordan,R,0.9944,2,False,True,,,,,0.01,0.99,0.0,0.0087,0.9913,0.0
+2018,OH-05,House,0.001,0.999,0.0,2018-11-06,deluxe,J. Michael Galbraith,Robert E. Latta,Don Kissick,LIB,35.87,61.07,3.06,Robert E. Latta,R,0.999,3,False,True,,,,,0.0014,0.9986,0.0,0.0217,0.9783,0.0
+2018,OH-06,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Shawna Roberts,Bill Johnson,,,31.49,68.51,,Bill Johnson,R,0.9999,2,False,True,,,,,0.0001,0.9999,0.0,0.0021,0.9979,0.0
+2018,OH-07,House,0.0153,0.9847,0.0,2018-11-06,deluxe,Ken Harbaugh,Bob Gibbs,,,42.91,57.09,,Bob Gibbs,R,0.9847,2,False,True,,,,,0.0379,0.9621,0.0,0.0531,0.9469,0.0
+2018,OH-08,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Vanessa Enoch,Warren Davidson,,,33.32,66.68,,Warren Davidson,R,0.9999,2,False,True,,,,,0.0002,0.9998,0.0,0.0022,0.9978,0.0
+2018,OH-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Marcy Kaptur,Steven W. Kraus,,,71.15,28.85,,Marcy Kaptur,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9999,0.0001,0.0
+2018,OH-10,House,0.0587,0.9413,0.0,2018-11-06,deluxe,Theresa A. Gasper,Michael Turner,David Harlow,LIB,42.82,54.25,2.93,Michael Turner,R,0.9413,3,False,True,,,,,0.1034,0.8966,0.0,0.246,0.754,0.0
+2018,OH-11,House,1.0,0.0,0.0,2018-11-06,deluxe,Marcia L. Fudge,Beverly A. Goldstein,,,82.74,17.26,,Marcia L. Fudge,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,OH-12,House,0.3517,0.6483,0.0,2018-11-06,deluxe,Danny O'Connor,Troy Balderson,Joe Manchik,GRE,47.61,49.76,2.63,Troy Balderson,R,0.6483,3,False,True,,,,,0.347,0.6529,0.0,0.3137,0.6863,0.0
+2018,OH-13,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Tim Ryan,Chris DePizzo,,,68.25,31.75,,Tim Ryan,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9983,0.0017,0.0
+2018,OH-14,House,0.1257,0.8743,0.0,2018-11-06,deluxe,Betsy Rader,David Joyce,,,45.91,54.09,,David Joyce,R,0.8743,2,False,True,,,,,0.1563,0.8437,0.0,0.1846,0.8154,0.0
+2018,OH-15,House,0.0135,0.9865,0.0,2018-11-06,deluxe,Rick Neal,Steve Stivers,Johnathan Miller,LIB,40.23,56.78,2.99,Steve Stivers,R,0.9865,3,False,True,,,,,0.0207,0.9793,0.0,0.1034,0.8966,0.0
+2018,OH-16,House,0.0258,0.9742,0.0,2018-11-06,deluxe,Susan Moran Palmer,Anthony Gonzalez,,,42.8,57.2,,Anthony Gonzalez,R,0.9742,2,False,False,,,,,0.0852,0.9148,0.0,0.3334,0.6666,0.0
+2018,OK-01,House,0.0012,0.9988,0.0,2018-11-06,deluxe,Tim Gilpin,Kevin Hern,,,39.22,60.78,,Kevin Hern,R,0.9988,2,False,False,,,,,0.0017,0.9983,0.0,0.0374,0.9626,0.0
+2018,OK-02,House,0.001,0.999,0.0,2018-11-06,deluxe,Jason Nichols,Markwayne Mullin,Others,,33.76,62.29,3.95,Markwayne Mullin,R,0.999,3,False,True,,,,,0.0018,0.9982,0.0,0.0169,0.9831,0.0
+2018,OK-03,House,0.0,1.0,0.0,2018-11-06,deluxe,Frankie Robbins,Frank Lucas,,,28.74,71.26,,Frank Lucas,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0017,0.9983,0.0
+2018,OK-04,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Mary Brannon,Tom Cole,Ruby Peters,I,31.03,65.87,3.09,Tom Cole,R,0.9999,3,False,True,,,,,0.0001,0.9999,0.0,0.0044,0.9956,0.0
+2018,OK-05,House,0.0663,0.9337,0.0,2018-11-06,deluxe,Kendra Horn,Steve Russell,,,45.03,54.97,,Steve Russell,R,0.9337,2,False,True,,,,,0.1426,0.8574,0.0,0.0762,0.9238,0.0
+2018,OR-01,House,0.9999,0.0,0.0,2018-11-06,deluxe,Suzanne Bonamici,John Verbeek,Drew Layda,LIB,65.57,30.19,4.25,Suzanne Bonamici,D,0.9999,3,True,False,,,,,0.9999,0.0001,0.0,0.9997,0.0003,0.0
+2018,OR-02,House,0.0059,0.9941,0.0,2018-11-06,deluxe,Jamie McLeod-Skinner,Greg Walden,Mark Roberts,IPO,38.22,57.68,4.1,Greg Walden,R,0.9941,3,False,True,,,,,0.01,0.99,0.0,0.0727,0.9273,0.0
+2018,OR-03,House,1.0,0.0,0.0,2018-11-06,deluxe,Earl Blumenauer,Tom Harrison,Others,,74.37,20.03,5.6,Earl Blumenauer,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,OR-04,House,0.997,0.003,0.0,2018-11-06,deluxe,Peter DeFazio,Arthur B. Robinson,Others,,58.89,36.61,4.5,Peter DeFazio,D,0.997,3,True,False,,,,,0.9957,0.0043,0.0,0.989,0.011,0.0
+2018,OR-05,House,0.9423,0.0577,0.0,2018-11-06,deluxe,Kurt Schrader,Mark Callahan,Others,,55.5,40.24,4.26,Kurt Schrader,D,0.9423,3,True,False,,,,,0.8559,0.1441,0.0,0.5128,0.4872,0.0
+2018,PA-01,House,0.4062,0.5938,0.0,2018-11-06,deluxe,Scott Wallace,Brian Fitzpatrick,,,49.34,50.66,,Brian Fitzpatrick,R,0.5938,2,False,True,,,,,0.4281,0.5718,0.0,0.5283,0.4717,0.0
+2018,PA-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Brendan Boyle,David Torres,,,79.55,20.45,,Brendan Boyle,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,PA-03,House,1.0,0.0,0.0,2018-11-06,deluxe,Dwight Evans,Bryan E. Leib,,,92.86,7.14,,Dwight Evans,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,PA-04,House,0.9995,0.0005,0.0,2018-11-06,deluxe,Madeleine Dean,Dan David,,,63.89,36.11,,Madeleine Dean,D,0.9995,2,False,False,,,,,0.9992,0.0008,0.0,0.9946,0.0054,0.0
+2018,PA-05,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Mary Gay Scanlon,Pearl Kim,,,66.04,33.96,,Mary Gay Scanlon,D,0.9997,2,False,False,,,,,1.0,0.0,0.0,0.9992,0.0008,0.0
+2018,PA-06,House,0.9897,0.0103,0.0,2018-11-06,deluxe,Chrissy Houlahan,Greg McCauley,,,58.99,41.01,,Chrissy Houlahan,D,0.9897,2,False,False,,,,,0.9909,0.0091,0.0,0.962,0.038,0.0
+2018,PA-07,House,0.9395,0.0605,0.0,2018-11-06,deluxe,Susan Wild,Marty Nothstein,Tim Silfies,L,53.37,43.72,2.91,Susan Wild,D,0.9395,3,False,False,,,,,0.9518,0.0482,0.0,0.8939,0.1061,0.0
+2018,PA-08,House,0.9662,0.0338,0.0,2018-11-06,deluxe,Matt Cartwright,John Chrin,,,55.55,44.45,,Matt Cartwright,D,0.9662,2,True,False,,,,,0.9629,0.0371,0.0,0.9716,0.0284,0.0
+2018,PA-09,House,0.0011,0.9989,0.0,2018-11-06,deluxe,Denny Wolff,Dan Meuser,,,38.95,61.05,,Dan Meuser,R,0.9989,2,False,False,,,,,0.0017,0.9983,0.0,0.0347,0.9653,0.0
+2018,PA-10,House,0.2875,0.7125,0.0,2018-11-06,deluxe,George Scott,Scott Perry,,,48.46,51.54,,Scott Perry,R,0.7125,2,False,True,,,,,0.325,0.675,0.0,0.3272,0.6728,0.0
+2018,PA-11,House,0.0169,0.9831,0.0,2018-11-06,deluxe,Jess King,Lloyd Smucker,,,42.82,57.18,,Lloyd Smucker,R,0.9831,2,False,True,,,,,0.0654,0.9346,0.0,0.0816,0.9184,0.0
+2018,PA-12,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Marc Friedenberg,Tom Marino,,,33.46,66.54,,Tom Marino,R,0.9999,2,False,True,,,,,0.0002,0.9998,0.0,0.0021,0.9979,0.0
+2018,PA-13,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Brent Ottaway,John Joyce,,,34.3,65.7,,John Joyce,R,0.9999,2,False,False,,,,,0.0003,0.9997,0.0,0.0077,0.9923,0.0
+2018,PA-14,House,0.0104,0.9896,0.0,2018-11-06,deluxe,Bibiana Boerio,Guy Reschenthaler,,,40.76,59.24,,Guy Reschenthaler,R,0.9896,2,False,False,,,,,0.0071,0.9929,0.0,0.0603,0.9397,0.0
+2018,PA-15,House,0.0,1.0,0.0,2018-11-06,deluxe,Susan Boser,Glenn W. Thompson,,,28.72,71.28,,Glenn W. Thompson,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0008,0.9992,0.0
+2018,PA-16,House,0.1096,0.8904,0.0,2018-11-06,deluxe,Ron DiNicola,Mike Kelly,Ebert G Bill Beeman,L,44.97,52.66,2.36,Mike Kelly,R,0.8904,3,False,True,,,,,0.1275,0.8725,0.0,0.3243,0.6757,0.0
+2018,PA-17,House,0.9621,0.0379,0.0,2018-11-06,deluxe,Conor Lamb,Keith Rothfus,,,55.38,44.62,,Conor Lamb,D,0.9621,2,True,True,,,,,0.9573,0.0427,0.0,0.8827,0.1173,0.0
+2018,PA-18,House,1.0,0.0,0.0,2018-11-06,deluxe,Mike Doyle,,,,100.0,,,Mike Doyle,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,RI-01,House,1.0,0.0,0.0,2018-11-06,deluxe,David Cicilline,Patrick Donovan,,,71.69,28.31,,David Cicilline,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,RI-02,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Jim Langevin,Salvatore Caiozzo,,,69.23,30.77,,Jim Langevin,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9995,0.0005,0.0
+2018,SC-01,House,0.0863,0.9137,0.0,2018-11-06,deluxe,Joe Cunningham,Katie Arrington,,,46.0,54.0,,Katie Arrington,R,0.9137,2,False,False,,,,,0.0938,0.9062,0.0,0.2004,0.7996,0.0
+2018,SC-02,House,0.0043,0.9957,0.0,2018-11-06,deluxe,Sean Carrigan,Joe Wilson,Sonny Narang,AME,38.06,59.11,2.83,Joe Wilson,R,0.9957,3,False,True,,,,,0.0063,0.9937,0.0,0.0211,0.9789,0.0
+2018,SC-03,House,0.0005,0.9995,0.0,2018-11-06,deluxe,Mary Geren,Jeff Duncan,Dave Moore,AME,33.29,63.73,2.98,Jeff Duncan,R,0.9995,3,False,True,,,,,0.0006,0.9994,0.0,0.0008,0.9992,0.0
+2018,SC-04,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Brandon Brown,William Timmons,Guy Furay,AME,31.51,65.11,3.38,William Timmons,R,0.9999,3,False,False,,,,,0.0001,0.9999,0.0,0.0221,0.9779,0.0
+2018,SC-05,House,0.0076,0.9924,0.0,2018-11-06,deluxe,Archie Parnell,Ralph Norman,Michael Chandler,CON,39.2,57.99,2.81,Ralph Norman,R,0.9924,3,False,True,,,,,0.0131,0.9869,0.0,0.0259,0.9741,0.0
+2018,SC-06,House,1.0,0.0,0.0,2018-11-06,deluxe,James E. Clyburn,Gerhard Gressmann,Bryan Pugh,GRE,72.74,24.32,2.93,James E. Clyburn,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,SC-07,House,0.0041,0.9959,0.0,2018-11-06,deluxe,Robert Williams,Tom Rice,,,39.54,60.46,,Tom Rice,R,0.9959,2,False,True,,,,,0.0057,0.9943,0.0,0.0278,0.9722,0.0
+2018,SD-AL,House,0.0036,0.9964,0.0,2018-11-06,deluxe,Tim Bjorkman,Dusty Johnson,Others,,38.92,57.01,4.07,Dusty Johnson,R,0.9964,3,False,False,,,,,0.0079,0.9921,0.0,0.0147,0.9853,0.0
+2018,TN-01,House,0.0,1.0,0.0,2018-11-06,deluxe,Marty Olsen,Phil Roe,Michael Salyer,IND,23.54,73.24,3.22,Phil Roe,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,TN-02,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Renee Hoyos,Tim Burchett,Others,,31.25,63.97,4.78,Tim Burchett,R,0.9999,3,False,False,,,,,0.0002,0.9998,0.0,0.0038,0.9962,0.0
+2018,TN-03,House,0.0005,0.9995,0.0,2018-11-06,deluxe,Danielle Mitchell,Chuck Fleischmann,Rick Tyler,IND,33.52,63.46,3.02,Chuck Fleischmann,R,0.9995,3,False,True,,,,,0.0006,0.9994,0.0,0.0011,0.9989,0.0
+2018,TN-04,House,0.0041,0.9959,0.0,2018-11-06,deluxe,Mariah Phillips,Scott DesJarlais,Michael Shupe,IND,37.79,59.14,3.07,Scott DesJarlais,R,0.9959,3,False,True,,,,,0.006,0.994,0.0,0.0006,0.9994,0.0
+2018,TN-05,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Jim Cooper,Jody M. Ball,,,68.58,31.42,,Jim Cooper,D,0.9999,2,True,False,,,,,0.9999,0.0001,0.0,0.9989,0.0011,0.0
+2018,TN-06,House,0.0,1.0,0.0,2018-11-06,deluxe,Dawn Barlow,John Rose,Others,,26.7,69.2,4.1,John Rose,R,1.0,3,False,False,,,,,0.0,1.0,0.0,0.0004,0.9996,0.0
+2018,TN-07,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Justin Kanew,Mark E. Green,Others,,31.1,64.9,3.99,Mark E. Green,R,0.9999,3,False,False,,,,,0.0001,0.9999,0.0,0.0035,0.9965,0.0
+2018,TN-08,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Erika Stotts Pearson,David Kustoff,James Hart,IND,28.64,68.32,3.04,David Kustoff,R,0.9999,3,False,True,,,,,0.0001,0.9999,0.0,0.0007,0.9993,0.0
+2018,TN-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Steve Cohen,Charlotte Bergmann,Leo AwGoWhat,IND,76.84,19.99,3.18,Steve Cohen,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,TX-01,House,0.0,1.0,0.0,2018-11-06,deluxe,Shirley McKellar,Louie Gohmert,Jeff Callaway,LIB,25.94,70.88,3.18,Louie Gohmert,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0001,0.9999,0.0
+2018,TX-02,House,0.054,0.946,0.0,2018-11-06,deluxe,Todd Litton,Dan Crenshaw,Others,,42.81,53.57,3.62,Dan Crenshaw,R,0.946,3,False,False,,,,,0.1066,0.8934,0.0,0.22,0.78,0.0
+2018,TX-03,House,0.0053,0.9947,0.0,2018-11-06,deluxe,Lorie Burch,Van Taylor,Christopher Claytor,LIB,37.93,58.64,3.43,Van Taylor,R,0.9947,3,False,False,,,,,0.0078,0.9922,0.0,0.0688,0.9311,0.0
+2018,TX-04,House,0.0,1.0,0.0,2018-11-06,deluxe,Catherine Krantz,John Ratcliffe,Ken Ashby,LIB,22.04,74.72,3.24,John Ratcliffe,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0001,0.9999,0.0
+2018,TX-05,House,0.0004,0.9996,0.0,2018-11-06,deluxe,Dan Wood,Lance Gooden,,,35.33,64.67,,Lance Gooden,R,0.9996,2,False,False,,,,,0.0004,0.9996,0.0,0.0066,0.9934,0.0
+2018,TX-06,House,0.0312,0.9688,0.0,2018-11-06,deluxe,Jana Lynne Sanchez,Ron Wright,Jason Harber,LIB,42.57,54.33,3.1,Ron Wright,R,0.9688,3,False,False,,,,,0.0575,0.9425,0.0,0.1582,0.8418,0.0
+2018,TX-07,House,0.4466,0.5534,0.0,2018-11-06,deluxe,Lizzie Pannill Fletcher,John Culberson,,,49.57,50.43,,John Culberson,R,0.5534,2,False,True,,,,,0.5223,0.4777,0.0,0.4095,0.5905,0.0
+2018,TX-08,House,0.0,1.0,0.0,2018-11-06,deluxe,Steven David,Kevin Brady,Chris Duncan,LIB,20.84,75.93,3.23,Kevin Brady,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,TX-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Al Green,,Others,,85.33,,14.67,Al Green,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,TX-10,House,0.0284,0.9716,0.0,2018-11-06,deluxe,Mike Siegel,Michael T. McCaul,Mike Ryan,LIB,41.34,55.3,3.35,Michael T. McCaul,R,0.9716,3,False,True,,,,,0.0628,0.9372,0.0,0.143,0.857,0.0
+2018,TX-11,House,0.0,1.0,0.0,2018-11-06,deluxe,Jennie Lou Leeder,K. Michael Conaway,Rhett Rosenquest Smith,LIB,18.32,78.37,3.31,K. Michael Conaway,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,TX-12,House,0.0,1.0,0.0,2018-11-06,deluxe,Vanessa Adia,Kay Granger,Jacob Leddy,LIB,31.89,65.56,2.55,Kay Granger,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0014,0.9986,0.0
+2018,TX-13,House,0.0,1.0,0.0,2018-11-06,deluxe,Greg Sagan,Mac Thornberry,Calvin DeWeese,LIB,16.68,79.98,3.35,Mac Thornberry,R,1.0,3,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,TX-14,House,0.0054,0.9946,0.0,2018-11-06,deluxe,Adrienne Bell,Randy Weber,Don Conley III,LIB,38.27,58.8,2.94,Randy Weber,R,0.9946,3,False,True,,,,,0.0084,0.9916,0.0,0.0073,0.9927,0.0
+2018,TX-15,House,0.9998,0.0002,0.0,2018-11-06,deluxe,Vicente Gonzalez,Tim Westley,Anthony Cristo,LIB,65.57,31.63,2.8,Vicente Gonzalez,D,0.9998,3,True,False,,,,,0.9996,0.0004,0.0,0.9939,0.0061,0.0
+2018,TX-16,House,1.0,0.0,0.0,2018-11-06,deluxe,Veronica Escobar,Rick Seeberger,Ben Mendoza,IND,69.94,26.56,3.49,Veronica Escobar,D,1.0,3,False,False,,,,,1.0,0.0,0.0,0.999,0.001,0.0
+2018,TX-17,House,0.0011,0.9989,0.0,2018-11-06,deluxe,Rick Kennedy,Bill Flores,Peter Churchman,LIB,38.38,59.29,2.33,Bill Flores,R,0.9989,3,False,True,,,,,0.0017,0.9983,0.0,0.0214,0.9786,0.0
+2018,TX-18,House,1.0,0.0,0.0,2018-11-06,deluxe,Sheila Jackson Lee,Ava Reynero Pate,Others,,76.37,20.08,3.55,Sheila Jackson Lee,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,TX-19,House,0.0,1.0,0.0,2018-11-06,deluxe,Miguel Levario,Jodey Arrington,,,23.25,76.75,,Jodey Arrington,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,TX-20,House,0.9999,0.0,0.0001,2018-11-06,deluxe,Joaquin Castro,,Jeffrey Blunt,LIB,82.0,,18.0,Joaquin Castro,D,0.9999,2,True,,,,,,0.9999,0.0,0.0001,0.9999,0.0,0.0001
+2018,TX-21,House,0.0947,0.9053,0.0,2018-11-06,deluxe,Joseph Kopser,Chip Roy,Lee Santos,LIB,43.97,52.15,3.88,Chip Roy,R,0.9053,3,False,False,,,,,0.1546,0.8454,0.0,0.225,0.7749,0.0
+2018,TX-22,House,0.1191,0.8809,0.0,2018-11-06,deluxe,Sri Preston Kulkarni,Pete Olson,Others,,43.97,52.8,3.24,Pete Olson,R,0.8809,3,False,True,,,,,0.2028,0.7972,0.0,0.0267,0.9733,0.0
+2018,TX-23,House,0.2078,0.7922,0.0,2018-11-06,deluxe,Gina Ortiz Jones,Will Hurd,Ruben Corvalan,LIB,45.62,51.89,2.48,Will Hurd,R,0.7922,3,False,True,,,,,0.2251,0.7749,0.0,0.0404,0.9596,0.0
+2018,TX-24,House,0.0196,0.9804,0.0,2018-11-06,deluxe,Jan McDowell,Kenny Marchant,,,42.23,57.77,,Kenny Marchant,R,0.9804,2,False,True,,,,,0.0329,0.9671,0.0,0.0396,0.9604,0.0
+2018,TX-25,House,0.0375,0.9625,0.0,2018-11-06,deluxe,Julie Oliver,Roger Williams,Desarae Lindsey,LIB,41.71,55.37,2.91,Roger Williams,R,0.9625,3,False,True,,,,,0.1194,0.8806,0.0,0.0179,0.9821,0.0
+2018,TX-26,House,0.0004,0.9996,0.0,2018-11-06,deluxe,Linsey Fagan,Michael Burgess,Mark Boler,LIB,33.53,63.44,3.03,Michael Burgess,R,0.9996,3,False,True,,,,,0.0005,0.9995,0.0,0.0015,0.9985,0.0
+2018,TX-27,House,0.0008,0.9992,0.0,2018-11-06,deluxe,Eric Holguin,Michael Cloud,Others,,34.96,61.71,3.33,Michael Cloud,R,0.9992,3,False,True,,,,,0.0011,0.9989,0.0,0.0037,0.9963,0.0
+2018,TX-28,House,0.9999,0.0,0.0001,2018-11-06,deluxe,Henry Cuellar,,Arthur Thomas IV,LIB,81.21,,18.79,Henry Cuellar,D,0.9999,2,True,,,,,,0.9999,0.0,0.0001,0.9999,0.0,0.0001
+2018,TX-29,House,1.0,0.0,0.0,2018-11-06,deluxe,Sylvia R. Garcia,Phillip Aronoff,Cullen Burns,LIB,71.37,25.09,3.54,Sylvia R. Garcia,D,1.0,3,False,False,,,,,1.0,0.0,0.0,0.9993,0.0007,0.0
+2018,TX-30,House,1.0,0.0,0.0,2018-11-06,deluxe,Eddie Bernice Johnson,,Shawn Jones,LIB,88.5,,11.5,Eddie Bernice Johnson,D,1.0,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,TX-31,House,0.051,0.949,0.0,2018-11-06,deluxe,Mary Jennings Hegar,John Carter,Jason Hope,LIB,43.33,54.0,2.67,John Carter,R,0.949,3,False,True,,,,,0.0673,0.9327,0.0,0.0279,0.9721,0.0
+2018,TX-32,House,0.4625,0.5374,0.0,2018-11-06,deluxe,Colin Allred,Pete Sessions,Melina Baker,LIB,48.36,48.99,2.65,Pete Sessions,R,0.5374,3,False,True,,,,,0.3717,0.6282,0.0,0.6422,0.3577,0.0
+2018,TX-33,House,1.0,0.0,0.0,2018-11-06,deluxe,Marc Veasey,Willie Billups,Jason Reeves,LIB,74.19,22.72,3.09,Marc Veasey,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,TX-34,House,0.9998,0.0002,0.0,2018-11-06,deluxe,Filemon Vela,Rey Gonzalez,,,68.27,31.73,,Filemon Vela,D,0.9998,2,True,False,,,,,0.9997,0.0003,0.0,0.9975,0.0025,0.0
+2018,TX-35,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Lloyd Doggett,David Smalling,Clark Patterson,LIB,69.26,27.8,2.94,Lloyd Doggett,D,0.9999,3,True,False,,,,,0.9999,0.0001,0.0,0.9997,0.0003,0.0
+2018,TX-36,House,0.0,1.0,0.0,2018-11-06,deluxe,Dayna Steele,Brian Babin,,,29.51,70.49,,Brian Babin,R,1.0,2,False,True,,,,,0.0,1.0,0.0,0.0,1.0,0.0
+2018,UT-01,House,0.0001,0.9999,0.0,2018-11-06,deluxe,Lee Castillo,Rob Bishop,Others,,28.25,61.0,10.76,Rob Bishop,R,0.9999,3,False,True,,,,,0.0001,0.9999,0.0,0.004,0.996,0.0
+2018,UT-02,House,0.0088,0.9911,0.0001,2018-11-06,deluxe,Shireen Ghorbani,Chris Stewart,Jeffrey Whipple,LIB,36.57,55.25,8.18,Chris Stewart,R,0.9911,3,False,True,,,,,0.0157,0.9842,0.0001,0.0278,0.9721,0.0001
+2018,UT-03,House,0.0001,0.9999,0.0,2018-11-06,deluxe,James Singer,John R. Curtis,Others,,26.1,64.24,9.66,John R. Curtis,R,0.9999,3,False,True,,,,,0.0001,0.9999,0.0,0.0042,0.9958,0.0
+2018,UT-04,House,0.642,0.358,0.0,2018-11-06,deluxe,Ben McAdams,Mia Love,,,51.08,48.92,,Ben McAdams,D,0.642,2,False,True,,,,,0.6228,0.3772,0.0,0.6274,0.3726,0.0
+2018,VA-01,House,0.0139,0.9861,0.0,2018-11-06,deluxe,Vangie Williams,Robert J. Wittman,,,41.5,58.5,,Robert J. Wittman,R,0.9861,2,False,True,,,,,0.0302,0.9698,0.0,0.0769,0.9231,0.0
+2018,VA-02,House,0.406,0.594,0.0,2018-11-06,deluxe,Elaine Luria,Scott Taylor,,,49.35,50.65,,Scott Taylor,R,0.594,2,False,True,,,,,0.3271,0.6729,0.0,0.2941,0.7059,0.0
+2018,VA-03,House,1.0,0.0,0.0,2018-11-06,deluxe,Robert C. Scott,,,,100.0,,,Robert C. Scott,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,VA-04,House,0.9997,0.0003,0.0,2018-11-06,deluxe,A. Donald McEachin,Ryan McAdams,Pete Wells,L,62.7,34.3,3.0,A. Donald McEachin,D,0.9997,3,True,False,,,,,0.9994,0.0006,0.0,0.9996,0.0004,0.0
+2018,VA-05,House,0.2996,0.7004,0.0,2018-11-06,deluxe,Leslie Cockburn,Denver Riggleman,,,48.47,51.53,,Denver Riggleman,R,0.7004,2,False,False,,,,,0.4616,0.5384,0.0,0.5145,0.4855,0.0
+2018,VA-06,House,0.0035,0.9965,0.0,2018-11-06,deluxe,Jennifer Lewis,Ben Cline,,,39.32,60.68,,Ben Cline,R,0.9965,2,False,False,,,,,0.0048,0.9952,0.0,0.0468,0.9532,0.0
+2018,VA-07,House,0.52,0.48,0.0,2018-11-06,deluxe,Abigail Spanberger,Dave Brat,Joe Walton,LIB,48.8,48.49,2.71,Abigail Spanberger,D,0.52,3,False,True,,,,,0.4365,0.5635,0.0,0.4433,0.5567,0.0
+2018,VA-08,House,1.0,0.0,0.0,2018-11-06,deluxe,Don Beyer,Thomas Oh,,,76.01,23.99,,Don Beyer,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,VA-09,House,0.0059,0.9941,0.0,2018-11-06,deluxe,Anthony Flaccavento,Morgan Griffith,,,39.48,60.52,,Morgan Griffith,R,0.9941,2,False,True,,,,,0.0091,0.9909,0.0,0.0326,0.9674,0.0
+2018,VA-10,House,0.8886,0.1114,0.0,2018-11-06,deluxe,Jennifer Wexton,Barbara Comstock,,,53.63,46.37,,Jennifer Wexton,D,0.8886,2,False,True,,,,,0.8961,0.1039,0.0,0.8618,0.1382,0.0
+2018,VA-11,House,1.0,0.0,0.0,2018-11-06,deluxe,Gerald E. Connolly,Jeff Dove,Stevan Porter,LIB,67.24,29.64,3.12,Gerald E. Connolly,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,VT-AL,House,1.0,0.0,0.0,2018-11-06,deluxe,Peter Welch,Anya Tynio,Others,,70.99,24.4,4.61,Peter Welch,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,WA-01,House,0.9996,0.0004,0.0,2018-11-06,deluxe,Suzan DelBene,Jeffrey Beeler,,,64.21,35.79,,Suzan DelBene,D,0.9996,2,True,False,,,,,0.9993,0.0007,0.0,0.9989,0.0011,0.0
+2018,WA-02,House,0.9998,0.0,0.0002,2018-11-06,deluxe,Rick Larsen,,Brian Luke,L,77.76,,22.24,Rick Larsen,D,0.9998,2,True,,,,,,0.9998,0.0,0.0002,0.9998,0.0,0.0002
+2018,WA-03,House,0.1861,0.8139,0.0,2018-11-06,deluxe,Carolyn Long,Jaime Herrera Beutler,,,47.35,52.65,,Jaime Herrera Beutler,R,0.8139,2,False,True,,,,,0.2591,0.7409,0.0,0.2443,0.7557,0.0
+2018,WA-04,House,0.0027,0.9973,0.0,2018-11-06,deluxe,Christine Brown,Dan Newhouse,,,38.46,61.54,,Dan Newhouse,R,0.9973,2,False,True,,,,,0.004,0.996,0.0,0.0069,0.9931,0.0
+2018,WA-05,House,0.1816,0.8184,0.0,2018-11-06,deluxe,Lisa Brown,Cathy McMorris Rodgers,,,47.13,52.87,,Cathy McMorris Rodgers,R,0.8184,2,False,True,,,,,0.2386,0.7614,0.0,0.1719,0.8281,0.0
+2018,WA-06,House,0.9999,0.0001,0.0,2018-11-06,deluxe,Derek Kilmer,Douglas Dightman,,,66.99,33.01,,Derek Kilmer,D,0.9999,2,True,False,,,,,0.9998,0.0002,0.0,0.9982,0.0018,0.0
+2018,WA-07,House,1.0,0.0,0.0,2018-11-06,deluxe,Pramila Jayapal,Craig Keller,,,84.56,15.44,,Pramila Jayapal,D,1.0,2,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,WA-08,House,0.7155,0.2845,0.0,2018-11-06,deluxe,Kim Schrier,Dino Rossi,,,51.74,48.26,,Kim Schrier,D,0.7155,2,False,False,,,,,0.6698,0.3302,0.0,0.5232,0.4768,0.0
+2018,WA-09,House,1.0,0.0,0.0,2018-11-06,deluxe,Adam Smith,,,,61.72,,,Adam Smith,D,0.9857,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,WA-10,House,0.9997,0.0003,0.0,2018-11-06,deluxe,Denny Heck,Joseph Brumbles,,,65.47,34.53,,Denny Heck,D,0.9997,2,True,False,,,,,0.9996,0.0004,0.0,0.9973,0.0027,0.0
+2018,WI-01,House,0.1889,0.8111,0.0,2018-11-06,deluxe,Randy Bryce,Bryan Steil,Ken Yorgan,I,45.79,51.02,3.19,Bryan Steil,R,0.8111,3,False,False,,,,,0.2213,0.7787,0.0,0.4288,0.5711,0.0
+2018,WI-02,House,1.0,0.0,0.0,2018-11-06,deluxe,Mark Pocan,,,,100.0,,,Mark Pocan,D,1.0,1,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,WI-03,House,0.9979,0.0021,0.0,2018-11-06,deluxe,Ron Kind,Steve Toft,,,62.14,37.86,,Ron Kind,D,0.9979,2,True,False,,,,,0.9973,0.0027,0.0,0.9836,0.0164,0.0
+2018,WI-04,House,1.0,0.0,0.0,2018-11-06,deluxe,Gwen Moore,Tim Rogers,Robert R. Raymond,I,75.93,20.75,3.31,Gwen Moore,D,1.0,3,True,False,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,WI-05,House,0.0066,0.9934,0.0,2018-11-06,deluxe,Tom Palzewicz,F. James Sensenbrenner,,,40.07,59.93,,F. James Sensenbrenner,R,0.9934,2,False,True,,,,,0.0106,0.9894,0.0,0.0212,0.9788,0.0
+2018,WI-06,House,0.0263,0.9737,0.0,2018-11-06,deluxe,Dan Kohl,Glenn Grothman,,,43.59,56.41,,Glenn Grothman,R,0.9737,2,False,True,,,,,0.0456,0.9544,0.0,0.0224,0.9776,0.0
+2018,WI-07,House,0.0038,0.9962,0.0,2018-11-06,deluxe,Margaret Engebretson,Sean P. Duffy,Ken Driessen,DPD,37.75,59.24,3.01,Sean P. Duffy,R,0.9962,3,False,True,,,,,0.0055,0.9945,0.0,0.0618,0.9382,0.0
+2018,WI-08,House,0.0033,0.9967,0.0,2018-11-06,deluxe,Beau Liegeois,Mike Gallagher,,,38.87,61.13,,Mike Gallagher,R,0.9967,2,False,True,,,,,0.0047,0.9953,0.0,0.0853,0.9147,0.0
+2018,WV-01,House,0.0003,0.9997,0.0,2018-11-06,deluxe,Kendra Fershee,David McKinley,,,37.31,62.69,,David McKinley,R,0.9997,2,False,True,,,,,0.0004,0.9996,0.0,0.0069,0.9931,0.0
+2018,WV-02,House,0.0272,0.9728,0.0,2018-11-06,deluxe,Talley Sergent,Alex Mooney,Daniel Lutz Jr.,Mountain,41.56,55.23,3.21,Alex Mooney,R,0.9728,3,False,True,,,,,0.0656,0.9344,0.0,0.1152,0.8848,0.0
+2018,WV-03,House,0.0966,0.9034,0.0,2018-11-06,deluxe,Richard Ojeda,Carol Miller,,,45.14,54.86,,Carol Miller,R,0.9034,2,False,False,,,,,0.0737,0.9263,0.0,0.2797,0.7203,0.0
+2018,WY-AL,House,0.0002,0.9998,0.0,2018-11-06,deluxe,Greg Hunter,Liz Cheney,Others,,31.38,63.11,5.51,Liz Cheney,R,0.9998,3,False,True,,,,,0.0003,0.9997,0.0,0.0013,0.9987,0.0
+2018,AZ-SEN,Senate,0.6716,0.3284,0.0,2018-11-06,deluxe,Kyrsten Sinema,Martha McSally,Angela Green,G,50.26,47.78,1.96,Kyrsten Sinema,D,0.6716,3,False,False,,,,,0.6144,0.3856,0.0,0.63,0.37,0.0
+2018,CA-SEN,Senate,1.0,0.0,0.0,2018-11-06,deluxe,Dianne Feinstein,,,,57.59,,,Dianne Feinstein,D,0.955,2,True,,,,,,1.0,0.0,0.0,1.0,0.0,0.0
+2018,CT-SEN,Senate,0.9983,0.0017,0.0,2018-11-06,deluxe,Christopher Murphy,Matthew Corey,Others,,60.15,38.05,1.8,Christopher Murphy,D,0.9983,3,True,False,,,,,0.9968,0.0032,0.0,0.9977,0.0023,0.0
+2018,DE-SEN,Senate,0.9994,0.0006,0.0,2018-11-06,deluxe,Thomas R. Carper,Rob Arlett,Others,,62.3,35.05,2.65,Thomas R. Carper,D,0.9994,3,True,False,,,,,0.9989,0.0011,0.0,0.9936,0.0064,0.0
+2018,FL-SEN,Senate,0.7316,0.2684,0.0,2018-11-06,deluxe,Bill Nelson,Rick Scott,,,51.73,48.27,,Bill Nelson,D,0.7316,2,True,False,,,,,0.7038,0.2962,0.0,0.7217,0.2783,0.0
+2018,HI-SEN,Senate,1.0,0.0,0.0,2018-11-06,deluxe,Mazie K. Hirono,Ron Curtis,,,76.79,23.21,,Mazie K. Hirono,D,1.0,2,True,False,,,,,1.0,0.0,0.0,0.9998,0.0002,0.0
+2018,IN-SEN,Senate,0.6172,0.3828,0.0,2018-11-06,deluxe,Joe Donnelly,Mike Braun,Lucy M. Brenton,L,49.67,47.82,2.52,Joe Donnelly,D,0.6172,3,True,False,,,,,0.7185,0.2815,0.0,0.7099,0.2901,0.0
+2018,MA-SEN,Senate,0.9989,0.0011,0.0,2018-11-06,deluxe,Elizabeth Warren,Geoff Diehl,V. A. Shiva Ayyadurai,I,61.87,35.42,2.71,Elizabeth Warren,D,0.9989,3,True,False,,,,,0.9983,0.0017,0.0,0.9974,0.0026,0.0
+2018,MD-SEN,Senate,1.0,0.0,0.0,2018-11-06,deluxe,Benjamin L. Cardin,Tony Campbell,Others,,65.34,29.66,5.0,Benjamin L. Cardin,D,1.0,3,True,False,,,,,0.9999,0.0001,0.0,0.9991,0.0009,0.0
+2018,ME-SEN,Senate,0.0001,0.0056,0.9943,2018-11-06,deluxe,Zak Ringelstein,Eric L. Brakey,Angus S. King Jr.,I,7.19,35.92,56.89,Angus S. King Jr.,I,0.9943,3,False,False,,,,,0.0001,0.0095,0.9905,0.0001,0.0187,0.9812
+2018,MI-SEN,Senate,0.9844,0.0156,0.0,2018-11-06,deluxe,Debbie Stabenow,John James,Others,,56.09,41.76,2.14,Debbie Stabenow,D,0.9844,3,True,False,,,,,0.9581,0.0419,0.0,0.9697,0.0303,0.0
+2018,MN-SEN,Senate,0.9986,0.0014,0.0,2018-11-06,deluxe,Amy Klobuchar,Jim Newberger,Others,,59.73,37.48,2.78,Amy Klobuchar,D,0.9986,3,True,False,,,,,0.9977,0.0023,0.0,0.9975,0.0025,0.0
+2018,MN-SEN-S,Senate,0.9388,0.0612,0.0,2018-11-06,deluxe,Tina Smith,Karin Housley,Others,,53.51,43.51,2.99,Tina Smith,D,0.9388,3,False,False,,,,,0.9242,0.0758,0.0,0.9107,0.0893,0.0
+2018,MO-SEN,Senate,0.4723,0.5277,0.0,2018-11-06,deluxe,Claire McCaskill,Josh Hawley,Others,,48.51,48.87,2.61,Josh Hawley,R,0.5277,3,True,False,,,,,0.5689,0.4311,0.0,0.5349,0.4651,0.0
+2018,MS-SEN,Senate,0.0073,0.9927,0.0,2018-11-06,deluxe,David Baria,Roger F. Wicker,Others,,40.0,57.88,2.11,Roger F. Wicker,R,0.9927,3,False,True,,,,,0.0138,0.9862,0.0,0.0349,0.9651,0.0
+2018,MS-SEN-S,Senate,0.2493,0.7505999999999999,0.0,2018-11-06,deluxe,Mike Espy,Cindy Hyde-Smith,,,41.49,32.02,,Cindy Hyde-Smith,R,0.7068,4,False,False,,,,,0.2523,0.7476999999999999,0.0,0.3165,0.6835,0.0
+2018,MT-SEN,Senate,0.7594,0.2406,0.0,2018-11-06,deluxe,Jon Tester,Matt Rosendale,Rick Breckenridge,L,51.04,46.48,2.48,Jon Tester,D,0.7594,3,True,False,,,,,0.7602,0.2398,0.0,0.7136,0.2863,0.0
+2018,ND-SEN,Senate,0.2334,0.7666,0.0,2018-11-06,deluxe,Heidi Heitkamp,Kevin Cramer,,,47.4,52.6,,Kevin Cramer,R,0.7666,2,True,False,,,,,0.2676,0.7324,0.0,0.1081,0.8919,0.0
+2018,NE-SEN,Senate,0.0105,0.9895,0.0,2018-11-06,deluxe,Jane Raybould,Deb Fischer,Jim Schultz,L,39.85,57.2,2.95,Deb Fischer,R,0.9895,3,False,True,,,,,0.0214,0.9786,0.0,0.0582,0.9418,0.0
+2018,NJ-SEN,Senate,0.938,0.062,0.0,2018-11-06,deluxe,Robert Menendez,Bob Hugin,Others,,53.73,43.21,3.06,Robert Menendez,D,0.938,3,True,False,,,,,0.9461,0.0539,0.0,0.9419,0.0581,0.0
+2018,NM-SEN,Senate,0.9952,0.0044,0.0004,2018-11-06,deluxe,Martin Heinrich,Mick Rich,Gary Johnson,L,52.56,32.87,14.58,Martin Heinrich,D,0.9952,3,True,False,,,,,0.9907,0.0088,0.0005,0.9952,0.0043,0.0005
+2018,NV-SEN,Senate,0.6392,0.3608,0.0,2018-11-06,deluxe,Jacky Rosen,Dean Heller,Others,,49.8,47.74,2.46,Jacky Rosen,D,0.6392,3,False,True,,,,,0.5702,0.4298,0.0,0.5677,0.4323,0.0
+2018,NY-SEN,Senate,0.9998,0.0002,0.0,2018-11-06,deluxe,Kirsten E. Gillibrand,Chele Farley,,,64.24,35.76,,Kirsten E. Gillibrand,D,0.9998,2,True,False,,,,,0.9995,0.0005,0.0,0.9993,0.0007,0.0
+2018,OH-SEN,Senate,0.982,0.018,0.0,2018-11-06,deluxe,Sherrod Brown,Jim Renacci,,,56.58,43.42,,Sherrod Brown,D,0.982,2,True,False,,,,,0.9667,0.0333,0.0,0.9757,0.0243,0.0
+2018,PA-SEN,Senate,0.9871,0.0129,0.0,2018-11-06,deluxe,Robert P. Casey Jr.,Lou Barletta,Others,,56.37,41.92,1.71,Robert P. Casey Jr.,D,0.9871,3,True,False,,,,,0.9686,0.0314,0.0,0.9711,0.0289,0.0
+2018,RI-SEN,Senate,0.9995,0.0005,0.0,2018-11-06,deluxe,Sheldon Whitehouse,Bob Flanders,,,64.39,35.61,,Sheldon Whitehouse,D,0.9995,2,True,False,,,,,0.999,0.001,0.0,0.9945,0.0055,0.0
+2018,TN-SEN,Senate,0.2051,0.7949,0.0,2018-11-06,deluxe,Phil Bredesen,Marsha Blackburn,Others,,45.97,50.92,3.11,Marsha Blackburn,R,0.7949,3,False,False,,,,,0.1965,0.8035,0.0,0.2045,0.7955,0.0
+2018,TX-SEN,Senate,0.1882,0.8118,0.0,2018-11-06,deluxe,Beto O'Rourke,Ted Cruz,Neal M. Dikeman,L,46.61,51.85,1.54,Ted Cruz,R,0.8118,3,False,True,,,,,0.2121,0.7879,0.0,0.1876,0.8124,0.0
+2018,UT-SEN,Senate,0.0006,0.9994,0.0,2018-11-06,deluxe,Jenny Wilson,Mitt Romney,Others,,29.6,58.95,11.45,Mitt Romney,R,0.9994,3,False,False,,,,,0.0009,0.9991,0.0,0.0086,0.9914,0.0
+2018,VA-SEN,Senate,0.9938,0.0062,0.0,2018-11-06,deluxe,Tim Kaine,Corey Stewart,Matt Waters,L,58.09,39.91,2.0,Tim Kaine,D,0.9938,3,True,False,,,,,0.9872,0.0127,0.0,0.9739,0.0261,0.0
+2018,VT-SEN,Senate,0.0,0.0,1.0,2018-11-06,deluxe,,Lawrence Zupan,Bernard Sanders,I,,26.49,67.9,Bernard Sanders,I,1.0,3,,False,,,,,0.0,0.0,1.0,0.0,0.0001,0.9999
+2018,WA-SEN,Senate,0.9973,0.0027,0.0,2018-11-06,deluxe,Maria Cantwell,Susan Hutchison,,,61.53,38.47,,Maria Cantwell,D,0.9973,2,True,False,,,,,0.9961,0.0039,0.0,0.9743,0.0257,0.0
+2018,WI-SEN,Senate,0.9859,0.0141,0.0,2018-11-06,deluxe,Tammy Baldwin,Leah Vukmir,,,57.0,43.0,,Tammy Baldwin,D,0.9859,2,True,False,,,,,0.9772,0.0228,0.0,0.9785,0.0215,0.0
+2018,WV-SEN,Senate,0.8731,0.1269,0.0,2018-11-06,deluxe,Joe Manchin III,Patrick Morrisey,Rusty Hollen,L,52.32,45.2,2.48,Joe Manchin III,D,0.8731,3,True,False,,,,,0.8787,0.1213,0.0,0.8576,0.1424,0.0
+2018,WY-SEN,Senate,0.0002,0.9998,0.0,2018-11-06,deluxe,Gary Trauner,John Barrasso,Joseph Porambo,L,31.21,65.11,3.68,John Barrasso,R,0.9998,3,False,True,,,,,0.0003,0.9997,0.0,0.0015,0.9984,0.0
+2022,AK-AL,House,0.504,0.49565000000000003,0.00034999999999996145,2022-11-08,deluxe,Mary S. Peltola,Sarah Palin,Chris Bye,I,47.82421,24.81294,5.347838,Mary S. Peltola,D,0.504,4,,,AK-1,0.9962654,0.504075,0.495925,0.390575,0.609075,0.00034999999999996145,0.477675,0.521975,0.00034999999999996145
+2022,AL-01,House,0.0,0.99985,0.00014999999999998348,2022-11-08,deluxe,,Jerry Carl,Alexander M. Remrey,I,,84.54806,15.45194,Jerry Carl,R,0.99985,2,,,AL-1,-84.54806,7.5e-05,0.999925,0.0,0.99985,0.00014999999999998348,0.0,0.99985,0.00014999999999998348
+2022,AL-02,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Phyllis Harvey-Hall,Barry Moore,Jonathan Realz,I,28.62224,68.51817,2.859592,Barry Moore,R,0.999975,3,,,AL-2,-39.89592,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.000475,0.999525,0.0
+2022,AL-03,House,0.0,1.0,0.0,2022-11-08,deluxe,Lin Veasey,Mike Rogers,all others,O,25.71911,71.01274,3.268147,Mike Rogers,R,1.0,3,,,AL-3,-45.29363,0.0,1.0,0.0,1.0,0.0,0.0001,0.9999,0.0
+2022,AL-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Rick Neighbors,Robert Aderholt,Johnny C. Cochran,I,15.23854,81.61063,3.150837,Robert Aderholt,R,1.0,3,,,AL-4,-66.37209,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,AL-05,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Kathy Warner-Stanton,Dale Strong,P.J. Greer,I,30.4641,66.20445,3.33144,Dale Strong,R,0.99995,3,,,AL-5,-35.74035,5e-05,0.99995,5e-05,0.99995,0.0,0.003925,0.996075,0.0
+2022,AL-06,House,0.0,0.999975,2.5000000000052758e-05,2022-11-08,deluxe,,Gary Palmer,Andria Chieffo,I,,85.31889,14.6811,Gary Palmer,R,0.999975,2,,,AL-6,-85.31889,2.5e-05,0.999975,0.0,0.999975,2.5000000000052758e-05,0.0,0.999975,2.5000000000052758e-05
+2022,AL-07,House,0.999875,7.5e-05,5.000000000004175e-05,2022-11-08,deluxe,Terrycina Sewell,Beatrice Nichols,Gavin Goodman,I,63.55323,33.62938,2.817396,Terrycina Sewell,D,0.999875,3,,,AL-7,29.92385,0.999875,0.000125,0.999875,7.5e-05,5.000000000004175e-05,0.99935,0.000625,2.5000000000039422e-05
+2022,AR-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Monte Hodges,Rick Crawford,,,25.69273,74.30727,,Rick Crawford,R,1.0,2,,,AR-1,-48.61454,0.0,1.0,0.0,1.0,0.0,0.000275,0.999725,0.0
+2022,AR-02,House,0.000425,0.999575,0.0,2022-11-08,deluxe,Quintessa Hathaway,French Hill,Michael White,I,35.28118,61.30946,3.409362,French Hill,R,0.999575,3,,,AR-2,-26.02828,0.000425,0.999575,0.0008,0.9992,0.0,0.012075,0.987925,0.0
+2022,AR-03,House,0.0,0.999975,2.5000000000052758e-05,2022-11-08,deluxe,Lauren Mallett-Hays,Steve Womack,Michael J. Kalagias,I,30.6314,65.83672,3.531875,Steve Womack,R,0.999975,3,,,AR-3,-35.20532,2.5e-05,0.999975,2.5e-05,0.99995,2.4999999999941735e-05,0.0011,0.998875,2.5000000000052758e-05
+2022,AR-04,House,0.0,1.0,0.0,2022-11-08,deluxe,John White,Bruce Westerman,Gregory Maxwell,I,25.56129,70.79637,3.642339,Bruce Westerman,R,1.0,3,,,AR-4,-45.23508,0.0,1.0,0.0,1.0,0.0,0.00045,0.99955,0.0
+2022,AZ-01,House,0.0543,0.9457,0.0,2022-11-08,deluxe,Jevin Hodge,David Schweikert,,,44.93279,55.06721,,David Schweikert,R,0.9457,2,,,AZ-1,-10.13443,0.0543,0.9457,0.075,0.925,0.0,0.1635,0.8365,0.0
+2022,AZ-02,House,0.34165,0.65835,0.0,2022-11-08,deluxe,Tom O'Halleran,Eli Crane,,,48.67157,51.32843,,Eli Crane,R,0.65835,2,,,AZ-2,-2.65686,0.34165,0.65835,0.275175,0.724825,0.0,0.46595,0.53405,0.0
+2022,AZ-03,House,1.0,0.0,0.0,2022-11-08,deluxe,Ruben Gallego,Jeff Zink,,,72.58162,27.41838,,Ruben Gallego,D,1.0,2,,,AZ-3,45.16323,1.0,0.0,1.0,0.0,0.0,0.999775,0.000225,3.073713158996405e-17
+2022,AZ-04,House,0.93505,0.06495,0.0,2022-11-08,deluxe,Greg Stanton,Kelly Cooper,,,54.79268,45.20732,,Greg Stanton,D,0.93505,2,,,AZ-4,9.585365,0.93505,0.06495,0.89415,0.10585,0.0,0.736825,0.263175,5.551115123125783e-17
+2022,AZ-05,House,0.000375,0.999625,0.0,2022-11-08,deluxe,Javier Ramos,Andy Biggs,Clint Smith,I,34.30365,62.47324,3.223103,Andy Biggs,R,0.999625,3,,,AZ-5,-28.16959,0.000375,0.999625,0.00065,0.99935,0.0,0.001525,0.998475,0.0
+2022,AZ-06,House,0.065225,0.934775,0.0,2022-11-08,deluxe,Kirsten Engel,Juan Ciscomani,,,45.30479,54.69521,,Juan Ciscomani,R,0.934775,2,,,AZ-6,-9.390411,0.065225,0.934775,0.126375,0.873625,0.0,0.294075,0.705925,0.0
+2022,AZ-07,House,0.995325,0.004675,0.0,2022-11-08,deluxe,Raúl Grijalva,Luis Pozzolo,,,60.51817,39.48183,,Raúl Grijalva,D,0.995325,2,,,AZ-7,21.03634,0.995325,0.004675,0.9937,0.0063,0.0,0.9961,0.0039,1.474514954580286e-17
+2022,AZ-08,House,0.0,1.0,0.0,2022-11-08,deluxe,,Debbie Lesko,,,,100.0,,Debbie Lesko,R,1.0,1,,,AZ-8,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,AZ-09,House,0.0,1.0,0.0,2022-11-08,deluxe,,Paul Gosar,,,,100.0,,Paul Gosar,R,1.0,1,,,AZ-9,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,CA-01,House,0.0005,0.9995,0.0,2022-11-08,deluxe,Max Steiner,Doug LaMalfa,,,36.54154,63.45846,,Doug LaMalfa,R,0.9995,2,,,CA-1,-26.91692,0.0005,0.9995,0.00085,0.99915,0.0,0.002525,0.997475,0.0
+2022,CA-02,House,1.0,0.0,0.0,2022-11-08,deluxe,Jared Huffman,Douglas Brower,,,74.21483,25.78517,,Jared Huffman,D,1.0,2,,,CA-2,48.42966,1.0,0.0,1.0,0.0,0.0,0.999925,7.5e-05,4.7257662193211925e-17
+2022,CA-03,House,0.0354,0.9646,0.0,2022-11-08,deluxe,Kermit Jones,Kevin Kiley,,,43.5481,56.4519,,Kevin Kiley,R,0.9646,2,,,CA-3,-12.90379,0.0354,0.9646,0.0688,0.9312,0.0,0.160375,0.839625,1.1102230246251565e-16
+2022,CA-04,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Mike Thompson,Matt Brock,,,69.88456,30.11544,,Mike Thompson,D,0.999975,2,,,CA-4,39.76912,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.999175,0.000825,0.0
+2022,CA-05,House,0.0007,0.9993,0.0,2022-11-08,deluxe,Michael J. “Mike” Barkley,Tom McClintock,,,37.52628,62.47372,,Tom McClintock,R,0.9993,2,,,CA-5,-24.94743,0.0007,0.9993,0.00115,0.99885,0.0,0.00635,0.99365,0.0
+2022,CA-06,House,0.9872,0.0128,3.2959746043559335e-17,2022-11-08,deluxe,Ami Bera,Tamika Hamilton,,,58.53949,41.46051,,Ami Bera,D,0.9872,2,,,CA-6,17.07897,0.9872,0.0128,0.976125,0.023875,0.0,0.961975,0.038025,0.0
+2022,CA-07,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Doris Matsui,Max Semenenko,,,68.72546,31.27454,,Doris Matsui,D,0.999975,2,,,CA-7,37.45092,0.999975,2.5e-05,0.99995,5e-05,0.0,0.9991,0.0009,1.1926223897340549e-17
+2022,CA-08,House,1.0,0.0,0.0,2022-11-08,deluxe,John Garamendi,Rudy Recile,,,73.93867,26.06133,,John Garamendi,D,1.0,2,,,CA-8,47.87735,1.0,0.0,1.0,0.0,0.0,0.99995,5e-05,0.0
+2022,CA-09,House,0.816725,0.183275,0.0,2022-11-08,deluxe,Josh Harder,Tom Patti,,,53.23907,46.76093,,Josh Harder,D,0.816725,2,,,CA-9,6.478134,0.816725,0.183275,0.7254431360784019,0.27455686392159806,0.0,0.675125,0.324875,0.0
+2022,CA-10,House,0.999625,0.0,0.0003750000000000142,2022-11-08,deluxe,Mark DeSaulnier,,Michael Ernest Kerr,I,75.69226,,24.30774,Mark DeSaulnier,D,0.999625,2,,,CA-10,75.69226,0.9998,0.0002,0.999625,0.0,0.0003750000000000142,0.999625,0.0,0.0003750000000000142
+2022,CA-11,House,1.0,0.0,0.0,2022-11-08,deluxe,Nancy Pelosi,John Dennis,,,86.41798,13.58201,,Nancy Pelosi,D,1.0,2,,,CA-11,72.83597,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-12,House,1.0,0.0,0.0,2022-11-08,deluxe,Barbara Lee,Stephen Slauson,,,89.8074,10.1926,,Barbara Lee,D,1.0,2,,,CA-12,79.61481,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-13,House,0.66565,0.33435,5.551115123125783e-17,2022-11-08,deluxe,Adam Gray,John Duarte,,,51.4393,48.5607,,Adam Gray,D,0.66565,2,,,CA-13,2.878609,0.66565,0.33435,0.641225,0.358775,0.0,0.64655,0.35345,5.551115123125783e-17
+2022,CA-14,House,1.0,0.0,0.0,2022-11-08,deluxe,Eric Swalwell,Alison Hayden,,,71.32346,28.67654,,Eric Swalwell,D,1.0,2,,,CA-14,42.64691,1.0,0.0,1.0,0.0,0.0,0.99975,0.00025,0.0
+2022,CA-15,House,1.0,0.0,0.0,2022-11-08,deluxe,Kevin Mullin,,,,58.32191,,,Kevin Mullin,D,0.927475,2,,,CA-15,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-16,House,1.0,0.0,0.0,2022-11-08,deluxe,Anna G. Eshoo,,,,67.59921,,,Anna G. Eshoo,D,0.99985,2,,,CA-16,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-17,House,1.0,0.0,0.0,2022-11-08,deluxe,Ro Khanna,Ritesh Tandon,,,73.79524,26.20476,,Ro Khanna,D,1.0,2,,,CA-17,47.59048,1.0,0.0,1.0,0.0,0.0,0.999525,0.000475,3.198396408832238e-18
+2022,CA-18,House,1.0,0.0,0.0,2022-11-08,deluxe,Zoe Lofgren,Peter Hernandez,,,69.66914,30.33085,,Zoe Lofgren,D,1.0,2,,,CA-18,39.33829,1.0,0.0,1.0,0.0,0.0,0.9994,0.0006,4.4994390158148434e-17
+2022,CA-19,House,1.0,0.0,0.0,2022-11-08,deluxe,Jimmy Panetta,Jeff Gorman,,,69.8912,30.1088,,Jimmy Panetta,D,1.0,2,,,CA-19,39.78239,1.0,0.0,1.0,0.0,0.0,0.99935,0.00065,3.946495907847236e-17
+2022,CA-20,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Marisa Wood,Kevin McCarthy,,,32.3156,67.6844,,Kevin McCarthy,R,0.999975,2,,,CA-20,-35.3688,2.5e-05,0.999975,7.5e-05,0.999925,0.0,0.000325,0.999675,0.0
+2022,CA-21,House,0.963225,0.036775,0.0,2022-11-08,deluxe,Jim Costa,Michael Maher,,,57.02825,42.97175,,Jim Costa,D,0.963225,2,,,CA-21,14.0565,0.963225,0.036775,0.89385,0.10615,0.0,0.77035,0.22965,2.7755575615628914e-17
+2022,CA-22,House,0.391425,0.608575,0.0,2022-11-08,deluxe,Rudy Salas,David G. Valadao,,,49.04333,50.95667,,David G. Valadao,R,0.608575,2,,,CA-22,-1.913338,0.391425,0.608575,0.608225,0.391775,0.0,0.608675,0.391325,5.551115123125783e-17
+2022,CA-23,House,0.002175,0.997825,0.0,2022-11-08,deluxe,Derek Marshall,Jay Obernolte,,,39.13543,60.86457,,Jay Obernolte,R,0.997825,2,,,CA-23,-21.72915,0.002175,0.997825,0.003825,0.996175,0.0,0.0084,0.9916,0.0
+2022,CA-24,House,0.999575,0.000425,8.72782748850831e-18,2022-11-08,deluxe,Salud Carbajal,Brad Allen,,,63.96508,36.03492,,Salud Carbajal,D,0.999575,2,,,CA-24,27.93016,0.999575,0.000425,0.999425,0.000575,0.0,0.994875,0.005125,4.597017211338539e-17
+2022,CA-25,House,0.947875,0.052125,0.0,2022-11-08,deluxe,Raul Ruiz,Brian E. Hawkins,,,56.07312,43.92688,,Raul Ruiz,D,0.947875,2,,,CA-25,12.14623,0.947875,0.052125,0.885425,0.114575,0.0,0.9577,0.0423,6.938893903907228e-18
+2022,CA-26,House,0.960225,0.039775,6.938893903907228e-18,2022-11-08,deluxe,Julia Brownley,Matt Jacobs,,,55.85574,44.14426,,Julia Brownley,D,0.960225,2,,,CA-26,11.71147,0.960225,0.039775,0.9483,0.0517,0.0,0.87125,0.12875,2.7755575615628914e-17
+2022,CA-27,House,0.3664,0.6336,0.0,2022-11-08,deluxe,Christy Smith,Mike Garcia,,,48.96677,51.03323,,Mike Garcia,R,0.6336,2,,,CA-27,-2.066467,0.3664,0.6336,0.62165,0.37835,0.0,0.472125,0.527875,0.0
+2022,CA-28,House,0.99995,5e-05,0.0,2022-11-08,deluxe,Judy Chu,Wes Hallman,,,68.45325,31.54675,,Judy Chu,D,0.99995,2,,,CA-28,36.90651,0.99995,5e-05,0.99995,5e-05,0.0,0.997725,0.002275,2.688821387764051e-17
+2022,CA-29,House,1.0,0.0,0.0,2022-11-08,deluxe,Tony Cardenas,,,,64.32703,,,Tony Cardenas,D,0.997525,2,,,CA-29,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-30,House,1.0,0.0,0.0,2022-11-08,deluxe,Adam B. Schiff,,,,75.00375,,,Adam B. Schiff,D,1.0,2,,,CA-30,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-31,House,0.99965,0.00035,0.0,2022-11-08,deluxe,Grace F. Napolitano,Daniel Bocic Martinez,,,64.88441,35.11559,,Grace F. Napolitano,D,0.99965,2,,,CA-31,29.76883,0.99965,0.00035,0.9996,0.0004,0.0,0.996425,0.003575,0.0
+2022,CA-32,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Brad Sherman,Lucie Lapointe Volotzky,,,70.79681,29.20319,,Brad Sherman,D,0.999975,2,,,CA-32,41.59361,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9996,0.0004,0.0
+2022,CA-33,House,0.997825,0.002175,3.8163916471489756e-17,2022-11-08,deluxe,Pete Aguilar,John Mark Porter,,,62.24459,37.75541,,Pete Aguilar,D,0.997825,2,,,CA-33,24.48917,0.997825,0.002175,0.9974,0.0026,4.683753385137379e-17,0.988175,0.011825,0.0
+2022,CA-34,House,1.0,0.0,0.0,2022-11-08,deluxe,Jimmy Gomez,,,,54.94318,,,Jimmy Gomez,D,0.791075,2,,,CA-34,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-35,House,0.99885,0.00115,0.0,2022-11-08,deluxe,Norma J. Torres,Mike Cargile,,,62.74481,37.25519,,Norma J. Torres,D,0.99885,2,,,CA-35,25.48962,0.99885,0.00115,0.998625,0.001375,1.5178830414797062e-17,0.996225,0.003775,0.0
+2022,CA-36,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Ted W. Lieu,Joe E. Collins III,,,70.17198,29.82802,,Ted W. Lieu,D,0.999975,2,,,CA-36,40.34396,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9997,0.0003,0.0
+2022,CA-37,House,1.0,0.0,0.0,2022-11-08,deluxe,Sydney Kamlager,,,,63.28511,,,Sydney Kamlager,D,0.99445,2,,,CA-37,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-38,House,0.998625,0.001375,1.5178830414797062e-17,2022-11-08,deluxe,Linda T. Sánchez,Eric J. Ching,,,61.96051,38.03949,,Linda T. Sánchez,D,0.998625,2,,,CA-38,23.92102,0.998625,0.001375,0.9983,0.0017,3.491130995403324e-17,0.997375,0.002625,0.0
+2022,CA-39,House,0.996525,0.003475,6.071532165918825e-18,2022-11-08,deluxe,Mark Takano,Aja Smith,,,61.71405,38.28595,,Mark Takano,D,0.996525,2,,,CA-39,23.4281,0.996525,0.003475,0.995825,0.004175,3.9898639947466563e-17,0.989325,0.010675,0.0
+2022,CA-40,House,0.019275,0.980725,0.0,2022-11-08,deluxe,Asif Mahmood,Young Kim,,,43.15392,56.84608,,Young Kim,R,0.980725,2,,,CA-40,-13.69216,0.019275,0.980725,0.0359,0.9641,0.0,0.081275,0.918725,0.0
+2022,CA-41,House,0.053325,0.946675,0.0,2022-11-08,deluxe,Will Rollins,Ken Calvert,,,44.96942,55.03058,,Ken Calvert,R,0.946675,2,,,CA-41,-10.06116,0.053325,0.946675,0.12125,0.87875,0.0,0.074025,0.925975,0.0
+2022,CA-42,House,1.0,0.0,0.0,2022-11-08,deluxe,Robert Garcia,John Briscoe,,,72.87642,27.12358,,Robert Garcia,D,1.0,2,,,CA-42,45.75284,1.0,0.0,0.999975,2.5e-05,5.275660008678684e-17,0.99885,0.00115,0.0
+2022,CA-43,House,1.0,0.0,0.0,2022-11-08,deluxe,Maxine Waters,Omar Navarro,,,79.83047,20.16952,,Maxine Waters,D,1.0,2,,,CA-43,59.66095,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,CA-44,House,1.0,0.0,0.0,2022-11-08,deluxe,Nanette Diaz Barragan,Paul Jones,,,76.97523,23.02477,,Nanette Diaz Barragan,D,1.0,2,,,CA-44,53.95045,1.0,0.0,1.0,0.0,0.0,0.9999,0.0001,0.0
+2022,CA-45,House,0.193375,0.806625,0.0,2022-11-08,deluxe,Jay F. Chen,Michelle Steel,,,46.78594,53.21406,,Michelle Steel,R,0.806625,2,,,CA-45,-6.428116,0.193375,0.806625,0.34445,0.65555,1.1102230246251565e-16,0.21565,0.78435,0.0
+2022,CA-46,House,0.99975,0.00025,0.0,2022-11-08,deluxe,Lou Correa,Christopher J. Gonzales,,,65.26344,34.73655,,Lou Correa,D,0.99975,2,,,CA-46,30.52689,0.99975,0.00025,0.99975,0.00025,0.0,0.997,0.003,2.6020852139652106e-18
+2022,CA-47,House,0.7967,0.2033,2.7755575615628914e-17,2022-11-08,deluxe,Katie Porter,Scott Baugh,,,53.07008,46.92992,,Katie Porter,D,0.7967,2,,,CA-47,6.140167,0.7967,0.2033,0.744675,0.255325,0.0,0.856125,0.143875,0.0
+2022,CA-48,House,0.004025,0.995975,0.0,2022-11-08,deluxe,Stephen Houlahan,Darrell Issa,,,39.80566,60.19434,,Darrell Issa,R,0.995975,2,,,CA-48,-20.38868,0.004025,0.995975,0.00775,0.99225,0.0,0.00385,0.99615,0.0
+2022,CA-49,House,0.818025,0.181975,0.0,2022-11-08,deluxe,Mike Levin,Brian Maryott,,,52.51315,47.48685,,Mike Levin,D,0.818025,2,,,CA-49,5.026291,0.818025,0.181975,0.83205,0.16795,5.551115123125783e-17,0.8091,0.1909,0.0
+2022,CA-50,House,0.99945,0.00055,5.0415401020575956e-17,2022-11-08,deluxe,Scott Peters,Corey Gustafson,,,63.5953,36.4047,,Scott Peters,D,0.99945,2,,,CA-50,27.1906,0.99945,0.00055,0.999275,0.000725,0.0,0.99705,0.00295,8.239936510889834e-18
+2022,CA-51,House,0.999475,0.000525,0.0,2022-11-08,deluxe,Sara Jacobs,Stan Caplan,,,63.49358,36.50642,,Sara Jacobs,D,0.999475,2,,,CA-51,26.98715,0.999475,0.000525,0.9994,0.0006,4.4994390158148434e-17,0.992225,0.007775,0.0
+2022,CA-52,House,0.99995,5e-05,0.0,2022-11-08,deluxe,Juan Vargas,Tyler Geffeney,,,68.99443,31.00557,,Juan Vargas,D,0.99995,2,,,CA-52,37.98886,0.99995,5e-05,0.99995,5e-05,0.0,0.999175,0.000825,0.0
+2022,CO-01,House,1.0,0.0,0.0,2022-11-08,deluxe,Diana DeGette,Jennifer Qualteri,John Kittleson,I,73.32374,22.65297,4.023293,Diana DeGette,D,1.0,3,,,CO-1,50.67077,1.0,0.0,1.0,0.0,0.0,0.999975,2.5e-05,5.275660008678684e-17
+2022,CO-02,House,0.999725,0.000275,2.5207700510287978e-17,2022-11-08,deluxe,Joe Neguse,Marshall Dawson,all others,O,62.49932,32.86869,4.631984,Joe Neguse,D,0.999725,3,,,CO-2,29.63063,0.999725,0.000275,0.9996,0.0004,0.0,0.998775,0.001225,3.165870343657673e-17
+2022,CO-03,House,0.02555,0.97445,0.0,2022-11-08,deluxe,Adam Frisch,Lauren Boebert,,,43.10432,56.89568,,Lauren Boebert,R,0.97445,2,,,CO-3,-13.79135,0.02555,0.97445,0.07865,0.92135,0.0,0.169675,0.830325,0.0
+2022,CO-04,House,0.0005,0.9995,0.0,2022-11-08,deluxe,Ike McCorkle,Ken Buck,Ryan McGonigal,I,33.97866,62.3386,3.682743,Ken Buck,R,0.9995,3,,,CO-4,-28.35994,0.0005,0.9995,0.000575,0.999425,0.0,0.002175,0.997825,0.0
+2022,CO-05,House,0.002225,0.997775,0.0,2022-11-08,deluxe,David Torres,Doug Lamborn,all others,O,36.79382,59.17745,4.028735,Doug Lamborn,R,0.997775,3,,,CO-5,-22.38363,0.002225,0.997775,0.0034,0.9966,0.0,0.0049,0.9951,0.0
+2022,CO-06,House,0.986,0.013975,2.500000000001286e-05,2022-11-08,deluxe,Jason Crow,Steven Monahan,Eric Mulder,I,56.63802,39.77295,3.589027,Jason Crow,D,0.986,3,,,CO-6,16.86507,0.986,0.014,0.972675,0.0273,2.500000000004235e-05,0.976325,0.02365,2.5000000000000716e-05
+2022,CO-07,House,0.8808,0.1192,0.0,2022-11-08,deluxe,Brittany Pettersen,Erik Aadland,all others,O,51.38403,44.1432,4.472767,Brittany Pettersen,D,0.8808,3,,,CO-7,7.240833,0.8808,0.1192,0.7765,0.2235,2.7755575615628914e-17,0.675725,0.324275,0.0
+2022,CO-08,House,0.089575,0.910425,0.0,2022-11-08,deluxe,Yadira Caraveo,Barbara Kirkmeyer,Richard Ward,I,44.13125,52.17861,3.69014,Barbara Kirkmeyer,R,0.910425,3,,,CO-8,-8.047363,0.089575,0.910425,0.151,0.849,0.0,0.248925,0.75105,2.4999999999941735e-05
+2022,CT-01,House,0.99845,0.00155,5.139118297581291e-17,2022-11-08,deluxe,John B. Larson,Larry Lazor,Mary Lou Sanders,I,59.82605,37.30914,2.864803,John B. Larson,D,0.99845,3,,,CT-1,22.51691,0.99845,0.00155,0.997875,0.002125,4.336808689942018e-17,0.99185,0.00815,0.0
+2022,CT-02,House,0.966275,0.033725,6.938893903907228e-18,2022-11-08,deluxe,Joe Courtney,Mike France,all others,O,54.94025,41.89263,3.167119,Joe Courtney,D,0.966275,3,,,CT-2,13.04763,0.966275,0.033725,0.951175,0.048825,6.938893903907228e-18,0.976125,0.023875,0.0
+2022,CT-03,House,0.987275,0.012725,0.0,2022-11-08,deluxe,Rosa L. DeLauro,Lesley DeNardis,all others,O,56.97588,39.88921,3.134913,Rosa L. DeLauro,D,0.987275,3,,,CT-3,17.08668,0.987275,0.012725,0.97675,0.02325,0.0,0.958375,0.041625,2.0816681711721685e-17
+2022,CT-04,House,0.9967,0.0033,0.0,2022-11-08,deluxe,Jim Himes,Jayme Stevenson,,,59.58418,40.41582,,Jim Himes,D,0.9967,2,,,CT-4,19.16835,0.9967,0.0033,0.994575,0.005425,1.3010426069826053e-17,0.979675,0.020325,3.8163916471489756e-17
+2022,CT-05,House,0.607275,0.392725,0.0,2022-11-08,deluxe,Jahana Hayes,George Logan,,,50.75076,49.24924,,Jahana Hayes,D,0.607275,2,,,CT-5,1.501511,0.607275,0.392725,0.549875,0.450125,0.0,0.583075,0.416925,0.0
+2022,DE-AL,House,0.9898,0.0102,0.0,2022-11-08,deluxe,Lisa Blunt Rochester,Lee Murphy,all others,O,55.98496,40.85309,3.161944,Lisa Blunt Rochester,D,0.9898,3,,,DE-1,15.13187,0.9898,0.0102,0.965825,0.034175,0.0,0.965,0.035,2.7755575615628914e-17
+2022,FL-01,House,0.000975,0.999025,0.0,2022-11-08,deluxe,Rebekah Jones,Matt Gaetz,,,35.3097,64.6903,,Matt Gaetz,R,0.999025,2,,,FL-1,-29.3806,0.000975,0.999025,0.001975,0.998025,0.0,0.02895,0.97105,0.0
+2022,FL-02,House,0.0133,0.9867,0.0,2022-11-08,deluxe,Al Lawson,Neal Dunn,,,42.55313,57.44687,,Neal Dunn,R,0.9867,2,,,FL-2,-14.89375,0.0133,0.9867,0.0218,0.9782,0.0,0.122175,0.877825,0.0
+2022,FL-03,House,0.0012,0.9988,0.0,2022-11-08,deluxe,Danielle Hawk,Kat Cammack,Linda S. Brooks,I,36.95823,60.37474,2.667028,Kat Cammack,R,0.9988,3,,,FL-3,-23.41652,0.0012,0.9988,0.002025,0.997975,0.0,0.01035,0.98965,0.0
+2022,FL-04,House,0.003375,0.996625,0.0,2022-11-08,deluxe,LaShonda “L.J.” Holloway,Aaron Bean,,,40.71289,59.28711,,Aaron Bean,R,0.996625,2,,,FL-4,-18.57422,0.003375,0.996625,0.009025,0.990975,0.0,0.052825,0.947175,0.0
+2022,FL-05,House,0.0,1.0,0.0,2022-11-08,deluxe,,John Rutherford,,,,100.0,,John Rutherford,R,1.0,1,,,FL-5,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,FL-06,House,0.0,0.9999,9.999999999998899e-05,2022-11-08,deluxe,,Michael Waltz,Joseph “Joe” Hannoush,I,,83.80972,16.19028,Michael Waltz,R,0.9999,2,,,FL-6,-83.80972,5e-05,0.99995,0.0,0.9999,9.999999999998899e-05,0.0,0.9999,9.999999999998899e-05
+2022,FL-07,House,0.004025,0.995975,0.0,2022-11-08,deluxe,Karen Green,Cory Mills,,,39.93268,60.06732,,Cory Mills,R,0.995975,2,,,FL-7,-20.13464,0.004025,0.995975,0.007875,0.992125,0.0,0.0751,0.9249,0.0
+2022,FL-08,House,0.000175,0.999825,0.0,2022-11-08,deluxe,Joanne Terry,Bill Posey,,,34.07203,65.92797,,Bill Posey,R,0.999825,2,,,FL-8,-31.85594,0.000175,0.999825,0.000225,0.999775,0.0,0.004075,0.995925,0.0
+2022,FL-09,House,0.9592,0.0408,0.0,2022-11-08,deluxe,Darren Soto,Scotty Moore,,,56.58936,43.41064,,Darren Soto,D,0.9592,2,,,FL-9,13.17871,0.9592,0.0408,0.87425,0.12575,2.7755575615628914e-17,0.9796,0.0204,0.0
+2022,FL-10,House,0.998375,0.001625,0.0,2022-11-08,deluxe,Maxwell Alejandro Frost,Calvin B. Wimbish,all others,O,59.84719,36.52995,3.622861,Maxwell Alejandro Frost,D,0.998375,3,,,FL-10,23.31724,0.998375,0.001625,0.99785,0.00215,0.0,0.991425,0.008575,0.0
+2022,FL-11,House,0.000375,0.999625,0.0,2022-11-08,deluxe,Shante Munns,Daniel Webster,Kevin Porter,I,34.15547,63.16764,2.676895,Daniel Webster,R,0.999625,3,,,FL-11,-29.01217,0.000375,0.999625,0.000575,0.999425,0.0,0.00675,0.99325,0.0
+2022,FL-12,House,0.0,1.0,0.0,2022-11-08,deluxe,Kimberly Walker,Gus Michael Bilirakis,,,30.60487,69.39513,,Gus Michael Bilirakis,R,1.0,2,,,FL-12,-38.79025,0.0,1.0,0.0,1.0,0.0,0.000775,0.999225,0.0
+2022,FL-13,House,0.06735,0.93265,0.0,2022-11-08,deluxe,Eric Lynn,Anna Paulina Luna,Frank Craft,I,43.80204,53.43437,2.763583,Anna Paulina Luna,R,0.93265,3,,,FL-13,-9.632328,0.06735,0.93265,0.156025,0.843975,0.0,0.333125,0.666875,0.0
+2022,FL-14,House,0.98665,0.01335,0.0,2022-11-08,deluxe,Kathy Castor,James Judge,,,58.45531,41.54469,,Kathy Castor,D,0.98665,2,,,FL-14,16.91061,0.98665,0.01335,0.975125,0.024875,0.0,0.970525,0.029475,2.7755575615628914e-17
+2022,FL-15,House,0.02525,0.97475,0.0,2022-11-08,deluxe,Alan M. Cohn,Laurel Lee,,,43.73314,56.26686,,Laurel Lee,R,0.97475,2,,,FL-15,-12.53373,0.02525,0.97475,0.0575,0.9425,0.0,0.176525,0.823475,0.0
+2022,FL-16,House,0.001525,0.998475,0.0,2022-11-08,deluxe,Jan Schneider,Vern Buchanan,,,38.18171,61.81829,,Vern Buchanan,R,0.998475,2,,,FL-16,-23.63659,0.001525,0.998475,0.0026,0.9974,0.0,0.0197,0.9803,0.0
+2022,FL-17,House,0.0003,0.9997,0.0,2022-11-08,deluxe,Andrea Doria Kale,Greg Steube,Theodore “Pink Tie” Murray,I,33.9225,63.37477,2.702726,Greg Steube,R,0.9997,3,,,FL-17,-29.45227,0.0003,0.9997,0.000525,0.999475,0.0,0.006475,0.993525,0.0
+2022,FL-18,House,0.0,0.999975,2.5000000000052758e-05,2022-11-08,deluxe,,Scott Franklin,Keith R. Hayden Jr.,I,,84.09782,15.90218,Scott Franklin,R,0.999975,2,,,FL-18,-84.09782,0.0,1.0,0.0,0.999975,2.5000000000052758e-05,0.0,0.999975,2.5000000000052758e-05
+2022,FL-19,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Cindy Banyai,Byron Donalds,,,33.71678,66.28322,,Byron Donalds,R,0.999975,2,,,FL-19,-32.56644,2.5e-05,0.999975,0.0001,0.9999,0.0,0.0022,0.9978,0.0
+2022,FL-20,House,1.0,0.0,0.0,2022-11-08,deluxe,Sheila Cherfilus-McCormick,Drew Montez Clark,,,73.80719,26.19281,,Sheila Cherfilus-McCormick,D,1.0,2,,,FL-20,47.61438,1.0,0.0,1.0,0.0,0.0,0.999925,7.5e-05,4.7257662193211925e-17
+2022,FL-21,House,0.0018,0.9982,0.0,2022-11-08,deluxe,Corinna Balderramos Robinson,Brian Mast,,,38.70489,61.29511,,Brian Mast,R,0.9982,2,,,FL-21,-22.59022,0.0018,0.9982,0.0031,0.9969,0.0,0.0172,0.9828,0.0
+2022,FL-22,House,0.98945,0.01055,0.0,2022-11-08,deluxe,Lois Frankel,Dan Franzese,,,58.69922,41.30078,,Lois Frankel,D,0.98945,2,,,FL-22,17.39845,0.98945,0.01055,0.980725,0.019275,4.163336342344337e-17,0.97275,0.02725,0.0
+2022,FL-23,House,0.9322,0.0678,0.0,2022-11-08,deluxe,Jared Moskowitz,Joe Budd,all others,O,53.90889,42.68204,3.409063,Jared Moskowitz,D,0.9322,3,,,FL-23,11.22684,0.9322,0.0678,0.8466,0.1534,0.0,0.744975,0.255025,0.0
+2022,FL-24,House,1.0,0.0,0.0,2022-11-08,deluxe,Frederica Wilson,Jesus G. Navarro,,,74.96261,25.03739,,Frederica Wilson,D,1.0,2,,,FL-24,49.92522,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,FL-25,House,0.99425,0.00575,3.2959746043559335e-17,2022-11-08,deluxe,Debbie Wasserman Schultz,Carla Spalding,,,59.66947,40.33053,,Debbie Wasserman Schultz,D,0.99425,2,,,FL-25,19.33894,0.99425,0.00575,0.99155,0.00845,0.0,0.98495,0.01505,8.673617379884035e-18
+2022,FL-26,House,0.0008,0.9992,0.0,2022-11-08,deluxe,Christine Alexandria Olivo,Mario Diaz-Balart,,,36.37237,63.62763,,Mario Diaz-Balart,R,0.9992,2,,,FL-26,-27.25526,0.0008,0.9992,0.00135,0.99865,0.0,0.022025,0.977975,0.0
+2022,FL-27,House,0.081475,0.918525,0.0,2022-11-08,deluxe,Annette Taddeo,María Elvira Salazar,,,45.06014,54.93986,,María Elvira Salazar,R,0.918525,2,,,FL-27,-9.879723,0.081475,0.918525,0.1884,0.8116,0.0,0.293525,0.706475,0.0
+2022,FL-28,House,0.006525,0.993475,0.0,2022-11-08,deluxe,Robert Asencio,Carlos A. Gimenez,,,41.04062,58.95938,,Carlos A. Gimenez,R,0.993475,2,,,FL-28,-17.91875,0.006525,0.993475,0.01755,0.98245,0.0,0.089425,0.910575,0.0
+2022,GA-01,House,0.00095,0.99905,0.0,2022-11-08,deluxe,Wade Herring,Earl L. “Buddy” Carter,,,37.54336,62.45664,,Earl L. “Buddy” Carter,R,0.99905,2,,,GA-1,-24.91328,0.00095,0.99905,0.001525,0.998475,0.0,0.00685,0.99315,0.0
+2022,GA-02,House,0.908275,0.091725,0.0,2022-11-08,deluxe,Sanford Bishop,Chris West,,,53.9216,46.0784,,Sanford Bishop,D,0.908275,2,,,GA-2,7.843201,0.908275,0.091725,0.786675,0.213325,0.0,0.81295,0.18705,5.551115123125783e-17
+2022,GA-03,House,0.0,1.0,0.0,2022-11-08,deluxe,Val Almonord,Drew Ferguson,,,29.86328,70.13672,,Drew Ferguson,R,1.0,2,,,GA-3,-40.27344,0.0,1.0,0.0,1.0,0.0,0.000275,0.999725,0.0
+2022,GA-04,House,1.0,0.0,0.0,2022-11-08,deluxe,Henry C. “Hank” Johnson Jr.,Jonathan Chavez,,,74.33673,25.66327,,Henry C. “Hank” Johnson Jr.,D,1.0,2,,,GA-4,48.67346,1.0,0.0,1.0,0.0,0.0,0.999975,2.5e-05,5.275660008678684e-17
+2022,GA-05,House,1.0,0.0,0.0,2022-11-08,deluxe,Nikema Williams,Christian Zimm,,,74.33986,25.66014,,Nikema Williams,D,1.0,2,,,GA-5,48.67972,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,GA-06,House,0.000525,0.999475,0.0,2022-11-08,deluxe,Bob Christian,Rich McCormick,,,36.08472,63.91528,,Rich McCormick,R,0.999475,2,,,GA-6,-27.83055,0.000525,0.999475,0.000775,0.999225,0.0,0.014325,0.985675,0.0
+2022,GA-07,House,0.989075,0.010925,0.0,2022-11-08,deluxe,Lucy McBath,Mark Gonsalves,,,58.59609,41.40391,,Lucy McBath,D,0.989075,2,,,GA-7,17.19218,0.989075,0.010925,0.978775,0.021225,4.85722573273506e-17,0.979875,0.020125,0.0
+2022,GA-08,House,0.0,1.0,0.0,2022-11-08,deluxe,Darrius Butler,Austin Scott,,,30.42194,69.57806,,Austin Scott,R,1.0,2,,,GA-8,-39.15611,0.0,1.0,2.5e-05,0.999975,0.0,0.000675,0.999325,0.0
+2022,GA-09,House,0.0,1.0,0.0,2022-11-08,deluxe,Michael “Mike” Ford,Andrew Clyde,,,24.03939,75.96061,,Andrew Clyde,R,1.0,2,,,GA-9,-51.92122,0.0,1.0,0.0,1.0,0.0,7.5e-05,0.999925,0.0
+2022,GA-10,House,0.0,1.0,0.0,2022-11-08,deluxe,Tabitha Johnson-Green,Mike Collins,,,32.00969,67.99031,,Mike Collins,R,1.0,2,,,GA-10,-35.98063,0.0,1.0,2.5e-05,0.999975,0.0,0.0044,0.9956,0.0
+2022,GA-11,House,0.000125,0.999875,0.0,2022-11-08,deluxe,Antonio Daza,Barry Loudermilk,,,35.52763,64.47237,,Barry Loudermilk,R,0.999875,2,,,GA-11,-28.94475,0.000125,0.999875,0.0002,0.9998,0.0,0.001425,0.998575,0.0
+2022,GA-12,House,0.0005,0.9995,0.0,2022-11-08,deluxe,Elizabeth “Liz” Johnson,Rick W. Allen,,,37.27352,62.72648,,Rick W. Allen,R,0.9995,2,,,GA-12,-25.45296,0.0005,0.9995,0.00085,0.99915,0.0,0.0112,0.9888,0.0
+2022,GA-13,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,David Scott,Caesar Gonzales,,,74.46729,25.53271,,David Scott,D,0.999975,2,,,GA-13,48.93457,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9999,0.0001,0.0
+2022,GA-14,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Marcus Flowers,Marjorie Taylor Greene,,,28.37962,71.62038,,Marjorie Taylor Greene,R,0.999975,2,,,GA-14,-43.24077,2.5e-05,0.999975,5e-05,0.99995,0.0,0.0001,0.9999,0.0
+2022,HI-01,House,0.999575,0.000425,8.72782748850831e-18,2022-11-08,deluxe,Ed Case,Conrad Kress,,,65.5802,34.4198,,Ed Case,D,0.999575,2,,,HI-1,31.1604,0.999575,0.000425,0.99955,0.00045,0.0,0.997125,0.002875,0.0
+2022,HI-02,House,0.999475,0.000525,0.0,2022-11-08,deluxe,Jill N. Tokuda,Joe Akana,Michelle Rose Tippens,I,62.99832,33.05993,3.941751,Jill N. Tokuda,D,0.999475,3,,,HI-2,29.93839,0.999475,0.000525,0.99935,0.00065,3.946495907847236e-17,0.9891,0.0109,2.0816681711721685e-17
+2022,IA-01,House,0.05865,0.94135,0.0,2022-11-08,deluxe,Christina Bohannan,Mariannette Miller-Meeks,,,44.82576,55.17424,,Mariannette Miller-Meeks,R,0.94135,2,,,IA-1,-10.34847,0.05865,0.94135,0.121725,0.878275,0.0,0.214675,0.785325,0.0
+2022,IA-02,House,0.06515,0.93485,0.0,2022-11-08,deluxe,Liz Mathis,Ashley Hinson,,,45.21095,54.78905,,Ashley Hinson,R,0.93485,2,,,IA-2,-9.578102,0.06515,0.93485,0.147575,0.852425,0.0,0.208175,0.791825,0.0
+2022,IA-03,House,0.422525,0.577475,0.0,2022-11-08,deluxe,Cindy Axne,Zach Nunn,,,49.48018,50.51982,,Zach Nunn,R,0.577475,2,,,IA-3,-1.03965,0.422525,0.577475,0.3822,0.6178,0.0,0.45275,0.54725,0.0
+2022,IA-04,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Ryan Melton,Randy Feenstra,Bryan Jack Holder,I,31.04417,65.65764,3.298195,Randy Feenstra,R,0.9999,3,,,IA-4,-34.61347,0.0001,0.9999,0.00015,0.99985,0.0,0.002275,0.997725,0.0
+2022,ID-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Kaylee Peterson,Russ Fulcher,Darian Drake,I,24.27034,71.04111,4.688543,Russ Fulcher,R,1.0,3,,,ID-1,-46.77077,0.0,1.0,0.0,1.0,0.0,5e-05,0.99995,0.0
+2022,ID-02,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Wendy Norman,Mike Simpson,,,32.6993,67.3007,,Mike Simpson,R,0.9999,2,,,ID-2,-34.60139,0.0001,0.9999,0.0001,0.9999,0.0,0.001675,0.998325,0.0
+2022,IL-01,House,1.0,0.0,0.0,2022-11-08,deluxe,Jonathan L. Jackson,Eric Carlson,,,70.71723,29.28277,,Jonathan L. Jackson,D,1.0,2,,,IL-1,41.43446,1.0,0.0,1.0,0.0,0.0,0.99955,0.00045,0.0
+2022,IL-02,House,1.0,0.0,0.0,2022-11-08,deluxe,Robin Kelly,Thomas Lynch,,,70.72476,29.27524,,Robin Kelly,D,1.0,2,,,IL-2,41.44952,1.0,0.0,1.0,0.0,0.0,0.999675,0.000325,1.973247953923618e-17
+2022,IL-03,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Delia Ramirez,Justin Burau,,,69.04028,30.95972,,Delia Ramirez,D,0.999975,2,,,IL-3,38.08055,0.999975,2.5e-05,0.99995,5e-05,0.0,0.998175,0.001825,0.0
+2022,IL-04,House,1.0,0.0,0.0,2022-11-08,deluxe,Jesus “Chuy” Garcia,James Falakos,Edward Hershey,I,71.36787,25.16299,3.469136,Jesus “Chuy” Garcia,D,1.0,3,,,IL-4,46.20489,1.0,0.0,1.0,0.0,0.0,0.999775,0.000225,3.073713158996405e-17
+2022,IL-05,House,0.999925,7.5e-05,4.7257662193211925e-17,2022-11-08,deluxe,Mike Quigley,Tommy Hanson,Jerico Matias Cruz,I,66.30064,30.3194,3.379955,Mike Quigley,D,0.999925,3,,,IL-5,35.98125,0.999925,7.5e-05,0.9999,0.0001,0.0,0.9992,0.0008,2.2876665839444144e-17
+2022,IL-06,House,0.673125,0.326875,0.0,2022-11-08,deluxe,Sean Casten,Keith Pekau,,,51.6033,48.3967,,Sean Casten,D,0.673125,2,,,IL-6,3.206596,0.673125,0.326875,0.496,0.504,0.0,0.89665,0.10335,5.551115123125783e-17
+2022,IL-07,House,1.0,0.0,0.0,2022-11-08,deluxe,Danny K. Davis,,,,100.0,,,Danny K. Davis,D,1.0,1,,,IL-7,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,IL-08,House,0.98535,0.01465,5.204170427930421e-17,2022-11-08,deluxe,Raja Krishnamoorthi,Chris Dargis,,,58.1687,41.8313,,Raja Krishnamoorthi,D,0.98535,2,,,IL-8,16.33739,0.98535,0.01465,0.966175,0.033825,0.0,0.830225,0.169775,0.0
+2022,IL-09,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Janice D. Schakowsky,Maxwell “Max” Rice,,,69.22341,30.77659,,Janice D. Schakowsky,D,0.999975,2,,,IL-9,38.44682,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.999725,0.000275,2.5207700510287978e-17
+2022,IL-10,House,0.99495,0.00505,0.0,2022-11-08,deluxe,Brad Schneider,Joseph Severino,,,59.64903,40.35097,,Brad Schneider,D,0.99495,2,,,IL-10,19.29806,0.99495,0.00505,0.99225,0.00775,3.469446951953614e-17,0.94115,0.05885,0.0
+2022,IL-11,House,0.9607,0.0393,0.0,2022-11-08,deluxe,Bill Foster,Catalina Lauf,,,56.25039,43.74961,,Bill Foster,D,0.9607,2,,,IL-11,12.50078,0.9607,0.0393,0.944175,0.055825,1.3877787807814457e-17,0.9487,0.0513,1.3877787807814457e-17
+2022,IL-12,House,0.0,1.0,0.0,2022-11-08,deluxe,Homer “Chip” Markel,Mike Bost,,,26.5801,73.41991,,Mike Bost,R,1.0,2,,,IL-12,-46.83981,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,IL-13,House,0.8617,0.1383,0.0,2022-11-08,deluxe,Nikki Budzinski,Regan Deering,,,53.4903,46.5097,,Nikki Budzinski,D,0.8617,2,,,IL-13,6.980591,0.8617,0.1383,0.78325,0.21675,0.0,0.66795,0.33205,0.0
+2022,IL-14,House,0.780325,0.219675,0.0,2022-11-08,deluxe,Lauren Underwood,Scott R. Gryder,,,52.65189,47.34811,,Lauren Underwood,D,0.780325,2,,,IL-14,5.30378,0.780325,0.219675,0.655225,0.344775,5.551115123125783e-17,0.8991,0.1009,0.0
+2022,IL-15,House,0.0,1.0,0.0,2022-11-08,deluxe,Paul J. Lange,Mary Miller,,,26.44617,73.55383,,Mary Miller,R,1.0,2,,,IL-15,-47.10767,0.0,1.0,0.0,1.0,0.0,0.00025,0.99975,0.0
+2022,IL-16,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Elizabeth Haderlein,Darin LaHood,,,32.57825,67.42175,,Darin LaHood,R,0.99995,2,,,IL-16,-34.84349,5e-05,0.99995,7.5e-05,0.999925,0.0,0.003025,0.996975,0.0
+2022,IL-17,House,0.621775,0.378225,5.551115123125783e-17,2022-11-08,deluxe,Eric Sorensen,Esther Joy King,,,50.90844,49.09156,,Eric Sorensen,D,0.621775,2,,,IL-17,1.816879,0.621775,0.378225,0.572975,0.427025,0.0,0.6598,0.3402,0.0
+2022,IN-01,House,0.9112,0.0888,0.0,2022-11-08,deluxe,Frank J. Mrvan,Jennifer-Ruth Green,,,53.96631,46.03369,,Frank J. Mrvan,D,0.9112,2,,,IN-1,7.932625,0.9112,0.0888,0.89255,0.10745,4.163336342344337e-17,0.857775,0.142225,5.551115123125783e-17
+2022,IN-02,House,0.000275,0.999725,0.0,2022-11-08,deluxe,Paul D. Steury,Rudolph Yakym,William E. Henry,I,34.07674,62.08946,3.833799,Rudolph Yakym,R,0.999725,3,,,IN-2,-28.01271,0.000275,0.999725,0.0004,0.9996,0.0,0.016525,0.983475,0.0
+2022,IN-03,House,2.5e-05,0.99995,2.4999999999941735e-05,2022-11-08,deluxe,Gary L. Snyder,Jim Banks,Nathan Gotsch,I,29.79805,66.83141,3.370547,Jim Banks,R,0.99995,3,,,IN-3,-37.03336,5e-05,0.99995,5e-05,0.999925,2.5000000000052758e-05,0.000575,0.9994,2.5000000000052758e-05
+2022,IN-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Roger D. Day,Jim Baird,,,29.46311,70.53689,,Jim Baird,R,1.0,2,,,IN-4,-41.07378,0.0,1.0,2.5e-05,0.999975,0.0,0.00065,0.99935,0.0
+2022,IN-05,House,0.0008,0.9992,0.0,2022-11-08,deluxe,Jeannine Lee Lake,Victoria Spartz,,,36.92503,63.07497,,Victoria Spartz,R,0.9992,2,,,IN-5,-26.14995,0.0008,0.9992,0.0011,0.9989,0.0,0.005375,0.994625,0.0
+2022,IN-06,House,0.0,1.0,0.0,2022-11-08,deluxe,Cynthia “Cinde” Wirth,Greg Pence,,,30.17369,69.82631,,Greg Pence,R,1.0,2,,,IN-6,-39.65262,0.0,1.0,2.5e-05,0.999975,0.0,0.000325,0.999675,0.0
+2022,IN-07,House,0.9996,0.0004,0.0,2022-11-08,deluxe,André D. Carson,Angela Grabovsky,Gavin Maple,I,62.0644,34.5365,3.399096,André D. Carson,D,0.9996,3,,,IN-7,27.5279,0.9996,0.0004,0.9995,0.0005,0.0,0.9996,0.0004,0.0
+2022,IN-08,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Ray McCormick,Larry D. Bucshon,Andy Horning,I,29.41217,67.20036,3.387468,Larry D. Bucshon,R,0.99995,3,,,IN-8,-37.7882,5e-05,0.99995,5e-05,0.99995,0.0,0.000875,0.999125,0.0
+2022,IN-09,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Matthew Fyfe,Erin Houchin,Tonya Millis,I,32.28559,63.83471,3.879697,Erin Houchin,R,0.999925,3,,,IN-9,-31.54911,7.5e-05,0.999925,7.5e-05,0.999925,0.0,0.0066,0.9934,0.0
+2022,KS-01,House,0.0,1.0,0.0,2022-11-08,deluxe,James “Jimmy” Beard,Tracey Mann,,,28.3255,71.6745,,Tracey Mann,R,1.0,2,,,KS-1,-43.349,0.0,1.0,0.0,1.0,0.0,0.0007,0.9993,0.0
+2022,KS-02,House,0.002825,0.997175,0.0,2022-11-08,deluxe,Patrick Schmidt,Jake LaTurner,,,38.84076,61.15924,,Jake LaTurner,R,0.997175,2,,,KS-2,-22.31848,0.002825,0.997175,0.0056,0.9944,0.0,0.071375,0.928625,0.0
+2022,KS-03,House,0.842475,0.1575,2.5000000000025002e-05,2022-11-08,deluxe,Sharice Davids,Amanda L. Adkins,Steven A. Hohe,I,51.61623,45.56915,2.814625,Sharice Davids,D,0.842475,3,,,KS-3,6.047077,0.842475,0.157525,0.73215,0.267825,2.5000000000052758e-05,0.889225,0.11075,2.4999999999955613e-05
+2022,KS-04,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Bob Hernandez,Ron Estes,,,32.09858,67.90142,,Ron Estes,R,0.999925,2,,,KS-4,-35.80284,7.5e-05,0.999925,7.5e-05,0.999925,0.0,0.0018,0.9982,0.0
+2022,KY-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Jimmy C. Ausbrooks,James R. Comer,,,24.67489,75.32511,,James R. Comer,R,1.0,2,,,KY-1,-50.65022,0.0,1.0,0.0,1.0,0.0,0.0001,0.9999,0.0
+2022,KY-02,House,0.0,1.0,0.0,2022-11-08,deluxe,Hank Linderman,S. Brett Guthrie,,,27.34022,72.65978,,S. Brett Guthrie,R,1.0,2,,,KY-2,-45.31956,0.0,1.0,0.0,1.0,0.0,0.0002,0.9998,0.0
+2022,KY-03,House,0.996825,0.003175,3.903127820947816e-17,2022-11-08,deluxe,Morgan McGarvey,Stuart N. Ray,,,60.10642,39.89358,,Morgan McGarvey,D,0.996825,2,,,KY-3,20.21284,0.996825,0.003175,0.9955,0.0045,0.0,0.975325,0.024675,3.469446951953614e-18
+2022,KY-04,House,0.000175,0.999825,0.0,2022-11-08,deluxe,Matthew Lehman,Thomas Massie,Ethan Keith Osborne,I,32.26869,64.62658,3.104731,Thomas Massie,R,0.999825,3,,,KY-4,-32.35789,0.000175,0.999825,0.000225,0.999775,0.0,0.0006,0.9994,0.0
+2022,KY-05,House,0.0,1.0,0.0,2022-11-08,deluxe,Conor Halbleib,Harold “Hal” Rogers,,,17.10248,82.89752,,Harold “Hal” Rogers,R,1.0,2,,,KY-5,-65.79504,0.0,1.0,0.0,1.0,0.0,2.5e-05,0.999975,0.0
+2022,KY-06,House,0.0008,0.9992,0.0,2022-11-08,deluxe,Geoffrey M. “Geoff” Young,Andy Barr,,,37.59622,62.40378,,Andy Barr,R,0.9992,2,,,KY-6,-24.80756,0.0008,0.9992,0.0011,0.9989,0.0,0.0205,0.9795,0.0
+2022,LA-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Kate Darling,Steve Scalise,Howard Kearney,I,26.23129,70.75089,3.01782,Steve Scalise,R,1.0,3,,,LA-1,-44.51959,0.0,1.0,0.0,1.0,0.0,0.0001,0.9999,0.0
+2022,LA-02,House,1.0,0.0,0.0,2022-11-08,deluxe,Troy A. Carter,Dan Lux,,,76.5616,23.4384,,Troy A. Carter,D,1.0,2,,,LA-2,53.1232,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,LA-03,House,0.00030000000000000003,0.9997,0.0,2022-11-08,deluxe,Tia Lebrun,Clay Higgins,all others,O,16.25904,33.77251,3.220659,Clay Higgins,R,0.87615,7,,,LA-3,-48.85233,0.0003,0.9997,0.000375,0.999625,0.0,0.00375,0.9962500000000001,0.0
+2022,LA-04,House,0.0,1.0,0.0,2022-11-08,deluxe,,“Mike” Johnson,,,,100.0,,“Mike” Johnson,R,1.0,1,,,LA-4,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,LA-05,House,0.000375,0.999625,0.0,2022-11-08,deluxe,Walter Earl Huff,Julia Letlow,,,13.6361,40.2251,,Julia Letlow,R,0.918575,5,,,LA-5,-41.77937,0.000375,0.999625,0.0005,0.9994999999999999,1.1102230246251565e-16,0.0060750000000000005,0.9939250000000001,0.0
+2022,LA-06,House,0.0,1.0,0.0,2022-11-08,deluxe,,Garret Graves,Rufus Holt Craig Jr.,I,,70.32886,0.0,Garret Graves,R,1.0,3,,,LA-6,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,MA-01,House,0.9993,0.0007,3.393552799879629e-17,2022-11-08,deluxe,Richard E. Neal,Dean James Martilli,,,63.26593,36.73407,,Richard E. Neal,D,0.9993,2,,,MA-1,26.53185,0.9993,0.0007,0.999175,0.000825,0.0,0.99425,0.00575,3.2959746043559335e-17
+2022,MA-02,House,0.999375,0.000625,0.0,2022-11-08,deluxe,James P. McGovern,Jeffrey A. Sossa-Paquette,,,64.39896,35.60104,,James P. McGovern,D,0.999375,2,,,MA-2,28.79793,0.999375,0.000625,0.999175,0.000825,0.0,0.99805,0.00195,7.37257477290143e-18
+2022,MA-03,House,0.999475,0.000525,0.0,2022-11-08,deluxe,Lori Loureiro Trahan,Dean A. Tran,,,63.42577,36.57423,,Lori Loureiro Trahan,D,0.999475,2,,,MA-3,26.85155,0.999475,0.000525,0.99945,0.00055,5.0415401020575956e-17,0.99655,0.00345,0.0
+2022,MA-04,House,1.0,0.0,0.0,2022-11-08,deluxe,Jake Auchincloss,,,,100.0,,,Jake Auchincloss,D,1.0,1,,,MA-4,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,MA-05,House,1.0,0.0,0.0,2022-11-08,deluxe,Katherine M. Clark,Caroline Colarusso,,,72.32025,27.67975,,Katherine M. Clark,D,1.0,2,,,MA-5,44.6405,1.0,0.0,1.0,0.0,0.0,0.9999,0.0001,0.0
+2022,MA-06,House,0.99935,0.00065,3.946495907847236e-17,2022-11-08,deluxe,Seth Moulton,Bob May,Mark Tashjian,I,62.41434,34.19909,3.386564,Seth Moulton,D,0.99935,3,,,MA-6,28.21526,0.99935,0.00065,0.999225,0.000775,0.0,0.99595,0.00405,0.0
+2022,MA-07,House,1.0,0.0,0.0,2022-11-08,deluxe,Ayanna S. Pressley,Donnie Dionicio Palmer Jr.,,,86.53757,13.46243,,Ayanna S. Pressley,D,1.0,2,,,MA-7,73.07513,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,MA-08,House,0.99995,5e-05,0.0,2022-11-08,deluxe,Stephen F. Lynch,Robert G. Burke,,,68.53403,31.46597,,Stephen F. Lynch,D,0.99995,2,,,MA-8,37.06807,0.99995,5e-05,0.999925,7.5e-05,4.7257662193211925e-17,0.999125,0.000875,0.0
+2022,MA-09,House,0.991225,0.008775,0.0,2022-11-08,deluxe,Bill Keating,Jesse G. Brown,,,59.38344,40.61656,,Bill Keating,D,0.991225,2,,,MA-9,18.76688,0.991225,0.008775,0.987175,0.012825,0.0,0.985875,0.014125,5.377642775528102e-17
+2022,MD-01,House,0.0108,0.9892,0.0,2022-11-08,deluxe,Heather R. Mizeur,Andy Harris,Daniel Thibeault,I,39.91058,56.45647,3.63295,Andy Harris,R,0.9892,3,,,MD-1,-16.54589,0.0108,0.9892,0.020025,0.979975,0.0,0.074875,0.925125,0.0
+2022,MD-02,House,0.991575,0.008425,1.5612511283791264e-17,2022-11-08,deluxe,C.A. Dutch Ruppersberger,Nicolee Ambrose,,,58.1975,41.8025,,C.A. Dutch Ruppersberger,D,0.991575,2,,,MD-2,16.395,0.991575,0.008425,0.980225,0.019775,0.0,0.932875,0.067125,0.0
+2022,MD-03,House,0.977325,0.022675,0.0,2022-11-08,deluxe,John Sarbanes,Yuripzy Morgan,,,57.47024,42.52976,,John Sarbanes,D,0.977325,2,,,MD-3,14.94048,0.977325,0.022675,0.9378,0.0622,3.469446951953614e-17,0.97795,0.02205,1.3877787807814457e-17
+2022,MD-04,House,1.0,0.0,0.0,2022-11-08,deluxe,Glenn F. Ivey,Jeff Warner,,,86.58687,13.41313,,Glenn F. Ivey,D,1.0,2,,,MD-4,73.17374,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,MD-05,House,0.999775,0.000225,3.073713158996405e-17,2022-11-08,deluxe,Steny Hoyer,Chris Palombi,,,63.57297,36.42703,,Steny Hoyer,D,0.999775,2,,,MD-5,27.14594,0.999775,0.000225,0.99965,0.00035,0.0,0.998775,0.001225,3.165870343657673e-17
+2022,MD-06,House,0.7151,0.2849,5.551115123125783e-17,2022-11-08,deluxe,David J. Trone,Neil C. Parrott,,,51.77168,48.22832,,David J. Trone,D,0.7151,2,,,MD-6,3.54335,0.7151,0.2849,0.47855,0.52145,0.0,0.7033,0.2967,0.0
+2022,MD-07,House,1.0,0.0,0.0,2022-11-08,deluxe,Kweisi Mfume,Scott M. Collier,,,74.52386,25.47614,,Kweisi Mfume,D,1.0,2,,,MD-7,49.04771,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,MD-08,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Jamie Raskin,Gregory Thomas Coll,Andrés Garcia,I,71.26301,25.08943,3.647558,Jamie Raskin,D,0.999975,3,,,MD-8,46.17358,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.999975,2.5e-05,5.275660008678684e-17
+2022,ME-01,House,0.997125,0.002875,0.0,2022-11-08,deluxe,Chellie M. Pingree,Edwin Thelander,,,59.8872,40.1128,,Chellie M. Pingree,D,0.997125,2,,,ME-1,19.77439,0.997125,0.002875,0.9949,0.0051,0.0,0.997675,0.002325,2.168404344971009e-17
+2022,ME-02,House,0.66905,0.33095,0.0,2022-11-08,deluxe,Jared Forrest Golden,Bruce Poliquin,Tiffany Bond,I,49.73067,46.78393,3.4854,Jared Forrest Golden,D,0.66905,3,,,ME-2,2.946739,0.66905,0.33095,0.535675,0.464325,0.0,0.665525,0.334475,0.0
+2022,MI-01,House,0.000725,0.999275,0.0,2022-11-08,deluxe,Bob Lorinser,Jack Bergman,all others,O,34.42187,62.17868,3.399447,Jack Bergman,R,0.999275,3,,,MI-1,-27.75681,0.000725,0.999275,0.001175,0.998825,0.0,0.00665,0.99335,0.0
+2022,MI-02,House,0.0,1.0,0.0,2022-11-08,deluxe,Jerry Hilliard,John Moolenaar,Nathan Hewer,I,29.91084,66.9919,3.09726,John Moolenaar,R,1.0,3,,,MI-2,-37.08105,0.0,1.0,0.0,1.0,0.0,0.001625,0.998375,0.0
+2022,MI-03,House,0.591125,0.408875,0.0,2022-11-08,deluxe,Hillary Scholten,John Gibbs,all others,O,48.71676,47.31262,3.97062,Hillary Scholten,D,0.591125,3,,,MI-3,1.404144,0.591125,0.408875,0.7255,0.2745,0.0,0.62045,0.37955,5.551115123125783e-17
+2022,MI-04,House,0.005125,0.994875,0.0,2022-11-08,deluxe,Joseph Alfonso,Bill Huizenga,all others,O,38.51461,58.23796,3.247427,Bill Huizenga,R,0.994875,3,,,MI-4,-19.72335,0.005125,0.994875,0.010275,0.989725,0.0,0.053125,0.946875,0.0
+2022,MI-05,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Bart Goldberg,Tim Walberg,all others,O,32.0957,64.46671,3.437591,Tim Walberg,R,0.99995,3,,,MI-5,-32.37102,5e-05,0.99995,0.000125,0.999875,0.0,0.002125,0.997875,0.0
+2022,MI-06,House,0.99925,0.00075,2.8406096919120216e-17,2022-11-08,deluxe,Debbie Dingell,Whittney Williams,,,62.42718,37.57282,,Debbie Dingell,D,0.99925,2,,,MI-6,24.85435,0.99925,0.00075,0.999075,0.000925,0.0,0.993675,0.006325,2.5153490401663703e-17
+2022,MI-07,House,0.653025,0.34695,2.5000000000052758e-05,2022-11-08,deluxe,Elissa Slotkin,Tom Barrett,Leah Dailey,I,49.81569,47.60086,2.583449,Elissa Slotkin,D,0.653025,3,,,MI-7,2.214821,0.653025,0.346975,0.611175,0.3888,2.4999999999997247e-05,0.71695,0.283025,2.4999999999997247e-05
+2022,MI-08,House,0.832025,0.167975,0.0,2022-11-08,deluxe,Daniel T. Kildee,Paul Junge,all others,O,51.31486,45.57432,3.110819,Daniel T. Kildee,D,0.832025,3,,,MI-8,5.740543,0.832025,0.167975,0.710325,0.289675,0.0,0.6691,0.3309,0.0
+2022,MI-09,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Brian Jaye,Lisa McClain,all others,O,29.16124,67.33814,3.500621,Lisa McClain,R,0.999975,3,,,MI-9,-38.1769,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.000725,0.999275,0.0
+2022,MI-10,House,0.2145,0.7855,0.0,2022-11-08,deluxe,Carl J. Marlinga,John James,all others,O,45.50418,50.39907,4.096749,John James,R,0.7855,3,,,MI-10,-4.89489,0.2145,0.7855,0.156775,0.843225,0.0,0.166825,0.833175,0.0
+2022,MI-11,House,0.982325,0.017675,0.0,2022-11-08,deluxe,Haley Stevens,Mark Ambrose,,,57.75647,42.24353,,Haley Stevens,D,0.982325,2,,,MI-11,15.51293,0.982325,0.017675,0.9555,0.0445,0.0,0.98195,0.01805,1.0408340855860843e-17
+2022,MI-12,House,1.0,0.0,0.0,2022-11-08,deluxe,Rashida Tlaib,Steven Elliott,Gary Walkowicz,I,69.49454,27.28295,3.222513,Rashida Tlaib,D,1.0,3,,,MI-12,42.21159,1.0,0.0,1.0,0.0,0.0,0.999925,7.5e-05,4.7257662193211925e-17
+2022,MI-13,House,1.0,0.0,0.0,2022-11-08,deluxe,Shri Thanedar,Martell D. Bivings,all others,O,66.01238,29.76331,4.224313,Shri Thanedar,D,1.0,3,,,MI-13,36.24908,1.0,0.0,1.0,0.0,0.0,0.99975,0.00025,0.0
+2022,MN-01,House,0.0211,0.9789,0.0,2022-11-08,deluxe,Jeff Ettinger,Brad Finstad,all others,O,41.06446,54.84621,4.089333,Brad Finstad,R,0.9789,3,,,MN-1,-13.78175,0.0211,0.9789,0.040425,0.959575,0.0,0.09105,0.90895,0.0
+2022,MN-02,House,0.7995,0.2005,0.0,2022-11-08,deluxe,Angie Craig,Tyler Kistner,Paula M. Overby,I,50.97373,46.05675,2.969522,Angie Craig,D,0.7995,3,,,MN-2,4.916977,0.7995,0.2005,0.707375,0.292625,0.0,0.630975,0.369025,5.551115123125783e-17
+2022,MN-03,House,0.997025,0.002975,0.0,2022-11-08,deluxe,Dean Phillips,Tom Weiler,,,58.72491,41.27509,,Dean Phillips,D,0.997025,2,,,MN-3,17.44981,0.997025,0.002975,0.993475,0.006525,2.6020852139652106e-18,0.96375,0.03625,6.938893903907228e-18
+2022,MN-04,House,0.999825,0.000175,3.6239457615327986e-17,2022-11-08,deluxe,Betty McCollum,May Lor Xiong,,,64.98481,35.01519,,Betty McCollum,D,0.999825,2,,,MN-4,29.96962,0.999825,0.000175,0.9998,0.0002,0.0,0.99885,0.00115,0.0
+2022,MN-05,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Ilhan Omar,Cicely Davis,,,73.46724,26.53276,,Ilhan Omar,D,0.999975,2,,,MN-5,46.93447,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.999975,2.5e-05,5.275660008678684e-17
+2022,MN-06,House,0.0003,0.9997,0.0,2022-11-08,deluxe,Jeanne Hendricks,Tom Emmer,,,34.85966,65.14034,,Tom Emmer,R,0.9997,2,,,MN-6,-30.28067,0.0003,0.9997,0.000375,0.999625,0.0,0.0037,0.9963,0.0
+2022,MN-07,House,0.0,1.0,0.0,2022-11-08,deluxe,Jill Abahsain,Michelle Fischbach,Travis “Bull” Johnson,I,29.28337,67.07173,3.6449,Michelle Fischbach,R,1.0,3,,,MN-7,-37.78837,0.0,1.0,2.5e-05,0.999975,0.0,0.00075,0.99925,0.0
+2022,MN-08,House,0.00205,0.99795,0.0,2022-11-08,deluxe,Jen Schultz,Pete Stauber,,,38.61273,61.38727,,Pete Stauber,R,0.99795,2,,,MN-8,-22.77454,0.00205,0.99795,0.003425,0.996575,0.0,0.023725,0.976275,0.0
+2022,MO-01,House,1.0,0.0,0.0,2022-11-08,deluxe,Cori Bush,Andrew Jones,George A. Zsidisin,I,73.21535,23.37117,3.413479,Cori Bush,D,1.0,3,,,MO-1,49.84418,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,MO-02,House,0.00835,0.99165,0.0,2022-11-08,deluxe,Trish Gunby,Ann Wagner,Bill Slantz,I,39.56764,57.38583,3.04653,Ann Wagner,R,0.99165,3,,,MO-2,-17.81819,0.00835,0.99165,0.022775,0.977225,0.0,0.013875,0.986125,0.0
+2022,MO-03,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Bethany Mann,Blaine Luetkemeyer,,,30.46542,69.53458,,Blaine Luetkemeyer,R,0.999975,2,,,MO-3,-39.06915,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.000825,0.999175,0.0
+2022,MO-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Jack Truman,Mark Alford,Randy Langkraehr,I,24.58601,71.5244,3.889596,Mark Alford,R,1.0,3,,,MO-4,-46.93839,0.0,1.0,0.0,1.0,0.0,0.0006,0.999375,2.4999999999941735e-05
+2022,MO-05,House,0.997425,0.002575,0.0,2022-11-08,deluxe,"Emanuel Cleaver, II",Jacob Turk,Robin Dominick,I,58.79993,38.10839,3.091676,"Emanuel Cleaver, II",D,0.997425,3,,,MO-5,20.69154,0.997425,0.002575,0.99635,0.00365,4.206704429243757e-17,0.99405,0.00595,1.0408340855860843e-17
+2022,MO-06,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Henry Martin,Sam Graves,Edward A. “Andy” Maidment,I,26.30746,70.38082,3.311718,Sam Graves,R,0.999975,3,,,MO-6,-44.07336,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.000175,0.999825,0.0
+2022,MO-07,House,0.0,1.0,0.0,2022-11-08,deluxe,Kristen Radaker-Sheafer,Eric Burlison,Kevin Craig,I,23.71433,72.36981,3.915854,Eric Burlison,R,1.0,3,,,MO-7,-48.65548,0.0,1.0,0.0,1.0,0.0,0.0002,0.9998,0.0
+2022,MO-08,House,0.0,1.0,0.0,2022-11-08,deluxe,Randi McCallian,Jason Smith,Jim Higgins,I,19.17696,77.37111,3.451928,Jason Smith,R,1.0,3,,,MO-8,-58.19415,0.0,1.0,0.0,1.0,0.0,5e-05,0.99995,0.0
+2022,MS-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Dianne Black,Trent Kelly,,,28.65383,71.34617,,Trent Kelly,R,1.0,2,,,MS-1,-42.69234,0.0,1.0,0.0,1.0,0.0,0.0004,0.9996,0.0
+2022,MS-02,House,0.998,0.002,1.734723475976807e-18,2022-11-08,deluxe,Bennie G. Thompson,Brian Flowers,,,62.01701,37.98299,,Bennie G. Thompson,D,0.998,2,,,MS-2,24.03401,0.998,0.002,0.997675,0.002325,2.168404344971009e-17,0.99665,0.00335,0.0
+2022,MS-03,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Shuwaski A. Young,Michael Guest,,,31.6389,68.36111,,Michael Guest,R,0.999975,2,,,MS-3,-36.72221,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.0014,0.9986,0.0
+2022,MS-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Johnny L. DuPree,Mike Ezell,Alden Patrick Johnson,I,26.38783,70.30061,3.311555,Mike Ezell,R,1.0,3,,,MS-4,-43.91278,0.0,1.0,0.0,0.999975,2.5000000000052758e-05,0.001025,0.99895,2.4999999999941735e-05
+2022,MT-01,House,0.0569,0.94305,4.999999999999449e-05,2022-11-08,deluxe,Monica Tranel,Ryan K. Zinke,John Lamb,I,43.03712,53.09641,3.866465,Ryan K. Zinke,R,0.94305,3,,,MT-1,-10.05929,0.056925,0.943075,0.105275,0.894675,4.999999999999449e-05,0.168,0.83195,4.999999999999449e-05
+2022,MT-02,House,0.000375,0.999625,0.0,2022-11-08,deluxe,Penny Ronning,Matt Rosendale,all others,O,31.44418,60.65134,7.90448,Matt Rosendale,R,0.999625,3,,,MT-2,-29.20716,0.000375,0.999625,0.000525,0.999475,0.0,0.023425,0.976575,0.0
+2022,NC-01,House,0.9638,0.0362,6.938893903907228e-18,2022-11-08,deluxe,Don Davis,Sandy Smith,,,55.4594,44.5406,,Don Davis,D,0.9638,2,,,NC-1,10.91881,0.9638,0.0362,0.9464,0.0536,0.0,0.8229,0.1771,2.7755575615628914e-17
+2022,NC-02,House,0.99865,0.00135,0.0,2022-11-08,deluxe,Deborah K. Ross,Christine E. Villaverde,,,61.9238,38.0762,,Deborah K. Ross,D,0.99865,2,,,NC-2,23.8476,0.99865,0.00135,0.998375,0.001625,0.0,0.99585,0.00415,0.0
+2022,NC-03,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Barbara D. Gaskins,Greg Murphy,,,31.68074,68.31926,,Greg Murphy,R,0.999975,2,,,NC-3,-36.63852,2.5e-05,0.999975,0.0001,0.9999,0.0,0.002025,0.997975,0.0
+2022,NC-04,House,0.999775,0.000225,3.073713158996405e-17,2022-11-08,deluxe,Valerie P. Foushee,Courtney Geels,,,63.65979,36.34021,,Valerie P. Foushee,D,0.999775,2,,,NC-4,27.31958,0.999775,0.000225,0.999675,0.000325,1.973247953923618e-17,0.99685,0.00315,0.0
+2022,NC-05,House,0.000125,0.999875,0.0,2022-11-08,deluxe,Kyle Parrish,Virginia Foxx,,,34.04565,65.95435,,Virginia Foxx,R,0.999875,2,,,NC-5,-31.9087,0.000125,0.999875,0.0002,0.9998,0.0,0.004025,0.995975,0.0
+2022,NC-06,House,0.9811,0.0189,2.7755575615628914e-17,2022-11-08,deluxe,Kathy Manning,Christian Castelli,Thomas Watercott,I,54.97779,42.42015,2.602063,Kathy Manning,D,0.9811,3,,,NC-6,12.55764,0.9811,0.0189,0.970075,0.029925,0.0,0.908525,0.091475,0.0
+2022,NC-07,House,0.001975,0.998025,0.0,2022-11-08,deluxe,Charles Graham,David Rouzer,,,38.61081,61.38919,,David Rouzer,R,0.998025,2,,,NC-7,-22.77837,0.001975,0.998025,0.0032,0.9968,0.0,0.01975,0.98025,0.0
+2022,NC-08,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Scott Huffman,Dan Bishop,,,31.43622,68.56378,,Dan Bishop,R,0.999975,2,,,NC-8,-37.12756,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.0002,0.9998,0.0
+2022,NC-09,House,0.006025,0.993975,0.0,2022-11-08,deluxe,Ben Clark,Richard Hudson,,,40.46148,59.53852,,Richard Hudson,R,0.993975,2,,,NC-9,-19.07705,0.006025,0.993975,0.012675,0.987325,0.0,0.03585,0.96415,0.0
+2022,NC-10,House,0.0,1.0,0.0,2022-11-08,deluxe,Pam Genant,Patrick McHenry,,,29.35587,70.64413,,Patrick McHenry,R,1.0,2,,,NC-10,-41.28825,0.0,1.0,2.5e-05,0.999975,0.0,0.000225,0.999775,0.0
+2022,NC-11,House,0.0058,0.994175,2.4999999999941735e-05,2022-11-08,deluxe,Jasmine Beach-Ferrara,Chuck Edwards,David Adam Coatney,I,39.45471,57.3475,3.197794,Chuck Edwards,R,0.994175,3,,,NC-11,-17.89279,0.0058,0.9942,0.01635,0.983625,2.5000000000052758e-05,0.179575,0.8204,2.4999999999941735e-05
+2022,NC-12,House,0.99965,0.00035,0.0,2022-11-08,deluxe,Alma S. Adams,Tyler Lee,,,63.11357,36.88643,,Alma S. Adams,D,0.99965,2,,,NC-12,26.22714,0.99965,0.00035,0.999625,0.000375,1.4203048459560108e-17,0.997875,0.002125,4.336808689942018e-17
+2022,NC-13,House,0.233675,0.766325,0.0,2022-11-08,deluxe,Wiley Nickel,Bo Hines,,,47.87784,52.12216,,Bo Hines,R,0.766325,2,,,NC-13,-4.244316,0.233675,0.766325,0.429525,0.570475,1.1102230246251565e-16,0.545125,0.454875,5.551115123125783e-17
+2022,NC-14,House,0.98475,0.01525,0.0,2022-11-08,deluxe,Jeff Jackson,Pat Harrigan,,,57.84889,42.15111,,Jeff Jackson,D,0.98475,2,,,NC-14,15.69778,0.98475,0.01525,0.963075,0.036925,0.0,0.83955,0.16045,0.0
+2022,ND-AL,House,0.0,0.998375,0.0016249999999999876,2022-11-08,deluxe,,Kelly Armstrong,Cara Mund,I,,62.96566,37.03434,Kelly Armstrong,R,0.998375,2,,,ND-1,-62.96566,0.000775,0.999225,0.0,0.9967,0.0032999999999999696,0.0,0.978675,0.02132500000000004
+2022,NE-01,House,0.001525,0.998475,0.0,2022-11-08,deluxe,Patty Pansing Brooks,Mike Flood,,,38.38572,61.61428,,Mike Flood,R,0.998475,2,,,NE-1,-23.22856,0.001525,0.998475,0.00265,0.99735,0.0,0.010875,0.989125,0.0
+2022,NE-02,House,0.079925,0.920075,0.0,2022-11-08,deluxe,Tony Vargas,Don Bacon,,,45.86938,54.13062,,Don Bacon,R,0.920075,2,,,NE-2,-8.26123,0.079925,0.920075,0.133625,0.866375,0.0,0.1706,0.8294,0.0
+2022,NE-03,House,0.0,1.0,0.0,2022-11-08,deluxe,David J. Else,Adrian Smith,Mark Elworth Jr.,I,17.9492,78.14977,3.901024,Adrian Smith,R,1.0,3,,,NE-3,-60.20057,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,NH-01,House,0.669925,0.330075,0.0,2022-11-08,deluxe,Chris Pappas,Karoline Leavitt,,,51.27858,48.72142,,Chris Pappas,D,0.669925,2,,,NH-1,2.557159,0.669925,0.330075,0.508625,0.491375,0.0,0.49465,0.50535,0.0
+2022,NH-02,House,0.934225,0.065775,2.7755575615628914e-17,2022-11-08,deluxe,Ann McLane Kuster,Robert Burns,,,54.47231,45.52769,,Ann McLane Kuster,D,0.934225,2,,,NH-2,8.944618,0.934225,0.065775,0.881875,0.118125,4.163336342344337e-17,0.878125,0.121875,0.0
+2022,NJ-01,House,0.995225,0.004775,0.0,2022-11-08,deluxe,Donald W. Norcross,Claire Gustafson,all others,O,57.93236,39.09874,2.968891,Donald W. Norcross,D,0.995225,3,,,NJ-1,18.83362,0.995225,0.004775,0.99225,0.00775,3.469446951953614e-17,0.923375,0.076625,5.551115123125783e-17
+2022,NJ-02,House,0.00445,0.99555,0.0,2022-11-08,deluxe,Tim Alexander,Jeff Van Drew,all others,O,38.56313,58.32819,3.108678,Jeff Van Drew,R,0.99555,3,,,NJ-2,-19.76506,0.00445,0.99555,0.0086,0.9914,0.0,0.027675,0.972325,0.0
+2022,NJ-03,House,0.84885,0.15115,0.0,2022-11-08,deluxe,Andy Kim,Bob Healey,all others,O,51.68414,45.01992,3.295939,Andy Kim,D,0.84885,3,,,NJ-3,6.664219,0.84885,0.15115,0.724575,0.275425,5.551115123125783e-17,0.811525,0.188475,0.0
+2022,NJ-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Matthew Jenkins,Christopher H. Smith,all others,O,30.77359,65.24625,3.980165,Christopher H. Smith,R,1.0,3,,,NJ-4,-34.47266,0.0,1.0,7.5e-05,0.999925,0.0,0.00115,0.99885,0.0
+2022,NJ-05,House,0.9244,0.0756,0.0,2022-11-08,deluxe,Josh Gottheimer,Frank T. Pallotta,all others,O,53.61507,43.00405,3.380879,Josh Gottheimer,D,0.9244,3,,,NJ-5,10.61102,0.9244,0.0756,0.876,0.124,0.0,0.872575,0.127425,0.0
+2022,NJ-06,House,0.973625,0.026375,3.8163916471489756e-17,2022-11-08,deluxe,Frank Pallone Jr.,Susan M. Kiley,all others,O,55.73475,40.79664,3.468605,Frank Pallone Jr.,D,0.973625,3,,,NJ-6,14.93811,0.973625,0.026375,0.929325,0.070675,4.163336342344337e-17,0.960175,0.039825,0.0
+2022,NJ-07,House,0.283625,0.716375,0.0,2022-11-08,deluxe,Tom Malinowski,Thomas H. Kean Jr.,,,48.20216,51.79784,,Thomas H. Kean Jr.,R,0.716375,2,,,NJ-7,-3.595673,0.283625,0.716375,0.199,0.801,0.0,0.349075,0.650925,0.0
+2022,NJ-08,House,1.0,0.0,0.0,2022-11-08,deluxe,Robert J. Menendez,Marcos Arroyo,all others,O,68.87506,25.91577,5.209168,Robert J. Menendez,D,1.0,3,,,NJ-8,42.95929,1.0,0.0,1.0,0.0,0.0,0.999225,0.000775,0.0
+2022,NJ-09,House,0.9962,0.0038,2.5587171270657905e-17,2022-11-08,deluxe,Bill Pascrell Jr.,Billy Prempeh,all others,O,58.78786,38.06125,3.150884,Bill Pascrell Jr.,D,0.9962,3,,,NJ-9,20.72662,0.9962,0.0038,0.994675,0.005325,2.42861286636753e-17,0.97135,0.02865,0.0
+2022,NJ-10,House,1.0,0.0,0.0,2022-11-08,deluxe,Donald M. Payne Jr.,David H. Pinckney,all others,O,75.63541,20.42232,3.942264,Donald M. Payne Jr.,D,1.0,3,,,NJ-10,55.21309,1.0,0.0,1.0,0.0,0.0,0.999975,2.5e-05,5.275660008678684e-17
+2022,NJ-11,House,0.96515,0.03485,4.85722573273506e-17,2022-11-08,deluxe,Mikie Sherrill,Paul DeGroot,Joseph Biasco,I,55.54608,41.70402,2.749896,Mikie Sherrill,D,0.96515,3,,,NJ-11,13.84206,0.96515,0.03485,0.933825,0.066175,0.0,0.92795,0.07205,0.0
+2022,NJ-12,House,0.99945,0.00055,5.0415401020575956e-17,2022-11-08,deluxe,Bonnie Watson Coleman,Darius Mayfield,C. Lynn Genrich,I,62.4869,34.59406,2.919037,Bonnie Watson Coleman,D,0.99945,3,,,NJ-12,27.89284,0.99945,0.00055,0.9993,0.0007,3.393552799879629e-17,0.997575,0.002425,1.0408340855860843e-17
+2022,NM-01,House,0.9863,0.0137,4.5102810375396984e-17,2022-11-08,deluxe,Melanie Ann Stansbury,Michelle Garcia Holmes,,,56.41939,43.58061,,Melanie Ann Stansbury,D,0.9863,2,,,NM-1,12.83878,0.9863,0.0137,0.958775,0.041225,0.0,0.9381,0.0619,0.0
+2022,NM-02,House,0.22435,0.77565,0.0,2022-11-08,deluxe,Gabriel Vasquez,Yvette Herrell,,,47.62334,52.37666,,Yvette Herrell,R,0.77565,2,,,NM-2,-4.753326,0.22435,0.77565,0.391675,0.608325,0.0,0.311075,0.688925,0.0
+2022,NM-03,House,0.991875,0.008125,4.85722573273506e-17,2022-11-08,deluxe,Teresa Leger Fernandez,Alexis Martinez Johnson,,,57.67408,42.32592,,Teresa Leger Fernandez,D,0.991875,2,,,NM-3,15.34815,0.991875,0.008125,0.992025,0.007975,0.0,0.992775,0.007225,3.729655473350135e-17
+2022,NV-01,House,0.532225,0.46775,2.5000000000052758e-05,2022-11-08,deluxe,Dina Titus,Mark Robertson,Ken Cavanaugh,I,48.9672,48.43789,2.594908,Dina Titus,D,0.532225,3,,,NV-1,0.5293121,0.532225,0.467775,0.337375,0.662625,0.0,0.1786294657366434,0.8213705342633566,0.0
+2022,NV-02,House,0.00015,0.99985,0.0,2022-11-08,deluxe,Elizabeth Mercedes Krause,Mark E. Amodei,all others,O,35.79516,61.00739,3.19745,Mark E. Amodei,R,0.99985,3,,,NV-2,-25.21223,0.00015,0.99985,0.0002,0.9998,0.0,0.0017,0.9983,0.0
+2022,NV-03,House,0.615125,0.384875,0.0,2022-11-08,deluxe,Susie Lee,April Becker,,,50.84272,49.15728,,Susie Lee,D,0.615125,2,,,NV-3,1.685448,0.615125,0.384875,0.56365,0.43635,0.0,0.39315,0.60685,0.0
+2022,NV-04,House,0.833425,0.166575,2.7755575615628914e-17,2022-11-08,deluxe,Steven A. Horsford,Sam Peters,,,52.91522,47.08478,,Steven A. Horsford,D,0.833425,2,,,NV-4,5.830444,0.833425,0.166575,0.720825,0.279175,0.0,0.642925,0.357075,5.551115123125783e-17
+2022,NY-01,House,0.22645,0.77355,0.0,2022-11-08,deluxe,Bridget Fleming,Nicholas J. LaLota,,,47.32588,52.67412,,Nicholas J. LaLota,R,0.77355,2,,,NY-1,-5.348236,0.22645,0.77355,0.414925,0.585075,0.0,0.227225,0.772775,0.0
+2022,NY-02,House,0.035575,0.964425,0.0,2022-11-08,deluxe,Jackie Gordon,Andrew R. Garbarino,,,43.93441,56.06559,,Andrew R. Garbarino,R,0.964425,2,,,NY-2,-12.13117,0.035575,0.964425,0.081725,0.918275,0.0,0.17285,0.82715,0.0
+2022,NY-03,House,0.6826,0.3174,0.0,2022-11-08,deluxe,Robert P. Zimmerman,George A.D. Santos,,,51.58108,48.41892,,Robert P. Zimmerman,D,0.6826,2,,,NY-3,3.162155,0.6826,0.3174,0.66285,0.33715,0.0,0.531875,0.468125,0.0
+2022,NY-04,House,0.776925,0.223075,2.7755575615628914e-17,2022-11-08,deluxe,Laura A. Gillen,Anthony P. D'Esposito,,,52.79509,47.20491,,Laura A. Gillen,D,0.776925,2,,,NY-4,5.590179,0.776925,0.223075,0.7111,0.2889,5.551115123125783e-17,0.52415,0.47585,0.0
+2022,NY-05,House,1.0,0.0,0.0,2022-11-08,deluxe,Gregory Meeks,Paul King,,,81.66319,18.33681,,Gregory Meeks,D,1.0,2,,,NY-5,63.32638,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-06,House,0.999775,0.000225,3.073713158996405e-17,2022-11-08,deluxe,Grace Meng,Tom Zmich,,,66.95139,33.04861,,Grace Meng,D,0.999775,2,,,NY-6,33.90277,0.999775,0.000225,0.99975,0.00025,0.0,0.99685,0.00315,0.0
+2022,NY-07,House,1.0,0.0,0.0,2022-11-08,deluxe,Nydia M. Velázquez,Juan Pagán,,,80.85934,19.14066,,Nydia M. Velázquez,D,1.0,2,,,NY-7,61.71867,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-08,House,1.0,0.0,0.0,2022-11-08,deluxe,Hakeem S. Jeffries,Yuri Dashevsky,,,77.35919,22.64081,,Hakeem S. Jeffries,D,1.0,2,,,NY-8,54.71838,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-09,House,0.99995,0.0,4.999999999999449e-05,2022-11-08,deluxe,Yvette Clarke,,Menachem M. Raitport,I,87.41824,,12.58176,Yvette Clarke,D,0.99995,2,,,NY-9,87.41824,0.999975,2.5e-05,0.99995,0.0,4.999999999999449e-05,0.99995,0.0,4.999999999999449e-05
+2022,NY-10,House,1.0,0.0,0.0,2022-11-08,deluxe,Daniel Goldman,Benine Hamdan,Steve F. Speer,I,76.00998,20.65812,3.331895,Daniel Goldman,D,1.0,3,,,NY-10,55.35185,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-11,House,0.0273,0.9727,0.0,2022-11-08,deluxe,Max N. Rose,Nicole Malliotakis,,,43.509,56.491,,Nicole Malliotakis,R,0.9727,2,,,NY-11,-12.98199,0.0273,0.9727,0.057475,0.942525,1.1102230246251565e-16,0.12665,0.87335,0.0
+2022,NY-12,House,1.0,0.0,0.0,2022-11-08,deluxe,Jerrold L. Nadler,Michael Zumbluskas,Mikhail Itkis,I,77.9258,18.75552,3.318677,Jerrold L. Nadler,D,1.0,3,,,NY-12,59.17029,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-13,House,1.0,0.0,0.0,2022-11-08,deluxe,Adriano Espaillat,,,,100.0,,,Adriano Espaillat,D,1.0,1,,,NY-13,100.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-14,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Alexandria Ocasio-Cortez,Tina Forte,Desi Joseph Cuellar,I,74.02148,22.76928,3.209236,Alexandria Ocasio-Cortez,D,0.999975,3,,,NY-14,51.2522,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.99995,5e-05,0.0
+2022,NY-15,House,1.0,0.0,0.0,2022-11-08,deluxe,Ritchie J. Torres,Stylo A. Sapaskis,,,85.18732,14.81268,,Ritchie J. Torres,D,1.0,2,,,NY-15,70.37463,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,NY-16,House,1.0,0.0,0.0,2022-11-08,deluxe,Jamaal Bowman,Miriam L. Flisser,,,71.57018,28.42983,,Jamaal Bowman,D,1.0,2,,,NY-16,43.14035,1.0,0.0,1.0,0.0,0.0,0.99985,0.00015,0.0
+2022,NY-17,House,0.70085,0.29915,0.0,2022-11-08,deluxe,Sean Patrick Maloney,Michael V. Lawler,,,51.59156,48.40844,,Sean Patrick Maloney,D,0.70085,2,,,NY-17,3.183121,0.70085,0.29915,0.561675,0.438325,0.0,0.637725,0.362275,0.0
+2022,NY-18,House,0.712275,0.287725,0.0,2022-11-08,deluxe,Pat Ryan,Colin J. Schmitt,,,51.96719,48.03281,,Pat Ryan,D,0.712275,2,,,NY-18,3.934372,0.712275,0.287725,0.555525,0.444475,0.0,0.8449,0.1551,2.7755575615628914e-17
+2022,NY-19,House,0.5756,0.4244,0.0,2022-11-08,deluxe,Josh Riley,Marcus Molinaro,,,50.58918,49.41082,,Josh Riley,D,0.5756,2,,,NY-19,1.178352,0.5756,0.4244,0.516875,0.483125,0.0,0.702525,0.297475,5.551115123125783e-17
+2022,NY-20,House,0.985725,0.014275,3.8163916471489756e-17,2022-11-08,deluxe,Paul D. Tonko,Elizabeth L. Joy,,,58.0731,41.9269,,Paul D. Tonko,D,0.985725,2,,,NY-20,16.14621,0.985725,0.014275,0.966675,0.033325,4.85722573273506e-17,0.978225,0.021775,0.0
+2022,NY-21,House,0.003125,0.996875,0.0,2022-11-08,deluxe,Matt Castelli,Elise M. Stefanik,,,38.74102,61.25898,,Elise M. Stefanik,R,0.996875,2,,,NY-21,-22.51796,0.003125,0.996875,0.00475,0.99525,0.0,0.02145,0.97855,0.0
+2022,NY-22,House,0.357975,0.642025,1.1102230246251565e-16,2022-11-08,deluxe,Francis Conole,Brandon M. Williams,,,48.97475,51.02525,,Brandon M. Williams,R,0.642025,2,,,NY-22,-2.050499,0.357975,0.642025,0.62255,0.37745,0.0,0.53805,0.46195,0.0
+2022,NY-23,House,0.001025,0.998975,0.0,2022-11-08,deluxe,Max H. Della Pia,Nick Langworthy,,,37.08001,62.91999,,Nick Langworthy,R,0.998975,2,,,NY-23,-25.83998,0.001025,0.998975,0.00165,0.99835,0.0,0.031725,0.968275,0.0
+2022,NY-24,House,0.00305,0.99695,0.0,2022-11-08,deluxe,Steven Holden,Claudia Tenney,,,38.70006,61.29994,,Claudia Tenney,R,0.99695,2,,,NY-24,-22.59988,0.00305,0.99695,0.004625,0.995375,0.0,0.007325,0.992675,0.0
+2022,NY-25,House,0.962025,0.037975,0.0,2022-11-08,deluxe,Joseph D. Morelle,La'Ron D. Singletary,,,55.65851,44.34149,,Joseph D. Morelle,D,0.962025,2,,,NY-25,11.31702,0.962025,0.037975,0.9329,0.0671,4.163336342344337e-17,0.869025,0.130975,0.0
+2022,NY-26,House,0.998775,0.001225,3.165870343657673e-17,2022-11-08,deluxe,Brian Higgins,Steven L. Sams II,,,62.53864,37.46136,,Brian Higgins,D,0.998775,2,,,NY-26,25.07729,0.998775,0.001225,0.9984,0.0016,4.575333167888829e-17,0.98865,0.01135,0.0
+2022,OH-01,House,0.160975,0.839025,0.0,2022-11-08,deluxe,Greg Landsman,Steve Chabot,,,47.11337,52.88663,,Steve Chabot,R,0.839025,2,,,OH-1,-5.773262,0.160975,0.839025,0.294625,0.705375,0.0,0.35895,0.64105,0.0
+2022,OH-02,House,0.0,1.0,0.0,2022-11-08,deluxe,Samantha Meadows,Brad Wenstrup,,,25.75883,74.24117,,Brad Wenstrup,R,1.0,2,,,OH-2,-48.48235,0.0,1.0,0.0,1.0,0.0,7.5e-05,0.999925,0.0
+2022,OH-03,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Joyce Beatty,Lee R. Stahley,,,68.99584,31.00416,,Joyce Beatty,D,0.999975,2,,,OH-3,37.99168,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9998,0.0002,0.0
+2022,OH-04,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Tamie Wilson,Jim Jordan,,,28.03982,71.96018,,Jim Jordan,R,0.999975,2,,,OH-4,-43.92036,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.0002,0.9998,0.0
+2022,OH-05,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Craig Swartz,Bob Latta,,,31.48497,68.51503,,Bob Latta,R,0.999975,2,,,OH-5,-37.03006,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.001625,0.998375,0.0
+2022,OH-06,House,0.0,1.0,0.0,2022-11-08,deluxe,Louis G. Lyras,Bill Johnson,,,29.03726,70.96274,,Bill Johnson,R,1.0,2,,,OH-6,-41.92548,0.0,1.0,0.0,1.0,0.0,0.001575,0.998425,0.0
+2022,OH-07,House,0.01545,0.98455,0.0,2022-11-08,deluxe,Matthew Diemer,Max Miller,,,41.67342,58.32658,,Max Miller,R,0.98455,2,,,OH-7,-16.65315,0.01545,0.98455,0.046575,0.953425,0.0,0.0899,0.9101,0.0
+2022,OH-08,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Vanessa Enoch,Warren Davidson,,,31.85758,68.14243,,Warren Davidson,R,0.999975,2,,,OH-8,-36.28485,2.5e-05,0.999975,5e-05,0.99995,0.0,0.001725,0.998275,0.0
+2022,OH-09,House,0.77815,0.22185,0.0,2022-11-08,deluxe,Marcy Kaptur,J.R. Majewski,,,52.47076,47.52924,,Marcy Kaptur,D,0.77815,2,,,OH-9,4.941521,0.77815,0.22185,0.6365,0.3635,5.551115123125783e-17,0.718,0.282,5.551115123125783e-17
+2022,OH-10,House,0.0023,0.9977,0.0,2022-11-08,deluxe,David Esrati,Mike Turner,,,39.07141,60.92859,,Mike Turner,R,0.9977,2,,,OH-10,-21.85718,0.0023,0.9977,0.00385,0.99615,0.0,0.0468,0.9532,0.0
+2022,OH-11,House,1.0,0.0,0.0,2022-11-08,deluxe,Shontel Brown,Eric J. Brewer,,,77.01112,22.98887,,Shontel Brown,D,1.0,2,,,OH-11,54.02225,1.0,0.0,1.0,0.0,0.0,0.999975,2.5e-05,5.275660008678684e-17
+2022,OH-12,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Amy Rippel-Elton,Troy Balderson,,,31.33113,68.66887,,Troy Balderson,R,0.999925,2,,,OH-12,-37.33774,7.5e-05,0.999925,0.0001,0.9999,0.0,0.000725,0.999275,0.0
+2022,OH-13,House,0.18615,0.81385,0.0,2022-11-08,deluxe,Emilia Sykes,Madison Gesiotto Gilbert,,,47.45262,52.54738,,Madison Gesiotto Gilbert,R,0.81385,2,,,OH-13,-5.094765,0.18615,0.81385,0.348225,0.651775,0.0,0.424675,0.575325,0.0
+2022,OH-14,House,0.0004,0.9996,0.0,2022-11-08,deluxe,Matt Kilboy,David P. Joyce,,,36.0336,63.9664,,David P. Joyce,R,0.9996,2,,,OH-14,-27.9328,0.0004,0.9996,0.000625,0.999375,0.0,0.010725,0.989275,0.0
+2022,OH-15,House,0.001475,0.998525,0.0,2022-11-08,deluxe,Gary Josephson,Mike Carey,,,38.51031,61.48969,,Mike Carey,R,0.998525,2,,,OH-15,-22.97937,0.001475,0.998525,0.0026,0.9974,0.0,0.02535,0.97465,0.0
+2022,OK-01,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Adam Martin,Kevin Hern,Evelyn L. Rogers,I,31.90264,64.77052,3.32684,Kevin Hern,R,0.999925,3,,,OK-1,-32.86789,7.5e-05,0.999925,0.00015,0.99985,0.0,0.001075,0.998925,0.0
+2022,OK-02,House,0.0,1.0,0.0,2022-11-08,deluxe,Naomi Andrews,Josh Brecheen,Bulldog Ben Robinson,I,20.1038,75.70393,4.192273,Josh Brecheen,R,1.0,3,,,OK-2,-55.60013,0.0,1.0,0.0,1.0,0.0,5e-05,0.99995,0.0
+2022,OK-03,House,0.0,1.0,0.0,2022-11-08,deluxe,Jeremiah A. Ross,Frank D. Lucas,,,22.68271,77.31729,,Frank D. Lucas,R,1.0,2,,,OK-3,-54.63458,0.0,1.0,0.0,1.0,0.0,2.5e-05,0.999975,0.0
+2022,OK-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Mary Brannon,Tom Cole,,,27.94951,72.05049,,Tom Cole,R,1.0,2,,,OK-4,-44.10098,0.0,1.0,0.0,1.0,0.0,0.000525,0.999475,0.0
+2022,OK-05,House,0.0003,0.9997,0.0,2022-11-08,deluxe,Joshua Harris-Till,Stephanie Bice,David K. Frosch,I,34.45315,62.26309,3.283758,Stephanie Bice,R,0.9997,3,,,OK-5,-27.80994,0.0003,0.9997,0.0004,0.9996,0.0,0.0019,0.9981,0.0
+2022,OR-01,House,0.9999,0.0001,0.0,2022-11-08,deluxe,Suzanne Bonamici,Christopher A. Mann,,,66.6525,33.3475,,Suzanne Bonamici,D,0.9999,2,,,OR-1,33.30499,0.9999,0.0001,0.9999,0.0001,0.0,0.999125,0.000875,0.0
+2022,OR-02,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Joe Yetter,Cliff S. Bentz,,,32.25757,67.74243,,Cliff S. Bentz,R,0.999925,2,,,OR-2,-35.48486,7.5e-05,0.999925,7.5e-05,0.999925,0.0,0.0018,0.9982,0.0
+2022,OR-03,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Earl Blumenauer,Joanna Harbour,David E. Delk,I,67.79613,27.8851,4.31878,Earl Blumenauer,D,0.999975,3,,,OR-3,39.91103,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9999,0.0001,0.0
+2022,OR-04,House,0.878425,0.121575,0.0,2022-11-08,deluxe,Val Hoyle,Alek Skarlatos,all others,O,50.89005,43.89717,5.212783,Val Hoyle,D,0.878425,3,,,OR-4,6.992882,0.878425,0.121575,0.800375,0.199625,5.551115123125783e-17,0.668725,0.331275,0.0
+2022,OR-05,House,0.423225,0.576775,0.0,2022-11-08,deluxe,Jamie McLeod-Skinner,Lori Chavez-DeRemer,,,49.39613,50.60387,,Lori Chavez-DeRemer,R,0.576775,2,,,OR-5,-1.207748,0.423225,0.576775,0.387025,0.612975,0.0,0.34155,0.65845,0.0
+2022,OR-06,House,0.7192,0.2808,5.551115123125783e-17,2022-11-08,deluxe,Andrea Salinas,Mike Erickson,Larry D. McFarland,I,49.54757,45.81145,4.640982,Andrea Salinas,D,0.7192,3,,,OR-6,3.736111,0.7192,0.2808,0.5982,0.4018,5.551115123125783e-17,0.3182329558238956,0.6817670441761045,0.0
+2022,PA-01,House,0.007325,0.992675,0.0,2022-11-08,deluxe,Ashley Ehasz,Brian Fitzpatrick,,,41.93943,58.06057,,Brian Fitzpatrick,R,0.992675,2,,,PA-1,-16.12114,0.007325,0.992675,0.0162,0.9838,0.0,0.078075,0.921925,0.0
+2022,PA-02,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Brendan F. Boyle,Aaron Bashir,,,70.82418,29.17582,,Brendan F. Boyle,D,0.999975,2,,,PA-2,41.64836,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.9998,0.0002,0.0
+2022,PA-03,House,0.999975,0.0,2.5000000000052758e-05,2022-11-08,deluxe,Dwight Evans,,Christopher Hoeppner,I,91.19446,,8.80554,Dwight Evans,D,0.999975,2,,,PA-3,91.19446,0.999975,2.5e-05,0.999975,0.0,2.5000000000052758e-05,0.999975,0.0,2.5000000000052758e-05
+2022,PA-04,House,0.98715,0.01285,2.7755575615628914e-17,2022-11-08,deluxe,Madeleine Dean,Christian Nascimento,,,58.27028,41.72972,,Madeleine Dean,D,0.98715,2,,,PA-4,16.54056,0.98715,0.01285,0.972525,0.027475,2.7755575615628914e-17,0.977675,0.022325,3.8163916471489756e-17
+2022,PA-05,House,0.99935,0.00065,3.946495907847236e-17,2022-11-08,deluxe,Mary Gay Scanlon,David Galluch,,,62.54466,37.45534,,Mary Gay Scanlon,D,0.99935,2,,,PA-5,25.08932,0.99935,0.00065,0.99925,0.00075,2.8406096919120216e-17,0.998525,0.001475,4.119968255444917e-18
+2022,PA-06,House,0.958,0.042,3.469446951953614e-17,2022-11-08,deluxe,Chrissy Houlahan,Guy Louis Ciarrocchi,,,56.19343,43.80657,,Chrissy Houlahan,D,0.958,2,,,PA-6,12.38686,0.958,0.042,0.902675,0.097325,0.0,0.942625,0.057375,0.0
+2022,PA-07,House,0.438775,0.561225,0.0,2022-11-08,deluxe,Susan Wild,Lisa Scheller,,,49.57935,50.42065,,Lisa Scheller,R,0.561225,2,,,PA-7,-0.8413086,0.438775,0.561225,0.333825,0.666175,0.0,0.463475,0.536525,0.0
+2022,PA-08,House,0.592975,0.407025,0.0,2022-11-08,deluxe,Matt Cartwright,Jim Bognet,,,50.68027,49.31973,,Matt Cartwright,D,0.592975,2,,,PA-8,1.360542,0.592975,0.407025,0.5348,0.4652,0.0,0.681575,0.318425,0.0
+2022,PA-09,House,0.0,1.0,0.0,2022-11-08,deluxe,Amanda R. Waldman,Dan Meuser,,,26.78738,73.21262,,Dan Meuser,R,1.0,2,,,PA-9,-46.42524,0.0,1.0,0.0,1.0,0.0,5e-05,0.99995,0.0
+2022,PA-10,House,0.02565,0.97435,0.0,2022-11-08,deluxe,Shamaine Daniels,Scott Perry,,,43.11545,56.88455,,Scott Perry,R,0.97435,2,,,PA-10,-13.7691,0.02565,0.97435,0.124,0.876,0.0,0.227075,0.772925,0.0
+2022,PA-11,House,0.000275,0.999725,0.0,2022-11-08,deluxe,Bob Hollister,Lloyd K. Smucker,,,35.05892,64.94109,,Lloyd K. Smucker,R,0.999725,2,,,PA-11,-29.88217,0.000275,0.999725,0.00035,0.99965,0.0,0.00205,0.99795,0.0
+2022,PA-12,House,0.98085,0.01915,0.0,2022-11-08,deluxe,Summer Lee,Mike Doyle,,,56.0856,43.9144,,Summer Lee,D,0.98085,2,,,PA-12,12.1712,0.98085,0.01915,0.9686,0.0314,0.0,0.91345,0.08655,1.3877787807814457e-17
+2022,PA-13,House,0.0,1.0,0.0,2022-11-08,deluxe,,John Joyce,,,,100.0,,John Joyce,R,1.0,1,,,PA-13,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,PA-14,House,0.0,1.0,0.0,2022-11-08,deluxe,,Guy Reschenthaler,,,,100.0,,Guy Reschenthaler,R,1.0,1,,,PA-14,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,PA-15,House,0.0,1.0,0.0,2022-11-08,deluxe,Michael Molesevich,Glenn “GT” Thompson,,,26.68294,73.31706,,Glenn “GT” Thompson,R,1.0,2,,,PA-15,-46.63412,0.0,1.0,0.0,1.0,0.0,0.000325,0.999675,0.0
+2022,PA-16,House,0.0003,0.9997,0.0,2022-11-08,deluxe,Dan Pastore,Mike Kelly,,,36.08538,63.91462,,Mike Kelly,R,0.9997,2,,,PA-16,-27.82924,0.0003,0.9997,0.000525,0.999475,0.0,0.003925,0.996075,0.0
+2022,PA-17,House,0.542113552838821,0.457886447161179,0.0,2022-11-08,deluxe,Chris Deluzio,Jeremy Shaffer,,,50.30654,49.69346,,Chris Deluzio,D,0.5421,2,,,PA-17,0.6130829,0.5421,0.457875,0.46425,0.53575,0.0,0.48525,0.51475,0.0
+2022,RI-01,House,0.99995,5e-05,0.0,2022-11-08,deluxe,David N. Cicilline,Allen R. Waters,,,67.86054,32.13946,,David N. Cicilline,D,0.99995,2,,,RI-1,35.72108,0.99995,5e-05,0.999925,7.5e-05,4.7257662193211925e-17,0.9983,0.0017,3.491130995403324e-17
+2022,RI-02,House,0.53745,0.46255,0.0,2022-11-08,deluxe,Seth M. Magaziner,Allan W. Fung,William H. Gilbert,I,48.57824,47.87975,3.542011,Seth M. Magaziner,D,0.53745,3,,,RI-2,0.6984978,0.53745,0.46255,0.480925,0.519075,0.0,0.172325,0.82765,2.4999999999941735e-05
+2022,SC-01,House,0.003775,0.996225,0.0,2022-11-08,deluxe,Annie Andrews,Nancy Mace,Joseph Oddo,I,38.47791,58.72696,2.795126,Nancy Mace,R,0.996225,3,,,SC-1,-20.24905,0.003775,0.996225,0.007275,0.992725,0.0,0.0103,0.9897,0.0
+2022,SC-02,House,0.001075,0.998925,0.0,2022-11-08,deluxe,Judd Larkins,Joe Wilson,,,37.76031,62.23969,,Joe Wilson,R,0.998925,2,,,SC-2,-24.47937,0.001075,0.998925,0.00165,0.99835,0.0,0.00695,0.99305,0.0
+2022,SC-03,House,0.0,1.0,0.0,2022-11-08,deluxe,,Jeff Duncan,,,,100.0,,Jeff Duncan,R,1.0,1,,,SC-3,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,SC-04,House,0.0,1.0,0.0,2022-11-08,deluxe,,William Timmons,,,,100.0,,William Timmons,R,1.0,1,,,SC-4,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,SC-05,House,7.5e-05,0.9999,2.4999999999941735e-05,2022-11-08,deluxe,Evangeline Hundley,Ralph Norman,Larry Gaither,I,32.77206,64.35724,2.8707,Ralph Norman,R,0.9999,3,,,SC-5,-31.58518,0.0001,0.9999,0.000125,0.99985,2.4999999999941735e-05,0.00195,0.998025,2.4999999999941735e-05
+2022,SC-06,House,0.999125,0.000875,0.0,2022-11-08,deluxe,James E. “Jim” Clyburn,Duke Buckner,,,62.2812,37.7188,,James E. “Jim” Clyburn,D,0.999125,2,,,SC-6,24.56239,0.999125,0.000875,0.999,0.001,8.673617379884035e-19,0.998275,0.001725,0.0
+2022,SC-07,House,0.000175,0.999825,0.0,2022-11-08,deluxe,Daryl W. Scott,Russell Fry,,,34.40479,65.59521,,Russell Fry,R,0.999825,2,,,SC-7,-31.19043,0.000175,0.999825,0.00025,0.99975,0.0,0.01575,0.98425,0.0
+2022,SD-AL,House,0.0,0.99985,0.00014999999999998348,2022-11-08,deluxe,,Dusty Johnson,Collin Duprel,I,,84.6076,15.39239,Dusty Johnson,R,0.99985,2,,,SD-1,-84.6076,5e-05,0.99995,0.0,0.99985,0.00014999999999998348,0.0,0.99985,0.00014999999999998348
+2022,TN-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Cameron Parsons,Diana Lynn Harshbarger,all others,O,17.47289,78.74256,3.784556,Diana Lynn Harshbarger,R,1.0,3,,,TN-1,-61.26968,0.0,1.0,0.0,1.0,0.0,2.5e-05,0.999975,0.0
+2022,TN-02,House,0.0,1.0,0.0,2022-11-08,deluxe,Mark Harmon,Tim Burchett,,,29.31039,70.68961,,Tim Burchett,R,1.0,2,,,TN-2,-41.37922,0.0,1.0,0.0,1.0,0.0,0.0004,0.9996,0.0
+2022,TN-03,House,0.0,1.0,0.0,2022-11-08,deluxe,Meg Gorman,Chuck Fleischmann,all others,O,27.26361,69.20218,3.534212,Chuck Fleischmann,R,1.0,3,,,TN-3,-41.93857,0.0,1.0,0.0,1.0,0.0,0.000275,0.999725,0.0
+2022,TN-04,House,0.0,1.0,0.0,2022-11-08,deluxe,Wayne Steele,Scott DesJarlais,all others,O,25.09259,70.1848,4.722606,Scott DesJarlais,R,1.0,3,,,TN-4,-45.09221,0.0,1.0,0.0,1.0,0.0,0.00015,0.99985,0.0
+2022,TN-05,House,0.017575,0.982425,0.0,2022-11-08,deluxe,Heidi Campbell,Andy Ogles,all others,O,41.29048,55.55069,3.158835,Andy Ogles,R,0.982425,3,,,TN-5,-14.26021,0.017575,0.982425,0.0555,0.9445,0.0,0.236925,0.763075,0.0
+2022,TN-06,House,0.0,1.0,0.0,2022-11-08,deluxe,Randal Cooper,John Rose,,,27.58158,72.41841,,John Rose,R,1.0,2,,,TN-6,-44.83683,0.0,1.0,0.0,1.0,0.0,0.000475,0.999525,0.0
+2022,TN-07,House,0.000275,0.9997,2.4999999999941735e-05,2022-11-08,deluxe,Odessa Kelly,Mark E. Green,Steven J. Hooper,I,34.41331,62.59513,2.991548,Mark E. Green,R,0.9997,3,,,TN-7,-28.18182,0.0003,0.9997,0.00045,0.999525,2.5000000000052758e-05,0.004825,0.99515,2.5000000000052758e-05
+2022,TN-08,House,0.0,1.0,0.0,2022-11-08,deluxe,Lynnette P. Williams,David Kustoff,all others,O,24.38625,72.01773,3.596025,David Kustoff,R,1.0,3,,,TN-8,-47.63148,0.0,1.0,0.0,1.0,0.0,5e-05,0.99995,0.0
+2022,TN-09,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Steve Cohen,Charlotte Bergmann,all others,O,68.59885,27.44134,3.959807,Steve Cohen,D,0.999975,3,,,TN-9,41.1575,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.99975,0.00025,0.0
+2022,TX-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Jrmar “JJ” Jefferson,Nathaniel Moran,,,23.32329,76.67671,,Nathaniel Moran,R,1.0,2,,,TX-1,-53.35342,0.0,1.0,2.5e-05,0.999975,0.0,0.0002,0.9998,0.0
+2022,TX-02,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Robin Fulford,Dan Crenshaw,,,33.83055,66.16945,,Dan Crenshaw,R,0.9999,2,,,TX-2,-32.3389,0.0001,0.9999,0.000125,0.999875,0.0,0.000625,0.999375,0.0
+2022,TX-03,House,0.00065,0.99935,0.0,2022-11-08,deluxe,Sandeep Srivastava,Keith Self,Christopher Claytor,I,35.63921,60.95607,3.404715,Keith Self,R,0.99935,3,,,TX-3,-25.31686,0.00065,0.99935,0.001475,0.998525,0.0,0.014525,0.985475,0.0
+2022,TX-04,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Iro Omere,Pat Fallon,John Simmons,I,30.29447,66.72499,2.980534,Pat Fallon,R,0.999975,3,,,TX-4,-36.43052,2.5e-05,0.999975,7.5e-05,0.999925,0.0,0.001,0.999,0.0
+2022,TX-05,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Tartisha Hill,Lance Gooden,Kevin A. Hale,I,32.69723,64.35689,2.945885,Lance Gooden,R,0.9999,3,,,TX-5,-31.65966,0.0001,0.9999,0.000225,0.999775,0.0,0.0012,0.9988,0.0
+2022,TX-06,House,0.0,1.0,0.0,2022-11-08,deluxe,,Jake Ellzey,,,,100.0,,Jake Ellzey,R,1.0,1,,,TX-6,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,TX-07,House,0.990925,0.009075,5.551115123125783e-17,2022-11-08,deluxe,Lizzie Fletcher,Johnny Teague,,,59.36543,40.63457,,Lizzie Fletcher,D,0.990925,2,,,TX-7,18.73087,0.990925,0.009075,0.986375,0.013625,0.0,0.994125,0.005875,0.0
+2022,TX-08,House,0.0002,0.9998,0.0,2022-11-08,deluxe,Laura Jones,Morgan Luttrell,Roy Eriksen,I,33.58939,62.97746,3.433156,Morgan Luttrell,R,0.9998,3,,,TX-8,-29.38807,0.0002,0.9998,0.000325,0.999675,0.0,0.00795,0.99205,0.0
+2022,TX-09,House,1.0,0.0,0.0,2022-11-08,deluxe,Al Green,Jimmy I. Leon,,,74.41232,25.58768,,Al Green,D,1.0,2,,,TX-9,48.82465,1.0,0.0,1.0,0.0,0.0,0.999875,0.000125,4.174178364069192e-17
+2022,TX-10,House,0.0005,0.9995,0.0,2022-11-08,deluxe,Linda Nuno,Michael McCaul,Bill Kelsey,I,34.67949,62.40328,2.917237,Michael McCaul,R,0.9995,3,,,TX-10,-27.72379,0.0005,0.9995,0.000725,0.999275,0.0,0.002975,0.997025,0.0
+2022,TX-11,House,0.0,1.0,0.0,2022-11-08,deluxe,,August Pfluger,,,,100.0,,August Pfluger,R,1.0,1,,,TX-11,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,TX-12,House,7.5e-05,0.999925,0.0,2022-11-08,deluxe,Trey J. Hunt,Kay Granger,,,33.2317,66.7683,,Kay Granger,R,0.999925,2,,,TX-12,-33.53661,7.5e-05,0.999925,0.0001,0.9999,0.0,0.00165,0.99835,0.0
+2022,TX-13,House,0.0,1.0,0.0,2022-11-08,deluxe,Kathleen Brown,Ronny Jackson,,,26.80879,73.19122,,Ronny Jackson,R,1.0,2,,,TX-13,-46.38243,0.0,1.0,2.5e-05,0.999975,0.0,0.0001,0.9999,0.0
+2022,TX-14,House,0.0,1.0,0.0,2022-11-08,deluxe,Mikal Williams,Randy Weber,,,30.01884,69.98116,,Randy Weber,R,1.0,2,,,TX-14,-39.96233,0.0,1.0,0.0,1.0,0.0,0.000325,0.999675,0.0
+2022,TX-15,House,0.54105,0.4589,4.999999999999449e-05,2022-11-08,deluxe,Michelle Vallejo,Monica De La Cruz,Ross Lynn Leone Jr.,I,48.85709,48.0617,3.081214,Michelle Vallejo,D,0.54105,3,,,TX-15,0.7953873,0.541075,0.458925,0.61595,0.384,4.999999999999449e-05,0.36065,0.639275,7.499999999993623e-05
+2022,TX-16,House,0.999525,0.000475,3.198396408832238e-18,2022-11-08,deluxe,Veronica Escobar,Irene Armendariz-Jackson,,,65.2977,34.7023,,Veronica Escobar,D,0.999525,2,,,TX-16,30.5954,0.999525,0.000475,0.999475,0.000525,0.0,0.998225,0.001775,0.0
+2022,TX-17,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Mary Jo Woods,Pete Sessions,,,33.99205,66.00795,,Pete Sessions,R,0.9999,2,,,TX-17,-32.0159,0.0001,0.9999,0.000175,0.999825,0.0,0.001675,0.998325,0.0
+2022,TX-18,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Sheila Jackson Lee,Carmen Maria Montiel,all others,O,68.4648,28.06851,3.466692,Sheila Jackson Lee,D,0.999975,3,,,TX-18,40.39629,0.999975,2.5e-05,0.99995,5e-05,0.0,0.99975,0.00025,0.0
+2022,TX-19,House,0.0,1.0,0.0,2022-11-08,deluxe,,Jodey C. Arrington,Nathan Lewis,I,,88.30928,11.69072,Jodey C. Arrington,R,1.0,2,,,TX-19,-88.30928,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,TX-20,House,0.9988,0.0012,0.0,2022-11-08,deluxe,Joaquin Castro,Kyle Sinclair,,,62.89309,37.10691,,Joaquin Castro,D,0.9988,2,,,TX-20,25.78618,0.9988,0.0012,0.9985,0.0015,0.0,0.9958,0.0042,0.0
+2022,TX-21,House,0.00055,0.99945,0.0,2022-11-08,deluxe,Claudia Andreana Zapata,Chip Roy,,,37.24548,62.75452,,Chip Roy,R,0.99945,2,,,TX-21,-25.50904,0.00055,0.99945,0.00105,0.99895,0.0,0.001725,0.998275,0.0
+2022,TX-22,House,0.000275,0.999725,0.0,2022-11-08,deluxe,Jamie Kaye Jordan,Troy E. Nehls,Joseph Leblanc,I,34.09295,62.98973,2.917326,Troy E. Nehls,R,0.999725,3,,,TX-22,-28.89678,0.000275,0.999725,0.00045,0.99955,0.0,0.001825,0.998175,0.0
+2022,TX-23,House,0.003975,0.996025,0.0,2022-11-08,deluxe,John Lira,Tony Gonzales,Frank Lopez Jr.,I,37.73498,58.25516,4.009859,Tony Gonzales,R,0.996025,3,,,TX-23,-20.52018,0.003975,0.996025,0.008325,0.991675,0.0,0.0342,0.9658,0.0
+2022,TX-24,House,0.001125,0.998875,0.0,2022-11-08,deluxe,Jan McDowell,Beth Van Duyne,,,37.91191,62.08809,,Beth Van Duyne,R,0.998875,2,,,TX-24,-24.17618,0.001125,0.998875,0.001725,0.998275,0.0,0.00255,0.99745,0.0
+2022,TX-25,House,0.0,1.0,0.0,2022-11-08,deluxe,,Roger Williams,,,,100.0,,Roger Williams,R,1.0,1,,,TX-25,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,TX-26,House,0.0,0.999875,0.00012500000000004174,2022-11-08,deluxe,,Michael C. Burgess,Mike Kolls,I,,83.5714,16.4286,Michael C. Burgess,R,0.999875,2,,,TX-26,-83.5714,7.5e-05,0.999925,0.0,0.999875,0.00012500000000004174,0.0,0.999875,0.00012500000000004174
+2022,TX-27,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Maclovio Perez Jr.,Michael Cloud,,,31.61827,68.38173,,Michael Cloud,R,0.999975,2,,,TX-27,-36.76346,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.001325,0.998675,0.0
+2022,TX-28,House,0.758925,0.241075,2.7755575615628914e-17,2022-11-08,deluxe,Henry Cuellar,Cassy Garcia,,,52.70248,47.29752,,Henry Cuellar,D,0.758925,2,,,TX-28,5.404953,0.758925,0.241075,0.693375,0.306625,5.551115123125783e-17,0.870875,0.129125,5.551115123125783e-17
+2022,TX-29,House,0.999925,7.5e-05,4.7257662193211925e-17,2022-11-08,deluxe,Sylvia Garcia,Robert Schafranek,,,69.13277,30.86723,,Sylvia Garcia,D,0.999925,2,,,TX-29,38.26553,0.999925,7.5e-05,0.9999,0.0001,0.0,0.9987,0.0013,0.0
+2022,TX-30,House,1.0,0.0,0.0,2022-11-08,deluxe,Jasmine Crockett,James Rodgers,all others,O,71.23474,24.63714,4.128125,Jasmine Crockett,D,1.0,3,,,TX-30,46.5976,1.0,0.0,1.0,0.0,0.0,0.999775,0.000225,3.073713158996405e-17
+2022,TX-31,House,0.0,1.0,0.0,2022-11-08,deluxe,,John Carter,,,,100.0,,John Carter,R,1.0,1,,,TX-31,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,TX-32,House,0.9966,0.0034,0.0,2022-11-08,deluxe,Colin Allred,Antonio Swad,,,60.41987,39.58013,,Colin Allred,D,0.9966,2,,,TX-32,20.83974,0.9966,0.0034,0.9955,0.0045,0.0,0.995725,0.004275,2.862293735361732e-17
+2022,TX-33,House,1.0,0.0,0.0,2022-11-08,deluxe,Marc Veasey,Patrick David Gillespie,Ken Ashby,I,69.53481,27.36494,3.100261,Marc Veasey,D,1.0,3,,,TX-33,42.16987,1.0,0.0,1.0,0.0,0.0,0.999675,0.000325,1.973247953923618e-17
+2022,TX-34,House,0.478225,0.521725,4.999999999999449e-05,2022-11-08,deluxe,Vicente Gonzalez,Mayra Flores,Chris Royal,I,48.5934,48.91779,2.488807,Mayra Flores,R,0.521725,3,,,TX-34,-0.3243866,0.47825,0.52175,0.565975,0.433975,4.999999999999449e-05,0.736425,0.263525,4.999999999999449e-05
+2022,TX-35,House,1.0,0.0,0.0,2022-11-08,deluxe,Greg Casar,Dan McQueen,,,69.21364,30.78637,,Greg Casar,D,1.0,2,,,TX-35,38.42727,1.0,0.0,1.0,0.0,0.0,0.997325,0.002675,0.0
+2022,TX-36,House,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Jon Haire,Brian Babin,,,27.84249,72.15751,,Brian Babin,R,0.999975,2,,,TX-36,-44.31502,2.5e-05,0.999975,2.5e-05,0.999975,0.0,0.000275,0.999725,0.0
+2022,TX-37,House,1.0,0.0,0.0,2022-11-08,deluxe,Lloyd Doggett,Jenny Garcia Sharon,Clark Patterson,I,67.6618,29.23731,3.100887,Lloyd Doggett,D,1.0,3,,,TX-37,38.42448,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,TX-38,House,0.0004,0.999575,2.5000000000052758e-05,2022-11-08,deluxe,Duncan F. Klussmann,Wesley Hunt,Joel Dejean,I,34.26171,62.29603,3.442259,Wesley Hunt,R,0.999575,3,,,TX-38,-28.03431,0.000425,0.999575,0.00055,0.999425,2.4999999999941735e-05,0.006775,0.9932,2.5000000000052758e-05
+2022,UT-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Rick Edwin Jones,Blake D. Moore,,,32.53304,67.46696,,Blake D. Moore,R,1.0,2,,,UT-1,-34.93391,0.0,1.0,0.0,1.0,0.0,0.00515,0.99485,0.0
+2022,UT-02,House,0.000575,0.999425,0.0,2022-11-08,deluxe,Nick Mitchell,Chris Stewart,all others,O,32.57728,58.50714,8.915582,Chris Stewart,R,0.999425,3,,,UT-2,-25.92986,0.000575,0.999425,0.00105,0.99895,0.0,0.013725,0.986275,0.0
+2022,UT-03,House,0.000175,0.999825,0.0,2022-11-08,deluxe,Glenn J. Wright,John Curtis,all others,O,29.63718,60.10313,10.2597,John Curtis,R,0.999825,3,,,UT-3,-30.46595,0.000175,0.999825,0.000275,0.999725,0.0,0.00885,0.99115,0.0
+2022,UT-04,House,0.0004,0.9996,0.0,2022-11-08,deluxe,Darlene McDonald,Burgess Owens,January Walker,I,32.49998,60.16683,7.333187,Burgess Owens,R,0.9996,3,,,UT-4,-27.66685,0.0004,0.9996,0.000475,0.999525,0.0,0.00585,0.99415,0.0
+2022,VA-01,House,0.002175,0.997825,0.0,2022-11-08,deluxe,Herbert C. “Herb” Jones Jr.,Rob J. Wittman,David Bruce Foster,I,37.41155,59.55924,3.029207,Rob J. Wittman,R,0.997825,3,,,VA-1,-22.14769,0.002175,0.997825,0.003325,0.996675,0.0,0.015925,0.984075,0.0
+2022,VA-02,House,0.477825,0.522175,1.1102230246251565e-16,2022-11-08,deluxe,Elaine G. Luria,Jen A. Kiggans,,,49.82608,50.17392,,Jen A. Kiggans,R,0.522175,2,,,VA-2,-0.347847,0.477825,0.522175,0.389275,0.610725,0.0,0.56575,0.43425,0.0
+2022,VA-03,House,0.999775,0.000225,3.073713158996405e-17,2022-11-08,deluxe,Robert C. “Bobby” Scott,Terry T. Namkung,,,65.33395,34.66605,,Robert C. “Bobby” Scott,D,0.999775,2,,,VA-3,30.66791,0.999775,0.000225,0.999775,0.000225,3.073713158996405e-17,0.999125,0.000875,0.0
+2022,VA-04,House,0.999625,0.000375,1.4203048459560108e-17,2022-11-08,deluxe,A. Donald McEachin,Leon Benjamin Sr.,,,63.33135,36.66865,,A. Donald McEachin,D,0.999625,2,,,VA-4,26.6627,0.999625,0.000375,0.999575,0.000425,8.72782748850831e-18,0.9994,0.0006,4.4994390158148434e-17
+2022,VA-05,House,0.005,0.995,0.0,2022-11-08,deluxe,Joshua M. Throneburg,Robert G. “Bob” Good,,,40.20173,59.79827,,Robert G. “Bob” Good,R,0.995,2,,,VA-5,-19.59654,0.005,0.995,0.009525,0.990475,0.0,0.0188,0.9812,0.0
+2022,VA-06,House,0.000125,0.999875,0.0,2022-11-08,deluxe,Jennifer Lynn Lewis,Ben L. Cline,,,32.83909,67.16091,,Ben L. Cline,R,0.999875,2,,,VA-6,-34.32182,0.000125,0.999875,0.00015,0.99985,0.0,0.0012,0.9988,0.0
+2022,VA-07,House,0.718875,0.281125,0.0,2022-11-08,deluxe,Abigail A. Spanberger,Yesli I. Vega,,,51.58407,48.41593,,Abigail A. Spanberger,D,0.718875,2,,,VA-7,3.168137,0.718875,0.281125,0.565575,0.434425,0.0,0.651725,0.348275,0.0
+2022,VA-08,House,1.0,0.0,0.0,2022-11-08,deluxe,Donald S. Beyer Jr.,Karina A. Lipsman,Teddy Fikre,I,70.89877,25.74111,3.360117,Donald S. Beyer Jr.,D,1.0,3,,,VA-8,45.15766,1.0,0.0,1.0,0.0,0.0,0.99995,5e-05,0.0
+2022,VA-09,House,0.0,1.0,0.0,2022-11-08,deluxe,Taysha Lee DeVaughan,H. Morgan Griffith,,,24.62342,75.37658,,H. Morgan Griffith,R,1.0,2,,,VA-9,-50.75316,0.0,1.0,0.0,1.0,0.0,0.000125,0.999875,0.0
+2022,VA-10,House,0.93335,0.06665,0.0,2022-11-08,deluxe,Jennifer T. Wexton,Hung Cao,,,54.95203,45.04797,,Jennifer T. Wexton,D,0.93335,2,,,VA-10,9.90406,0.93335,0.06665,0.87385,0.12615,0.0,0.79255,0.20745,2.7755575615628914e-17
+2022,VA-11,House,0.99995,5e-05,0.0,2022-11-08,deluxe,Gerald E. “Gerry” Connolly,James G. “Jim” Myles,,,67.10792,32.89208,,Gerald E. “Gerry” Connolly,D,0.99995,2,,,VA-11,34.21584,0.99995,5e-05,0.9999,0.0001,0.0,0.9985,0.0015,0.0
+2022,VT-AL,House,0.9999,0.0001,0.0,2022-11-08,deluxe,Becca Balint,Liam Madden,Ericka Redic,I,58.26394,29.5062,6.421129,Becca Balint,D,0.9999,4,,,VT-1,28.75774,0.9999,0.0001,0.999875,0.000125,4.174178364069192e-17,0.99945,0.00055,5.0415401020575956e-17
+2022,WA-01,House,0.99705,0.00295,8.239936510889834e-18,2022-11-08,deluxe,Suzan DelBene,Vincent J. Cavaleri,,,61.28245,38.71755,,Suzan DelBene,D,0.99705,2,,,WA-1,22.5649,0.99705,0.00295,0.996075,0.003925,0.0,0.9935,0.0065,0.0
+2022,WA-02,House,0.99895,0.00105,0.0,2022-11-08,deluxe,Rick Larsen,Dan Matthews,,,62.44647,37.55353,,Rick Larsen,D,0.99895,2,,,WA-2,24.89294,0.99895,0.00105,0.998725,0.001275,2.6020852139652106e-17,0.983325,0.016675,0.0
+2022,WA-03,House,0.02195,0.97805,0.0,2022-11-08,deluxe,Marie Gluesenkamp Perez,Joe Kent,,,43.59238,56.40762,,Joe Kent,R,0.97805,2,,,WA-3,-12.81524,0.02195,0.97805,0.040425,0.959575,0.0,0.1529,0.8471,0.0
+2022,WA-04,House,0.0001,0.9999,0.0,2022-11-08,deluxe,Doug White,Dan Newhouse,,,32.84942,67.15057,,Dan Newhouse,R,0.9999,2,,,WA-4,-34.30115,0.0001,0.9999,0.00015,0.99985,0.0,0.004025,0.995975,0.0
+2022,WA-05,House,0.00475,0.99525,0.0,2022-11-08,deluxe,Natasha Hill,Cathy McMorris Rodgers,,,39.59417,60.40583,,Cathy McMorris Rodgers,R,0.99525,2,,,WA-5,-20.81166,0.00475,0.99525,0.008225,0.991775,0.0,0.016975,0.983025,0.0
+2022,WA-06,House,0.9902,0.0098,3.122502256758253e-17,2022-11-08,deluxe,Derek Kilmer,Elizabeth Kreiselmaier,,,58.8693,41.1307,,Derek Kilmer,D,0.9902,2,,,WA-6,17.7386,0.9902,0.0098,0.983,0.017,1.3877787807814457e-17,0.961125,0.038875,0.0
+2022,WA-07,House,1.0,0.0,0.0,2022-11-08,deluxe,Pramila Jayapal,Cliff Moon,,,84.77013,15.22987,,Pramila Jayapal,D,1.0,2,,,WA-7,69.54025,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2022,WA-08,House,0.7243,0.2757,0.0,2022-11-08,deluxe,Kim Schrier,Matt Larkin,,,51.76283,48.23717,,Kim Schrier,D,0.7243,2,,,WA-8,3.52565,0.7243,0.2757,0.7129,0.2871,0.0,0.695575,0.304425,0.0
+2022,WA-09,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Adam Smith,Doug Basler,,,69.73059,30.26941,,Adam Smith,D,0.999975,2,,,WA-9,39.46118,0.999975,2.5e-05,0.99995,5e-05,0.0,0.99965,0.00035,0.0
+2022,WA-10,House,0.99545,0.00455,5.377642775528102e-17,2022-11-08,deluxe,Marilyn Strickland,Keith R. Swank,,,59.90445,40.09555,,Marilyn Strickland,D,0.99545,2,,,WA-10,19.8089,0.99545,0.00455,0.99305,0.00695,1.214306433183765e-17,0.9467,0.0533,1.3877787807814457e-17
+2022,WI-01,House,0.0052,0.9948,0.0,2022-11-08,deluxe,Ann Roe,Bryan Steil,Charles Barman,I,39.00029,58.07255,2.927157,Bryan Steil,R,0.9948,3,,,WI-1,-19.07226,0.0052,0.9948,0.011375,0.988625,0.0,0.055925,0.944075,0.0
+2022,WI-02,House,0.999925,5e-05,2.500000000004725e-05,2022-11-08,deluxe,Mark Pocan,Erik Olsen,Douglas Alexander,I,65.34641,31.44091,3.212678,Mark Pocan,D,0.999925,3,,,WI-2,33.9055,0.999925,7.5e-05,0.999925,5e-05,2.500000000004725e-05,0.99985,0.00015,0.0
+2022,WI-03,House,0.14935,0.85065,0.0,2022-11-08,deluxe,Brad Pfaff,Derrick Van Orden,,,46.82797,53.17203,,Derrick Van Orden,R,0.85065,2,,,WI-3,-6.344055,0.14935,0.85065,0.110125,0.889875,0.0,0.1191,0.8809,0.0
+2022,WI-04,House,0.999975,2.5e-05,5.275660008678684e-17,2022-11-08,deluxe,Gwen Moore,Tim Rogers,Robert Raymond,I,71.033,25.63945,3.327544,Gwen Moore,D,0.999975,3,,,WI-4,45.39355,0.999975,2.5e-05,0.999975,2.5e-05,5.275660008678684e-17,0.999875,0.000125,4.174178364069192e-17
+2022,WI-05,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Mike Van Someren,Scott Fitzgerald,,,33.18414,66.81586,,Scott Fitzgerald,R,0.99995,2,,,WI-5,-33.63173,5e-05,0.99995,0.0001,0.9999,0.0,0.0016,0.9984,0.0
+2022,WI-06,House,0.0,1.0,0.0,2022-11-08,deluxe,,Glenn Grothman,,,,100.0,,Glenn Grothman,R,1.0,1,,,WI-6,-100.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,WI-07,House,0.000225,0.999775,0.0,2022-11-08,deluxe,Richard Dick Ausman,Tom Tiffany,,,34.07093,65.92906,,Tom Tiffany,R,0.999775,2,,,WI-7,-31.85813,0.000225,0.999775,0.00035,0.99965,0.0,0.006075,0.993925,0.0
+2022,WI-08,House,0.0,1.0,0.0,2022-11-08,deluxe,,Mike Gallagher,all others,O,,80.13477,19.86523,Mike Gallagher,R,1.0,2,,,WI-8,-80.13477,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,WV-01,House,0.0,1.0,0.0,2022-11-08,deluxe,Lacy Watson,Carol Miller,Belinda Fox-Spencer,I,26.76642,70.08115,3.152426,Carol Miller,R,1.0,3,,,WV-1,-43.31473,0.0,1.0,0.0,1.0,0.0,0.000725,0.999275,0.0
+2022,WV-02,House,5e-05,0.99995,0.0,2022-11-08,deluxe,Barry Lee Wendell,Alexander X. Mooney,,,33.29906,66.70094,,Alexander X. Mooney,R,0.99995,2,,,WV-2,-33.40189,5e-05,0.99995,0.00015,0.99985,0.0,0.0005,0.9995,0.0
+2022,WY-AL,House,0.0,1.0,0.0,2022-11-08,deluxe,Lynnette GreyBull,Harriet Hageman,all others,O,24.48915,69.47001,6.040837,Harriet Hageman,R,1.0,3,,,WY-1,-44.98086,0.0,1.0,0.0,1.0,0.0,0.000825,0.999175,0.0
+2022,AK-SEN,Senate,0.00315,0.99685,0.0,2022-11-08,deluxe,Patricia R. Chesbro,Lisa Murkowski,,,22.65438,37.09233,,Lisa Murkowski,R,0.501525,4,,,AK-S3,-54.69124,0.00315,0.99685,0.0041,0.9959000000000001,0.0,0.000375,0.999625,0.0
+2022,AL-SEN,Senate,2.5e-05,0.999975,0.0,2022-11-08,deluxe,Will Boyd,Katie Britt,John Sophocleus,I,33.33854,64.1589,2.502569,Katie Britt,R,0.999975,3,,,AL-S3,-30.82036,2.5e-05,0.999975,5e-05,0.99995,0.0,0.000725,0.999275,0.0
+2022,AR-SEN,Senate,0.000175,0.999825,0.0,2022-11-08,deluxe,Natalie James,John Boozman,Kenneth Cates,I,33.71404,62.54018,3.745784,John Boozman,R,0.999825,3,,,AR-S3,-28.82615,0.000175,0.999825,0.000275,0.999725,0.0,0.0005,0.9995,0.0
+2022,AZ-SEN,Senate,0.66035,0.339625,2.4999999999997247e-05,2022-11-08,deluxe,Mark Kelly,Blake Masters,Marc Victor,I,50.21318,48.02485,1.76197,Mark Kelly,D,0.66035,3,,,AZ-S3,2.188339,0.66035,0.33965,0.654625,0.34535,2.4999999999997247e-05,0.688425,0.31155,2.5000000000052758e-05
+2022,CA-SEN,Senate,0.999125,0.000875,0.0,2022-11-08,deluxe,Alex Padilla,Mark P. Meuser,,,61.17811,38.82189,,Alex Padilla,D,0.999125,2,,,CA-S3,22.35622,0.999125,0.000875,0.9989,0.0011,0.0,0.996275,0.003725,0.0
+2022,CO-SEN,Senate,0.913725,0.086275,0.0,2022-11-08,deluxe,Michael Bennet,Joe O'Dea,all others,O,52.51417,44.54366,2.942176,Michael Bennet,D,0.913725,3,,,CO-S3,7.970509,0.913725,0.086275,0.89695,0.10305,0.0,0.9271,0.0729,0.0
+2022,CT-SEN,Senate,0.993925,0.006075,5.2909066017292616e-17,2022-11-08,deluxe,Richard Blumenthal,Leora R. Levy,,,58.37654,41.62346,,Richard Blumenthal,D,0.993925,2,,,CT-S3,16.75308,0.993925,0.006075,0.9862,0.0138,3.469446951953614e-17,0.98585,0.01415,0.0
+2022,FL-SEN,Senate,0.046425,0.953575,0.0,2022-11-08,deluxe,Val Demings,Marco Rubio,all others,O,44.16895,53.9888,1.84225,Marco Rubio,R,0.953575,3,,,FL-S3,-9.819843,0.046425,0.953575,0.087425,0.912575,0.0,0.0482,0.9518,0.0
+2022,GA-SEN,Senate,0.3677,0.6323,0.0,2022-11-08,deluxe,Raphael Warnock,Herschel Junior Walker,Chase Oliver,I,48.65801,49.88995,1.452037,Herschel Junior Walker,R,0.6323,3,,,GA-S3,-1.231937,0.3677,0.6323,0.461925,0.538075,1.1102230246251565e-16,0.476525,0.523475,0.0
+2022,HI-SEN,Senate,0.99965,0.00035,0.0,2022-11-08,deluxe,Brian Schatz,Bob McDermott,all others,O,65.65414,29.72223,4.62363,Brian Schatz,D,0.99965,3,,,HI-S3,35.9319,0.99965,0.00035,0.99965,0.00035,0.0,0.996225,0.003775,0.0
+2022,IA-SEN,Senate,0.026075,0.973925,0.0,2022-11-08,deluxe,Michael Franken,Chuck Grassley,,,43.63111,56.36889,,Chuck Grassley,R,0.973925,2,,,IA-S3,-12.73777,0.026075,0.973925,0.0366,0.9634,0.0,0.0393,0.9607,0.0
+2022,ID-SEN,Senate,0.0001,0.9999,0.0,2022-11-08,deluxe,David Roth,Mike Crapo,all others,O,27.17673,66.08558,6.737695,Mike Crapo,R,0.9999,3,,,ID-S3,-38.90885,0.0001,0.9999,0.000125,0.999875,0.0,0.000775,0.999225,0.0
+2022,IL-SEN,Senate,0.99675,0.003225,2.499999999997513e-05,2022-11-08,deluxe,Tammy Duckworth,Kathy Salvi,Bill Redpath,I,57.39333,40.41656,2.190114,Tammy Duckworth,D,0.99675,3,,,IL-S3,16.97676,0.996775,0.003225,0.992075,0.0079,2.4999999999959083e-05,0.9938,0.006175,2.499999999998337e-05
+2022,IN-SEN,Senate,0.014325,0.985675,0.0,2022-11-08,deluxe,Thomas McDermott,Todd Young,James Sceniak,I,40.01709,56.92216,3.060748,Todd Young,R,0.985675,3,,,IN-S3,-16.90507,0.014325,0.985675,0.0429,0.9571,0.0,0.11705,0.88295,0.0
+2022,KS-SEN,Senate,0.00075,0.99925,0.0,2022-11-08,deluxe,Mark R. Holland,Jerry Moran,David C. Graham,I,37.24219,59.85038,2.907429,Jerry Moran,R,0.99925,3,,,KS-S3,-22.6082,0.00075,0.99925,0.001275,0.998725,0.0,0.004,0.996,0.0
+2022,KY-SEN,Senate,0.0008,0.9992,0.0,2022-11-08,deluxe,Charles Booker,Rand Paul,,,38.04317,61.95683,,Rand Paul,R,0.9992,2,,,KY-S3,-23.91366,0.0008,0.9992,0.00105,0.99895,0.0,0.013575,0.986425,0.0
+2022,LA-SEN,Senate,0.011375,0.988625,0.0,2022-11-08,deluxe,Luke Mixon,John Kennedy,all others,O,11.80876,43.38193,5.56773,John Kennedy,R,0.931875,7,,,LA-S3,-21.50796,0.011375,0.988625,0.0131,0.9869,0.0,0.019225,0.9807750000000001,0.0
+2022,MD-SEN,Senate,0.999725,0.000275,2.5207700510287978e-17,2022-11-08,deluxe,Chris Van Hollen,Chris Chaffee,,,62.82482,37.17518,,Chris Van Hollen,D,0.999725,2,,,MD-S3,25.64964,0.999725,0.000275,0.999675,0.000325,1.973247953923618e-17,0.995325,0.004675,0.0
+2022,MO-SEN,Senate,0.007775,0.992225,0.0,2022-11-08,deluxe,Trudy Busch Valentine,Eric Schmitt,all others,O,40.58161,57.10267,2.315723,Eric Schmitt,R,0.992225,3,,,MO-S3,-16.52106,0.007775,0.992225,0.031275,0.968725,1.1102230246251565e-16,0.0229,0.9771,0.0
+2022,NC-SEN,Senate,0.177725,0.822275,0.0,2022-11-08,deluxe,Cheri Beasley,Ted Budd,all others,O,46.73638,51.51428,1.749337,Ted Budd,R,0.822275,3,,,NC-S3,-4.777901,0.177725,0.822275,0.254325,0.745675,0.0,0.23425,0.76575,0.0
+2022,ND-SEN,Senate,0.0,1.0,0.0,2022-11-08,deluxe,Katrina Christiansen,John Hoeven,Rick Becker,I,25.11421,70.17234,4.71345,John Hoeven,R,1.0,3,,,ND-S3,-45.05814,0.0,1.0,0.0,1.0,0.0,0.0006,0.9994,0.0
+2022,NH-SEN,Senate,0.72495,0.27505,0.0,2022-11-08,deluxe,Maggie Hassan,Donald C. Bolduc,Jeremy Kauffman,I,50.94444,47.37346,1.6821,Maggie Hassan,D,0.72495,3,,,NH-S3,3.570988,0.72495,0.27505,0.692275,0.307725,0.0,0.70585,0.29415,0.0
+2022,NV-SEN,Senate,0.4878,0.5122,0.0,2022-11-08,deluxe,Catherine Cortez Masto,Adam Paul Laxalt,all others,O,48.63736,48.82564,2.536995,Adam Paul Laxalt,R,0.5122,3,,,NV-S3,-0.1882782,0.4878,0.5122,0.458575,0.541425,0.0,0.416075,0.583925,0.0
+2022,NY-SEN,Senate,0.997625,0.002375,1.6046192152785466e-17,2022-11-08,deluxe,Charles E. Schumer,Joe Pinion,Diane Sare,I,58.59893,39.70152,1.699545,Charles E. Schumer,D,0.997625,3,,,NY-S3,18.89741,0.997625,0.002375,0.995475,0.004525,8.673617379884035e-19,0.998775,0.001225,3.165870343657673e-17
+2022,OH-SEN,Senate,0.127425,0.872575,0.0,2022-11-08,deluxe,Tim Ryan,J.D. Vance,,,46.84191,53.15809,,J.D. Vance,R,0.872575,2,,,OH-S3,-6.316177,0.127425,0.872575,0.173925,0.826075,0.0,0.1411,0.8589,0.0
+2022,OK-SEN,Senate,0.0006,0.9994,0.0,2022-11-08,deluxe,Madison Horn,James Lankford,all others,O,35.53984,61.80845,2.651716,James Lankford,R,0.9994,3,,,OK-S3,-26.26861,0.0006,0.9994,0.001025,0.998975,0.0,0.000575,0.999425,0.0
+2022,OK-SEN-S,Senate,0.002175,0.997825,0.0,2022-11-08,deluxe,Kendra Horn,Markwayne Mullin,all others,O,37.95502,59.5436,2.501378,Markwayne Mullin,R,0.997825,3,,,OK-S2,-21.58858,0.002175,0.997825,0.004675,0.995325,0.0,0.004825,0.995175,0.0
+2022,OR-SEN,Senate,0.9974,0.0026,4.683753385137379e-17,2022-11-08,deluxe,Ron Wyden,Jo Rae Perkins,all others,O,57.15228,39.33905,3.508673,Ron Wyden,D,0.9974,3,,,OR-S3,17.81323,0.9974,0.0026,0.99485,0.00515,0.0,0.993425,0.006575,0.0
+2022,PA-SEN,Senate,0.4266,0.5734,0.0,2022-11-08,deluxe,John Fetterman,Mehmet Oz,all others,O,48.53501,49.46094,2.004054,Mehmet Oz,R,0.5734,3,,,PA-S3,-0.9259262,0.4266,0.5734,0.534475,0.465525,0.0,0.55545,0.44455,0.0
+2022,SC-SEN,Senate,0.00065,0.99935,0.0,2022-11-08,deluxe,Krystle Matthews,Tim Scott,,,37.69814,62.30186,,Tim Scott,R,0.99935,2,,,SC-S3,-24.60373,0.00065,0.99935,0.0008,0.9992,0.0,0.01165,0.98835,0.0
+2022,SD-SEN,Senate,0.000175,0.999825,0.0,2022-11-08,deluxe,Brian L. Bengs,John R. Thune,Tamara J. Lesnar,I,32.40371,64.23008,3.366209,John R. Thune,R,0.999825,3,,,SD-S3,-31.82637,0.000175,0.999825,0.00035,0.99965,0.0,0.000625,0.999375,0.0
+2022,UT-SEN,Senate,0.0,0.96225,0.03774999999999995,2022-11-08,deluxe,,Mike Lee,Evan McMullin,I,,52.47596,38.95208,Mike Lee,R,0.96225,3,,,UT-S3,-13.52388,0.0281,0.9719,0.0,0.953025,0.04697499999999999,0.0,0.900525,0.09947499999999998
+2022,VT-SEN,Senate,0.99985,0.00015,0.0,2022-11-08,deluxe,Peter Welch,Gerald Malloy,all others,O,60.24411,34.50747,5.24843,Peter Welch,D,0.99985,3,,,VT-S3,25.73664,0.99985,0.00015,0.999775,0.000225,3.073713158996405e-17,0.9987,0.0013,0.0
+2022,WA-SEN,Senate,0.91665,0.08335,4.163336342344337e-17,2022-11-08,deluxe,Patty Murray,Tiffany Smiley,,,54.34485,45.65515,,Patty Murray,D,0.91665,2,,,WA-S3,8.689705,0.91665,0.08335,0.8824,0.1176,4.163336342344337e-17,0.882975,0.117025,4.163336342344337e-17
+2022,WI-SEN,Senate,0.188675,0.811325,0.0,2022-11-08,deluxe,Mandela Barnes,Ron Johnson,,,47.59452,52.40548,,Ron Johnson,R,0.811325,2,,,WI-S3,-4.810951,0.188675,0.811325,0.26235,0.73765,0.0,0.25215,0.74785,0.0

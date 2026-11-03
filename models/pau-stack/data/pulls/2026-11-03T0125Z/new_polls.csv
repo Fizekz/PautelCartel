@@ -1,0 +1,6 @@
+race_id,pollster,start_date,end_date,sample_size,population,dem_candidate,dem_pct,rep_candidate,rep_pct,margin_D,other_candidate,other_pct,partisan_sponsor,sponsor,same_party,renamed_from,wiki_section,source_url
+ME-SEN,AtlasIntel,2026-10-28,2026-11-01,967.0,lv,Troy Jackson,53.0,Susan Collins,44.0,9.0,,,,,,,General election > Polling,https://pollstergraph.com/poll/exclusive-atlas-us-me-20261101-senate
+MN-SEN,AtlasIntel,2026-10-28,2026-11-01,2133.0,lv,Peggy Flanagan,48.0,Michele Tafoya,46.0,2.0,,,,,,,General election > Polling,https://pollstergraph.com/poll/exclusive-atlas-us-mn-20261101-senate
+OH-SEN,AtlasIntel,2026-10-28,2026-11-01,1801.0,lv,Sherrod Brown,51.0,Jon Husted,44.0,7.0,,,,,,,General election > Polling,https://pollstergraph.com/poll/exclusive-atlas-us-oh-20261101-senate
+SC-SEN,Resonance Media Services,2026-10-30,2026-10-30,600.0,lv,Annie Andrews,46.0,Darline Graham,45.0,1.0,,,R,,,resonance media poll r,General election > Polling,https://www.fitsnews.com/wp-content/uploads/securepdfs/2026/11/Resonance-final-SC-Poll-Memo-11-02-2026.pdf
+SC-SEN,Trafalgar Group,2026-10-31,2026-11-01,1091.0,lv,Annie Andrews,46.0,Darline Graham,48.0,-2.0,,,R,,,,General election > Polling,https://www.thetrafalgargroup.org/wp-content/uploads/2026/11/SC-Midterms-Survey-Report-1101.pdf

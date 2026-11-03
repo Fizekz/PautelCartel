@@ -1,0 +1,28 @@
+# new = 2026-11-03T0125Z, previous = 2026-11-03T0103Z (pau-y pull, not shipped)
+old 969 polls / new 973 polls; added 5 (renames 1), removed 1, changed 0
+truly new polls: 4; ending Oct 25 or later: 4; Senate 4, House 0
+race_id        pollster start_date   end_date  sample_size population  dem_pct  rep_pct  margin_D partisan_sponsor
+ ME-SEN      AtlasIntel 2026-10-28 2026-11-01        967.0         lv     53.0     44.0       9.0              NaN
+ MN-SEN      AtlasIntel 2026-10-28 2026-11-01       2133.0         lv     48.0     46.0       2.0              NaN
+ OH-SEN      AtlasIntel 2026-10-28 2026-11-01       1801.0         lv     51.0     44.0       7.0              NaN
+ SC-SEN Trafalgar Group 2026-10-31 2026-11-01       1091.0         lv     46.0     48.0      -2.0                R
+
+renamed (not new):
+race_id                 pollster           renamed_from   end_date
+ SC-SEN Resonance Media Services resonance media poll r 2026-10-30
+
+removed:
+race_id                   pkey start_date_old   end_date  dem_pct_old  rep_pct_old
+ SC-SEN resonance media poll r     2026-10-30 2026-10-30         46.0         45.0
+
+changed (same key, different values):
+
+== checks
+duplicate (race, pollster, end date) rows: 0
+same race / end date / D% / R% under two pollster names: 0
+same race + pollster with overlapping field dates: 2
+race_id      pollster_x start_date_x end_date_x start_date_y end_date_y  dem_pct_x  rep_pct_x  dem_pct_y  rep_pct_y population_x population_y
+ OH-SEN        ActiVote   2026-09-26 2026-10-18   2026-10-18 2026-10-31       50.0       50.0       50.0       50.0           lv           lv
+ SC-SEN Impact Research   2026-08-14 2026-08-22   2026-08-18 2026-08-24       42.0       39.0       41.0       41.0           lv           lv
+polls ending after the cutoff (end_date > 2026-11-03): 0 | ending after the fetch day (> 2026-11-02): 0 | start after end: 0
+partisan_sponsor in new polls: {nan: 3, 'R': 1} | whole file old / new: {nan: 429, 'D': 303, 'R': 211, 'D+R': 26} {nan: 431, 'D': 303, 'R': 213, 'D+R': 26}

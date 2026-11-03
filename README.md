@@ -7,7 +7,7 @@ rebuild those picks.
 
 - **The submission:** [`predictions_full_congress.csv`](predictions_full_congress.csv), in the organizers' template
   (`race_id, chamber, predicted_winner_party, candidate_name, win_probability`), 470 rows.
-  SHA-256 `0f9b09b39874e773ff4431fd78fb37b99c85818fcf206253ec933ac039d94d53`.
+  SHA-256 `fd639e5d82297fe8b867b1b8cfe840953d69a6edc30b1e046fe4748dbd83c080`.
 - **Scoring.** A correct pick earns `-log2(max(p, 0.01))` points, where `p` is the Kalshi price of the picked
   candidate on November 1. A wrong pick earns 0. Picking a 50-cent candidate who wins earns 1 point; picking a
   10-cent candidate who wins earns 3.3; picking a 95-cent favourite earns 0.07.
@@ -30,7 +30,7 @@ candidate at least the chance the market does and the payoff is larger:
 (WI-01 is a coin flip on Kalshi, both candidates at 0.495; we count the listed favourite, so Bryan Steil appears
 here as an underdog.)
 
-Under our own probabilities the picks are worth **58.3 expected points**, against 51.3 for simply picking every
+Under our own probabilities the picks are worth **58.4 expected points**, against 51.3 for simply picking every
 market favourite. Both figures use our probabilities, which favours our picks by construction; if the Kalshi prices
 are taken as the truth instead, the picks are worth 48.5 expected points against 45.9 for the favourites. Every pick, with our probability, the Kalshi price, its points and its expected value, is listed
 in [`out/picks_detail.csv`](out/picks_detail.csv).
@@ -72,8 +72,8 @@ generic-ballot year effect. Stage 2 shrinks that margin toward the race's poll a
 turns margins into probabilities, and a "district pattern" fitted on demographics carries polled races' poll errors
 over to unpolled House races. The five add-ons (a safe-seat clip, a Senate state node, history-chosen demographic
 directions, a same-state field and the late expert-rating move) were each kept only if they improved held-out log
-loss under two selection schemes. It was run on poll tables refreshed on November 2 (49 new polls, generic ballot
-about D+8.7). "No-primaries" means the version without a sixth add-on, House primary vote shares, which
+loss under two selection schemes. It was run on the Wikipedia poll pull of November 3, 01:25 UTC (58 new polls since
+November 1, generic ballot about D+8.7). "No-primaries" means the version without a sixth add-on, House primary vote shares, which
 over-read 2018's uneven primary turnout and hurt that backtest. It models 452 races; the other 18 (California top-two and uncontested seats) use pool5 alone. Details:
 [`models/pau-stack/README.md`](models/pau-stack/README.md).
 
@@ -121,7 +121,7 @@ The `win_probability` column is our joint `q` for the picked candidate.
 
 ## Data
 
-All inputs are frozen as of November 1, 2026 (the Pau stack's polls and expert-rating pages as of November 2), well before the
+All inputs are frozen as of November 1, 2026 (the Pau stack's polls as of 01:25 UTC November 3, its expert-rating pages as of November 2), well before the
 23:00 UTC November 3 cutoff. Each file in `data/clean/` has a provenance note beside it (`<name>.md`) giving its
 sources, revision IDs, row counts and known gaps.
 
@@ -139,8 +139,9 @@ sources, revision IDs, row counts and known gaps.
 | Market prices | Kalshi, snapshot of 2026-11-01 07:48 UTC | Kalshi's public market endpoints, no account or key (`src/kalshi_snapshot.py`); raw JSON kept | `data/kalshi/` |
 | Race dossiers | Our own research notes on 85 races, citing news and filings | Written November 1 | `data/dossiers/` |
 
-**Data rules we followed.** The fetchers respected robots.txt and each site's terms, and used only public pages,
-public endpoints and bulk files. No API keys or credentials are stored in this repository. No market price after
+**Data rules we followed.** The fetchers checked robots.txt and used only public pages, public endpoints and bulk
+files. One exception to note: kavi-a's fetcher downloaded 9 Ballotpedia pages by script for the 2026 California
+top-two primary results, and we did not confirm that Ballotpedia's terms allow scripted access. No API keys or credentials are stored in this repository. No market price after
 the November 3 23:00 UTC cutoff was used. The Kalshi snapshot lists each race's candidates and drives the pick rule; each price is the mid-price rounded to three decimals and normalised to sum to 1 within the race.
 Market prices are not a model input, with one exception: the 85 race dossiers were written with the November 1
 Kalshi prices in view, and their probabilities are partly anchored on them. They enter each Kavi model at about 25%
@@ -198,7 +199,7 @@ Python 3.12 with the packages in `requirements.txt` (pinned to the versions we u
     export PY="$PWD/.venv/bin/python"
 
 Rebuilding the Pau stack's input tables from raw downloads (not needed for anything below) also needs
-`beautifulsoup4`, `pyshp`, `shapely` and `openpyxl`.
+`pyshp`, `shapely` and `openpyxl`.
 
 ### One command
 
@@ -217,15 +218,15 @@ reports whether their outputs match the committed ones.
     # 1. the five Kavi models (offline; writes models/kavi-X/out/pred_2026.csv and backtest_2018/2022.csv)
     PY=$PY bash scripts/run_kavi_models.sh
 
-    # 2. the Pau stack: standard per-race file from the model's 2026 output, checked against the committed one
-    (cd models/pau-stack && PYTHON=$PY bash run.sh)
+    # 2. the Pau stack: re-fit on 2010-2024 and re-forecast 2026 (about 6 s, offline), checked against the committed output
+    (cd models/pau-stack && OMP_NUM_THREADS=1 $PY run_2026.py --check-ref --tol 1e-6 --out /tmp/pau-check)
 
     # 3. pool5
     $PY src/final/ensemble.py --out out/joint/pool5_2026.csv models/kavi-{a,b,c,d,e}/out/pred_2026.csv
 
     # 4. map the stack onto candidate rows, then pool it with pool5
     $PY src/final/pau_to_candidates.py out/joint/pool5_2026.csv \
-        models/pau-stack/results/joint2026/stack_noprim_2026_refreshed.csv --out out/joint/pau_cand.csv
+        models/pau-stack/reference/2026-11-03T0125Z/stack_noprim_2026.csv --out out/joint/pau_cand.csv
     $PY src/final/ensemble.py --out out/joint/joint_2026.csv out/joint/pool5_2026.csv out/joint/pau_cand.csv
 
     # 5. picks
@@ -248,9 +249,11 @@ CA-06 as the R side) and how a side's probability is split between several candi
 pick there is the Republican party; the candidate names in the CSV (Austin Magee, Blake Miguez) are nominal, picked by the
 script's tie-break because no incumbent is running, and do not reflect a view on which Republican wins.
 
-**Re-running the Pau stack from scratch** needs intermediate tables that are rebuilt from raw downloads not
-redistributed here; `models/pau-stack/run.sh` lists the order. We did not repeat that full chain on a second machine
-before the deadline; the committed outputs are the ones the model produced.
+**Re-running the Pau stack.** `models/pau-stack/run_2026.py` re-fits the model on 2010-2024 and re-forecasts 2026
+from the committed feature tables in about 6 seconds, offline; `run_all.sh` does this and checks the result against
+`models/pau-stack/reference/` to 1e-6 (numpy and scipy builds differ at the 1e-7 level, and no pick depends on it).
+How the feature tables themselves are rebuilt from raw downloads is in `models/pau-stack/README.md`; we did not
+repeat that chain.
 
 ## Repository layout
 
@@ -272,7 +275,7 @@ before the deadline; the committed outputs are the ones the model produced.
       kalshi_snapshot.py, benchmark_fte.py, pick_policy.py
     models/
       kavi-a … kavi-e/   code (src/models/kavi-X), own inputs (data/), METHODS.md, LOG.md, out/
-      pau-stack/         code (pbase/src), inputs, outputs, README.md, study notes
+      pau-stack/         Pau's package: run_2026.py, src/, data/ (inputs, poll pulls), out/, reference/, backtests/, README.md
     scripts/        run_kavi_models.sh, build_pool5.sh
     out/
       joint/        pool5, the candidate frame, the stack on candidate rows, the joint forecast
@@ -281,7 +284,7 @@ before the deadline; the committed outputs are the ones the model produced.
     tests/          unit tests for pooling and the pick rule
     docs/PROVENANCE.md    where each part came from
 
-The `METHODS.md` and `LOG.md` files in each model folder, and the study notes in `models/pau-stack/`, are the
+The `METHODS.md` and `LOG.md` files in each model folder, and `models/pau-stack/README.md`, are the
 working notes written while building each model. They contain internal labels and are included as technical
 appendices.
 
@@ -291,7 +294,7 @@ appendices.
   training cycles, so the models extrapolate.
 - **Long shots.** Both forecasts overrated candidates they gave 5-35% in 2018 and 2022. The q ≥ price guard limits
   the damage, but our 17 underdog picks still depend on our probabilities being right where the market disagrees.
-- **Correlated errors.** A single national polling miss moves most races together, so the 58.3 expected points come
+- **Correlated errors.** A single national polling miss moves most races together, so the 58.4 expected points come
   with a wide spread: a strong Democratic night would sink most of our 15 Republican underdog picks at once.
 - **Partly in-sample backtests** for the Kavi models, and design choices made with 2018 and 2022 in view (see
   Evaluation).
