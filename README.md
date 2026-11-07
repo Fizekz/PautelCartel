@@ -1,4 +1,4 @@
-We where lazy and made this readme with claude 
+We were lazy and made this readme with claude 
 # Model Citizens 2026: Full Congress forecast
 
 This repository holds our entry to the Stanford Democracy Day "Model Citizens" forecasting contest, **Full Congress
